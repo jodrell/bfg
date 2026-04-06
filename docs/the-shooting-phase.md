@@ -131,7 +131,7 @@ at other targets, providing
 that the closest enemy is shot
 at as a matter of priority.
 
-## TODO: INSERT IMAGE
+<img src=/assets/image--152.png>
 
 *In the example above
 the Unclean may fire
@@ -179,7 +179,9 @@ them, it would roll 2D6 and
 score one hit for each dice
 which rolled a 4 or more.*
 
-## TODO: INSERT IMAGE
+<hr>
+
+<img src=/assets/image--153.png>
 
 *A target’s orientation depends upon which fire
 arc the firing vessel is in, as shown in the
@@ -187,7 +189,7 @@ diagram. Match this with the target’s type to
 find out which column of the Gunnery table to
 use.*
 
-## TODO: INSERT IMAGE
+<img src=/assets/image--154.png>
 
 *The Unclean opens fire with its starboard (right)
 weapons batteries. The weapons have a firepower
@@ -256,7 +258,7 @@ across the top of the table
 to find the target type
 you are shooting at.
 
-## TODO: INSERT IMAGE
+<img src=/assets/image--156.png>
 
 *The target’s orientation is
 worked out by tracing the line
@@ -344,7 +346,31 @@ would roll 9D6 instead. If the *Agrippa* was
 over 30 cm away the column shift to the right
 would mean the *Unclean* rolled 5D6 instead.
 
-## TODO - INSERT GUNNERY TABLE
+| CLOSING | | CAPITAL SHIPS | ESCORTS | | |
+| --- | --- | --- | --- | --- | --- |
+| MOVING AWAY | | | CAPITAL SHIPS | ESCORTS | |
+| ABEAM | | | | CAPITAL SHIPS | ESCORTS |
+| SPECIAL* | DEFENCES | | | | ORDNANCE |
+| 1 | 1 | 1 | 1 | 0 | 0 |
+| 2 | 2 | 1 | 1 | 1 | 0 |
+| 3 | 3 | 2 | 2 | 1 | 1 |
+| 4 | 4 | 3 | 2 | 1 | 1 |
+| 5 | 5 | 4 | 3 | 2 | 1 |
+| 6 | 5 | 4 | 3 | 2 | 1 |
+| 7 | 6 | 5 | 4 | 2 | 1 |
+| 8 | 7 | 6 | 4 | 3 | 2 |
+| 9 | 8 | 6 | 5 | 3 | 2 |
+| 10 | 9 | 7 | 5 | 4 | 2 |
+| 11 | 10 | 8 | 6 | 4 | 2 |
+| 12 | 11 | 8 | 6 | 4 | 2 |
+| 13 | 12 | 9 | 7 | 5 | 3 |
+| 14 | 13 | 10 | 7 | 5 | 3 |
+| 15 | 14 | 11 | 8 | 5 | 3 |
+| 16 | 14 | 11 | 8 | 6 | 3 |
+| 17 | 15 | 12 | 9 | 6 | 3 |
+| 18 | 16 | 13 | 9 | 6 | 4 |
+| 19 | 17 | 13 | 10 | 7 | 4 |
+| 20 | 18 | 14 | 10 | 7 | 4 |
 
 *<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the Gunnery table.
 If a squadron has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
@@ -488,7 +514,7 @@ single Blast Marker if it does
 not contact a target after
 being moved.
 
-## TODO - INSERT IMAGE
+<img src=/assets/image--160.png>
 
 *In the diagram above the
 Steadfast, a Dominator class
@@ -783,7 +809,19 @@ weapons gets a Dorsal Armament Damaged
 critical hit. In this case the ship would suffer
 damage to its starboard armament.
 
-## TODO - INSERT CRITICAL HITS TABLE
+| 2D6 Roll | Extra Damage | Result |
+| ---      | ---          | --- |
+| 2 | +0 | **Dorsal Armament Damaged:** The ship’s dorsal armament is badly damaged by the hit – power lines are severed, traverse mechanisms crippled and many gunners are killed. The ship’s dorsal armament may not fire until it has been repaired. |
+| 3 | +0 | **Starboard Armament Damaged:** The starboard armament is taken off line by the hit. The ship’s starboard armament (right) may not fire until it has been repaired. |
+| 4 | +0 | **Port Armament Damaged:** Heavy damage silences the port side weaponry. The ship’s port armament (left) may not fire until it has been repaired. |
+| 5 | +0 | **Prow Armament Damaged:** The ship’s prow is ripped open. Its prow armament may not fire until it has been repaired. |
+| 6 | +1 | **Engine Room Damaged:** The engine room is rocked by explosions, forcing all hands to tend to the reactors. The ship may not make any turns until the damage is repaired. |
+| 7 | +0 | **Fire!** Oxygen lines are broken, leading to fires in many compartments. Roll to repair (extinguish) the fire in the End Phase, if it is not put out it causes one point of extra damage and keeps burning. |
+| 8 | +1 | **Thrusters Damaged:** The ship’s thruster assembly is disabled. Reduce the ship’s speedby 10 cm until the damage is repaired. |
+| 9 | +0 | **Bridge Smashed:** The armoured fortress around the ship’s captain and his officers is smashed. The ship’s Leadership is reduced by 3. This damage may not be repaired. If this is the Fleet Commander's flagship, any remaining Fleet Commander re-rolls are lost for the remainder of the battle. |
+| 10 | +0 | **Shields Collapse:** The shield generators overload and burn out, leaving the ship virtually defenceless. The ship’s shield Strength is reduced to zero. This damage may not be repaired. |
+| 11 | +D3 | **Hull Breach:** A huge gash is torn in the ship’s hull, causing carnage among the crew. |
+| 12 | +D6 | **Bulkhead Collapse:** Internal pillars buckle and twist, whole compartments crumple with a scream of tortured metal. Just pray that some of the ship holds together! |
 
 ### Blast Markers
 
@@ -976,7 +1014,7 @@ contact with the edge of the
 Chaos cruiser’s base facing
 each of the Imperial ships.*
 
-## TODO - INSERT IMAGE
+<img src=/assets/image--170.png>
 
 #### Blast Marker Effects
 
@@ -1117,7 +1155,7 @@ bombers and torpedoes get
 inside a ship’s shields, so
 they provide no protection.
 
-## TODO - INSERT IMAGE
+<img src=/assets/image--173.png>
 
 *In the example above the Iron
 Duke (which has two shields)
@@ -1203,4 +1241,9 @@ fanning around and in contact with it until
 the total number Blast Markers are placed
 without overlapping any Blast Markers.
 
-## TODO - INSERT CATASTROPHIC DAMAGE TABLE
+| 2D6 Roll | Extra Blast Markers | Result |
+| --- | --- | --- |
+| 2-6 | 1 | **Drifting Hulk:** The ship is reduced to a shattered hulk drifting in space. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base after each move. |
+| 7-8 | 1 | **Blazing Hulk:** The ship is reduced to a burning wreck with uncontrolled fires blazing on every deck. In time the fires will either burn out or trigger a cataclysmic explosion. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base and roll on the Catastrophic Damage table again after its move. |
+| 9-11 | Special | **Plasma Drive Overload:** The ship’s plasma coils overload and explode in a blazing inferno of white hot plasma. Remove the ship from play, leaving behind a number of Blast Markers equal to half its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by lance shots with a Strength equal to half the ship’s starting Damage capacity. Roll to hit as normal. |
+| 12 | Special | **Warp Drive Implosion:** The ship’s warp drive implodes, ripping a hole in real space that tears at nearby vessels with horrific force. Remove the ship from play, leaving behind a number of Blast Markers equal to its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by lance shots with a Strength equal to the wreck’s starting Damage capacity. Roll to hit as normal. |
