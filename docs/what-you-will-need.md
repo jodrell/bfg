@@ -645,6 +645,8 @@ rolling leadership, then moving it.
 
 ### All Ahead Full
 
+<img src=/assets/image--110.png>
+
 A ship going All Ahead
 Full directs more power
 to its engines to produce
@@ -664,6 +666,8 @@ one roll for the whole squadron).
 **Ordnance:** Full effect.
 
 ### Come to New Heading
+
+<img src=/assets/image--111.png>
 
 The ship sacrifices
 opportunities to fire
@@ -685,6 +689,8 @@ Speed: Half to full cruising speed.
 
 ### Burn Retros
 
+<img src=/assets/image--112.png>
+
 The ship directs additional
 energy to its retro thrusters
 in order to kill some of
@@ -703,6 +709,8 @@ turn without having to move forward first.
 **Ordnance:** Full effect.
 
 ### Lock On
+
+<img src=/assets/image--113.png>
 
 The ship maintains a
 steady course and draws
@@ -723,6 +731,8 @@ batteries during the Shooting Phase.
 
 ### Reload Ordnance
 
+<img src=/assets/image--114.png>
+
 Ships start the game with
 their ordnance, such as
 torpedoes and attack craft,
@@ -742,6 +752,8 @@ reload before it can use its ordnance again.
 **Ordnance:** Full effect.
 
 ### Brace For Impact!
+
+<img src=/assets/image--117.png>
 
 The captain of the vessel
 orders his crew to brace for
