@@ -14,7 +14,6 @@ system they are stationed in), minefields, etc.
 Two new unit types are introduced with
 planetary defences: *satellite* and *ground*.
 
-
 **Satellite units** may not move as they are stationed
 in orbit around a planet or moon, or occasionally
 in deep space. Their weapons are able to fire all
