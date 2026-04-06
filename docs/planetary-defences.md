@@ -119,7 +119,7 @@ also does not apply to ships on standby or
 ships reduced to 0 cm due to movement
 effects but otherwise capable of movement.
 
-## Warp Rifts
+### Warp Rifts
 
 Warp rifts are especially unstable and
 dangerous forms of celestial phenomena,
