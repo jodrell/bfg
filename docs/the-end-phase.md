@@ -1,5 +1,5 @@
+# The End Phase
 
-THE END PHASE
 During the End Phase,
 players sort out any events
 which have been set into
@@ -18,12 +18,12 @@ scenario victory conditions
 and break out the biscuits.
 The End Phase works in
 the following order:
-1. Conduct Boarding Actions/
-Hit-and-Run attacks
 
-DAMAGE CONTROL
+1. Conduct Boarding Actions/Hit-and-Run attacks
+2. Attempt to repair critical damage.
+3. Remove D6 Blast Markers from the tabletop.
 
-BLAST MARKER REMOVAL
+## Damage Control
 
 Both players can attempt to
 repair critical damage during
@@ -45,6 +45,8 @@ Blast Markers in contact, the
 player only rolls half as many
 dice as usual (rounding up).
 
+## Blast Marker Removal
+
 With time, the debris and
 shock waves represented
 by Blast Markers will
@@ -60,17 +62,8 @@ may not be removed, but
 otherwise the player is free to
 choose which ones will go.
 
-2. Attempt to repair
-critical damage.
-3. Remove D6 Blast Markers
-from the tabletop.
+## Boarding Actions
 
-‘A ship’s a fool to fight a space station.’
-– Attr. Lord Admiral Ravensburg
-
-88
-
-BOARDING ACTIONS
 Boarding actions are bloody, desperate
 battles between ships at very close range. The
 boarding vessel manoeuvres close to an enemy
@@ -86,7 +79,7 @@ sides: even a victorious ship may suffer critical
 damage in the fighting or a prospective victim
 may explode with catastrophic results.
 
-Moving in for Boarding
+#### Moving in for Boarding
 
 A ship may attempt a boarding action if
 it’s in base contact with an enemy vessel
@@ -105,7 +98,7 @@ a ship-to-ship boarding action during the
 enemy’s turn, though it may defend against
 an enemy boarding action normally.
 
-Boarding Value
+#### Boarding Value
 
 A ship’s boarding value is equal to the
 number of damage points it has remaining,
@@ -113,74 +106,44 @@ modified by any special rules that apply to
 your ship or race, such as the Mark of Khorne
 doubling its boarding value, or Tau Kor’vattra
 vessels which have their value cut in half.
+
 The ship being boarded then adds its number of
 remaining turrets.
+
 This is the final boarding value which
 translates directly to the corresponding
 modifier in the table on the next page (i.e. this
 is this value, that grants the +1, +2, +3, or +4
 boarding modifier with an asterisk *).
 
-89
+#### Resolving the Boarding Action
 
-Resolving the Boarding Action
 To resolve the action, both players
 roll a D6 and add the appropriate
 modifiers from the following list.
-BOARDING MODIFIERS
-Condition
 
-Modifier
+| Condition | Modifier |
+| --- | --- |
+| Own boarding value higher* | +1 |
+| Own boarding value is twice the enemy’s* | +2 |
+| Own boarding value is three times the enemy’s* | +3 |
+| Own boarding value is four or more times the enemy’s* | +4 |
+| Enemy ship has Blast Markers in direct base contact | +1 |
+| Enemy ship is crippled | +2 |
+| Enemy ship is on special orders | +1 |
+| Orks or Chaos | +1 |
+| Space Marines | +2 |
 
-Own boarding value higher*
+*\*Only apply highest modifier.*
 
-+1
-
-Own boarding value is
-twice the enemy’s*
-
-+2
-
-Own boarding value is three
-times the enemy’s*
-
-+3
-
-Own boarding value is four or
-more times the enemy’s*
-
-+4
-
-Enemy ship has Blast Markers
-in direct base contact
-
-+1
-
-Enemy ship is crippled
-
-+2
-
-Enemy ship is on special orders
-
-+1
-
-Orks or Chaos
-
-+1
-
-Space Marines
-
-+2
-
-*Only apply highest modifier.
-
-Boarding Action Results
+#### Boarding Action Results
 
 The player with the highest total score is the
 winner. The losing ship suffers 1 point of
 damage for each point it lost the combat by.
 The total score is NOT limited to 6 and can
 potentially result in a roll of up to 12 or more.
+
 There is also a chance of each ship suffering
 a critical hit during the fighting as shown
 on the table below. If a ship is reduced
@@ -192,49 +155,16 @@ reduced to 0 damage by a critical hit, roll
 for catastrophic damage as normal). Ships
 which survive being boarded may move off
 normally in their next Movement Phase.
-RESULTS TABLE
-Difference
-in scores
 
-90
+| Difference in scores | Boarding result | Winners/Losers Score Critical Hit on |
+| --- | --- | --- |
+| 1 | Stalemate | 5+/5+ |
+| 2 | Heavy Fighting | 4+/5+ |
+| 3 | Driven Back | 3+/6+ |
+| 4 | Stormed | 2+/6+ |
+| 5+ | Overwhelmed | Auto/None |
 
-Boarding
-result
-
-Winners/Losers
-Score Critical Hit on
-
-1
-
-Stalemate
-
-5+/5+
-
-2
-
-Heavy Fighting
-
-4+/5+
-
-3
-
-Driven Back
-
-3+/6+
-
-4
-
-Stormed
-
-2+/6+
-
-5+
-
-Overwhelmed
-
-Auto/None
-
-For example the Hyperion (remaining damage
+*For example the Hyperion (remaining damage
 3) is boarded by the Plagueclaw (remaining
 damage 6). After modifiers, the Plagueclaw
 scores a 6 while the Hyperion scores a 4. The
@@ -242,9 +172,9 @@ Hyperion has lost by 2 so it loses 2 damage
 points. In addition, the result of Heavy Fighting
 means that the Hyperion will suffer a critical
 hit on a D6 roll of 4, 5 or 6. The Plagueclaw will
-also suffer a critical hit on a D6 roll of 5 or 6.
+also suffer a critical hit on a D6 roll of 5 or 6.*
 
-Drawn Combats
+#### Drawn Combats
 
 If both players have the same score after
 modifiers the combat is a draw. In this case
@@ -256,14 +186,16 @@ one of the ships being reduced to zero damage.
 The victorious (i.e. surviving) ship can then
 move off and continue to fight in its next turn.
 
-Multi-Ship Boarding Actions
+#### Multi-Ship Boarding Actions
 
 When several ships attempt to board an
 enemy vessel the attacking player may elect
 to let them board together or separately.
+
 If they board together, add their boarding
 values together and a single dice roll is
 made to work out the boarding results.
+
 Race and other modifiers are only counted
 once, so if both a Chaos Murder class cruiser
 with a normal Chaos crew and a Devastation
@@ -278,6 +210,7 @@ value than the ship being boarded (it is not
 twice the boarding value because the ship
 being boarded gets to count its turret value)
 for a total of +3 for the Chaos player.
+
 This is also not taking into account whether
 or not any of the ships have any other
 modifiers that must be added or subtracted
@@ -294,20 +227,10 @@ being caused applies
 to each and every ship
 attempting to board.
 
-vessel. Remember that when
-escorts are boarding or being
-boarded a successful critical
-hit will destroy them, so it is
-quite possible for an escort
-to win a boarding action but
-be destroyed in the process.
-
 In the case of separate
 boarding, roll for each
 capital ship or escort
 squadron separately.
-
-HIT-AND-RUN ATTACKS
 
 In this case the defending
 ship must roll separately
@@ -321,7 +244,7 @@ values of the other ships
 and escort squadrons it is
 combining with in the action.
 
-Escorts Ships Boarding
+#### Escorts Ships Boarding
 
 Escort ships can attempt to
 board other ships using the
@@ -330,6 +253,15 @@ attempt to board capital ships
 if they wish, although escorts
 will only stand a chance
 against a badly damaged
+vessel. Remember that when
+escorts are boarding or being
+boarded a successful critical
+hit will destroy them, so it is
+quite possible for an escort
+to win a boarding action but
+be destroyed in the process.
+
+### Hit-and-Run Attacks
 
 In a Hit-and-Run attack, a
 select force of warriors is
@@ -343,11 +275,13 @@ inflicted by a Hit-and-Run
 raid, leaving it to be finished
 off with conventional
 gunnery at leisure.
+
 Hit-and-Run attacks can
 be made by assault craft
 and torpedoes, or by ships
 teleporting troops onto
 nearby enemy vessels.
+
 Ships that cannot be boarded
 (such as Chaos vessels with
 the Mark of Nurgle) are
@@ -361,7 +295,7 @@ meaning they will never
 fail to inflict some critical
 damage on their target.
 
-Assault Boats
+#### Assault Boats
 
 Assault boats attack by
 clamping onto the outer hull
@@ -376,6 +310,7 @@ direction in every Ordnance
 Phase. The ships which may
 be loaded with assault boats
 are noted in the fleet lists.
+
 If an assault boat marker
 comes into contact with
 a ship’s base, it can be
@@ -386,9 +321,7 @@ Hit-and-Run attack in the
 Ordnance Phase and is
 then removed from play.
 
-91
-
-Boarding Torpedoes
+#### Boarding Torpedoes
 
 Boarding torpedoes carry
 dedicated assault troops
@@ -407,7 +340,7 @@ Hit-and-Run attack in the
 Ordnance Phase rather than
 inflicting a point of damage.
 
-Teleport Attacks
+#### Teleport Attacks
 
 Ships which are close to
 their enemies may attempt
@@ -432,19 +365,19 @@ attack in the End Phase
 against an enemy ship, that
 has no shields, within 10 cm.
 
-92
-
 Teleport attacks can be
 conducted by capital ships
-that are on Lock On or Reload
-Ordnance special orders.
+that are on *Lock On* or *Reload
+Ordnance* special orders.
 All other special orders
 preclude the use of teleport
 attacks. Necron Portals
 are not teleport attacks
 in the normal manner.
+
 Crippled ships may not
 make teleport attacks.
+
 As you can imagine, it takes
 a lot more manpower to
 disable the weapons batteries
@@ -458,13 +391,14 @@ can’t make a teleport attack
 against a target with more
 hits at that point in the
 battle than it has itself.
+
 A ship may only make one
 teleport attack each turn. For
 each teleport attack make
 one Hit-and-Run attack
 against the target ship.
 
-Resolving a Hitand-Run Attack
+#### Resolving a Hit-and-Run Attack
 
 To resolve a Hit-and-Run
 attack, simply roll a D6.
@@ -476,6 +410,7 @@ the result immediately.
 
 This critical damage can
 be repaired as normal.
+
 Due to their much smaller
 size, escorts do not have a
 specialized critical table.
@@ -484,6 +419,7 @@ attacks (including assault
 boats and teleport attacks)
 destroy escorts on a roll
 of 4+ as opposed to 2+.
+
 Fleets that enjoy a bonus to
 their Hit-and-Run rolls still
 benefit from this bonus,
@@ -505,6 +441,7 @@ destroys an escort on a roll
 of 4+, though they must
 roll 2D6 twice and take the
 lowest roll against Tyranids.
+
 Remember that an escort
 which has suffered critical
 damage is automatically
