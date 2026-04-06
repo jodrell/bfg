@@ -37,7 +37,13 @@ validation:
   absolute_links: ignore
 
 nav:
-  - The Rules:
-    - The Rules: /the-rules/
+  - What You Will Need:
+    - What You Will Need: /what-you-will-need/
   - The Turn:
     - The Turn: /the-turn/
+  - The Movement Phase:
+    - The Movement Phase: /the-movement-phase/
+
+
+
+

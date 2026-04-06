@@ -1,5 +1,3 @@
-# The Rules
-
 # What You Will Need
 
 As well as the Battlefleet
@@ -48,14 +46,14 @@ a pen and some paper for
 noting down damage to
 ships and other details.
 
-# First Principles
+## First Principles
 
 At this early stage in the book
 it’s worth establishing some
 initial principles about the
 Battlefleet Gothic game.
 
-## Scale
+### Scale
 
 First of all – space is big!
 Very, very big. Take your
@@ -121,7 +119,7 @@ with the hazard.
 
 <img src=/assets/image--090.png>
 
-## 3D or not 3D?
+### 3D or not 3D?
 
 As well as being very big,
 space is also infinitely wide,
@@ -286,7 +284,7 @@ must then immediately reveal them to each
 other. If kept secret, they must nonetheless
 be revealed at the end of the game.
 
-# Ship Types
+## Ship Types
 
 Battlefleet Gothic allows
 you to fight space battles
@@ -376,7 +374,7 @@ heading of capital ships,
 a term which applies to
 all ships of both types.
 
-## Ship Data Sheets
+### Ship Data Sheets
 
 Each vessel available
 in Battlefleet Gothic
@@ -567,7 +565,7 @@ too massive and the thermal
 ‘backwash’ they create makes
 targeting almost impossible.
 
-## Base Size
+### Base Size
 
 There are two base sizes:
 small (32 mm diameter) and
@@ -586,7 +584,7 @@ board due to its larger base
 size, in exchange for being
 a larger ordnance target.
 
-# Leadership
+## Leadership
 
 Even the smallest stellar craft is a marvel of
 engineering, packed with machinery and
@@ -612,7 +610,7 @@ the captain and crew. Leadership is very
 important, because ships must test against
 it if they wish to use special orders.
 
-## Starting Leadership Values
+### Starting Leadership Values
 
 As mentioned earlier, in one-off games
 you roll a D6 to determine each ship’s
@@ -633,7 +631,7 @@ are explained fully later in the rules.
 | 4-5     | Veteran (Ld 8)     |
 | 6       | Crack (Ld 9)       |
 
-# Special Orders
+## Special Orders
 
 There are six different special orders and
 each one allows a vessel to perform better at
@@ -645,7 +643,7 @@ Movement Phase by choosing a vessel
 or squadron, declaring the order and
 rolling leadership, then moving it.
 
-## All Ahead Full
+### All Ahead Full
 
 A ship going All Ahead
 Full directs more power
@@ -665,7 +663,7 @@ one roll for the whole squadron).
 
 **Ordnance:** Full effect.
 
-## Come to New Heading
+### Come to New Heading
 
 The ship sacrifices
 opportunities to fire
@@ -685,7 +683,7 @@ Speed: Half to full cruising speed.
 
 **Ordnance:** Full effect.
 
-## Burn Retros
+### Burn Retros
 
 The ship directs additional
 energy to its retro thrusters
@@ -704,7 +702,7 @@ turn without having to move forward first.
 
 **Ordnance:** Full effect.
 
-## Lock On
+### Lock On
 
 The ship maintains a
 steady course and draws
@@ -723,7 +721,7 @@ batteries during the Shooting Phase.
 
 **Ordnance:** Full effect.
 
-## Reload Ordnance
+### Reload Ordnance
 
 Ships start the game with
 their ordnance, such as
@@ -743,7 +741,7 @@ reload before it can use its ordnance again.
 
 **Ordnance:** Full effect.
 
-## Brace For Impact!
+### Brace For Impact!
 
 The captain of the vessel
 orders his crew to brace for

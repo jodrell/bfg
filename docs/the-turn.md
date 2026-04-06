@@ -1,5 +1,5 @@
 
-# THE TURN
+# The Turn
 
 A game of Battlefleet Gothic is unlike many other games such
 as chess or draughts where you only move one piece at a time. A
@@ -42,7 +42,7 @@ precise. Exactly what happens
 in each phase is described in
 The Turn Sequence later.
 
-## WHO GETS THE FIRST TURN
+## Who Gets The First Turn
 
 Which player gets the first
 turn of the game can be
@@ -63,7 +63,7 @@ different battles is covered
 in more detail in the
 Scenarios section later.
 
-## ENDING THE BATTLE
+## Ending The Battle
 
 A battle can end in a number
 of different ways. Most
@@ -88,7 +88,7 @@ the battle are discussed
 in more detail in the
 Scenarios section.
 
-## EXCEPTIONS
+## Exceptions
 
 There are times when a player
 will perform certain actions
@@ -104,9 +104,9 @@ that the turn sequence will
 always continue after the
 interruption as normal.
 
-# TURN SEQUENCE
+## Turn Sequence
 
-## 1. THE MOVEMENT PHASE
+### 1. The Movement Phase
 
 This is when a player
 moves his ships.
@@ -137,7 +137,7 @@ position. See the Movement
 rules for more details about
 how to move your ships.
 
-## 2. THE SHOOTING PHASE
+### 2. The Shooting Phase
 
 Players may fire at each
 other’s vessels during
@@ -149,7 +149,7 @@ vessels. See the Shooting
 rules for more details about
 how to resolve shooting.
 
-## 3. THE ORDNANCE PHASE
+### 3. The Ordnance Phase
 
 Both players may move any
 Ordnance markers (such
@@ -160,7 +160,7 @@ been launched in a previous
 turn. See the Ordnance
 rules for more details.
 
-## 4. THE END PHASE
+### 4. The End Phase
 
 Both players may attempt
 to repair critical damage
