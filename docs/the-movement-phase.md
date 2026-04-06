@@ -1,5 +1,4 @@
-
-# THE MOVEMENT PHASE
+# The Movement Phase
 
 **During the Movement Phase, vessels manoeuvre into position to
 begin battle. Moving your battlefleet into the right position to rain
@@ -11,7 +10,7 @@ an opposing fleet, lurk behind planets and moons, flee from powerful
 enemies, even set traps to lure unwary foes to their destruction. A wise
 admiral can achieve all this and more in the Movement Phase.**
 
-# BASIC MOVES
+## Basic Moves
 
 A player may move each
 ship up to its standard move
@@ -37,7 +36,7 @@ A ship has to move at least
 5 cm to not count as defences
 against the Gunnery Table.
 
-## MOVE DISTANCE
+### Move Distance
 
 Ships are pushed through
 the firmament by the
@@ -69,7 +68,7 @@ moves through Blast Markers
 will be slowed slightly by the
 shockwaves and explosions.
 
-### Minimum Move Distance
+#### Minimum Move Distance
 
 Ships moving under engines
 retain enormous amounts
@@ -136,7 +135,7 @@ possible distance instead.
 > crash into asteroids.
 > See pg. 46 for all effects.
 
-## TURNING
+## Turning
 
 The bigger a ship, the slower
 it will turn. While light
@@ -187,7 +186,7 @@ execute a turn.
 execute a turn at any
 point in its move.
 
-# TODO - INSERT IMAGES
+## TODO - INSERT IMAGES
 
 > #### Special Order: *Come To New Heading*
 > 
@@ -214,7 +213,8 @@ point in its move.
 > See pg. 46 for all effects.
 <br>
 
-## ALL AHEAD FULL – RAMMING SPEED!
+## All Ahead Full – Ramming Speed!
+
 A ship moving at *All Ahead Full* may attempt
 to ram an enemy vessel. As Battlefleet Gothic
 is a 2D representation of 3D space, a ship
@@ -331,7 +331,7 @@ their full number of starting damage capacity
 to damage the ramming ship as if prow-on, as
 defences are more solidly built than ships are.
 
-> #### RAMMING SUMMARY
+> #### Ramming Summary
 > Ramming ship: Roll a number of
 > D6 equal to its starting damage.
 > Rammed ship hit from the side or
@@ -341,7 +341,7 @@ defences are more solidly built than ships are.
 > or Defence: Roll a number of D6
 > equal to its starting damage.
 
-## DISENGAGING FROM COMBAT
+## Disengaging from Combat
 
 Sometimes it’s better to run away and fight
 another day. A ship may be crippled with
@@ -363,12 +363,11 @@ a ship or escort squadron must pass a
 Leadership test at the end of its Movement
 Phase with the following modifiers:
 
-+--+--+
 | CIRCUMSTANCE | MODIFIER |
+| --- | --- |
 | Each Blast Marker within 5 cm | +1 |
 | Any celestial phenomena within 15 cm | +3* |
 | Each enemy ship or Ordnance | marker within 15 cm | -1 |
-+--+--+
 
 ** This is for a tabletop feature such as
 an asteroid field or planet. If a tabletop
@@ -472,7 +471,7 @@ point value if it remains
 on the table at the end of
 the game but is crippled.
 
-## FLYING BASES OVERLAPPING
+## Flying Bases Overlapping
 
 As ships can overlap by flying
 over/under one another it is
@@ -495,7 +494,8 @@ this as described in the
 section on Blast Markers,
 but it is completely legal.
 
-## STACKING SHIPS AND ESCORT SQUADRONS
+## Stacking Ships And Escort Squadrons
+
 Cruisers and escorts can
 be stacked to follow the
 movement of battleships
