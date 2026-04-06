@@ -83,7 +83,7 @@ the ships actually occupy
 the point in space shown
 by the stem of their base.
 
-<img src=/assets/image--089.png>
+<img src=/bfg/assets/image--089.png>
 
 In keeping with this
 principle, movement
@@ -117,7 +117,7 @@ a ship moves so that its
 base comes into contact
 with the hazard.
 
-<img src=/assets/image--090.png>
+<img src=/bfg/assets/image--090.png>
 
 ### 3D or not 3D?
 
@@ -220,7 +220,7 @@ regardless of the source of the re-roll.
 
 ## The Bearing Compass
 
-<img src=/assets/image--092.png>
+<img src=/bfg/assets/image--092.png>
 
 A vital instrument in
 the game is the bearing
@@ -247,7 +247,7 @@ placed over the target in the same way as
 described above. The aspect of the target is
 shown by which quadrant faces the firer.
 
-<img src=/assets/image--094.png>
+<img src=/bfg/assets/image--094.png>
 
 ## Set-up
 
@@ -385,7 +385,7 @@ how fast, manoeuvrable,
 well-armoured and
 hideously armed they are.
 
-<img src="/assets/ship-profile.png">
+<img src="/bfg/assets/ship-profile.png">
 
 *The table to the right
 represents the characteristics
@@ -645,7 +645,7 @@ rolling leadership, then moving it.
 
 ### All Ahead Full
 
-<img src=/assets/image--110.png>
+<img src=/bfg/assets/image--110.png>
 
 A ship going All Ahead
 Full directs more power
@@ -667,7 +667,7 @@ one roll for the whole squadron).
 
 ### Come to New Heading
 
-<img src=/assets/image--111.png>
+<img src=/bfg/assets/image--111.png>
 
 The ship sacrifices
 opportunities to fire
@@ -689,7 +689,7 @@ Speed: Half to full cruising speed.
 
 ### Burn Retros
 
-<img src=/assets/image--112.png>
+<img src=/bfg/assets/image--112.png>
 
 The ship directs additional
 energy to its retro thrusters
@@ -710,7 +710,7 @@ turn without having to move forward first.
 
 ### Lock On
 
-<img src=/assets/image--113.png>
+<img src=/bfg/assets/image--113.png>
 
 The ship maintains a
 steady course and draws
@@ -731,7 +731,7 @@ batteries during the Shooting Phase.
 
 ### Reload Ordnance
 
-<img src=/assets/image--114.png>
+<img src=/bfg/assets/image--114.png>
 
 Ships start the game with
 their ordnance, such as
@@ -753,7 +753,7 @@ reload before it can use its ordnance again.
 
 ### Brace For Impact!
 
-<img src=/assets/image--117.png>
+<img src=/bfg/assets/image--117.png>
 
 The captain of the vessel
 orders his crew to brace for

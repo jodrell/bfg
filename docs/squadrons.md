@@ -79,7 +79,7 @@ continuous chain with ‘links’
 of up to 15 cm between each
 ship.
 
-<img src=/assets/image--225.png>
+<img src=/bfg/assets/image--225.png>
 
 *Note that as the ships above
 are all within 15 cm of
@@ -116,7 +116,7 @@ must immediately and
 in subsequent turns only
 attempt to disengage.
 
-<img src=/assets/image--226.png>
+<img src=/bfg/assets/image--226.png>
 
 *In the example above, the
 escorts in the squadron have
@@ -212,7 +212,7 @@ actually in range and fire
 arc, no more than three
 escorts can be destroyed.
 
-<img src=/assets/image--229.png>
+<img src=/bfg/assets/image--229.png>
 
 *In the example above, the
 Chaos cruiser Unclean targets
@@ -252,7 +252,7 @@ the lowest rolls against the
 nearest targets they can affect
 and work your way up.
 
-<img src=/assets/image--233.png>
+<img src=/bfg/assets/image--233.png>
 
 *In this example, the Unclean
 is firing on a mixed squadron
@@ -363,7 +363,7 @@ at the target ship from different aspects,
 ranges, etc. Where this occurs calculate
 the ships’ firepower individually.
 
-<img src=/assets/image--236.png>
+<img src=/bfg/assets/image--236.png>
 
 When calculating the ships’ firepower
 individually, this only applies to ships firing
@@ -402,4 +402,4 @@ furthest from the torpedo's final position, to
 ensure that it doesn’t get a free speed boost
 due to being part of a combined force.
 
-<img src=/assets/image--237.png>
+<img src=/bfg/assets/image--237.png>

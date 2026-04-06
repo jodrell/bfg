@@ -193,7 +193,7 @@ fought in the zone he chose.
 
 ## Battlezones
 
-<img src=/assets/image--258.png>
+<img src=/bfg/assets/image--258.png>
 
 ### 1. Flare Region Generator
 
@@ -338,7 +338,7 @@ nearest star, described as
 “sunward” in Battlefleet
 Gothic. To do so roll a D6.
 
-<img src=/assets/image--264.png>
+<img src=/bfg/assets/image--264.png>
 
 Once you have established
 which way is sunward, you
@@ -434,7 +434,7 @@ cloud, the explosion will
 originate at the point the
 ship entered the cloud.
 
-<img src=/assets/image--267.png>
+<img src=/bfg/assets/image--267.png>
 
 #### Placement
 
@@ -569,7 +569,7 @@ count towards the number
 of other Blast Markers that
 can be removed that turn.
 
-<img src=/assets/image--271.png>
+<img src=/bfg/assets/image--271.png>
 
 #### Placement
 

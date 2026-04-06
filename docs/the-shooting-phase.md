@@ -53,7 +53,7 @@ of the models’ bases as a
 pair of convenient centre
 points for checking range.
 
-<img src=/assets/image--147.png>
+<img src=/bfg/assets/image--147.png>
 
 *In the example above the
 Unclean is firing on the
@@ -70,13 +70,13 @@ they are mounted on the
 vessel. The different fire arcs
 are: front, left, right and rear.
 
-<img src=/assets/image--148.png>
+<img src=/bfg/assets/image--148.png>
 
 *A weapons system must
 have a target ship within
 its fire arc in order to fire.*
 
-<img src=/assets/image--149.png>
+<img src=/bfg/assets/image--149.png>
 
 *The Unclean has the Agrippa
 in its right fire arc, so it
@@ -131,7 +131,7 @@ at other targets, providing
 that the closest enemy is shot
 at as a matter of priority.
 
-<img src=/assets/image--152.png>
+<img src=/bfg/assets/image--152.png>
 
 *In the example above
 the Unclean may fire
@@ -181,7 +181,7 @@ which rolled a 4 or more.*
 
 <hr>
 
-<img src=/assets/image--153.png>
+<img src=/bfg/assets/image--153.png>
 
 *A target’s orientation depends upon which fire
 arc the firing vessel is in, as shown in the
@@ -189,7 +189,7 @@ diagram. Match this with the target’s type to
 find out which column of the Gunnery table to
 use.*
 
-<img src=/assets/image--154.png>
+<img src=/bfg/assets/image--154.png>
 
 *The Unclean opens fire with its starboard (right)
 weapons batteries. The weapons have a firepower
@@ -258,7 +258,7 @@ across the top of the table
 to find the target type
 you are shooting at.
 
-<img src=/assets/image--156.png>
+<img src=/bfg/assets/image--156.png>
 
 *The target’s orientation is
 worked out by tracing the line
@@ -514,7 +514,7 @@ single Blast Marker if it does
 not contact a target after
 being moved.
 
-<img src=/assets/image--160.png>
+<img src=/bfg/assets/image--160.png>
 
 *In the diagram above the
 Steadfast, a Dominator class
@@ -1014,7 +1014,7 @@ contact with the edge of the
 Chaos cruiser’s base facing
 each of the Imperial ships.*
 
-<img src=/assets/image--170.png>
+<img src=/bfg/assets/image--170.png>
 
 #### Blast Marker Effects
 
@@ -1155,7 +1155,7 @@ bombers and torpedoes get
 inside a ship’s shields, so
 they provide no protection.
 
-<img src=/assets/image--173.png>
+<img src=/bfg/assets/image--173.png>
 
 *In the example above the Iron
 Duke (which has two shields)

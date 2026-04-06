@@ -316,7 +316,7 @@ is reduced by 1 for every hit it inflicted.
 Torpedoes that can re-roll misses must do
 so, even if the target is already destroyed.
 
-<img src=/assets/image--187.png>
+<img src=/bfg/assets/image--187.png>
 
 *In the diagram above, a Strength 6 torpedo
 salvo moves in the Ordnance Phase and hits

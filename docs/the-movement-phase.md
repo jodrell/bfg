@@ -186,9 +186,9 @@ execute a turn.
 execute a turn at any
 point in its move.
 
-<img src=/assets/image--135.png>
-<img src=/assets/image--135.png>
-<img src=/assets/image--136.png>
+<img src=/bfg/assets/image--135.png>
+<img src=/bfg/assets/image--135.png>
+<img src=/bfg/assets/image--136.png>
 
 > #### Special Order: *Come To New Heading*
 > 
@@ -297,7 +297,7 @@ equal to its full starting damage capacity.
 Once the ram attempt is resolved, the
 ramming ship continues its movement.
 
-<img src=/assets/image--140.png>
+<img src=/bfg/assets/image--140.png>
 
 *<strong>Ramming example:</strong> The Agrippa, a Lunar
 class cruiser, rams the Unclean, a Murder class
