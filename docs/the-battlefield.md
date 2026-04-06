@@ -1,22 +1,20 @@
-
-THE BATTLEFIELD
+# The Battlefield
 In order to fight a battle you will need somewhere to set up
 your battlefield – any flat, stable area will do. Some people
 make do with a smooth bit of floor but most use a kitchen or
 dining table (preferably protected by a cloth or blanket).
+
 By far the best option, if it’s available, is to fight over a gaming board
 made up of sheets of chipboard, plywood or MDF laid over another
 table. Typically the battlefield should be between 6' to 8' long (around
 1.8 metres to 2.4 metres) and 4' to 6' wide (1.2 to 1.8 metres).
+
 You can play on a smaller area quite easily but you’ll need
 to keep the forces that are fighting proportionately smaller
 to ensure that you’ve got some room to manoeuvre.
 
-102
+# Celestial Phenomena
 
-103
-
-CELESTIAL PHENOMENA
 Space, the void, vacuum.
 Sounds empty, but actually
 there’s all kinds of stuff
@@ -39,6 +37,7 @@ be an objective of enemy
 ships, ensuring that space
 combat will often happen in
 close proximity to planets.
+
 Incidentally this section is
 called Celestial Phenomena
 because terrain simply didn’t
@@ -47,6 +46,7 @@ Nonetheless this is terrain
 for space battles and it forms
 an important part of the
 game – so don’t skimp on it!
+
 So you’ve got your battlefield,
 but it’s a featureless, empty
 void. While this might be
@@ -58,14 +58,12 @@ feature of every battlefield.
 A good commander will use
 them to his best advantage
 during a battle, blocking
-
-104
-
 the enemy’s lines of fire,
 getting his heavy ships into
 good firing positions and
 concealing his escorts until
 they are ready to strike.
+
 Building up a collection of
 scenery to represent celestial
 phenomena is an important
@@ -93,9 +91,8 @@ making scenery and can
 serve as an invaluable source
 of ideas and inspiration.
 
-PLACING CELESTIAL
-PHENOMENA ON THE
-BATTLEFIELD
+## Placing Celestial Phenomena On The Battlefield
+
 There are many ways to
 set up celestial phenomena
 and any method is perfectly
@@ -125,17 +122,7 @@ some different methods
 you might employ when
 setting up your battlefield.
 
-Cross the stars and fight for glory
-But ’ware the heaven’s wrath
-Take yer salt and hear a shipman’s story
-Listen to tales of the gulf
-Of stars that sing and worlds what lie
-Beyond the ghosts of the rim
-But remember, lads, there ain’t no words
-for every void-born thing
-
-Setting Up Celestial
-Phenomena: Method 1
+### Setting Up Celestial Phenomena: Method 1
 
 One of the players positions
 all the celestial phenomena
@@ -157,8 +144,7 @@ before his opponent arrives,
 allowing you to get straight
 on with the battle.
 
-Setting Up Celestial
-Phenomena: Method 2
+### Setting Up Celestial Phenomena: Method 2
 
 Divide the table into 60 cm
 square areas. Next roll a
@@ -186,8 +172,7 @@ customised ones that include
 all the celestial phenomena
 in your own collection.
 
-Setting Up Celestial
-Phenomena: Method 3
+### Setting Up Celestial Phenomena: Method 3
 
 As a variant, you can use
 the fleets’ attack ratings to
@@ -206,29 +191,11 @@ The player with the highest
 score wins and the battle is
 fought in the zone he chose.
 
-105
+## Battlezones
 
-BATTLEZONES
+<img src=/assets/image--258.png>
 
-S
-
-ome of the fiercest fighting of the Gothic War took place in and around
-Quinrox Sound. With a large proportion of hive worlds and mining colonies,
-the Quinrox Sound was a major source of materials for building and repairing
-ships, and both sides took heavy casualties attempting to control the subsector. In the Corilia system alone, known to many as the Hulk’s Graveyard,
-there were the remains of at least thirteen Imperial and Chaos capital ships,
-and two dozen or more escorts, creating a field of debris and shattered hulls
-spreading across the inner system. The Hulk’s Graveyard itself became a focal
-battlezone, as Imperial and Chaos forces tried to salvage as much as they could
-from the derelict vessels to be found there. Quinrox Sound became the scene
-for daring raids to capture prize ships and a gathering place for pirates and
-other renegades to steal whatever resources they could find. Enemy ships lay in
-wait amongst the drifting wrecks, waiting for the opportunity to ambush some
-unwary foe.
-
-106
-
-1. Flare Region Generator
+### 1. Flare Region Generator
 
 The flare region is closest to the system’s
 sun. It is an area scoured by incandescent
