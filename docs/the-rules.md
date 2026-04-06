@@ -1,4 +1,6 @@
-# WHAT YOU WILL NEED
+# The Rules
+
+# What You Will Need
 
 As well as the Battlefleet
 Gothic rulebook, there are a
@@ -46,14 +48,14 @@ a pen and some paper for
 noting down damage to
 ships and other details.
 
-# FIRST PRINCIPLES
+# First Principles
 
 At this early stage in the book
 it’s worth establishing some
 initial principles about the
 Battlefleet Gothic game.
 
-## SCALE
+## Scale
 
 First of all – space is big!
 Very, very big. Take your
@@ -83,7 +85,7 @@ the ships actually occupy
 the point in space shown
 by the stem of their base.
 
-# TODO - INSERT IMAGE
+<img src=/assets/image--089.png>
 
 In keeping with this
 principle, movement
@@ -117,9 +119,9 @@ a ship moves so that its
 base comes into contact
 with the hazard.
 
-# TODO - INSERT IMAGE
+<img src=/assets/image--090.png>
 
-## 3D OR NOT 3D?
+## 3D or not 3D?
 
 As well as being very big,
 space is also infinitely wide,
@@ -157,7 +159,7 @@ of the game, working in
 3D would complicate
 the rules immensely.
 
-## DICE ROLLS
+## Dice Rolls
 
 There are lots of occasions in a battle when
 you have to roll dice to see how a ship’s
@@ -218,9 +220,9 @@ No single Special Order or other leadership
 test can be re-rolled more than once,
 regardless of the source of the re-roll.
 
-## THE BEARING COMPASS
+## The Bearing Compass
 
-## TODO - INSERT IMAGE
+<img src=/assets/image--092.png>
 
 A vital instrument in
 the game is the bearing
@@ -247,9 +249,9 @@ placed over the target in the same way as
 described above. The aspect of the target is
 shown by which quadrant faces the firer.
 
-## TODO - INSERT IMAGE
+<img src=/assets/image--094.png>
 
-## SET-UP
+## Set-up
 
 **Definition of Game Turns:** A game turn
 is both player turns, so a game that lasts
@@ -284,7 +286,7 @@ must then immediately reveal them to each
 other. If kept secret, they must nonetheless
 be revealed at the end of the game.
 
-# SHIP TYPES
+# Ship Types
 
 Battlefleet Gothic allows
 you to fight space battles
@@ -374,7 +376,7 @@ heading of capital ships,
 a term which applies to
 all ships of both types.
 
-## SHIP DATA SHEETS
+## Ship Data Sheets
 
 Each vessel available
 in Battlefleet Gothic
@@ -385,7 +387,7 @@ how fast, manoeuvrable,
 well-armoured and
 hideously armed they are.
 
-# TODO: INSERT TABLE
+<img src="/assets/ship-profile.png">
 
 *The table to the right
 represents the characteristics
@@ -565,7 +567,7 @@ too massive and the thermal
 ‘backwash’ they create makes
 targeting almost impossible.
 
-## BASE SIZE
+## Base Size
 
 There are two base sizes:
 small (32 mm diameter) and
@@ -584,8 +586,7 @@ board due to its larger base
 size, in exchange for being
 a larger ordnance target.
 
-
-# LEADERSHIP
+# Leadership
 
 Even the smallest stellar craft is a marvel of
 engineering, packed with machinery and
@@ -611,7 +612,8 @@ the captain and crew. Leadership is very
 important, because ships must test against
 it if they wish to use special orders.
 
-## STARTING LEADERSHIP VALUES
+## Starting Leadership Values
+
 As mentioned earlier, in one-off games
 you roll a D6 to determine each ship’s
 Leadership value before the start of the
@@ -624,16 +626,14 @@ ship rolls individually for leadership,
 even if it is in a squadron. Squadrons
 are explained fully later in the rules.
 
-+---------+--------------------+
 | D6 ROLL | LEADERSHIP         |
-+---------+--------------------+
+| ------- | ------------------ |
 | 1       | Untried (Ld 6)     |
 | 2-3     | Experienced (Ld 7) |
 | 4-5     | Veteran (Ld 8)     |
 | 6       | Crack (Ld 9)       |
-+---------+--------------------+
 
-# SPECIAL ORDERS
+# Special Orders
 
 There are six different special orders and
 each one allows a vessel to perform better at
@@ -785,7 +785,7 @@ orders, it cannot attempt to take them again
 until the ship, squadron or ordnance wave
 currently attacking has completed its attacks.
 
-## TAKING COMMAND CHECKS
+## Taking Command Checks
 
 In the midst of battle a captain may order his
 ships to perform special manoeuvres or direct

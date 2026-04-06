@@ -13,7 +13,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
   custom_dir: overrides
-  logo: assets/logo.png
+  logo: assets/image--004.png
   favicon: assets/favicon.ico
   features:  
     - header.autohide
@@ -35,4 +35,9 @@ markdown_extensions:
         - includes/footnotes.md
 validation:
   absolute_links: ignore
-nav: []
+
+nav:
+  - The Rules:
+    - The Rules: /the-rules/
+  - The Turn:
+    - The Turn: /the-turn/
