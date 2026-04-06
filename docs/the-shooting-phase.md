@@ -1,5 +1,4 @@
-
-# THE SHOOTING PHASE
+# The Shooting Phase
 
 **In the Shooting Phase, your ships get to unleash their weaponry
 against the enemy. The attacks that ships make are divided into two
@@ -10,7 +9,7 @@ of kilometres. Ordnance attacks include torpedoes and fighters,
 which are launched during the Shooting Phase but are not resolved
 until they hit their target in a subsequent Ordnance Phase.**
 
-# DIRECT FIRE
+## Direct Fire
 
 Direct firing uses a ship’s
 weapons batteries, lances
@@ -38,7 +37,7 @@ This can be summarised as:
 4. Resolve firing.
 5. Choose another ship to fire.
 
-## RANGE
+### Range
 
 Measure the range from
 the firing ship to the
@@ -54,7 +53,7 @@ of the models’ bases as a
 pair of convenient centre
 points for checking range.
 
-# TODO: INSERT IMAGE
+<img src=/assets/image--147.png>
 
 *In the example above the
 Unclean is firing on the
@@ -63,7 +62,7 @@ Agrippa. The Unclean is
 batteries (range 45 cm) are
 within range.*
 
-# FIRE ARCS
+## Fire Arcs
 
 Weapons have a limited field
 of fire depending on where
@@ -71,13 +70,13 @@ they are mounted on the
 vessel. The different fire arcs
 are: front, left, right and rear.
 
-# TODO: INSERT IMAGE
+<img src=/assets/image--148.png>
 
 *A weapons system must
 have a target ship within
 its fire arc in order to fire.*
 
-# TODO: INSERT IMAGE
+<img src=/assets/image--149.png>
 
 *The Unclean has the Agrippa
 in its right fire arc, so it
@@ -107,7 +106,7 @@ chooses which arcs to use,
 whether it is the attacking or
 defending ship.
 
-## TARGET PRIORITY
+### Target Priority
 
 Enemies at close range
 pose a much greater threat
@@ -120,7 +119,7 @@ fire at whatever targets you
 like if it takes and passes a
 Leadership test on 2D6 first.
 
-### Multiple Targets
+#### Multiple Targets
 
 Normally a ship will be in a
 position where only some of
@@ -132,7 +131,7 @@ at other targets, providing
 that the closest enemy is shot
 at as a matter of priority.
 
-# TODO: INSERT IMAGE
+## TODO: INSERT IMAGE
 
 *In the example above
 the Unclean may fire
@@ -141,7 +140,7 @@ against the Iron Duke
 and its right arc weaponry
 against the Agrippa.*
 
-## DIRECT FIRING: LANCES
+### Direct Firing: Lances
 
 Lances are incredibly
 high-powered energy
@@ -156,7 +155,7 @@ triple energy projectors that
 focus into a concentrated
 beam of destruction.
 
-### Lance Rules
+#### Lance Rules
 
 If a lance weapon system is
 within range and fire arc of
@@ -180,7 +179,7 @@ them, it would roll 2D6 and
 score one hit for each dice
 which rolled a 4 or more.*
 
-# TODO: INSERT IMAGE
+## TODO: INSERT IMAGE
 
 *A target’s orientation depends upon which fire
 arc the firing vessel is in, as shown in the
@@ -188,7 +187,7 @@ diagram. Match this with the target’s type to
 find out which column of the Gunnery table to
 use.*
 
-# TODO: INSERT IMAGE
+## TODO: INSERT IMAGE
 
 *The Unclean opens fire with its starboard (right)
 weapons batteries. The weapons have a firepower
@@ -197,7 +196,7 @@ which on the Gunnery table means that the
 Unclean rolls 7D6. The Agrippa’s front armour
 rating is 6 so the Unclean needs to roll 6s to hit.*
 
-## DIRECT FIRING: WEAPONS BATTERIES
+### Direct Firing: Weapons Batteries
 
 Weapons batteries form
 the main armament for
@@ -217,7 +216,7 @@ pattern of shots to catch
 the target in the middle of a
 maelstrom of destruction.
 
-### Weapons Battery Rules
+#### Weapons Battery Rules
 
 If a ship’s weapons battery
 is within range and fire
@@ -257,7 +256,7 @@ across the top of the table
 to find the target type
 you are shooting at.
 
-# TODO: INSERT IMAGE
+## TODO: INSERT IMAGE
 
 *The target’s orientation is
 worked out by tracing the line
@@ -302,7 +301,7 @@ Carnages can have up to
 firepower 32 in one broadside,
 or firepower (20+12).
 
-### Gunnery Modifiers
+#### Gunnery Modifiers
 
 Sometimes conditions will affect how difficult
 a target is to hit. Ships at very long range
@@ -327,7 +326,7 @@ adjust shooting beyond the far left or right
 columns on the gunnery table. The gunnery
 modifiers are summarised as follows:
 
-### Modifiers:
+#### Modifiers:
 
 Target within 15 cm – shift one column left
 
@@ -345,14 +344,14 @@ would roll 9D6 instead. If the *Agrippa* was
 over 30 cm away the column shift to the right
 would mean the *Unclean* rolled 5D6 instead.
 
-# TODO - INSERT GUNNERY TABLE
+## TODO - INSERT GUNNERY TABLE
 
 *<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the Gunnery table.
 If a squadron has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
 
 *\*Defences (for example ground based defences and satellites) and ordnance targets are not affected by orientation. A ship must move at least 5 cm to not be targeted as defences.*
 
-### Splitting Fire
+#### Splitting Fire
 
 A ship can elect to split the
 firepower of its weapon
@@ -405,7 +404,7 @@ any target besides the closest.
 > weapons to bear.
 > See pg. 46 for all effects.
 
-## NOVA CANNON
+### Nova Cannon
 
 A nova cannon is a huge
 weapon, normally mounted
@@ -423,7 +422,7 @@ after firing, unleashing a
 force more potent than a
 dozen plasma bombs.
 
-### Nova Cannon Rules
+#### Nova Cannon Rules
 
 The correct dimensions of
 the Nova Cannon template
@@ -489,7 +488,7 @@ single Blast Marker if it does
 not contact a target after
 being moved.
 
-# TODO - INSERT IMAGE
+## TODO - INSERT IMAGE
 
 *In the diagram above the
 Steadfast, a Dominator class
@@ -503,7 +502,7 @@ The nearby Doombringer is
 also caught in the blast and
 suffers one automatic hit.*
 
-### Important Note:
+#### Important Note:
 
 The Nova Cannon is a line
 of sight weapon and cannot
@@ -523,7 +522,7 @@ Nova Cannon are unaffected in
 any way by Lock On or Reload
 Ordnance special orders.
 
-### Nova Cannon vs. Holofield
+#### Nova Cannon vs. Holofield
 
 Holofields and similar systems
 save against the shell hit,
@@ -550,7 +549,7 @@ normally for the save. Being
 braced saves against any
 damage taken normally.
 
-## AREA EFFECTS AND SPECIAL WEAPONS
+### Area Effects And Special Weapons
 
 Some weapon systems such as
 the Necron Nightmare Field
@@ -627,8 +626,7 @@ damage taken normally.
 > is unaffected.
 > See pg. 46 for all effects
 
-
-# DAMAGE
+## Damage
 
 The weapons carried by some
 ships are powerful enough
@@ -648,7 +646,8 @@ are often crippled by crew
 casualties long before hulls
 crack or drives explode.
 
-## TAKING HITS
+### Taking Hits
+
 When a ship is damaged,
 note the number of hits it has
 taken on your fleet roster.
@@ -663,7 +662,7 @@ table to see if it explodes
 in a spectacular fashion or
 simply drifts helplessly.
 
-### Crippled Ships
+#### Crippled Ships
 
 A ship which loses half its
 damage points is crippled.
@@ -725,7 +724,8 @@ crippled when it has suffered
 > however again attempt to brace before the next ship, squadron or ordnance
 > wave attacks it, it faces another potentially damaging event, etc.
 
-## CRITICAL HITS
+### Critical Hits
+
 The weapons used in space are so destructive
 that when a ship is hit there is a chance
 that a vital location will be critically
@@ -741,7 +741,7 @@ table below to see what effect it has. Note
 that you do not roll for further critical hits
 for any damage caused by a critical hit.
 
-### Critical Hits on Escorts
+#### Critical Hits on Escorts
 
 Escort ships which suffer a critical hit for
 any reason, such as during a boarding
@@ -783,9 +783,9 @@ weapons gets a Dorsal Armament Damaged
 critical hit. In this case the ship would suffer
 damage to its starboard armament.
 
-# TODO - INSERT CRITICAL HITS TABLE
+## TODO - INSERT CRITICAL HITS TABLE
 
-## BLAST MARKERS
+### Blast Markers
 
 When ships are fired on,
 some of the results are shown
@@ -797,7 +797,7 @@ intense radiation clouds,
 tumbling debris, unexploded
 warheads, plasma bursts, etc.
 
-### Placing Blast Markers
+#### Placing Blast Markers
 
 Blast Markers are shown
 on the tabletop by placing
@@ -976,9 +976,9 @@ contact with the edge of the
 Chaos cruiser’s base facing
 each of the Imperial ships.*
 
-# TODO - INSERT IMAGE
+## TODO - INSERT IMAGE
 
-### Blast Marker Effects
+#### Blast Marker Effects
 
 **Movement:** A vessel is
 considered to be moving
@@ -1057,7 +1057,7 @@ is fired upon, its shield
 Strength is reduced by
 1 per Blast Marker.
 
-## SHIELDS
+### Shields
 
 Ships are protected by
 powerful energy shields,
@@ -1117,7 +1117,7 @@ bombers and torpedoes get
 inside a ship’s shields, so
 they provide no protection.
 
-# TODO - INSERT IMAGE
+## TODO - INSERT IMAGE
 
 *In the example above the Iron
 Duke (which has two shields)
@@ -1136,7 +1136,8 @@ Iron Duke this turn will score
 damage on the ship itself
 because its shields are down.*
 
-# CATASTROPHIC DAMAGE
+## Catastrophic Damage
+
 A ship with no hits left is effectively out of
 action. There may be some crew left alive,
 trapped in compartments which have not
@@ -1202,4 +1203,4 @@ fanning around and in contact with it until
 the total number Blast Markers are placed
 without overlapping any Blast Markers.
 
-# TODO - INSERT CATASTROPHIC DAMAGE TABLE
+## TODO - INSERT CATASTROPHIC DAMAGE TABLE

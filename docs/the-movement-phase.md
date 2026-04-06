@@ -297,6 +297,8 @@ equal to its full starting damage capacity.
 Once the ram attempt is resolved, the
 ramming ship continues its movement.
 
+<img src=/assets/image--140.png>
+
 *<strong>Ramming example:</strong> The Agrippa, a Lunar
 class cruiser, rams the Unclean, a Murder class
 Chaos cruiser in the starboard side. The
