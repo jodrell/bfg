@@ -1,4 +1,4 @@
-SQUADRONS
+# Squadrons
 Small ships, such as escorts, stand little chance of damaging larger ships on their own, so they
 are normally grouped into squadrons. A squadron will manoeuvre closely together and mass its
 weaponry to attack more effectively. Although cruisers and battleships normally operate alone,
