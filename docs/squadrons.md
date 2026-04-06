@@ -1,20 +1,16 @@
 # Squadrons
+
 Small ships, such as escorts, stand little chance of damaging larger ships on their own, so they
 are normally grouped into squadrons. A squadron will manoeuvre closely together and mass its
 weaponry to attack more effectively. Although cruisers and battleships normally operate alone,
 they can also be grouped into squadrons for a major battle, where their awesome firepower can
 be put to good effect.
+
 Squadrons may have all sorts of different names, such as formations, flotillas, packs, groups or
 forces, but they all work in the same way.
 
-‘Heave the line to and prepare for a fight, battle squadrons Secundus
-and Veritas form up on my port quarter. By the Emperor we’ve got them
-this time!’
-– Admiral Grafton at the battle of Arunthal.
+## Squadron Command Checks
 
-94
-
-SQUADRON COMMAND CHECKS
 Using squadrons enables the Admiral of
 the Fleet to give orders to groups of ships
 at the same time, instead of having to relay
@@ -29,21 +25,28 @@ surviving Leadership value in the squadron is
 used for taking Command checks. Remember,
 in the case of escorts each squadron has a
 single Leadership value.
+
 Normal Command check modifiers for enemy
 contacts and for being under fire apply to
 squadrons, even if only some of the ships in a
 squadron have Blast Markers in base contact.
+
 Vessels in a squadron are all equally affected
-by special orders taken by any one ship in the
+by special orders taken by **any one ship** in the
 squadron.
 
-(including Brace For Impact!, which replaces
+For instance, when on *All Ahead Full*, only
+one roll is made to determine additional move
+distance for all the vessels in the squadron.
+As is true for individual ships, squadrons
+can only undergo one special order per turn
+(including *Brace For Impact!*, which replaces
 any special order currently in effect). All
-ships in a squadron are affected by Brace For
-Impact!, not merely the ship actually taking
+ships in a squadron are affected by *Brace For
+Impact!*, not merely the ship actually taking
 fire. This includes capital ship squadrons!
 
-SQUADRON COMPOSITION
+## Squadron Composition
 Capital ship squadrons must be deployed
 and declared as such before the start of
 the game. Escort squadrons are selected
@@ -61,15 +64,8 @@ from ships of the same class because it
 makes manoeuvring and choosing special
 orders easier – but it’s all a matter of taste.
 
-For instance, when on All Ahead Full, only
-one roll is made to determine additional move
-distance for all the vessels in the squadron.
-As is true for individual ships, squadrons
-can only undergo one special order per turn
+## Squadron Formation
 
-95
-
-SQUADRON FORMATION
 To count as being part of a
 squadron, ships must remain
 close to at least one other
@@ -83,6 +79,22 @@ continuous chain with ‘links’
 of up to 15 cm between each
 ship.
 
+<img src=/assets/image--225.png>
+
+*Note that as the ships above
+are all within 15 cm of
+another ship in the squadron,
+they are all in formation.*
+
+Sometimes ships will drop
+out of formation due to bad
+manoeuvring, ships being
+destroyed, etc. If a ship
+drops out of formation it no
+longer counts as part of the
+squadron until it moves back
+to within 15 cm of another
+ship in the squadron. A ship
 which is out of formation
 must be moved back into
 formation as soon as possible,
@@ -90,7 +102,7 @@ and it may not use special
 orders the squadron uses
 until it has done so.
 
-Manoeuvring Squadrons
+### Manoeuvring Squadrons
 
 Individual ships within a
 squadron can manoeuvre
@@ -104,23 +116,9 @@ must immediately and
 in subsequent turns only
 attempt to disengage.
 
-Note that as the ships above
-are all within 15 cm of
-another ship in the squadron,
-they are all in formation.
-Sometimes ships will drop
-out of formation due to bad
-manoeuvring, ships being
-destroyed, etc. If a ship
-drops out of formation it no
-longer counts as part of the
-squadron until it moves back
-to within 15 cm of another
-ship in the squadron. A ship
+<img src=/assets/image--226.png>
 
-96
-
-In the example above, the
+*In the example above, the
 escorts in the squadron have
 manoeuvred individually so
 that two have made a turn
@@ -128,10 +126,10 @@ to starboard while the other
 two have continued moving
 straight ahead. Note that
 they are still in formation
-at the end of their move.
+at the end of their move.*
 
-SHOOTING AT
-SQUADRONS
+### Shooting at Squadrons
+
 When a squadron is targeted
 it is quite likely that some
 of its vessels will present
@@ -140,6 +138,7 @@ the attacker. For example,
 some ships in the squadron
 may be closing targets
 while others are abeam.
+
 In this case, the attacker
 can select which category
 of targets to go after but
@@ -153,6 +152,7 @@ the attacker fires at them
 as if they were all closing
 targets he can only score hits
 on the two closing ships.
+
 The only way to shoot at a
 more distant member of a
 squadron is with gunnery
@@ -166,8 +166,7 @@ because of weaker armour,
 armour ignoring weapons
 cannot exploit this rule.
 
-Allocating Hits
-against Squadrons
+### Allocating Hits against Squadrons
 
 When a squadron is fired
 upon, any hits scored are
@@ -180,6 +179,7 @@ and so on. This only applies
 to shooting and does not
 apply to ordnance attacks,
 boarding actions, etc.
+
 A leadership test cannot
 be taken to pick out
 individual ships within a
@@ -212,7 +212,9 @@ actually in range and fire
 arc, no more than three
 escorts can be destroyed.
 
-In the example above, the
+<img src=/assets/image--229.png>
+
+*In the example above, the
 Chaos cruiser Unclean targets
 an Imperial frigate squadron
 and scores 3 hits. The first hit
@@ -227,15 +229,9 @@ there is a frigate closer to the
 Unclean than the one which
 was destroyed but it is out of
 the Unclean’s fire arc and so
-cannot be hit.
+cannot be hit.*
 
-97
-
-+++ASSUME.ATTACK.FORMATION.DELTA+++READY.TORPEDOES+++FIRE.SEQUENCE.
-DESTRUCTUS+++LAUNCH.450.5.FROM.ATTACK.SIGNAL+++LAUNCH.TRAJECTORY.45/67
-/90.5%+++LET.OUR.WEAPONS.BRING.THE.EMPEROR’S.VENGEANCE+++
-
-Different Armour values
+### Different Armour values
 
 A mixed squadron of ships
 may include vessels with
@@ -256,23 +252,23 @@ the lowest rolls against the
 nearest targets they can affect
 and work your way up.
 
-In this example, the Unclean
+<img src=/assets/image--233.png>
+
+*In this example, the Unclean
 is firing on a mixed squadron
 including a Sword class frigate
-and a Cobra class destroyer.
+and a Cobra class destroyer.*
 
-98
-
-Rolling three dice, it scores
+*Rolling three dice, it scores
 a 4, 5 and 6. The 4 is good
 enough to hit the Cobra
 and is allocated to it, the 5
 and 6 can hit the Sword and
 both are allocated to that
-ship as it is a closer target.
+ship as it is a closer target.*
 
-CAPITAL SHIP
-SQUADRONS
+### Capital Ship Squadrons
+
 Capital ships in a squadron
 that are being fired upon
 to the point that one of the
@@ -284,7 +280,8 @@ The easiest way to avoid
 confusion is to roll each
 D6 critical roll separately
 while recording damage.
-For example, if a squadron of
+
+*For example, if a squadron of
 three Dauntless light cruisers
 is fired upon by a squadron
 of three Carnage cruisers and
@@ -295,7 +292,6 @@ before declaring it destroyed.
 This means if while applying
 hits one at a time and the first
 Dauntless rolls a Thrusters
-
 Damaged (+1HP) and Engine
 Room Damaged (+1HP)
 criticals in the process of being
@@ -313,7 +309,8 @@ hits one at a time (after the
 shield hit). This means at least
 one hit would pass to the third
 Dauntless even if the second
-rolled no critical damage.
+rolled no critical damage.*
+
 This rule in particular
 applies to squadrons of ships
 that do not count critical
@@ -321,6 +318,7 @@ damage normally and instead
 take an additional 1HP of
 damage, such as Ork Roks
 or Kroot Warspheres.
+
 If a capital ship squadron
 disengages in its entirety,
 each capital ship calculates
@@ -329,9 +327,11 @@ victory points separately
 and not in the same
 manner as escorts.
 
-SHOOTING BY SQUADRONS
+### Shooting by Squadrons
+
 As mentioned earlier, squadrons
 combine their firing together.
+
 Escort squadrons have their total firepower
 added up and halved (rounding up) when on
 special orders that affect weapons strength/
@@ -341,6 +341,7 @@ even if in a squadron. Escort squadrons
 do not have their weapon strength halved
 solely because the squadron is crippled
 (reduced to half its starting number).
+
 When a squadron shoots, it is subject to
 the normal rules and restrictions for a
 single ship. So, for example, if a squadron
@@ -350,30 +351,7 @@ test to do so. Any ships in the squadron
 out of range or fire arc of the squadron’s
 primary target may fire on another enemy.
 
-Firing Weapons Batteries
-
-Launching Ordnance
-
-Ships in a squadron launch ordnance
-individually unless they are in base-to-base
-contact. Any ships in base-to-base contact
-with other ships from the squadron can opt
-to combine their ordnance together into a
-bigger attack craft wave or torpedo salvo.
-When launching a combined salvo from
-a squadron the salvo must be in ALL of
-the ships appropriate firing arcs and its
-furthermost edge at the limit of its speed
-from the furthest ship’s stem. All the
-ships firing a combined salvo must be in
-base to base contact. Note that some ships
-(such as Ork Ravagers) cannot for any
-reason combine salvoes in this manner.
-Measure the distance travelled by a
-combined ordnance attack from the ship
-furthest from the torpedo's final position, to
-ensure that it doesn’t get a free speed boost
-due to being part of a combined force.
+#### Firing Weapons Batteries
 
 Squadrons firing weapons batteries normally
 add their firepower together before working
@@ -384,6 +362,8 @@ because ships may be in a position to fire
 at the target ship from different aspects,
 ranges, etc. Where this occurs calculate
 the ships’ firepower individually.
+
+<img src=/assets/image--236.png>
 
 When calculating the ships’ firepower
 individually, this only applies to ships firing
@@ -397,9 +377,29 @@ ship’s beam would calculate their firepower
 together as Abeam. Then these two sums are
 added together before making the dice roll.
 
-‘Thank the Emperor, I have
-done my duty.’
-– Lord Admiral Ravensburg at
-the Battle of Gethsemane.
+### Launching Ordnance
 
-99
+Ships in a squadron launch ordnance
+individually unless they are in base-to-base
+contact. Any ships in base-to-base contact
+with other ships from the squadron can opt
+to combine their ordnance together into a
+bigger attack craft wave or torpedo salvo.
+
+When launching a combined salvo from
+a squadron the salvo must be in ALL of
+the ships appropriate firing arcs and its
+furthermost edge at the limit of its speed
+from the furthest ship’s stem. All the
+ships firing a combined salvo must be in
+base to base contact. Note that some ships
+(such as Ork Ravagers) cannot for any
+reason combine salvoes in this manner.
+
+Measure the distance travelled by a
+combined ordnance attack from the ship
+furthest from the torpedo's final position, to
+ensure that it doesn’t get a free speed boost
+due to being part of a combined force.
+
+<img src=/assets/image--237.png>

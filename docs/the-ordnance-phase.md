@@ -316,13 +316,15 @@ is reduced by 1 for every hit it inflicted.
 Torpedoes that can re-roll misses must do
 so, even if the target is already destroyed.
 
-In the diagram above, a Strength 6 torpedo
+<img src=/assets/image--187.png>
+
+*In the diagram above, a Strength 6 torpedo
 salvo moves in the Ordnance Phase and hits
 a ship. 6D6 are rolled to attack and three dice
 score hits on the target. The salvo is reduced
 to Strength 3 and continues moving up to its
 full move of 30 cm. If any other ships were
-in its path they would also be attacked.
+in its path they would also be attacked.*
 
 #### Premature detonation
 
