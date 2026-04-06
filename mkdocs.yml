@@ -1,0 +1,38 @@
+site_name: Battlefleet
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+  custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:  
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/footnotes.md
+validation:
+  absolute_links: ignore
+nav: []
