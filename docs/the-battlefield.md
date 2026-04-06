@@ -13,7 +13,7 @@ You can play on a smaller area quite easily but you’ll need
 to keep the forces that are fighting proportionately smaller
 to ensure that you’ve got some room to manoeuvre.
 
-# Celestial Phenomena
+## Celestial Phenomena
 
 Space, the void, vacuum.
 Sounds empty, but actually
@@ -204,74 +204,17 @@ of the sun and fierce radioactive winds.
 Planets this close to the star are almost
 always death worlds, places too ravaged
 by the sun’s heat to be habitable to life.
-D6 ROLL
 
-RESULT
+| D6 ROLL | RESULT |
+| --- | --- |
+| 1 | Solar flare |
+| 2 | Solar flare |
+| 3 | Radiation burst |
+| 4 | Asteroid field |
+| 5 | D3 gas/dust clouds (generally a solar flare remnant) |
+| 6 | Planet (roll again: 1-5 = small, 6 = medium)* |
 
-3. Inner Biosphere generator
-
-As the inner biosphere is reached,
-planets become more hospitable, though
-often their atmospheres are a noxious
-soup of harmful gases. Nonetheless
-colonies and hive cities occur in the
-inner biosphere of certain systems.
-D6 ROLL
-
-RESULT
-
-1
-
-Roll again:
-1-3 = Radiation burst; 4-6 = solar flare
-
-Solar flare
-
-2
-
-Asteroid field
-
-Radiation burst
-
-3
-
-D3 asteroid fields
-
-4
-
-Asteroid field
-
-4
-
-D3 gas/dust clouds
-
-5
-
-D3 gas/dust clouds
-(generally a solar flare remnant)
-
-5
-
-D3 gas/dust clouds
-
-6
-
-Planet
-(roll again: 1-5 = small, 6 = medium)*
-
-1
-
-Solar flare
-
-2
-3
-
-6
-
-Planet
-(roll again: 1-5 = small, 6 = medium)*
-
-2. Mercurial Zone Generator
+### 2. Mercurial Zone Generator
 
 At the mercurial zone the sun’s ferocity is
 still awesome to behold, but solar flares less
@@ -281,77 +224,52 @@ be found in the mercurial zone which can
 sustain limited life deep underground
 or constantly moving around its dark
 side to shelter from the sun’s rays.
-D6 ROLL
 
-RESULT
+| D6 ROLL | RESULT |
+| --- | --- |
+| 1 | Solar flare |
+| 2 | Radiation burst |
+| 3 | Asteroid field |
+| 4 | D3 gas/dust clouds (solar filaments or flare remnants) |
+| 5 | D3 gas/dust clouds (solar filaments or flare remnants) |
+| 6 | Planet (roll again: 1-5 = small, 6 = medium)* |
 
-1
+### 3. Inner Biosphere generator
 
-Solar flare
+As the inner biosphere is reached,
+planets become more hospitable, though
+often their atmospheres are a noxious
+soup of harmful gases. Nonetheless
+colonies and hive cities occur in the
+inner biosphere of certain systems.
 
-2
+| D6 ROLL | RESULT |
+| --- | --- |
+| 1 | Roll again: 1-3 = Radiation burst; 4-6 = solar flare |
+| 2 | Asteroid field |
+| 3 | D3 asteroid fields |
+| 4 | D3 gas/dust clouds |
+| 5 | D3 gas/dust clouds |
+| 6 | Planet (roll again: 1-5 = small, 6 = medium)* |
 
-Radiation burst
-
-3
-
-Asteroid field
-
-4
-
-D3 gas/dust clouds
-(solar filaments or flare remnants)
-
-5
-
-D3 gas/dust clouds
-(solar filaments or flare remnants)
-
-6
-
-Planet
-(roll again: 1-5 = small, 6 = medium)*
-
-4. Primary Biosphere generator
+### 4. Primary Biosphere generator
 
 In the primary biosphere a balance is struck
 between the burning heat of the sun and the
 icy cold of the void. Most inhabited worlds
 lie within this biosphere and it’s here that
 the bulk of a system’s defences are built.
-D6 ROLL
 
-RESULT
+| D6 ROLL | RESULT |
+| --- | --- |
+| 1 | Asteroid field |
+| 2 | D3 asteroid fields |
+| 3 | Gas/dust clouds |
+| 4 | D3 gas/dust clouds |
+| 5 | Planet (roll again: 1-5 = small, 6 = medium)* |
+| 6 | Planet (roll again: 1-5 = small, 6 = medium)* |
 
-1
-
-Asteroid field
-
-2
-
-D3 asteroid fields
-
-3
-
-Gas/dust clouds
-
-4
-
-D3 gas/dust clouds
-
-5
-
-Planet
-(roll again: 1-5 = small, 6 = medium)*
-
-6
-
-Planet
-(roll again: 1-5 = small, 6 = medium)*
-
-107
-
-5. Outer Reaches Generator
+### 5. Outer Reaches Generator
 
 The outer reaches of a system are the
 realm of gas giants and worlds generally
@@ -359,25 +277,17 @@ too cold and harsh to support life. Many
 battles between ships occur here as the
 system’s defenders attempt to prevent enemy
 ships reaching the primary biosphere.
-D6 ROLL
 
-RESULT
+| D6 | ROLL RESULT |
+| --- | --- |
+| 1 | D3+1 asteroid fields |
+| 2 | D3 asteroid fields |
+| 3 | D3 gas/dust clouds |
+| 4 | Gas/dust cloud |
+| 5 | Planet (roll again: 1-3 = small, 4-6 = large)* |
+| 6 | Planet (roll again: 1-3 = small, 4-6 = large)* |
 
-1
-
-D3+1 asteroid fields
-
-2
-
-D3 asteroid fields
-
-3
-
-D3 gas/dust clouds
-
-4
-
-6. Deep Space Generator
+### 6. Deep Space Generator
 
 Ships coming out of the warp must appear
 some distance away in deep space or risk
@@ -387,63 +297,31 @@ specific jump points marked by beacons to
 assist navigation. An ambushing fleet will
 often lurk near a jump point in the hope
 of catching an emerging foe unaware.
-D6 ROLL
 
-RESULT
+| D6 | ROLL RESULT |
+| --- | --- |
+| 1 | D3 asteroid fields |
+| 2 | Asteroid fields |
+| 3 | D3 gas/dust clouds |
+| 4 | Gas/dust cloud |
+| 5 | Warp Rift |
+| 6 | Small planet (a rogue planet in a highly eccentric orbit)* |
 
-1
-
-D3 asteroid fields
-
-Gas/dust cloud
-
-2
-
-Asteroid fields
-
-5
-
-Planet
-(roll again: 1-3 = small, 4-6 = large)*
-
-3
-
-D3 gas/dust clouds
-
-4
-
-Gas/dust cloud
-
-6
-
-Planet
-(roll again: 1-3 = small, 4-6 = large)*
-
-5
-
-Warp rift
-
-6
-
-Small planet (a rogue planet in
-a highly eccentric orbit)*
-
-*In all cases a maximum of one planet will
+*\*In all cases a maximum of one planet will
 be present on the tabletop: if a second planet
 is generated roll again. Remember to roll
 to see whether a planet has any moons.
 If a large planet is generated, it will have
-rings around it on a D6 roll of 4 or more.
+rings around it on a D6 roll of 4 or more.*
 
-108
-
-TABLETOP FEATURES
+## TABLETOP FEATURES
 
 The following features are
 celestial phenomena that
 are placed onto the tabletop.
 Remember to leave plenty of
 empty space between them.
+
 Tabletop features are
 generally placed in relation
 to the nearest star. This is
@@ -452,12 +330,15 @@ caught in the inconceivably
 gross gravitational pull
 of a star will be in some
 kind of orbit around it.
+
 When placing these features,
 start by determining which
 table edge is closest to the
 nearest star, described as
 “sunward” in Battlefleet
 Gothic. To do so roll a D6.
+
+<img src=/assets/image--264.png>
 
 Once you have established
 which way is sunward, you
@@ -478,6 +359,7 @@ are just there as guidelines to
 take some of the brain ache
 out of setting up the tabletop,
 not as definitive rules.
+
 Any celestial phenomena
 affect a ship as soon as
 it contacts a ship’s base.
@@ -502,7 +384,8 @@ does not affect whether or
 not it is in the explosion’s
 3D6 cm blast radius.
 
-GAS AND DUST CLOUDS
+### Gas And Dust Clouds
+
 Gas and dust clouds represent
 areas of space with a notably
 greater density of (mostly)
@@ -516,9 +399,6 @@ even gasses ejected by solar
 flares. They represent a
 moderate navigational hazard
 to shipping: basic shielding
-
-109
-
 is sufficient to prevent
 damage occurring but ships
 are slowed somewhat by
@@ -531,7 +411,7 @@ making them potentially
 useful areas to exploit in
 ship-to-ship combat.
 
-Effects
+#### Effects
 
 Gas and dust clouds have
 the same effect as a single
@@ -546,6 +426,7 @@ may re-roll this result for
 free. If passed, it will take no
 damage nor suffer any effects
 of being in contact with it.
+
 If a ship having 0 shield
 strength explodes due to
 contact with a gas/dust
@@ -553,7 +434,9 @@ cloud, the explosion will
 originate at the point the
 ship entered the cloud.
 
-Placement
+<img src=/assets/image--267.png>
+
+#### Placement
 
 Use flock or cotton wool
 to show gas & dust clouds,
@@ -563,7 +446,8 @@ to the sunward table edge.
 Each band is D6×2 cm
 wide and D6×5 cm long.
 
-ASTEROID FIELDS
+### Asteroid Fields
+
 Asteroid fields orbit most
 stars at varying distances.
 They are generally thought
@@ -577,32 +461,33 @@ planet or moon, or represent
 an area of wreckage resulting
 from a space battle.
 
-Effects
+#### Effects
 
 An asteroid field blocks line
 of fire and any torpedoes
 that strike it are detonated.
+
 Ships moving through an
 asteroid field, or coming
 into base contact with the
 edge of one, must pass a
 Leadership test on 2D6 to
 navigate it successfully.
-Ships using All Ahead
-Full special orders make
+
+Ships using *All Ahead
+Full* special orders make
 the test on 3D6 instead.
+
 Escort ships may re-roll the
 Leadership test if they fail
 it, but the second roll stands
-
-110
-
 whether it is successful or
 not. A ship that fails the
 Leadership test suffers
 D6 damage from asteroid
 impacts, but its shields will
 block damage as normal.
+
 Escort and capital ship
 squadrons make this
 leadership test normally, once
@@ -623,6 +508,7 @@ in the order that the ships
 were moved. In all cases,
 shields (but not holofields)
 work normally against hits.
+
 Blast Markers are not
 placed when asteroid
 impacts take shields down,
@@ -630,8 +516,10 @@ however the ship will be
 slowed down 5 cm as if it
 has moved through Blast
 Markers that turn.
+
 Hulks which drift into an
 asteroid field are destroyed.
+
 Attack craft squadrons
 which move through an
 asteroid field are destroyed
@@ -653,6 +541,7 @@ Shooting at enemies within
 10 cm range does not impart
 a left column shift when
 inside an asteroid field.
+
 Attack Craft work normally
 but must make a D6 roll
 every Ordnance Phase they
@@ -662,12 +551,12 @@ marker removed on a roll
 of 6. Ships that are braced
 or crippled may not shoot
 inside an asteroid field.
+
 If you wish to shoot at an
 asteroid field, you must first
 pass a leadership test even if
 it is the only possible target.
 Treat it as an Ordnance
-
 marker. For every roll of
 6, place a Blast Marker in
 contact with the asteroid
@@ -680,22 +569,9 @@ count towards the number
 of other Blast Markers that
 can be removed that turn.
 
-WARP RIFTS
-Occasionally, a temporary
-rift can occur between
-normal space and warp
-space, particularly during
-a powerful warp storm
-or after a large fleet has
-dropped out of the warp.
-Moving into such a rift is
-highly dangerous, but may
-well provide an edge for a
-desperate or foolish captain.
+<img src=/assets/image--271.png>
 
-Effects
-
-Placement
+#### Placement
 
 Asteroid fields can be
 represented by an area of
@@ -708,6 +584,22 @@ table edge. Typically,
 asteroid fields are D3×5 cm
 wide and D3×5 cm long.
 
+### Warp Rifts
+
+Occasionally, a temporary
+rift can occur between
+normal space and warp
+space, particularly during
+a powerful warp storm
+or after a large fleet has
+dropped out of the warp.
+Moving into such a rift is
+highly dangerous, but may
+well provide an edge for a
+desperate or foolish captain.
+
+#### Effects
+
 A warp rift blocks line of fire
 and any torpedoes that strike
 it are detonated. Hulks which
@@ -717,6 +609,7 @@ they may not be salvaged
 after the battle. Attack craft
 squadrons which move
 into a rift are destroyed.
+
 Ships moving into a warp
 rift must pass a Leadership
 test on 3D6 to navigate it
@@ -724,17 +617,11 @@ successfully. If the ship
 passes the test, it may
 be repositioned up to
 2D6×10 cm away from
-
-‘And about Port Maw were ringed many defences. Fortresses in orbit
-and platforms bristling with weapons lay in wait for an unwary attack.
-Minefields in abundance were there to discourage the foolish.’
-– Lexicus Planetarium. M.38
-111
-
 the rift, pointing in any
 direction. If it fails, the ship
 disappears from the battle
 altogether – lost in the warp!
+
 Roll a D6 for each ship lost
 in the warp after the game:
 on a 1 it is lost in the warp
@@ -745,7 +632,7 @@ it is only temporarily lost
 and will eventually find
 its way back to the fleet.
 
-Placement
+#### Placement
 
 Use a strip of white paper,
 cloth or cotton wool to
@@ -753,7 +640,8 @@ represent a warp rift.
 The rift is D3×5 cm wide
 and D3×10 cm long.
 
-PLANETS
+## Planets
+
 Less than 1% of systems
 have planets orbiting a
 solitary star in the manner
@@ -777,14 +665,28 @@ forward bases or extend
 their control throughout
 a contested system.
 
+
+#### Effects
+
+Planets are represented by
+a template or model (ball)
+placed on the tabletop.
+
+When a ship’s stem is actually
+on a planetary template (as
+opposed to behind it), the
+template does not block its
+line of sight or any ships line
+of sight to it. If multiple ships
+are on a planetary template,
+they can all see each other.
+
 A ship counts as being upon
 a planetary template if its
 stem touches the template,
 not merely if it is in base
 contact or if its base partially
 overlaps the template.
-
-Effects
 
 Torpedoes are destroyed
 when they come into contact
@@ -798,27 +700,11 @@ while on a planetary template
 but they will be removed
 when they touch its edge.
 
-When a ship’s stem is actually
-on a planetary template (as
-
 Hulks which drift into a
 planet are also destroyed.
 Ships may move ‘through’
 a planet (by passing
 over or under it).
-
-Planets are represented by
-a template or model (ball)
-placed on the tabletop.
-
-112
-
-opposed to behind it), the
-template does not block its
-line of sight or any ships line
-of sight to it. If multiple ships
-are on a planetary template,
-they can all see each other.
 
 Every planet is surrounded by an area of space
 where its gravitational pull is strong enough to
@@ -827,39 +713,20 @@ gravity well. The gravity well extends out a set
 distance from the edge of the planet template
 and affects a ship’s manoeuvring as follows.
 
-remain stationary. A ship that enters low
-orbit, however, is removed from play and
-(where the scenario requires it) is placed
-on a separate low orbit table. Ships moving
-up from low orbit are placed touching
-the outer edge of the planet template.
+#### Typical planetary templates:
 
-Typical planetary templates:
+* Small planet (eg the size of Mercury, Pluto or Mars) – up to 15 cm diameter.
+* Medium planet (eg equivalent to Venus or Earth) – 16-25 cm diameter.
+* Large planet (eg the size of Saturn or Jupiter) – 26-50 cm(!) diameter.
 
-Placement
-
-• Small planet (eg the size of Mercury,
-Pluto or Mars) – up to 15 cm diameter.
-• Medium planet (eg equivalent to Venus
-or Earth) – 16-25 cm diameter.
-
-Planets are usually so far apart that only
-one will be placed on the tabletop, although
-in spectacular ‘When Planets Collide’
-scenarios you might want to place two
-planets in shockingly close proximity.
-
-• Large planet (eg the size of Saturn or
-Jupiter) – 26-50 cm(!) diameter.
-
-RINGED PLANETS
-
-Typical gravity wells:
+#### Typical gravity wells:
 
 Small planet – up to 10 cm from template edge.
-Medium planet – up to 15 cm
-from template edge.
+
+Medium planet – up to 15 cm from template edge.
+
 Large planet – up to 30 cm from template edge.
+
 Ships within the gravity well of a planet may
 make a free 45° turn at the beginning and end
 of their move, but the turn must always be
@@ -871,6 +738,7 @@ when the ship cannot normally turn, such
 as when under All Ahead Full or Lock On
 special orders. They can also be combined
 with Come To New Heading special orders.
+
 This does not change the fact that the free
 turn can only be used before the start of
 the move and again only at the end of the
@@ -880,11 +748,28 @@ to use it, and the free turn is only toward
 the centre of the planet’s or moon’s gravity
 well or toward a space hulk’s stem or no
 more than 45 degrees, whichever is less.
+
 A ship within a planet’s gravity well may
 elect to enter high or low orbit. A ship does
 not have to move whilst it is in high orbit,
 but such a stationary ship uses the defences
 column for gunnery purposes if it elects to
+remain stationary. A ship that enters low
+orbit, however, is removed from play and
+(where the scenario requires it) is placed
+on a separate low orbit table. Ships moving
+up from low orbit are placed touching
+the outer edge of the planet template.
+
+#### Placement
+
+Planets are usually so far apart that only
+one will be placed on the tabletop, although
+in spectacular ‘When Planets Collide’
+scenarios you might want to place two
+planets in shockingly close proximity.
+
+### Ringed Planets
 
 Occasionally planets (usually the larger
 ones) have rings made up of gas, dust and
@@ -892,7 +777,7 @@ asteroids. These are represented by gas
 and dust clouds and/or asteroid fields
 placed in a ring around the planet.
 
-Placement
+#### Placement
 
 If there is a large planet on the table roll a
 D6. On a 5 or 6 it has rings around it. Place
@@ -903,20 +788,21 @@ wide and begins D6×5 cm away from the
 planet’s edge. Note that some may end up
 merging into one another, but that’s fine.
 
-MOONS
+### Moons
+
 Most planets have many small moons around
 them and most of these are no larger than
 generously sized asteroids. These rules
 are confined to dealing with larger moons
 several thousand kilometres in diameter.
 
-Effects
+#### Effects
 
 Moons count as small planets in all respects,
 including when deciding the effects of
 their gravity wells on turning ships.
 
-Placement
+#### Placement
 
 Medium planets typically have D3-1
 moons, large planets have D6-2 moons.
@@ -925,16 +811,15 @@ planet’s moons are placed 2D6×10 cm from
 the planet: roll randomly to see which
 direction they are from the planet.
 
-113
-
-TABLETOP EFFECTS
+## Tabletop Effects
 
 The following features affect the entire
 battlefield. They may be combined with
 tabletop features to produce, for example, a
 battle around a planet close to a sun.
 
-FIGHTING SUNWARD
+### Fighting Sunward
+
 In battles close to the centre of a system, the
 presence of the local star has powerful effects
 on the ship’s ability to detect other vessels.
@@ -946,7 +831,7 @@ ship with the sun behind it is easier to pick
 out and track using reflection surveyors and
 image capture devices.
 
-Effects
+#### Effects
 
 In the outer reaches, deep space and the
 primary biosphere the light from the distant
@@ -955,17 +840,17 @@ sunward is only of consequence in the Flare
 Region, Mercurial Zone and Inner Biosphere,
 and has the following effects:
 
-114
-
 Any firing conducted towards the sunward
 table edge doubles the column shifts for long
 and short range.
+
 To determine if you are shooting sunward
 place the bearing compass over the firing ship
 with the arrows parallel with the sunward
 edge (see pg. 109 for the sunward edge). If the
 target is within the arc facing the sunward
 edge you are shooting sunward.
+
 At long range (over 30 cm) the powerful
 photosphere blinds long range sensors, so take
 two column shifts right on the Gunnery table
@@ -973,13 +858,13 @@ instead of one. At short range (15 cm or under)
 targets are ‘silhouetted’ instead, so make two
 column shifts left instead of one.
 
-SOLAR FLARES
+### Solar Flares
+
 Most stars periodically release explosive
 bursts of energy over small areas of their
 surface. Of course small, in solar terms,
 means areas hundreds of millions of
 kilometres across! These huge flares of energy
-
 rush outward at tremendous speeds, flooding
 the vicinity with highly charged particles and
 magnetic shock waves. A shielded vessel can
@@ -987,7 +872,7 @@ find its protection virtually overwhelmed by
 these events and a vessel without shields is
 sure to suffer damage.
 
-Effects
+#### Effects
 
 Roll a D6 at the start of each turn. If more
 than one flare was generated as part of the
@@ -1008,7 +893,8 @@ re-roll this result for free. If passed, it will
 take no damage but instead turn directly
 away from the solar flare and move 2D6 cm.
 
-RADIATION BURSTS
+### Radiation Bursts
+
 As well as solar flares and often in conjunction
 with them, a sun will frequently emit bursts
 of radiation, including electromagnetic and
@@ -1019,7 +905,7 @@ ship in these conditions is extremely difficult and
 for this reason most commanders assiduously
 avoid the flare region of the local star.
 
-Effects
+#### Effects
 
 Roll a D6 at the start of each turn. If more
 than one radiation burst was generated as
@@ -1034,35 +920,13 @@ value by the interference level for that turn. For
 example, if a radiation burst occurs and a 3 is
 rolled for the interference level, all ships suffer
 -3 to their Leadership for the rest of the turn.
+
 In addition to the reduced Leadership for the
 interference, Fleet Commanders may only use
 their re-rolls for Command checks for their
 own ship or squadron during radiation bursts.
 
-‘T
-
-he klaxon was sounding all across the ship now. I tried to enter the lower
-bridge, but the emergency bulkheads had shut. Sporadic bursts from the
-engines were pushing us to starboard and dipping the stern down towards Proxadis’
-outer moon. I heard one of the Tech-Priests reporting over the internal comm-net
-that the artificial gravity had failed along the starboard quarter gun-decks. With
-the bridge presumed destroyed, I was left as the highest authority on board. I ran
-into a party of ratings trying to jettison the blazing remains of the tertiary starboard
-lance turret and I ordered them to get to the saviour rafts. Another explosion shook
-the ship, sending us flying in all directions. Running up to the secondary aft bridge, I
-took stock of the situation. We had lost all helm control, the fifth, ninth and eleventh
-reactors were discharging plasma and the number three reactor was going into
-endphase overload. I ordered the general abandonment and led the aft bridge crew
-to the rafts at the end of ‘C’ deck, port quarter. Just as we jettisoned, I saw the outside
-of the ship through the port. Plasma was slowly engulfing the whole of the engine
-section. A gaping hole had been torn through both quarter galleries and fires were
-burning up on the bridge section. We had perhaps got 12,000 away when the reactors
-blew, sending a sheet of gas and flame surging towards us. It passed by about 4,000
-away, but the shockwave buffeted us badly, and the engines cut.’
-The loss of the Invincible by 4th Lieutenant Burns, one of only 1,250 survivors.
-115
-
-FIGHTING IN LOW ORBIT
+## Fighting in low Orbit
 
 In certain scenarios, ships can enter low
 orbit to attack a planet. Achieving low
@@ -1070,13 +934,6 @@ orbit is essential to any such attack, since
 a drop ship’s range is very limited and any
 attempt to bombard ground forces from a
 greater distance is purely up to chance.
-
-the gravity well and must use their engines
-to keep station if they don’t wish to crash.
-At the start of each player’s turn, all ships
-within 45 cm of the planet table edge are
-moved directly towards the planet (without
-changing facing or turning in any way).
 
 You will need a separate table (or section
 at one end of the main table) to represent
@@ -1089,6 +946,25 @@ the gravity well of a planet may elect to
 enter low orbit at the start of any of their
 turns – place the ship on the low orbit table,
 touching the edge furthest from the planet.
+
+Ships in low orbit do not have to move and
+capital ships do not have to move a minimum
+distance before they can turn. To represent
+interference from the planet’s gravity well
+and the outermost edges of its atmosphere,
+all firepower shooting in low orbit suffers
+one column shift to the right, lances and
+nova cannons require a 4+ roll to fire and
+torpedoes may not be fired by ships at all.
+
+Ships which move within 45 cm of the
+planet edge will be gripped in the heart of
+the gravity well and must use their engines
+to keep station if they don’t wish to crash.
+At the start of each player’s turn, all ships
+within 45 cm of the planet table edge are
+moved directly towards the planet (without
+changing facing or turning in any way).
 
 The distance that they move depends
 upon the size of the planet: small = 5 cm;
@@ -1104,22 +980,9 @@ is placed back on the main table, touching the
 edge of the planet. A ship may not enter low
 orbit and then leave it again in the same turn.
 
-Ships in low orbit do not have to move and
-capital ships do not have to move a minimum
-distance before they can turn. To represent
-interference from the planet’s gravity well
-and the outermost edges of its atmosphere,
-all firepower shooting in low orbit suffers
-one column shift to the right, lances and
-nova cannons require a 4+ roll to fire and
-torpedoes may not be fired by ships at all.
-Ships which move within 45 cm of the
-planet edge will be gripped in the heart of
-
-116
-
 Apart from this, movement and combat is
 resolved in each player’s turn as normal.
+
 If you’re limited for space, you can represent
 the low orbit table with a sheet of paper and
 markers, using a scale of 1 mm : 1 cm on the
