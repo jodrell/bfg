@@ -38,19 +38,19 @@ validation:
 
 nav:
   - What You Will Need:
-    - What You Will Need: /what-you-will-need/
+    - What You Will Need: what-you-will-need.md
   - The Turn:
-    - The Turn: /the-turn/
+    - The Turn: the-turn.md
   - The Movement Phase:
-    - The Movement Phase: /the-movement-phase/
+    - The Movement Phase: the-movement-phase.md
   - The Shooting Phase:
-    - The Shooting Phase: /the-shooting-phase/
+    - The Shooting Phase: the-shooting-phase.md
   - The Ordnance Phase:
-    - The Ordnance Phase: /the-ordnance-phase/
+    - The Ordnance Phase: the-ordnance-phase.md
   - The End Phase:
-    - The End Phase: /the-end-phase/
+    - The End Phase: the-end-phase.md
   - Squadrons:
-    - Squadrons: /squadrons/
+    - Squadrons: squadrons.md
 
 
 
