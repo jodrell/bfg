@@ -15,7 +15,6 @@ kitchen tables will do fine!
 It’s a good idea to use an old
 sheet or blanket to protect
 the table from scratches
-
 and chips. Some players
 make a special gaming
 board from chipboard or
@@ -47,19 +46,15 @@ a pen and some paper for
 noting down damage to
 ships and other details.
 
-‘You are expected at all times and in all situations to conduct yourself
-in a manner appropriate to, and mindful of, the great duties and
-traditions of the Emperor’s Most Glorious and Honourable Navy.’
-– Opening line of the Imperial Navy Articles of War
-38
+# FIRST PRINCIPLES
 
-FIRST PRINCIPLES
 At this early stage in the book
 it’s worth establishing some
 initial principles about the
 Battlefleet Gothic game.
 
-SCALE
+## SCALE
+
 First of all – space is big!
 Very, very big. Take your
 conception of a long way (i.e.
@@ -88,6 +83,8 @@ the ships actually occupy
 the point in space shown
 by the stem of their base.
 
+# TODO - INSERT IMAGE
+
 In keeping with this
 principle, movement
 distances are measured from
@@ -96,6 +93,7 @@ and distances for firing are
 measured from the stem
 of the ship’s base to the
 stem of the target model.
+
 The actual base of a ship
 model represents very close
 range around the ship, no
@@ -119,7 +117,10 @@ a ship moves so that its
 base comes into contact
 with the hazard.
 
-3D OR NOT 3D?
+# TODO - INSERT IMAGE
+
+## 3D OR NOT 3D?
+
 As well as being very big,
 space is also infinitely wide,
 high, deep etc. Despite this,
@@ -136,6 +137,7 @@ a few hundred kilometres
 higher or lower than each
 other and so have plenty of
 clear space to manoeuvre in.
+
 The reason for the lack of
 3D movement is twofold.
 Firstly, making the game
@@ -155,15 +157,15 @@ of the game, working in
 3D would complicate
 the rules immensely.
 
-39
+## DICE ROLLS
 
-DICE ROLLS
 There are lots of occasions in a battle when
 you have to roll dice to see how a ship’s
 actions turn out – how effective shooting
 is, what damage is done to an enemy
 ship, how well captains and their crews
 react to the stress of battle and so on.
+
 All dice rolls in Battlefleet Gothic use a
 standard six-sided dice (usually shortened
 to D6). Sometimes you will need to modify
@@ -171,8 +173,10 @@ the result of the dice roll. This is noted as
 D6 plus or minus a number, such as D6+1 or
 D6-2. Roll the dice and add or subtract the
 number indicated to get the final result.
-For example, D6+ 2 means roll a dice and add
-2 to the score, giving a total between 3 and 8.
+
+*For example, D6+ 2 means roll a dice and add
+2 to the score, giving a total between 3 and 8.*
+
 You may also be told to roll a number of
 dice together, which is written as 2D6, 3D6
 and so on. Roll the indicated number of
@@ -181,16 +185,20 @@ with a 2D6 roll, two dice are rolled and
 added together for a score between 2-12,
 3D6 adds together the scores of three dice
 for a total between 3 and 18 and so on.
-For example, a 2D6 roll of a 5 and a
-3 are added together to score 8.
+
+*For example, a 2D6 roll of a 5 and a
+3 are added together to score 8.*
+
 Another method used is to multiply a
 dice by a certain amount. Thus, D6×5
 means the result of a D6 roll multiplied
 by 5, giving a total between 5 and 30.
+
 Sometimes a combination of these
 methods may be used, such as 2D6+5
 giving a score between 7 and 17, or
 3D6-3 which will total 0-15.
+
 In a few rare circumstances you may be
 told to roll a D3. Since there’s no such thing
 as a three-sided dice, use the following
@@ -199,9 +207,7 @@ method for determining a score between
 rounding up. Thus a 1 or 2 equals 1, a
 3 or 4 equals 2 and a 5 or 6 equals 3.
 
-40
-
-Re-rolls
+### Re-rolls
 
 In some situations the rules allow you a re-roll
 of the dice. This is exactly as it sounds – pick
@@ -212,8 +218,10 @@ No single Special Order or other leadership
 test can be re-rolled more than once,
 regardless of the source of the re-roll.
 
-THE BEARING
-COMPASS
+## THE BEARING COMPASS
+
+## TODO - INSERT IMAGE
+
 A vital instrument in
 the game is the bearing
 compass, a circular card
@@ -231,6 +239,7 @@ quadrants so that one is in front, one is
 behind and one is to each side of the ship.
 Fire arcs and ship’s gunnery are explained in
 more detail in the Shooting Phase section.
+
 Secondly, it is used to find out what aspect
 a target is presenting to a ship firing at
 it. In this case the bearing compass is
@@ -238,8 +247,11 @@ placed over the target in the same way as
 described above. The aspect of the target is
 shown by which quadrant faces the firer.
 
-SET-UP
-Definition of Game Turns: A game turn
+## TODO - INSERT IMAGE
+
+## SET-UP
+
+**Definition of Game Turns:** A game turn
 is both player turns, so a game that lasts
 eight turns has sixteen player turns.
 Pre-measurement: You may pre-measure
@@ -247,18 +259,19 @@ movement and range unless all players agree
 not to. Note: To aid in pre-measuring, use a
 couple of empty flying bases with bearing
 compasses dropped over the stems.
-Secrecy of Fleet Lists: Fleet lists are not
+
+**Secrecy of Fleet Lists:** Fleet lists are not
 normally secret. However, to add a degree
 of subtlety to a campaign, fleet lists may
 be kept secret until the end of the game (or
 campaign) if both players agree. However,
 it must be written down, complete with
-
 all refits and point totals. If at any time
 your opponent wishes to see your fleet
 list, both players must then immediately
 reveal their fleet lists to each other.
-Secrecy of Sub-plots: Sub-plots are normally
+
+**Secrecy of Sub-plots:** Sub-plots are normally
 rolled for in front of both players at the
 beginning of the game. However, sub-plots
 may be kept secret in the same manner
@@ -271,12 +284,8 @@ must then immediately reveal them to each
 other. If kept secret, they must nonetheless
 be revealed at the end of the game.
 
-‘The whole principle of naval fighting is to be free to go
-anywhere with every damned thing the navy possesses.’
-– Captain Grenfeld of the Hammer of Justice
-41
+# SHIP TYPES
 
-SHIP TYPES
 Battlefleet Gothic allows
 you to fight space battles
 amidst the cold, bright stars
@@ -298,6 +307,7 @@ salvoes of destruction while
 their agile escort ships dart
 through the fray to slash at
 the battling leviathans.
+
 The Citadel miniatures used
 to play Battlefleet Gothic
 are referred to as ships (or
@@ -318,7 +328,7 @@ of the fleet in support of the
 escorts and form the gun
 line once battle begins.
 
-Battleships are the largest
+**Battleships** are the largest
 fighting ships in space. They
 can absorb a tremendous
 amount of damage and
@@ -332,7 +342,7 @@ manoeuvre, so they need
 support from other vessels
 to bring the enemy to battle.
 
-Escort Ships are the
+**Escort Ships** are the
 commonest warships in
 any fleet. They are fast,
 lightly armed and capable of
@@ -346,7 +356,7 @@ actions such as scouting,
 raiding, protecting transport
 ships, and chasing pirates.
 
-Cruisers are the workhorses
+**Cruisers** are the workhorses
 of any fleet. They are
 manoeuvrable, well-armed
 ships, capable of operating
@@ -364,14 +374,8 @@ heading of capital ships,
 a term which applies to
 all ships of both types.
 
-‘There is nothing better that a man can do than lay down his life
-in the service of the Emperor.’
-– Inscription at the top of the
-Gothic Monolith in the Chamber of Heroes
+## SHIP DATA SHEETS
 
-42
-
-SHIP DATA SHEETS
 Each vessel available
 in Battlefleet Gothic
 has a complete set of
@@ -381,14 +385,15 @@ how fast, manoeuvrable,
 well-armoured and
 hideously armed they are.
 
-NAME: AGRIPPA
+# TODO: INSERT TABLE
 
-The table to the right
+*The table to the right
 represents the characteristics
 for an Imperial Lunar
 class cruiser and a Murder
-class Chaos cruiser.
-Name: All ships deserve a
+class Chaos cruiser.*
+
+**Name:** All ships deserve a
 name! Well, except escorts
 maybe. Ship entries often
 have a list of some of the
@@ -396,7 +401,8 @@ most famous ships that
 fought in the Gothic War,
 so feel free to use those
 or make up your own.
-Class: Ships are not all the
+
+**Class:** Ships are not all the
 same, so they are listed as
 belonging to a particular
 class. Different classes may
@@ -417,7 +423,8 @@ Chaos cruiser. You will
 notice that while they are
 the same type their actual
 characteristics are different.
-Leadership: A ship’s
+
+**Leadership:** A ship’s
 Leadership value indicates
 how experienced and well
 trained its crew are and/or
@@ -425,138 +432,14 @@ how clever and decisive its
 captain is in combat. In a
 one-off game of Battlefleet
 Gothic the Leadership
-
-CLASS: LUNAR
-
-TYPE/HITS
-
-SPEED
-
-TURNS SHIELDS
-
-Cruiser/8
-
-20 cm
-
-45°
-
-ARMAMENT
-
-2
-
-LEADERSHIP: 7
-ARMOUR
-
-TURRETS
-
-6+ front / 5+
-
-2
-
-RANGE/SPEED FIREPOWER/STR FIRE ARC
-
-Port lance battery
-
-30 cm
-
-2
-
-Left
-
-Starboard lance battery
-
-30 cm
-
-2
-
-Right
-
-Port weapons battery
-
-30 cm
-
-6
-
-Left
-
-Starboard weapons battery
-
-30 cm
-
-6
-
-Right
-
-Prow torpedoes
-
-30 cm
-
-6
-
-Front
-
-NAME: UNCLEAN
-
-CLASS: MURDER
-
-TYPE/HITS
-
-SPEED
-
-TURNS SHIELDS
-
-Cruiser/8
-
-25 cm
-
-45°
-
-ARMAMENT
-
-2
-
-LEADERSHIP: 7
-ARMOUR
-
-TURRETS
-
-5+
-
-2
-
-RANGE/SPEED FIREPOWER/STR FIRE ARC
-
-Port weapons battery
-
-45 cm
-
-10
-
-Left
-
-Starboard weapons battery
-
-45 cm
-
-10
-
-Right
-
-Prow lance battery
-
-60 cm
-
-2
-
-Front
-
 value of ships is randomly
 generated. If the ship fights
 in an ongoing campaign its
 Leadership can improve or
 worsen depending on how
 well the ship performs.
-Type/Hits: A ship’s Type
+
+**Type/Hits:** A ship’s Type
 tells you if it is a battleship,
 cruiser or escort. Its number
 of Hits indicates how big
@@ -573,12 +456,12 @@ confused – both mean the
 same thing). Both cruisers
 in our example have 8 Hits,
 which is average for a cruiser.
-Speed: The Speed
+
+**Speed:** The Speed
 characteristic tells you how
 far a ship moves in one
 turn. Vessels can potentially
 move faster than this but
-
 the additional power output
 needed will divert energy
 from weapon systems. The
@@ -587,14 +470,16 @@ edge over the Imperial one
 in terms of speed, which
 gives it an important
 advantage in combat.
-Turns: Ships can usually turn
+
+**Turns:** Ships can usually turn
 just once during their move.
 This characteristic shows
 how sharply it can turn. In
 this case both ships can turn
 up to 45°, which is again
 about average for cruisers.
-Shields: Nearly all ships
+
+**Shields:** Nearly all ships
 are protected by powerful
 force field generators that
 can absorb or shunt aside
@@ -606,9 +491,7 @@ collapse. Both the ships
 shown have shields capable
 of absorbing two hits.
 
-43
-
-Armour: The ship’s Armour
+**Armour:** The ship’s Armour
 rating shows how well
 protected it is and/or how
 difficult it is to damage.
@@ -622,7 +505,8 @@ but the Imperial cruiser has
 a heavily armoured prow
 which makes its Armour 6+
 against shots from its front.
-Turrets: In addition to
+
+**Turrets:** In addition to
 their main armament,
 most ships carry numerous
 small, quick-firing turrets.
@@ -634,10 +518,11 @@ cruisers mount enough of
 these lighter weapons to
 have a Turrets value of 2.
 
-Armament: This section
+**Armament:** This section
 lists the ship’s main
 armament and its location.
-Range/Speed: The maximum
+
+**Range/Speed:** The maximum
 range of weapons is shown
 in centimetres. In the case
 of ordnance weapons which
@@ -650,7 +535,8 @@ see, the Lunar class cruiser
 mounts more weapon systems
 than the Murder class but
 they all have a shorter range.
-Firepower/Strength: This
+
+**Firepower/Strength:** This
 number represents how
 effective a weapons system is
 when it shoots – the higher
@@ -665,7 +551,7 @@ is counter-balanced by
 the lances and torpedoes
 of the Imperial ship.
 
-Fire Arc: Weapon systems
+**Fire Arc:** Weapon systems
 may only fire in particular
 directions depending on
 where they are mounted on
@@ -679,7 +565,8 @@ too massive and the thermal
 ‘backwash’ they create makes
 targeting almost impossible.
 
-BASE SIZE
+## BASE SIZE
+
 There are two base sizes:
 small (32 mm diameter) and
 large (60 mm diameter). Any
@@ -697,17 +584,9 @@ board due to its larger base
 size, in exchange for being
 a larger ordnance target.
 
-+ + + I N C O M I N G . O R D E R S + + + F L E E T. T O . A S S E M B L E . AT. G R I D . 5 8 6 / A .
-[ G E T H S E M A N E ] + + + L O R D . R AV E N S B U R G . C O M M A N D I N G . D I V I N E .
-RIGHT+++BATTLEGROUP.FEROCIOUS.TO.ATTEND+++BATTLEGROUP.IMPETUOUS.
-TO.ATTEND+++PATROL.FLEET.ERINYES.TO.ATTEND+++OPERATION:TOTAL.
-ERADICATION.OF.ENEMY.FORCES.BY.ALL.MEANS.NECESSARY+++MAY.THE.EMPEROR.
-GUIDE.YOUR.GUNS+++
-+++BY.YOUR.COMMAND+++PRAISE.THE.EMPEROR+++
 
-44
+# LEADERSHIP
 
-LEADERSHIP
 Even the smallest stellar craft is a marvel of
 engineering, packed with machinery and
 technology of the highest sophistication. The
@@ -724,6 +603,7 @@ how well a ship performs in combat. A ship
 under the command of an inspiring captain
 with a dedicated, well-trained crew can
 consistently outrun or outgun enemy vessels.
+
 In Battlefleet Gothic, the expertise of a
 captain and his crew is shown by the ship’s
 Leadership value: the higher it is, the better
@@ -731,7 +611,7 @@ the captain and crew. Leadership is very
 important, because ships must test against
 it if they wish to use special orders.
 
-STARTING LEADERSHIP VALUES
+## STARTING LEADERSHIP VALUES
 As mentioned earlier, in one-off games
 you roll a D6 to determine each ship’s
 Leadership value before the start of the
@@ -743,29 +623,18 @@ the leadership value rolled. Each capital
 ship rolls individually for leadership,
 even if it is in a squadron. Squadrons
 are explained fully later in the rules.
-D6 ROLL
 
-LEADERSHIP
++---------+--------------------+
+| D6 ROLL | LEADERSHIP         |
++---------+--------------------+
+| 1       | Untried (Ld 6)     |
+| 2-3     | Experienced (Ld 7) |
+| 4-5     | Veteran (Ld 8)     |
+| 6       | Crack (Ld 9)       |
++---------+--------------------+
 
-1
+# SPECIAL ORDERS
 
-Untried (Ld 6)
-
-2-3
-
-Experienced (Ld 7)
-
-4-5
-
-Veteran (Ld 8)
-
-6
-
-Crack (Ld 9)
-
-45
-
-SPECIAL ORDERS
 There are six different special orders and
 each one allows a vessel to perform better at
 something, such as gunnery or navigation,
@@ -776,68 +645,85 @@ Movement Phase by choosing a vessel
 or squadron, declaring the order and
 rolling leadership, then moving it.
 
-All Ahead Full:
+## All Ahead Full
 
 A ship going All Ahead
 Full directs more power
 to its engines to produce
 an extra burst of speed.
-Effect: Increased speed, but must
+
+**Effect:** Increased speed, but must
 move the full movement distance.
 Requirement for attempting to ram.
-Speed: Cruising speed +4D6 cm (make
-one roll for the whole squadron).
-Turns: None.
-Armament: Half effect. No Nova Cannon.
-Ordnance: Full effect.
 
-Come to New Heading:
+**Speed:** Cruising speed +4D6 cm (make
+one roll for the whole squadron).
+
+**Turns:** None.
+
+**Armament:** Half effect. No Nova Cannon.
+
+**Ordnance:** Full effect.
+
+## Come to New Heading
+
 The ship sacrifices
 opportunities to fire
 its weapons in order to
 turn more sharply.
 
-Effect: Extra turn. All the normal
+**Effect:** Extra turn. All the normal
 restrictions for turning apply to the
 second turn. This means a cruiser that
 moves 10 cm before turning must move at
 least 10 cm more before turning again.
 Speed: Half to full cruising speed.
-Turns: Up to two.
-Armament: Half effect. No Nova Cannon.
-Ordnance: Full effect.
 
-46
+**Turns:** Up to two.
 
-Burn Retros:
+**Armament:** Half effect. No Nova Cannon.
+
+**Ordnance:** Full effect.
+
+## Burn Retros
 
 The ship directs additional
 energy to its retro thrusters
 in order to kill some of
 its forward momentum
 and hold position.
-Effect: Decreased speed. Can make a single
-turn without having to move forward first.
-Speed: Zero to half cruising speed.
-Turns: Up to one.
-Armament: Half effect. No Nova Cannon.
-Ordnance: Full effect.
 
-Lock On:
+**Effect:** Decreased speed. Can make a single
+turn without having to move forward first.
+
+**Speed:** Zero to half cruising speed.
+
+**Turns:** Up to one.
+
+**Armament:** Half effect. No Nova Cannon.
+
+**Ordnance:** Full effect.
+
+## Lock On
 
 The ship maintains a
 steady course and draws
 additional energy from its
 engines to fire its armament
 in multiple salvoes.
-Effect: Re-roll hit rolls for lances and weapon
-batteries during the Shooting Phase.
-Speed: Half to full cruising speed.
-Turns: None.
-Armament: Full effect.
-Ordnance: Full effect.
 
-Reload Ordnance:
+**Effect:** Re-roll hit rolls for lances and weapon
+batteries during the Shooting Phase.
+
+**Speed:** Half to full cruising speed.
+
+**Turns:** None.
+
+**Armament:** Full effect.
+
+**Ordnance:** Full effect.
+
+## Reload Ordnance
 
 Ships start the game with
 their ordnance, such as
@@ -846,13 +732,18 @@ fully loaded and armed.
 However, once the ordnance
 has been fired or launched the vessel must
 reload before it can use its ordnance again.
-Effect: All ordnance is reloaded.
-Speed: Half to full cruising speed.
-Turns: Up to one.
-Armament: Full effect.
-Ordnance: Full effect.
 
-Brace For Impact!
+**Effect:** All ordnance is reloaded.
+
+**Speed:** Half to full cruising speed.
+
+**Turns:** Up to one.
+
+**Armament:** Full effect.
+
+**Ordnance:** Full effect.
+
+## Brace For Impact!
 
 The captain of the vessel
 orders his crew to brace for
@@ -860,50 +751,48 @@ impact; power is redirected
 to the shields, blast doors
 are slammed shut and
 the crew hang onto something secure.
-Brace For Impact special orders can be
+
+*Brace For Impact!* special orders can be
 undertaken ANY time a ship faces taking
 damage before the actual to-hit result is rolled,
 including when ramming or being rammed
 or against damage from asteroid fields.
 
-‘A magnificent ship no doubt,
-but I would rather have a crew
-who knew their airlaps from
-their transons.’
-– Admiral Rath on receiving
-command of the Emperor class
-battleship Dominus Astra
-
 It may be used to protect against critical
 damage from any kind of Hit & Run attack.
-Brace For Impact DOES NOT protect
+*Brace For Impact!* DOES NOT protect
 against critical damage caused by hits
 that were not saved against normally, nor
 any damage caused during a boarding
 action (including critical damage).
-A ship is placed on Brace For Impact! orders
+A ship is placed on *Brace For Impact!* orders
 until the end of its next turn, replacing any
 other special orders it may be on currently.
-Effect: The ship gains a saving throw of
+
+**Effect:** The ship gains a saving throw of
 4+ on a D6 against any damage. Can’t use
 any special orders at all in its next turn.
-Speed: Half to full cruising speed.
-Turns: Up to one.
-Armament: Half effect. No Nova Cannon.
-Ordnance: Half effect.
-If a ship fails to take Brace For Impact!
+
+**Speed:** Half to full cruising speed.
+
+**Turns:** Up to one.
+
+**Armament:** Half effect. No Nova Cannon.
+**Ordnance:** Half effect.
+
+If a ship fails to take *Brace For Impact!*
 orders, it cannot attempt to take them again
 until the ship, squadron or ordnance wave
 currently attacking has completed its attacks.
 
-47
+## TAKING COMMAND CHECKS
 
-TAKING COMMAND CHECKS
 In the midst of battle a captain may order his
 ships to perform special manoeuvres or direct
 more of his ship’s power to weapons or engines.
 However, in order to do this the ship undertaking
 special orders must first pass a Command check.
+
 To make a Command check, roll 2D6 and
 compare it to the ship’s Leadership value (Ld).
 If the roll is equal to or under the ship’s Ld
@@ -916,12 +805,14 @@ face uppermost as a reminder. A ship or defence
 can never be on more than one special order at
 a time unless specifically described otherwise
 in its special rules, such as a Ramilies Star Fort.
-With all of the orders except Brace For
-Impact! you must make the check in
+
+With all of the orders except *Brace For
+Impact!* you must make the check in
 the Movement Phase before moving the
 ship. Each ship or squadron may make a
 Special Order until all are under Special
 Orders or a Command Check fails.
+
 If the roll is higher than the ship’s Ld value,
 it fails the test and may not go onto special
 orders. Furthermore, once you have failed a
@@ -932,13 +823,15 @@ imagined that the delays and confusion in trying
 to get that particular ship to perform special
 orders means that the opportunity has passed
 for any further special orders to be issued.
+
 When rolling special orders, a decision to
 use free command checks (such as with an
-Elite Command Crew or when Orks use All
-Ahead Full special orders) must be taken
+Elite Command Crew or when Orks use *All
+Ahead Full* special orders) must be taken
 before a special order is failed. Once special
 orders are failed, no more special orders
 can be declared except Brace For Impact!
+
 Only one re-roll can be spent on a vessel
 or squadron per leadership check. In other
 words, if a vessel or squadron fails a leadership
@@ -946,14 +839,7 @@ check and then fails a re-roll, another reroll cannot be expended on it for the 
 leadership check or special orders on that
 vessel, even if more re-rolls are available.
 
-48
-
-‘The Emperor is master of
-the galaxy, but the captain
-is master of his ship.’
-– Popular naval saying
-
-Command check modifiers
+### Command check modifiers
 
 Some circumstances will make it easier or
 harder for a vessel to use special orders.
@@ -965,7 +851,7 @@ modified higher than Leadership 10. A
 leadership check roll of 11 or 12 always fails
 unless SPECIFICALLY stated otherwise.
 
-Under Fire -1
+#### Under Fire -1
 
 If a ship has Blast Markers in contact with
 its base, it is under fire and suffers a -1
@@ -976,7 +862,7 @@ knowing that they represent weapon impacts,
 debris clouds, and other impediments
 to calm and orderly ship operation.
 
-Enemy Contacts + 1
+#### Enemy Contacts + 1
 
 Enemy ships on special orders create
 anomalous energy emissions which make
@@ -984,7 +870,8 @@ it much easier for the ship to detect them
 and react quickly. For this reason the ship
 gains a +1 modifier to its Leadership value
 if any enemy ships are on special orders.
-For example, the Imperial cruiser Agrippa
+
+*For example, the Imperial cruiser Agrippa
 (Leadership 7) wants to use All Ahead Full
 orders to catch up with the Chaos cruiser
 Unclean. The Chaos cruiser used Lock On
@@ -992,9 +879,9 @@ orders last turn so the Agrippa gets a +1
 modifier to its Leadership value. Rolling
 2D6 the Imperial player gets a 2 and 6 for a
 total of 8 and passes its Command check by
-equalling its modified Leadership value.
+equalling its modified Leadership value.*
 
-Other Leadership Tests
+### Other Leadership Tests
 
 Sometimes a ship will have
 to test against its Leadership
@@ -1029,9 +916,8 @@ tests – such modifiers
 are unique to command
 checks for special orders.
 
-49
+# THE TURN
 
-THE TURN
 A game of Battlefleet Gothic is unlike many other games such
 as chess or draughts where you only move one piece at a time. A
 tremendous amount of action takes place in a real battle: ships
@@ -1051,6 +937,7 @@ move and fight with his ships
 first, then player B will move
 and fight and then player A
 will move and fight again, etc.
+
 In his turn a player can move
 and fight with all of his ships.
 For convenience, moving and
@@ -1063,6 +950,7 @@ helps everyone keep track of
 what’s going on and makes
 it easier to know when each
 player’s actions are finished.
+
 In a turn the player performs
 his actions in the appropriate
 phases – the move, shoot
@@ -1071,9 +959,8 @@ precise. Exactly what happens
 in each phase is described in
 The Turn Sequence later.
 
-50
+## WHO GETS THE FIRST TURN
 
-WHO GETS THE FIRST TURN
 Which player gets the first
 turn of the game can be
 determined in a number of
@@ -1087,12 +974,14 @@ you are fighting will decide
 it for you. For example, in an
 ambush the attacking side
 will always get the first turn.
+
 Fighting all sorts of
 different battles is covered
 in more detail in the
 Scenarios section later.
 
-ENDING THE BATTLE
+## ENDING THE BATTLE
+
 A battle can end in a number
 of different ways. Most
 commonly in Battlefleet
@@ -1110,16 +999,18 @@ Alternatively you might decide
 to end a battle at a preset time
 if you only have a limited
 amount of time to play in.
+
 Different ways of ending
 the battle are discussed
 in more detail in the
 Scenarios section.
 
-EXCEPTIONS
+## EXCEPTIONS
+
 There are times when a player
 will perform certain actions
 when it is not their turn,
-such as Brace for Impact!
+such as *Brace for Impact!*
 for example. It may also be
 convenient to interrupt a
 player’s turn because of some
@@ -1130,23 +1021,12 @@ that the turn sequence will
 always continue after the
 interruption as normal.
 
-TURN SEQUENCE
-1. THE MOVEMENT PHASE 2. THE SHOOTING PHASE
+# TURN SEQUENCE
 
-4. THE END PHASE
+## 1. THE MOVEMENT PHASE
 
 This is when a player
 moves his ships.
-
-Both players may attempt
-to repair critical damage
-which has been inflicted
-on their ships: D6 Blast
-Markers are also removed
-by the player whose turn it
-is. See the End Phase rules
-for more about repairs and
-removing Blast Markers.
 
 The player begins by
 removing any special
@@ -1155,6 +1035,7 @@ turn (except for ships on
 Brace for Impact! orders.
 They are stuck with
 them for this turn).
+
 Next, the player moves his
 ships and squadrons one at
 a time. In this phase he may
@@ -1173,6 +1054,8 @@ position. See the Movement
 rules for more details about
 how to move your ships.
 
+## 2. THE SHOOTING PHASE
+
 Players may fire at each
 other’s vessels during
 this part of the turn.
@@ -1183,7 +1066,8 @@ vessels. See the Shooting
 rules for more details about
 how to resolve shooting.
 
-3. THE ORDNANCE PHASE
+## 3. THE ORDNANCE PHASE
+
 Both players may move any
 Ordnance markers (such
 as torpedoes or fighter
@@ -1193,10 +1077,21 @@ been launched in a previous
 turn. See the Ordnance
 rules for more details.
 
-51
+## 4. THE END PHASE
 
-THE MOVEMENT PHASE
-During the Movement Phase, vessels manoeuvre into position to
+Both players may attempt
+to repair critical damage
+which has been inflicted
+on their ships: D6 Blast
+Markers are also removed
+by the player whose turn it
+is. See the End Phase rules
+for more about repairs and
+removing Blast Markers.
+
+# THE MOVEMENT PHASE
+
+**During the Movement Phase, vessels manoeuvre into position to
 begin battle. Moving your battlefleet into the right position to rain
 destruction upon your opponent is vital – some ships need to keep
 their distance while others need to come to grips at close quarters. The
@@ -1204,17 +1099,10 @@ Movement Phase is filled with opportunities. By moving your ships
 you can surround a target and destroy it, smash through the heart of
 an opposing fleet, lurk behind planets and moons, flee from powerful
 enemies, even set traps to lure unwary foes to their destruction. A wise
-admiral can achieve all this and more in the Movement Phase.
+admiral can achieve all this and more in the Movement Phase.**
 
-‘Blessed be the coruscating plasma of the engine room,
-Spiritus Machina protect us from thy burning doom.
-Harness unto our will the power of light,
-Let conduit and coil work alright.’
-– Catechism of the Engin-near
+# BASIC MOVES
 
-52
-
-BASIC MOVES
 A player may move each
 ship up to its standard move
 distance each turn. Once
@@ -1224,21 +1112,23 @@ selects another and moves
 that one and so on until
 he has moved all the ships
 he wishes to move.
+
 This can be summarised as:
+
 1. Choose a ship to move.
-2. Move the ship up to its
-maximum move distance.
-3. Choose another
-ship to move.
+2. Move the ship up to its maximum move distance.
+3. Choose another ship to move.
+
 Note that a player has to
 move his ships unless they
-use the Burn Retros special
+use the *Burn Retros* special
 order to remain stationary.
 A ship has to move at least
 5 cm to not count as defences
 against the Gunnery Table.
 
-MOVE DISTANCE
+## MOVE DISTANCE
+
 Ships are pushed through
 the firmament by the
 most powerful engines
@@ -1256,7 +1146,7 @@ Lunar class cruiser has
 a speed of 20 cm.
 A ship’s normal move may
 be increased by using the
-All Ahead Full special order
+*All Ahead Full* special order
 that follows. A vessel’s move
 
 can also be decreased in
@@ -1269,13 +1159,13 @@ moves through Blast Markers
 will be slowed slightly by the
 shockwaves and explosions.
 
-Minimum Move Distance
+### Minimum Move Distance
+
 Ships moving under engines
 retain enormous amounts
 of momentum. If a vessel
 slows down without the
 correct preparations, it is so
-
 big that there is a very real
 chance that its structure
 will be damaged because the
@@ -1284,7 +1174,7 @@ moving at the same speed.
 Because of this, ships must
 always move at least half
 of their speed unless they
-use the Burn Retros special
+use the *Burn Retros* special
 order, detailed below. Ships
 who are unable to move
 half their speed (due to
@@ -1292,53 +1182,52 @@ damage, Blast Markers, etc.)
 must move the maximum
 possible distance instead.
 
-53
+> #### Special Order: *All Ahead Full*
+> 
+> A ship can move faster
+> than its basic cruising
+> speed by using the
+> All Ahead Full special
+> order. Using All Ahead
+> Full orders means that
+> a ship cannot turn and
+> its firing ability is less
+> effective, as explained
+> in the Shooting rules.
+> All Ahead Full orders
+> are most useful for
+> closing in on a distant
+> foe or escaping from
+> a deadly situation.
+> See pg. 46 for all effects.
 
-Special Order:
-All Ahead Full
+<br>
 
-A ship can move faster
-than its basic cruising
-speed by using the
-All Ahead Full special
-order. Using All Ahead
-Full orders means that
-a ship cannot turn and
-its firing ability is less
-effective, as explained
-in the Shooting rules.
-All Ahead Full orders
-are most useful for
-closing in on a distant
-foe or escaping from
-a deadly situation.
-See pg. 46 for all effects.
+> #### Special Order: Burn Retros
+> 
+> A ship can move
+> slower than half its
+> basic cruising speed by
+> using the Burn Retros
+> special order, or even
+> remain stationary
+> (hold station). A ship
+> can make a single turn
+> without having to move
+> forward first but its
+> firing is less effective.
+> Burn Retros orders
+> are handy for holding
+> back, when moving at
+> full speed would bring
+> you within range of
+> an enemy’s guns, or
+> would cause a ship to
+> crash into asteroids.
+> See pg. 46 for all effects.
 
-Special Order:
-Burn Retros
+## TURNING
 
-A ship can move
-slower than half its
-basic cruising speed by
-using the Burn Retros
-special order, or even
-remain stationary
-(hold station). A ship
-can make a single turn
-without having to move
-forward first but its
-firing is less effective.
-Burn Retros orders
-are handy for holding
-back, when moving at
-full speed would bring
-you within range of
-an enemy’s guns, or
-would cause a ship to
-crash into asteroids.
-See pg. 46 for all effects.
-
-TURNING
 The bigger a ship, the slower
 it will turn. While light
 escort ships are quite agile,
@@ -1348,6 +1237,7 @@ a cruiser applying thrust
 and turning is considerable.
 Battleships take even
 longer to manoeuvre.
+
 When ships move they have
 to travel in a straight line,
 directly ahead. However,
@@ -1356,6 +1246,7 @@ as part of their movement
 unless they are using special
 orders which prevent
 them from doing so.
+
 A ship can turn by a
 maximum of either 45°
 or 90°, how sharp a turn
@@ -1369,104 +1260,118 @@ movement before turning. By
 way of example, the Imperial
 Lunar class cruiser is able
 to make turns of up to 45°.
+
 Large ships have to move a
 certain distance before they
 are allowed to make a turn.
 The distance they must travel
 depends on their type:
-• A battleship must
+
+* A battleship must
 move 15 cm before it
 can execute a turn.
-• A cruiser must move
+* A cruiser must move
 10 cm before it can
 execute a turn.
-• An escort ship can
+* An escort ship can
 execute a turn at any
 point in its move.
 
-54
+# TODO - INSERT IMAGES
 
-Special Order:
-Come To New
-Heading
+> #### Special Order: *Come To New Heading*
+> 
+> A ship can turn more
+> sharply by using the
+> Come To New Heading
+> special order. It may
+> make an extra turn
+> during its movement.
+> Using Come To New
+> Heading means that
+> a ship is less effective
+> in the Shooting Phase
+> as explained in the
+> Shooting rules. Come
+> To New Heading orders
+> are best used either
+> for turning to get a
+> more favourable attack
+> angle on an enemy as
+> it attempts to escape,
+> or to outmanoeuvre
+> a larger enemy ship.
+> See pg. 46 for all effects.
+<br>
 
-A ship can turn more
-sharply by using the
-Come To New Heading
-special order. It may
-make an extra turn
-during its movement.
-Using Come To New
-Heading means that
-a ship is less effective
-in the Shooting Phase
-as explained in the
-Shooting rules. Come
-To New Heading orders
-are best used either
-for turning to get a
-more favourable attack
-angle on an enemy as
-it attempts to escape,
-or to outmanoeuvre
-a larger enemy ship.
-See pg. 46 for all effects.
-
-ALL AHEAD FULL – RAMMING SPEED!
-A ship moving at All Ahead Full may attempt
+## ALL AHEAD FULL – RAMMING SPEED!
+A ship moving at *All Ahead Full* may attempt
 to ram an enemy vessel. As Battlefleet Gothic
 is a 2D representation of 3D space, a ship
 cannot attempt to ram more than one ship
 per Movement Phase, even if multiple enemy
 vessels are in its range of movement.
-When the All Ahead Full command check is
+
+When the *All Ahead Full* command check is
 passed, the owning player must declare which
 ship it is attempting to ram and make the
 appropriate leadership test to do so before rolling
 the number of additional D6 cm it will move
-All Ahead Full. This choice cannot be changed
+*All Ahead Full*. This choice cannot be changed
 if the ramming ship ends its movement in base
 contact with more than one vessel or does not
 reach the intended vessel. The number of ships
 it “moves through” or ends in contact with does
 not change or alter this.
+
 Take a Leadership test for the ramming ship:
 if the test is passed, the captain skillfully
 manoeuvres his ship into a ramming position.
 If the test is failed, the would-be rammer
 misses the target and moves normally (under
-All Ahead Full).
+*All Ahead Full*).
+
 Obviously, it’s easier for an escort to ram a
 battleship than the other way round.
 There are four sizes concerning the separate
 leadership check to ram. From biggest to smallest:
 Defence > Battleship > Cruiser > Escort
+
 If the target vessel is of a smaller type than the
 ramming one, the Leadership test is taken on 3D6.
+
 If the target vessel is of the same type than the
 ramming one, the Leadership test is taken on 2D6.
 
-For example, the Imperial Lunar class cruiser
+If the target vessel is of a larger type than the
+ramming one, the Leadership test is taken on 1D6.
+
+*For example, the Imperial Lunar class cruiser
 Agrippa would take a Leadership test on
 2D6 to ram another cruiser, on 3D6 to ram
-an escort or 1D6 to ram a battleship.
+an escort or 1D6 to ram a battleship.*
+
 A ship does not have to make a separate
 leadership check to ignore closer targets to
 ram one further away.
+
 The ship now must move its FULL distance,
 including any extra distance moved for being
-All Ahead Full.
+*All Ahead Full*.
+
 Ramming is determined by base-to-base
 contact. If any part of the ramming ship’s
 base contacts any part of the rammed ship’s
 base in the course of its movement, the ram
 is considered to be successful. Pause the
 movement and resolve the ram attempt.
+
 Roll 1D6 for each point of its starting damage
 capacity (not the damage capacity it has
 left). Any dice that equal or beat the target’s
 armour value score a point of damage on it.
 Damage from rams is not deflected by shields.
+
 The ramming ship may well suffer damage
 too, so the vessel being rammed rolls a
 number of D6 equal to half its starting
@@ -1476,24 +1381,11 @@ a point of damage. If the vessels are hitting
 head on (i.e. front to front) the rammed
 or defence vessel rolls a number of dice
 equal to its full starting damage capacity.
+
 Once the ram attempt is resolved, the
 ramming ship continues its movement.
 
-If the target vessel is of a larger type than the
-ramming one, the Leadership test is taken on 1D6.
-
-55
-
-RAMMING SUMMARY
-Ramming ship: Roll a number of
-D6 equal to its starting damage.
-Rammed ship hit from the side or
-rear: Roll a number of D6 equal
-to half its starting damage.
-Rammed ship hit from the front
-or Defence: Roll a number of D6
-equal to its starting damage.
-Ramming example: The Agrippa, a Lunar
+*<strong>Ramming example:</strong> The Agrippa, a Lunar
 class cruiser, rams the Unclean, a Murder class
 Chaos cruiser in the starboard side. The
 Agrippa had a starting damage capacity of 8 so
@@ -1504,7 +1396,8 @@ the Unclean (with a starting damage capacity
 of 8) rolls 4D6 to damage the Agrippa (which
 has armour 6 on the front thanks to its
 armoured prow) rolling 3, 3, 5, 6 and scoring 1
-point of damage.
+point of damage.*
+
 If either ship is destroyed and explodes
 due to ramming, the explosion (and any
 subsequent hits) is resolved at that moment.
@@ -1515,20 +1408,31 @@ finish the ramming ships movement as
 normal, but unless it has special rules to
 navigate Blast Markers it will be slowed
 by Blast Markers from the explosion.
+
 While a ramming vessel may later attempt
 to board or shoot, it may only attempt
 to board a vessel if it ends up in base
 contact with one at the end of its full
 movement. This does not necessarily have
 to be the same vessel it just rammed.
+
 When ramming defences, they always roll
 their full number of starting damage capacity
 to damage the ramming ship as if prow-on, as
 defences are more solidly built than ships are.
 
-56
+> #### RAMMING SUMMARY
+> Ramming ship: Roll a number of
+> D6 equal to its starting damage.
+> Rammed ship hit from the side or
+> rear: Roll a number of D6 equal
+> to half its starting damage.
+> Rammed ship hit from the front
+> or Defence: Roll a number of D6
+> equal to its starting damage.
 
-DISENGAGING FROM COMBAT
+## DISENGAGING FROM COMBAT
+
 Sometimes it’s better to run away and fight
 another day. A ship may be crippled with
 no hope of defeating its attackers, or just
@@ -1541,40 +1445,33 @@ its energy emissions. With luck the vessel will
 simply drift out of the immediate battle area
 and can set course for home once it’s clear
 of the fighting. Sometimes it even works ...
+
 A vessel that moves off of the table edge
 during play for any reason counts as being
 disengaged. Or, in order to disengage,
 a ship or escort squadron must pass a
 Leadership test at the end of its Movement
 Phase with the following modifiers:
-CIRCUMSTANCE
 
-MODIFIER
++--+--+
+| CIRCUMSTANCE | MODIFIER |
+| Each Blast Marker within 5 cm | +1 |
+| Any celestial phenomena within 15 cm | +3* |
+| Each enemy ship or Ordnance | marker within 15 cm | -1 |
++--+--+
 
-Each Blast Marker within 5 cm
-
-+1
-
-Any celestial phenomena within 15 cm
-
-+3*
-
-Each enemy ship or Ordnance
-marker within 15 cm
-
--1
-
-* This is for a tabletop feature such as
+** This is for a tabletop feature such as
 an asteroid field or planet. If a tabletop
 effect such as a radiation burst or
 solar flare is taking place this bonus
-applies anywhere on the tabletop.
+applies anywhere on the tabletop.*
+
 All positive and negative modifiers must
 be added together before determining
 the leadership check, even though check
 rolls of 11 or 12 still automatically fail.
 
-For instance, a ship or escort
+*For instance, a ship or escort
 squadron with Ld9 attempts
 to disengage after moving
 within 5 cm of three Blast
@@ -1588,7 +1485,8 @@ now Ld13 because these
 must all be added together
 BEFORE the roll, the player
 must still roll no higher than
-10 to not fail the check.
+10 to not fail the check.*
+
 If the test is passed, the
 disengaging ship is removed
 from the tabletop and may
@@ -1597,18 +1495,21 @@ If the test is failed the ship
 remains in play but may
 not fire, launch ordnance
 or attempt to use special
-orders (except Brace for
-Impact!) during the turn.
+orders (except *Brace for
+Impact!*) during the turn.
+
 Any ship or squadron that,
 through a combination
 of effects, is reduced to
 Leadership 1 or less must
 attempt to disengage or move
 toward the closest table edge.
+
 A vessel not hulked that
 moves off of the table edge
 during play for any reason
 counts as being disengaged.
+
 An escort squadron that
 successfully disengages
 only counts as being 10%
@@ -1636,6 +1537,7 @@ vessels to keep leadership or
 victory point benefits, then
 pushing the rest of them in
 a suicide run at the enemy.
+
 Capital ships in a squadron
 may disengage separately,
 relying on their individual
@@ -1649,6 +1551,7 @@ it. This is in addition to
 all other effects for ships
 that fail to disengage when
 attempting to do so.
+
 A ship that disengages
 successfully counts as 10% of
 its point value for the enemy,
@@ -1659,8 +1562,8 @@ point value if it remains
 on the table at the end of
 the game but is crippled.
 
-FLYING BASES
-OVERLAPPING
+## FLYING BASES OVERLAPPING
+
 As ships can overlap by flying
 over/under one another it is
 possible to stack ships. When
@@ -1672,7 +1575,6 @@ best to have a few stemless
 flying bases around with
 a straight line drawn from
 the central hole to the bases
-
 edge to indicate direction. If
 desired, numbered contact
 markers can be used for
@@ -1683,8 +1585,7 @@ this as described in the
 section on Blast Markers,
 but it is completely legal.
 
-STACKING SHIPS AND
-ESCORT SQUADRONS
+## STACKING SHIPS AND ESCORT SQUADRONS
 Cruisers and escorts can
 be stacked to follow the
 movement of battleships
@@ -1701,12 +1602,14 @@ of movement or to attain a
 particular shooting solution
 and should not be used
 solely because it is allowed.
+
 When a ship is forced
 to stand still, it counts
 as being targeted as
 Defences. Minimum move
 distance to not count as
 defences is at least 5 cm.
+
 At no time do ships count
 as moving simultaneously
 (even if in a squadron) and
@@ -1714,35 +1617,18 @@ must always be moved one at
 a time, in any order desired
 by the owning player.
 
-57
+# THE SHOOTING PHASE
 
-THE SHOOTING PHASE
-In the Shooting Phase, your ships get to unleash their weaponry
+**In the Shooting Phase, your ships get to unleash their weaponry
 against the enemy. The attacks that ships make are divided into two
 sorts: direct firing and ordnance attacks. Direct fire attacks include
 weapons such as lasers, fusion beams and plasma launchers which
 when fired hit almost immediately, even across tens of thousands
 of kilometres. Ordnance attacks include torpedoes and fighters,
 which are launched during the Shooting Phase but are not resolved
-until they hit their target in a subsequent Ordnance Phase.
+until they hit their target in a subsequent Ordnance Phase.**
 
-‘T
-
-he Incendrius shuddered as the fire from our gun-decks
-continued. Broadside after broadside was levelled into the grand
-cruiser’s prow, smashing through their shields and making a ruin of her
-bow armour. The enemy tried to turn sharply to bring her own batteries
-to bear, but Captain Grendl was expecting this and we moved with
-them, still pouring a torrent of plasma into the twisted and wrecked
-prow. Flames were licking along the port side of the traitor’s hull now,
-as ruptures in her armour sent pressurised air flooding into the ether,
-ignited by the plasma bolts that were continually raining down.’
-– Extract from the log of Third Lieutenant Brass
-on the destruction of the Bringer of Despair by the Incendrius
-
-58
-
-DIRECT FIRE
+# DIRECT FIRE
 
 Direct firing uses a ship’s
 weapons batteries, lances
@@ -1750,6 +1636,7 @@ and nova cannon. A player
 can make direct fire
 attacks with each of his
 ships during his turn.
+
 In order to make direct fire
 attacks, the firing ship must
 have at least some weapons
@@ -1761,9 +1648,15 @@ fires that one and so on
 until the player has fired all
 of the ships he wants to.
 
-RANGE
+This can be summarised as:
 
-FIRE ARCS
+1. Choose a ship to fire.
+2. Check the ship has targets within range.
+3. Check the ship has weapons within fire arc of the target.
+4. Resolve firing.
+5. Choose another ship to fire.
+
+## RANGE
 
 Measure the range from
 the firing ship to the
@@ -1779,43 +1672,38 @@ of the models’ bases as a
 pair of convenient centre
 points for checking range.
 
+# TODO: INSERT IMAGE
+
+*In the example above the
+Unclean is firing on the
+Agrippa. The Unclean is
+34 cm away so its weapons
+batteries (range 45 cm) are
+within range.*
+
+# FIRE ARCS
+
 Weapons have a limited field
 of fire depending on where
 they are mounted on the
 vessel. The different fire arcs
 are: front, left, right and rear.
 
-A weapons system must
+# TODO: INSERT IMAGE
+
+*A weapons system must
 have a target ship within
-its fire arc in order to fire.
+its fire arc in order to fire.*
 
-This can be summarised as:
-1. Choose a ship to fire.
-2. Check the ship has
-targets within range.
-3. Check the ship has
-weapons within fire
-arc of the target.
-4. Resolve firing.
-5. Choose another
-ship to fire.
+# TODO: INSERT IMAGE
 
-In the example above the
-Unclean is firing on the
-Agrippa. The Unclean is
-34 cm away so its weapons
-batteries (range 45 cm) are
-within range.
-
-The Unclean has the Agrippa
+*The Unclean has the Agrippa
 in its right fire arc, so it
 may fire at it with any of
 its weapons which can be
-brought to bear in that arc.
+brought to bear in that arc.*
 
-59
-
-Some weapon systems can
+Some weapon systems can
 shoot into more than one fire
 arc. For example, many cruisers
 have weaponry in a dorsal
@@ -1830,17 +1718,14 @@ at a particular target. These
 weapons or effects always affect
 all around the firing vessel.
 
-Multiple Targets
+When shooting and the line of
+fire is on the line in-between
+arcs, the shooting player
+chooses which arcs to use,
+whether it is the attacking or
+defending ship.
 
-Normally a ship will be in a
-position where only some of
-its weapon systems can be
-brought to bear against the
-closest enemy. Unengaged
-weapons may still be fired
-at other targets, providing
-that the closest enemy is shot
-at as a matter of priority.
+## TARGET PRIORITY
 
 Enemies at close range
 pose a much greater threat
@@ -1853,20 +1738,28 @@ fire at whatever targets you
 like if it takes and passes a
 Leadership test on 2D6 first.
 
-In the example above
+### Multiple Targets
+
+Normally a ship will be in a
+position where only some of
+its weapon systems can be
+brought to bear against the
+closest enemy. Unengaged
+weapons may still be fired
+at other targets, providing
+that the closest enemy is shot
+at as a matter of priority.
+
+# TODO: INSERT IMAGE
+
+*In the example above
 the Unclean may fire
 its left arc weaponry
 against the Iron Duke
 and its right arc weaponry
-against the Agrippa.
+against the Agrippa.*
 
-A target’s orientation depends upon which fire
-arc the firing vessel is in, as shown in the
-diagram. Match this with the target’s type to
-find out which column of the Gunnery table to
-use.
-
-60
+## DIRECT FIRING: LANCES
 
 Lances are incredibly
 high-powered energy
@@ -1881,18 +1774,7 @@ triple energy projectors that
 focus into a concentrated
 beam of destruction.
 
-Lance Rules
-
-When shooting and the line of
-fire is on the line in-between
-arcs, the shooting player
-chooses which arcs to use,
-whether it is the attacking or
-defending ship.
-
-TARGET PRIORITY
-
-DIRECT FIRING: LANCES
+### Lance Rules
 
 If a lance weapon system is
 within range and fire arc of
@@ -1908,22 +1790,33 @@ weapon strength between
 targets but must still make
 a leadership check to fire on
 any target besides the closest.
-For example, the Agrippa has
+
+*For example, the Agrippa has
 lances that have a Strength
 of 2. If the vessel were to fire
 them, it would roll 2D6 and
 score one hit for each dice
-which rolled a 4 or more.
+which rolled a 4 or more.*
 
-The Unclean opens fire with its starboard (right)
+# TODO: INSERT IMAGE
+
+*A target’s orientation depends upon which fire
+arc the firing vessel is in, as shown in the
+diagram. Match this with the target’s type to
+find out which column of the Gunnery table to
+use.*
+
+# TODO: INSERT IMAGE
+
+*The Unclean opens fire with its starboard (right)
 weapons batteries. The weapons have a firepower
 of 10 and the Agrippa is a closing capital ship
 which on the Gunnery table means that the
 Unclean rolls 7D6. The Agrippa’s front armour
-rating is 6 so the Unclean needs to roll 6s to hit.
+rating is 6 so the Unclean needs to roll 6s to hit.*
 
-DIRECT FIRING:
-WEAPONS BATTERIES
+## DIRECT FIRING: WEAPONS BATTERIES
+
 Weapons batteries form
 the main armament for
 most warships, ensuring
@@ -1942,7 +1835,7 @@ pattern of shots to catch
 the target in the middle of a
 maelstrom of destruction.
 
-Weapons Battery Rules
+### Weapons Battery Rules
 
 If a ship’s weapons battery
 is within range and fire
@@ -1952,6 +1845,7 @@ the ship’s data sheet. Then
 look up the target’s type
 and orientation on the
 Gunnery table that follows.
+
 If a ship or squadron is firing
 multiple weapons that rely
 on the gunnery, they may
@@ -1973,6 +1867,7 @@ Cannons can hit after
 weapons batteries have taken
 down shields for instance,
 or vice versa if desired.
+
 Find your total firepower
 on the column on the left
 of the table. Next look
@@ -1980,11 +1875,13 @@ across the top of the table
 to find the target type
 you are shooting at.
 
-The target’s orientation is
+# TODO: INSERT IMAGE
+
+*The target’s orientation is
 worked out by tracing the line
 of fire to its base and using the
 bearing compass to see which
-aspect is facing the firer.
+aspect is facing the firer.*
 
 Which way the target is
 travelling is important for
@@ -1993,6 +1890,7 @@ much harder to hit a target
 moving across your sights
 (i.e. abeam) than one closing
 or moving away from you.
+
 By cross referencing the
 total firepower of the attack
 with the target type and
@@ -2002,6 +1900,7 @@ to hit. Each dice roll which
 equals or beats the target’s
 Armour value scores a hit and
 inflicts 1 point of damage.
+
 Any battery weapon that
 always counts targets as
 closing on the gunnery
@@ -2009,6 +1908,7 @@ table still uses the far left
 column when targeting
 defences, applying any
 modifiers as applicable.
+
 If a combination of ships in
 a squadron has a firepower
 value greater than 20, look
@@ -2020,9 +1920,7 @@ Carnages can have up to
 firepower 32 in one broadside,
 or firepower (20+12).
 
-61
-
-Gunnery Modifiers
+### Gunnery Modifiers
 
 Sometimes conditions will affect how difficult
 a target is to hit. Ships at very long range
@@ -2034,6 +1932,7 @@ detail later, but for now it’s worth knowing
 that they can make a target harder to hit.
 Even weapon batteries that always count as
 closing can be affected by these modifiers.
+
 Modifiers are applied in the form of column
 shifts. A good modifier (such as being at
 close range) means that you move across
@@ -2042,184 +1941,36 @@ when you work out how many Hit dice to
 roll. A bad modifier (such as being at long
 range) means you move across one column
 to the right. No target aspect or modifier can
-
 adjust shooting beyond the far left or right
 columns on the gunnery table. The gunnery
 modifiers are summarised as follows:
 
-Modifiers:
+### Modifiers:
 
 Target within 15 cm – shift one column left
+
 Target more than 30 cm away
 – shift one column right
+
 Target behind intervening Blast
 Markers – shift one column right
-For example, as shown earlier, the Unclean
-firing at the Agrippa rolls 7D6. If the Agrippa
+
+For example, as shown earlier, the *Unclean*
+firing at the *Agrippa* rolls 7D6. If the *Agrippa*
 were within 15 cm you would shift one column
-left on the Gunnery table and the Unclean
-would roll 9D6 instead. If the Agrippa was
+left on the Gunnery table and the *Unclean*
+would roll 9D6 instead. If the *Agrippa* was
 over 30 cm away the column shift to the right
-would mean the Unclean rolled 5D6 instead.
+would mean the *Unclean* rolled 5D6 instead.
 
-GUNNERY TABLE
-CLOSING
+# TODO - INSERT GUNNERY TABLE
 
-CAPITAL SHIPS
+*<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the Gunnery table.
+If a squadron has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
 
-MOVING AWAY
+*\*Defences (for example ground based defences and satellites) and ordnance targets are not affected by orientation. A ship must move at least 5 cm to not be targeted as defences.*
 
-ESCORTS
-CAPITAL SHIPS
-
-ABEAM
-
-FIREPOWER
-
-SPECIAL*
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-
-ESCORTS
-CAPITAL SHIPS
-
-DEFENCES
-1
-2
-3
-4
-5
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-14
-15
-16
-17
-18
-
-ESCORTS
-ORDNANCE
-
-1
-1
-2
-3
-4
-4
-5
-6
-6
-7
-8
-8
-9
-10
-11
-11
-12
-13
-13
-14
-
-1
-1
-2
-2
-3
-3
-4
-4
-5
-5
-6
-6
-7
-7
-8
-8
-9
-9
-10
-10
-
-0
-1
-1
-1
-2
-2
-2
-3
-3
-4
-4
-4
-5
-5
-5
-6
-6
-6
-7
-7
-
-0
-0
-1
-1
-1
-1
-1
-2
-2
-2
-2
-2
-3
-3
-3
-3
-3
-4
-4
-4
-
-Notes: To save space, both cruisers and battleships are referred to as capital ships on the Gunnery table.
-If a squadron has a firepower value greater than 20, look up 20 and the remaining
-value separately and add them together. For example, a squadron of two Carnage
-cruisers can have up to firepower 32 in one broadside, or firepower (20+12).
-*Defences (for example ground based defences and satellites) and ordnance targets are not
-affected by orientation. A ship must move at least 5 cm to not be targeted as defences.
-
-62
-
-Splitting Fire
+### Splitting Fire
 
 A ship can elect to split the
 firepower of its weapon
@@ -2229,9 +1980,11 @@ only after halving the effect
 of the weaponry as a result
 of special orders, crippling
 damage and so on.
+
 You cannot split weapons
 battery or lance fire of any
 type at a single target!
+
 Ships with multiple weapons
 in a given fire arc may
 split their weapon strength
@@ -2240,38 +1993,38 @@ targets but must still make
 a leadership check to fire on
 any target besides the closest.
 
-Special Order:
-Lock On
+> #### Special Order: *Lock On*
+> 
+> A ship can increase
+> the accuracy of its
+> firing by using the
+> Lock On special order.
+> The ship may re-roll
+> any dice to hit for
+> lances and weapons
+> batteries, during the
+> Shooting Phase. Any
+> dice which missed
+> are simply picked up
+> and rolled again. A
+> ship using Lock On
+> orders may not turn
+> during its Movement
+> Phase because it must
+> maintain a steady
+> course and direct
+> additional power to its
+> weapon systems. Lock
+> On orders are really
+> useful when an enemy
+> vessel is within range
+> and no course changes
+> will be needed to bring
+> weapons to bear.
+> See pg. 46 for all effects.
 
-A ship can increase
-the accuracy of its
-firing by using the
-Lock On special order.
-The ship may re-roll
-any dice to hit for
-lances and weapons
-batteries, during the
-Shooting Phase. Any
-dice which missed
-are simply picked up
-and rolled again. A
-ship using Lock On
-orders may not turn
-during its Movement
-Phase because it must
-maintain a steady
-course and direct
-additional power to its
-weapon systems. Lock
-On orders are really
-useful when an enemy
-vessel is within range
-and no course changes
-will be needed to bring
-weapons to bear.
-See pg. 46 for all effects.
+## NOVA CANNON
 
-NOVA CANNON
 A nova cannon is a huge
 weapon, normally mounted
 in the prow of a ship so
@@ -2288,7 +2041,7 @@ after firing, unleashing a
 force more potent than a
 dozen plasma bombs.
 
-Nova Cannon Rules
+### Nova Cannon Rules
 
 The correct dimensions of
 the Nova Cannon template
@@ -2305,10 +2058,30 @@ line. Use the larger hole in
 the centre of the template
 if there are two sizes.
 
+When firing, the template is
+placed anywhere desired so
+that its edge is between 30-150 cm from the firing vessel
+in its specified firing arc.
+
+It does not have to be centred
+on a single enemy vessel
+and can be placed so that it
+touches more than one ship.
+
+When the template is placed,
+check the range. If placed
+within 45 cm, roll a scatter
+die and 1D6. Roll 2D6 if the
+range is between 45 cm to
+60 cm, and 3D6 if the range
+is beyond 60 cm. Move the
+template a number of cm
+rolled by the dice in the
 direction of the scatter
 die roll. If the scatter die
 rolls a “hit”, the template
 remains where placed.
+
 After the attacking player
 designates which target
 is being fired on, the
@@ -2319,6 +2092,7 @@ BEFORE the weapon is
 fired. This includes targets
 the weapon may hit due to
 miss distance or scatter.
+
 Any target that is in base
 contact of the template after
 it is moved takes one hit. Any
@@ -2333,25 +2107,9 @@ single Blast Marker if it does
 not contact a target after
 being moved.
 
-When firing, the template is
-placed anywhere desired so
-that its edge is between 30150 cm from the firing vessel
-in its specified firing arc.
-It does not have to be centred
-on a single enemy vessel
-and can be placed so that it
-touches more than one ship.
-When the template is placed,
-check the range. If placed
-within 45 cm, roll a scatter
-die and 1D6. Roll 2D6 if the
-range is between 45 cm to
-60 cm, and 3D6 if the range
-is beyond 60 cm. Move the
-template a number of cm
-rolled by the dice in the
+# TODO - INSERT IMAGE
 
-In the diagram above the
+*In the diagram above the
 Steadfast, a Dominator class
 cruiser, fires its nova cannon
 at the Abominator, at a range
@@ -2361,11 +2119,9 @@ covers the Abominator’s
 base, inflicting D6 hits on it.
 The nearby Doombringer is
 also caught in the blast and
-suffers one automatic hit.
+suffers one automatic hit.*
 
-63
-
-Important Note:
+### Important Note:
 
 The Nova Cannon is a line
 of sight weapon and cannot
@@ -2380,11 +2136,12 @@ a direct hit is scored on the
 scatter dice, place D6 Blast
 Markers in contact with the
 planet or asteroid field edge.
+
 Nova Cannon are unaffected in
 any way by Lock On or Reload
 Ordnance special orders.
 
-Nova Cannon vs. Holofield
+### Nova Cannon vs. Holofield
 
 Holofields and similar systems
 save against the shell hit,
@@ -2396,6 +2153,7 @@ must immediately take as
 many hits as the damage roll
 allocates unless it successfully
 braced beforehand.
+
 Holofield saves are taken
 against a direct hit from a
 Nova Cannon where the hole
@@ -2410,10 +2168,8 @@ normally for the save. Being
 braced saves against any
 damage taken normally.
 
-64
+## AREA EFFECTS AND SPECIAL WEAPONS
 
-AREA EFFECTS AND
-SPECIAL WEAPONS
 Some weapon systems such as
 the Necron Nightmare Field
 and Star Pulse Generator
@@ -2429,6 +2185,7 @@ can they be saved against
 by holofields. See pg. 70 for
 more on catastrophic damage
 and exploding ships.
+
 Chaos Marks that affect
 nearby ships based on area
 as well as catastrophic
@@ -2439,6 +2196,7 @@ celestial phenomena and
 other such line-of-sight
 obstructions. See pg. 110
 concerning asteroid fields.
+
 Exterminatus vessels used
 in scenarios that require
 them normally replace their
@@ -2449,11 +2207,11 @@ normally have prow weapons
 (such as Vengeance grand
 cruisers) cannot be used
 as Exterminatus vessels.
+
 Armageddon Gun and
 Holofields: Holofield saves
 are taken against a direct
 hit from the Armageddon
-
 Gun where the hole is over
 the base as well as against
 the single automatic hit for
@@ -2466,31 +2224,28 @@ normally for the save. Being
 braced saves against any
 damage taken normally.
 
-Special Order:
-All Ahead Full /
-Burn Retros / Come
-to New Heading
+> #### Special Order: *All Ahead Full / Burn Retros / Come to New Heading*
+> 
+> A ship using All Ahead
+> Full, Burn Retros or
+> Come to New Heading
+> special orders sacrifices
+> firing opportunities
+> in order to squeeze
+> more performance
+> out of its engines. In
+> the Shooting Phase,
+> ships on these orders
+> halve their weapons
+> batteries’ Firepower
+> and lance Strength,
+> rounding up. Nova
+> cannon may not be
+> fired at all. Ordnance
+> is unaffected.
+> See pg. 46 for all effects
 
-A ship using All Ahead
-Full, Burn Retros or
-Come to New Heading
-special orders sacrifices
-firing opportunities
-in order to squeeze
-more performance
-out of its engines. In
-the Shooting Phase,
-ships on these orders
-halve their weapons
-batteries’ Firepower
-and lance Strength,
-rounding up. Nova
-cannon may not be
-fired at all. Ordnance
-is unaffected.
-See pg. 46 for all effects
-
-DAMAGE
+# DAMAGE
 
 The weapons carried by some
 ships are powerful enough
@@ -2510,12 +2265,11 @@ are often crippled by crew
 casualties long before hulls
 crack or drives explode.
 
-T
-
-TAKING HITS
+## TAKING HITS
 When a ship is damaged,
 note the number of hits it has
 taken on your fleet roster.
+
 Once a ship has lost half its
 damage points it is crippled.
 When a ship has lost all its
@@ -2526,15 +2280,7 @@ table to see if it explodes
 in a spectacular fashion or
 simply drifts helplessly.
 
-he Intolerance was surrounded by a
-seething sphere of plasma and missile
-detonations, held back by the bright
-coruscating arcs of its energy shields. With
-a blinding flash the shield generators
-collapsed under the onslaught, leaving the
-ship at the mercy of its enemies.
-
-Crippled Ships
+### Crippled Ships
 
 A ship which loses half its
 damage points is crippled.
@@ -2547,57 +2293,63 @@ braced, meaning if a ship is
 both braced and crippled, its
 weapons and ordnance are
 halved (rounding up) again!
+
 Crippled ships also reduce
 their move by 5 cm and
 will not be able to fire
 their nova cannon.
-For example, a standard
+
+*For example, a standard
 Lunar class cruiser has
 8 hits and is therefore
 crippled when it has suffered
-4 points of damage.
+4 points of damage.*
 
-65
+> #### Special Order: *Brace For Impact!*
+> 
+> Brace For Impact! special orders can be undertaken ANY time a ship faces taking
+> damage before the actual to-hit result is rolled, including when ramming or being
+> rammed or against damage from asteroid fields. It may also be used to protect
+> against critical damage from any kind of Hit-and-Run attack. A decision to brace
+> for impact must be made before any attempt to shoot (rolling dice) by the opponent
+> is made, including modifier rolls for variable weapons such as Ork Gunz. When
+> being attacked by ordnance, the decision must be made before rolling turrets.
+> 
+> Brace For Impact! DOES NOT protect against critical damage caused
+> by hits that were not saved against normally, nor any damage caused
+> during a boarding action (including critical damage).
+> 
+> A ship is placed on Brace For Impact! orders until the end of its next turn,
+> replacing any other special order it may be on currently. However, the special
+> order previously in effect remains so, in that ships that reloaded ordnance are
+> still reloaded, a ship or squadron moving All Ahead Full must continue to do so,
+> etc. Ships and squadrons still cannot take special orders in the next turn.
+> 
+> A ship using Brace For Impact! orders gains a saving throw of 4+
+> on a D6 against actual damage taken by the ship itself, NOT hits
+> absorbed by shields, reactive armour, holofields, etc.
+> 
+> A ship which uses this special order may not use special orders at all in its next turn
+> and its Firepower, ordnance (this effect is cumulative if a capital ship is crippled) and
+> armament Strength is halved, while Nova Cannons may not be fired at all. Turrets and
+> shields are unaffected. Brace For Impact! only comes into effect against attacks whose Hit
+> rolls are made after the special order has been declared. In other words, you cannot wait
+> to see how accurate a salvo or Nova Cannon shot is before declaring Brace For Impact!
+> 
+> A ship that fails an attempt to Brace For Impact! cannot attempt to brace again
+> until the ship, squadron, ordnance wave or other event causing damage to it
+> completes its attacks, finishes causing damage, resolves its effects, etc. It can
+> however again attempt to brace before the next ship, squadron or ordnance
+> wave attacks it, it faces another potentially damaging event, etc.
 
-Special Order: Brace For Impact!
-
-Brace For Impact! special orders can be undertaken ANY time a ship faces taking
-damage before the actual to-hit result is rolled, including when ramming or being
-rammed or against damage from asteroid fields. It may also be used to protect
-against critical damage from any kind of Hit-and-Run attack. A decision to brace
-for impact must be made before any attempt to shoot (rolling dice) by the opponent
-is made, including modifier rolls for variable weapons such as Ork Gunz. When
-being attacked by ordnance, the decision must be made before rolling turrets.
-Brace For Impact! DOES NOT protect against critical damage caused
-by hits that were not saved against normally, nor any damage caused
-during a boarding action (including critical damage).
-A ship is placed on Brace For Impact! orders until the end of its next turn,
-replacing any other special order it may be on currently. However, the special
-order previously in effect remains so, in that ships that reloaded ordnance are
-still reloaded, a ship or squadron moving All Ahead Full must continue to do so,
-etc. Ships and squadrons still cannot take special orders in the next turn.
-A ship using Brace For Impact! orders gains a saving throw of 4+
-on a D6 against actual damage taken by the ship itself, NOT hits
-absorbed by shields, reactive armour, holofields, etc.
-A ship which uses this special order may not use special orders at all in its next turn
-and its Firepower, ordnance (this effect is cumulative if a capital ship is crippled) and
-armament Strength is halved, while Nova Cannons may not be fired at all. Turrets and
-shields are unaffected. Brace For Impact! only comes into effect against attacks whose Hit
-rolls are made after the special order has been declared. In other words, you cannot wait
-to see how accurate a salvo or Nova Cannon shot is before declaring Brace For Impact!
-A ship that fails an attempt to Brace For Impact! cannot attempt to brace again
-until the ship, squadron, ordnance wave or other event causing damage to it
-completes its attacks, finishes causing damage, resolves its effects, etc. It can
-however again attempt to brace before the next ship, squadron or ordnance
-wave attacks it, it faces another potentially damaging event, etc.
-
-CRITICAL HITS
+## CRITICAL HITS
 The weapons used in space are so destructive
 that when a ship is hit there is a chance
 that a vital location will be critically
 damaged. Critical hits can temporarily
 knock out a ship’s weapons and engines,
 start fires or even breach its hull.
+
 Roll a D6 for each hit scored on a ship (but
 not against its shields). On a roll of 1-5 the
 hit causes no extra effects. On a roll of 6 the
@@ -2606,37 +2358,39 @@ table below to see what effect it has. Note
 that you do not roll for further critical hits
 for any damage caused by a critical hit.
 
-66
-
-Critical Hits on Escorts
+### Critical Hits on Escorts
 
 Escort ships which suffer a critical hit for
 any reason, such as during a boarding
 action, are automatically destroyed.
-Note: Whenever ships are damaged,
+
+**Note:** Whenever ships are damaged,
 there’s a good chance that it will be serious.
 Therefore a check for critical damage is
 made for every point of damage scored
 on a ship, no matter what its source is.
 
-Critical hits that can be repaired are
+Critical hits that can be repaired are
 cumulative; meaning ships that take a
 multiple number of the same critical damage
 must repair all incidences of that critical
 damage before the system is fully operational.
+
 A ship’s speed is only affected once by
 multiple Thrusters Damaged criticals.
 However, the number of times it takes
 effect are still cumulative, and all Thrusters
 Damaged criticals must be repaired for
 the ship to regain its normal speed.
+
 Damage from multiple fire
 criticals is cumulative.
 
-Example: if a ship had 3 fire criticals and
+*Example: if a ship had 3 fire criticals and
 failed to repair any of them in the End
 Phase, it would suffer 3 points of damage
-and all three fires would keep burning.
+and all three fires would keep burning.*
+
 If a critical hit is rolled which cannot be
 applied, or multiple criticals are rolled for
 a location that cannot be repaired (such as
@@ -2646,97 +2400,10 @@ weapons gets a Dorsal Armament Damaged
 critical hit. In this case the ship would suffer
 damage to its starboard armament.
 
-CRITICAL HITS TABLE
-2D6
-Roll
+# TODO - INSERT CRITICAL HITS TABLE
 
-Extra
-Damage Result
+## BLAST MARKERS
 
-2
-
-+0
-
-Dorsal Armament Damaged: The ship’s dorsal armament is badly damaged by the hit
-– power lines are severed, traverse mechanisms crippled and many gunners are killed.
-The ship’s dorsal armament may not fire until it has been repaired.
-
-3
-
-+0
-
-Starboard Armament Damaged: The starboard armament is taken off line by the hit.
-The ship’s starboard armament (right) may not fire until it has been repaired.
-
-4
-
-+0
-
-Port Armament Damaged: Heavy damage silences the port side weaponry. The ship’s
-port armament (left) may not fire until it has been repaired.
-
-5
-
-+0
-
-Prow Armament Damaged: The ship’s prow is ripped open. Its prow armament may
-not fire until it has been repaired.
-
-6
-
-+1
-
-Engine Room Damaged: The engine room is rocked by explosions, forcing all hands
-to tend to the reactors. The ship may not make any turns until the damage is repaired.
-
-7
-
-+0
-
-Fire! Oxygen lines are broken, leading to fires in many compartments. Roll to repair
-(extinguish) the fire in the End Phase, if it is not put out it causes one point of extra
-damage and keeps burning.
-
-8
-
-+1
-
-Thrusters Damaged: The ship’s thruster assembly is disabled. Reduce the ship’s speed
-by 10 cm until the damage is repaired.
-
-9
-
-+0
-
-Bridge Smashed: The armoured fortress around the ship’s captain and his officers is
-smashed. The ship’s Leadership is reduced by 3. This damage may not be repaired. If
-this is the Fleet Commander's flagship, any remaining Fleet Commander re-rolls are
-lost for the remainder of the battle.
-
-10
-
-+0
-
-Shields Collapse: The shield generators overload and burn out, leaving the ship
-virtually defenceless. The ship’s shield Strength is reduced to zero. This damage may
-not be repaired.
-
-11
-
-+D3
-
-Hull Breach: A huge gash is torn in the ship’s hull, causing carnage among the crew.
-
-12
-
-+D6
-
-Bulkhead Collapse: Internal pillars buckle and twist, whole compartments crumple
-with a scream of tortured metal. Just pray that some of the ship holds together!
-
-67
-
-BLAST MARKERS
 When ships are fired on,
 some of the results are shown
 by Blast Markers. Blast
@@ -2747,7 +2414,7 @@ intense radiation clouds,
 tumbling debris, unexploded
 warheads, plasma bursts, etc.
 
-Placing Blast Markers
+### Placing Blast Markers
 
 Blast Markers are shown
 on the tabletop by placing
@@ -2764,15 +2431,17 @@ weapons can also cause Blast
 Markers to be placed. Blast
 Markers are placed in the
 following circumstances:
-• For each hit absorbed
+
+* For each hit absorbed
 by a ship’s shields.
-• For ships which
+* For ships which
 are reduced to 0
 damage as specified
 on the Catastrophic
 Damage table.
-• For each missed nova
+* For each missed nova
 cannon attack.
+
 Blast Markers that are
 caused by shield impacts,
 the first Blast Marker is
@@ -2785,8 +2454,6 @@ cannot be stacked unless
 there is physically no more
 room to place Blast Markers
 around a target’s base.
-
-68
 
 When a ship has multiple
 bases in contact when taking
@@ -2803,6 +2470,7 @@ with more than one other
 vessel besides the vessel it is
 shooting at (for two in total)
 except in the following cases:
+
 1. A ship with multiple
 shields (like a battleship)
 takes three or four Blast
@@ -2825,6 +2493,7 @@ fired upon, the Blast Marker
 must physically touch
 the bases of the ships it is
 affecting in this manner.
+
 2. Any and all ships with
 bases that are actually
 stacked or are in any
@@ -2834,13 +2503,13 @@ Blast Markers, which
 is different from mere
 base contact and is
 explained separately.
+
 A ship in base contact with a
 Blast Marker means the whole
 base is affected. It counts as
 being in contact all around it
 and in every arc for purposes
 of leadership, movement,
-
 shooting, ordnance attacks,
 being boarded, or every other
 respect where Blast Markers
@@ -2857,6 +2526,7 @@ Movement Phase, such as
 Blast Markers in its rear arc
 or in base contact due to a
 previous round of shooting.
+
 When ships have stacked or
 overlapping bases, there is no
 limitation to the number of
@@ -2870,16 +2540,16 @@ it. However, in situations where
 multiple ships are overlapping
 each other, this does not
 cascade to other vessels.
-For example, Ship #2 overlaps
+
+*For example, Ship #2 overlaps
 on Ship #1, which has a Blast
-Marker in contact with it. Ship
-#3 overlaps on Ship #2 but not
+Marker in contact with it. Ship #3 overlaps on Ship #2 but not
 on Ship #1. Ship #2 counts as
 having a Blast Marker on it,
 but as long as the Blast Marker
-does not physically touch Ship
-#3, it does not count as being
-in contact with a Blast Marker.
+does not physically touch Ship #3, it does not count as being
+in contact with a Blast Marker.*
+
 Blast Markers placed in base
 contact with a ship that took
 fire do not affect ships near to
@@ -2893,7 +2563,7 @@ one cannot declare a ship is
 actually not in base contact if
 it is making physical contact.
 
-If a ship moves into base
+If a ship moves into base
 contact with another ship that
 already has a Blast Marker but
 the blast maker does not touch
@@ -2905,6 +2575,7 @@ Marker does not in and of itself
 count as being a Blast Marker
 for purposes of being in base
 contact with other ships.
+
 Note that Blast Markers
 do not move once they
 have been placed on the
@@ -2912,24 +2583,28 @@ tabletop. They show an
 area of tumultuous, strifetorn space and temporarily
 become part of the battlefield
 once they are in play.
-In the example below, two
+
+*In the example below, two
 Imperial cruisers are firing
 on a Chaos cruiser. Each
 Imperial ship scores one hit,
 so a Blast Marker is placed in
 contact with the edge of the
 Chaos cruiser’s base facing
-each of the Imperial ships.
+each of the Imperial ships.*
 
-Blast Marker Effects
+# TODO - INSERT IMAGE
 
-Movement: A vessel is
+### Blast Marker Effects
+
+**Movement:** A vessel is
 considered to be moving
 through Blast Markers even
 if it is moving away from
 Blast Markers it is in contact
 with at the beginning of
 the Movement Phase.
+
 If a ship moves through any
 Blast Markers, it reduces
 its speed that phase by 5 cm
@@ -2938,15 +2613,17 @@ of markers actually moved
 through. This affects each
 separate Movement Phase for
 Eldar vessels.
+
 If a ship cannot elect to slow
-down (such as when on All
-Ahead Full special orders) and
+down (such as when on *All
+Ahead Full* special orders) and
 comes into contact with a Blast
 Marker within the last 5 cm of
 its movement, it must instead
 stop no farther than the point
 it comes in contact with the
 Blast Marker (and not before).
+
 A ship with a Shield strength
 of 0 (i.e. Eldar or ships
 suffering the Shields Collapse
@@ -2958,12 +2635,18 @@ be made once, regardless of
 how many Blast Markers they
 encounter in their movement.
 
+Ships with shields overloaded
+by taking fire but are otherwise
+functional do not risk taking
+damage on a D6 roll of 6.
+
 An Ordnance marker such
 as a torpedo salvo or bomber
 squadron is removed on a
 D6 roll of 6 if it moves over a
 Blast Marker.
-Shooting: Blast Markers
+
+**Shooting:** Blast Markers
 interfere with gunnery, as
 mentioned earlier, disrupting
 firing and causing plenty
@@ -2983,21 +2666,16 @@ into effect immediately and
 so can affect subsequent
 shooting in the same turn
 in which they are placed.
-Shields: If a ship’s base
+
+**Shields:** If a ship’s base
 is in contact with any
 Blast Markers when it
 is fired upon, its shield
 Strength is reduced by
 1 per Blast Marker.
 
-Ships with shields overloaded
-by taking fire but are otherwise
-functional do not risk taking
-damage on a D6 roll of 6.
+## SHIELDS
 
-69
-
-SHIELDS
 Ships are protected by
 powerful energy shields,
 so that they can survive
@@ -3017,6 +2695,7 @@ sustained attack, forcing a
 temporary shutdown while
 the shield generators vent
 off the excess energy.
+
 Each shield will block one
 point of damage from
 hitting the ship in a single
@@ -3026,8 +2705,6 @@ the ship’s base for each hit
 blocked by the shields, to
 show how much energy
 has been absorbed.
-
-70
 
 Once the number of Blast
 Markers in contact with
@@ -3048,6 +2725,7 @@ remain down until the ship
 moves away from the Blast
 Markers in a subsequent
 Movement Phase.
+
 Shields are only effective
 against lances, weapons
 batteries and nova cannon.
@@ -3056,7 +2734,9 @@ bombers and torpedoes get
 inside a ship’s shields, so
 they provide no protection.
 
-In the example above the Iron
+# TODO - INSERT IMAGE
+
+*In the example above the Iron
 Duke (which has two shields)
 is fired on by the Unclean
 and receives three hits. Two
@@ -3071,15 +2751,16 @@ damage on the ship itself.
 Any further hits against the
 Iron Duke this turn will score
 damage on the ship itself
-because its shields are down.
+because its shields are down.*
 
-CATASTROPHIC DAMAGE
+# CATASTROPHIC DAMAGE
 A ship with no hits left is effectively out of
 action. There may be some crew left alive,
 trapped in compartments which have not
 been breached yet, there may even be power
 available in some sections of the ship, but the
 ship can no longer fight.
+
 When an escort is destroyed, replace it with a Blast
 Marker placed as centrally as possible to where
 the escort was, to represent the expanding cloud
@@ -3087,14 +2768,17 @@ of debris left by their passing. As a Blast Marker
 is smaller than a small flying base, the only way
 it is possible to take down a ship’s shield with this
 Blast Marker is if their bases actually overlapped.
+
 With a mighty capital ship, there is a chance
 that the vessel will be destroyed by catastrophic
 damage as its plasma drive overloads or
 its warpdrive triggers. Roll 2D6 on the
 Catastrophic Damage table to see what happens.
+
 Blazing or drifting hulks will block lines of
 fire that pass over their base, due to the clouds
 of venting gasses and debris they produce.
+
 Ships that are reduced to zero hits and become
 hulks no longer have shields, holofields or any
 other similar mechanism. The turret value
@@ -3108,11 +2792,13 @@ victory points to the enemy or induce catastrophic
 damage. Torpedoes that hit a friendly hulk
 still inflict hits normally, but torpedoes cannot
 be deliberately aimed at friendly hulks.
+
 While enemy ships can choose to fire on a hulk,
 they do not have to pass a leadership check to
 ignore one if it is the closest target. A player can
 fire on an enemy hulk if it is not the closest target,
 but it must make a leadership check normally.
+
 When shooting at hulked ships, use the
 destroyed ship’s Armour value to roll for hits.
 Roll once on the catastrophic damage table each
@@ -3120,9 +2806,11 @@ time hits are inflicted by shooting or ordnance
 from a given ship, squadron or ordnance wave
 (regardless of the number of hits inflicted),
 not once for each additional hit inflicted.
+
 Exploding ships count as an area effect
 and cannot be saved against by holofields,
 though shields still work normally.
+
 When placing an exploding ship’s Blast
 Markers, place a single Blast Marker exactly
 where the ship was, and then place as many
@@ -3131,100 +2819,31 @@ fanning around and in contact with it until
 the total number Blast Markers are placed
 without overlapping any Blast Markers.
 
-CATASTROPHIC DAMAGE TABLE
-2D6
-Roll
+# TODO - INSERT CATASTROPHIC DAMAGE TABLE
 
-Extra
-Blast Markers
+# THE ORDNANCE PHASE
 
-2-6
+**Ordnance includes missiles the size of skyscrapers to swarms
+of small attack craft such as fighters and bombers.**
 
-1
-
-Drifting Hulk: The ship is reduced to a shattered hulk drifting in space. The
-wreck moves 4D6 cm forward in each of its subsequent Movement Phases.
-Place a Blast Marker in contact with the wreck’s base after each move.
-
-7-8
-
-1
-
-Blazing Hulk: The ship is reduced to a burning wreck with uncontrolled
-fires blazing on every deck. In time the fires will either burn out or trigger
-a cataclysmic explosion. The wreck moves 4D6 cm forward in each of its
-subsequent Movement Phases. Place a Blast Marker in contact with the
-wreck’s base and roll on the Catastrophic Damage table again after its move.
-
-9-11
-
-Special
-
-Plasma Drive Overload: The ship’s plasma coils overload and explode in a
-blazing inferno of white hot plasma. Remove the ship from play, leaving behind
-a number of Blast Markers equal to half its starting number of hits. Every ship
-within 3D6 cm of the imploding wreck is struck by lance shots with a Strength
-equal to half the ship’s starting Damage capacity. Roll to hit as normal.
-
-12
-
-Special
-
-Warp Drive Implosion: The ship’s warp drive implodes, ripping a hole in real
-space that tears at nearby vessels with horrific force. Remove the ship from play,
-leaving behind a number of Blast Markers equal to its starting number of hits.
-Every ship within 3D6 cm of the imploding wreck is struck by lance shots with
-a Strength equal to the wreck’s starting Damage capacity. Roll to hit as normal.
-
-Result
-
-71
-
-THE ORDNANCE PHASE
-Ordnance includes missiles the size of skyscrapers to swarms
-of small attack craft such as fighters and bombers.
-
-‘A
-
-gainst the inky blackness I could see the Heartless Destroyer drifting with a dull
-red glow illuminating the billowing clouds of gas spilled from the ruptured hull.
-Gazing through the opticon I saw another torpedo salvo arrowing in towards her. At
-around two thousand the turrets opened up with an impressive show of firing and
-knocked down some of the torps, but they were already splitting, each one spawning a
-swarm of a dozen smaller fireflies which plunged through the criss-cross of defensive
-fire like meteors. A half second later they struck and pillars of orange flame geysered
-up from the impacts. The fiery pillars died away, leaving more glowing red pocks
-in her surface, but to our amazement the Destroyer heeled slowly about and fired
-another salvo, weaker now but still blinding against the blackness. We increased
-our speed to maximum and as we turned to port to fire our torpedoes, we headed
-into the expanding pattern of shock waves left in her wake. We sliced into them, but
-our speed made the ship shake and rattle from bow to stern. One particularly solid
-impact struck the bridge, perhaps a piece of debris moving too slowly for the shields.
-By the time we had recovered, the opportunity to launch our torpedoes had gone. We
-couldn’t have fired them anyway since the battering we had taken had jammed the
-tubes. The final minutes of the battle were like a melee as destroyers darted around
-from every quarter of the void. The Virago bore down on us from dead ahead after
-her torpedo run and we passed down her port side far too close for comfort.’
-– Ensign Butler of the destroyer Opportune on the destruction of
-the Chaos cruiser Heartless Destroyer at the battle of Duran.
-
-72
-
-All ordnance attacks are represented
+All ordnance attacks are represented
 by markers that are moved across the
 tabletop during each Ordnance Phase.
 If an Ordnance marker comes into
 contact with a ship or another Ordnance
 marker it will make an attack.
 
-LAUNCHING ORDNANCE
+## LAUNCHING ORDNANCE
+
 Ships armed with torpedoes and/
 or launch bays can use ordnance.
+
 Ordnance is declared, placed on the table and
 launched at the end of the Shooting Phase (the
 marker is put on the ship's base to show it has
 fired its ordnance) but the ordnance moves
 and attacks during the ordnance phase.
+
 Launching ordnance of any amount
 expends ordnance for that turn and must
 be reloaded to launch again. For example,
@@ -3237,13 +2856,16 @@ same concept applies to torpedoes, though
 there are no launch limits for torpedoes.
 Launching only torpedoes does not affect
 launching attack craft later, and vice versa.
+
 If a ship equipped with both torpedoes and attack
 craft launches only one or the other, it may still
 launch the other before having to reload again.
-For example, if an Imperial Dictator launches its
+
+*For example, if an Imperial Dictator launches its
 attack craft but not its torpedoes in a turn and
 in the subsequent turn fails to Reload Ordnance,
-it may still launch its torpedoes in that turn.
+it may still launch its torpedoes in that turn.*
+
 Any ship that has either never launched
 ordnance or has successfully reloaded
 ordnance is considered to have its ordnance
@@ -3253,78 +2875,70 @@ orders it takes. Keep in mind that being
 crippled and/or braced still affect torpedo
 launchers and attack craft bays normally.
 
-FLEET ORDNANCE LIMITS
-No more attack craft markers can
-be put in play than the number of
-available launch bays, even if it has
-successfully reloaded. Any model or
-fleet described as not able to run out
-of ordnance (such as Ork Space Hulks,
-the Tyranid fleet, etc.) may launch
-up to twice this number and provide
-double their number of launch bays
-to the total amount of markers the
-fleet may have in play. This total limit
-applies to the fleet as a whole and not
-to individual ships in the fleet. Any
-individual carrier may launch attack
-craft if they have successfully reloaded
-(even a partial amount) as long as
-the total amount of attack craft in
-play does not exceed the number of
-available launch bays. This total must
-take into account reductions caused by
-ships being crippled or lost in battle.
-If more attack craft remain in play
-than there are available launch bays,
-the owning player may not launch
-any ordnance that turn. However,
-ordnance in play may be “recalled” by
-immediately removing it from play
-in order to launch new markers from
-the ship’s stem, if it has successfully
-reloaded ordnance. Attack craft recalled
-in this manner must be removed
-immediately and not expended on other
-targets, including enemy ordnance.
-This prevents a carrier from attacking a
-target to expend its attack craft in play
-and then launching a new attack craft
-wave in a single turn. This rule does
-not apply to torpedoes, which do not
-run out and do not have launch limits.
+> #### FLEET ORDNANCE LIMITS
+> No more attack craft markers can
+> be put in play than the number of
+> available launch bays, even if it has
+> successfully reloaded. Any model or
+> fleet described as not able to run out
+> of ordnance (such as Ork Space Hulks,
+> the Tyranid fleet, etc.) may launch
+> up to twice this number and provide
+> double their number of launch bays
+> to the total amount of markers the
+> fleet may have in play. This total limit
+> applies to the fleet as a whole and not
+> to individual ships in the fleet. Any
+> individual carrier may launch attack
+> craft if they have successfully reloaded
+> (even a partial amount) as long as
+> the total amount of attack craft in
+> play does not exceed the number of
+> available launch bays. This total must
+> take into account reductions caused by
+> ships being crippled or lost in battle.
+> 
+> If more attack craft remain in play
+> than there are available launch bays,
+> the owning player may not launch
+> any ordnance that turn. However,
+> ordnance in play may be “recalled” by
+> immediately removing it from play
+> in order to launch new markers from
+> the ship’s stem, if it has successfully
+> reloaded ordnance. Attack craft recalled
+> in this manner must be removed
+> immediately and not expended on other
+> targets, including enemy ordnance.
+> This prevents a carrier from attacking a
+> target to expend its attack craft in play
+> and then launching a new attack craft
+> wave in a single turn. This rule does
+> not apply to torpedoes, which do not
+> run out and do not have launch limits.
 
-73
+<br>
 
-Special Order: Reload Ordnance
+> #### Special Order: Reload Ordnance
+> 
+> Ordnance needs to be loaded and
+> armed in order to be launched. Ships
+> are considered to start the game
+> with torpedoes in tubes and attack
+> craft fuelled and ready to go.
+> 
+> However, once the ship has launched
+> its ordnance it must use the *Reload
+> Ordnance* special order before it
+> can launch ordnance again. If the
+> ordnance is successfully reloaded
+> and it may launch ordnance in the
+> Shooting Phase, or keep the ordnance
+> ready for launch in a later turn. Use
+> the fleet roster to keep track of which
+> vessels have ordnance loaded.
 
-MOVING ORDNANCE
-
-However, once the ship has launched
-its ordnance it must use the Reload
-Ordnance special order before it
-can launch ordnance again. If the
-ordnance is successfully reloaded
-and it may launch ordnance in the
-Shooting Phase, or keep the ordnance
-ready for launch in a later turn. Use
-the fleet roster to keep track of which
-vessels have ordnance loaded.
-
-All ordnance has a speed value that dictates
-how far it moves during each Ordnance Phase.
-Ordnance attacks are represented by markers
-which are moved on the tabletop. Ordnance
-markers in a wave or salvo must be spread in
-contact with each other and cannot be stacked.
-
-Ordnance needs to be loaded and
-armed in order to be launched. Ships
-are considered to start the game
-with torpedoes in tubes and attack
-craft fuelled and ready to go.
-
-74
+## MOVING ORDNANCE
 
 In the Ordnance Phase players move and
 attack with any ordnance they have launched
@@ -3334,7 +2948,14 @@ move ordnance so it’s important to know who
 moves first. In this case the player whose turn
 it is moves all their ordnance first.
 
-Ordnance and Blast Markers
+All ordnance has a speed value that dictates
+how far it moves during each Ordnance Phase.
+Ordnance attacks are represented by markers
+which are moved on the tabletop. Ordnance
+markers in a wave or salvo must be spread in
+contact with each other and cannot be stacked.
+
+### Ordnance and Blast Markers
 
 Ordnance weapons are not shielded like
 larger ships, so they may be destroyed if they
@@ -3352,7 +2973,8 @@ Ordnance waves or salvoes only need to make
 this test once per movement, regardless of the
 number of Blast Markers moved through.
 
-SHOOTING AT ORDNANCE
+## SHOOTING AT ORDNANCE
+
 Ordnance may be fired at in the Shooting
 Phase with direct fire weapons. A ship firing at
 ordnance does not have to make a leadership
@@ -3365,6 +2987,7 @@ fire normally. It also must make a leadership
 check to fire on an enemy ordnance marker,
 wave or salvo if it is not the closest enemy
 ordnance marker in range.
+
 Weapon batteries firing at ordnance use the
 Ordnance column on the Gunnery table. This
 is because ordnance targets are relatively small
@@ -3377,18 +3000,21 @@ marker is hit it is removed from play. Any
 Ordnance markers caught in a nova cannon
 detonation are also removed from play.
 
-ORDNANCE ATTACKS
+## ORDNANCE ATTACKS
 If an Ordnance marker comes into contact
 with a ship's base or another Ordnance
 marker the effect is resolved immediately,
 including in the Movement Phase when a ship
 moves into enemy ordnance.
+
 All Ordnance attacks ignore the target's shields.
+
 Ordnance markers must always attack the
 first ordnance or vessels they come in contact
 with (when applicable). They are not required
 to attack the closest target.
-For example, a fighter squadron marker may
+
+*For example, a fighter squadron marker may
 not ignore a small torpedo salvo it is actually in
 contact with to attack a larger one nearby, or
 an attack craft wave may not ignore an escort it
@@ -3396,7 +3022,8 @@ is in contact with to attack a nearby cruiser.
 This also allows small torpedo salvoes from
 escorts to be used to clear the way of enemy
 fighters in the Ordnance Phase so that larger
-salvoes can get through, etc.
+salvoes can get through, etc.*
+
 If two ships with the same base size are so
 aligned that they for all intents and purposes
 are occupying the same 2D position on the
@@ -3408,11 +3035,10 @@ stacked or overlapping ships is actually closer
 to attacking ordnance, the attacker decides
 which target is being attacked.
 
-75
+# TYPES OF ORDNANCE
 
-TYPES OF ORDNANCE
+## TORPEDOES
 
-TORPEDOES
 The term ‘torpedo’ has
 always been used to describe
 any long-range missile
@@ -3432,6 +3058,7 @@ the huge missiles from
 the armoured magazine
 silos where they are stored
 to the launch tubes.
+
 Once a torpedo is launched,
 the plasma drive propels
 the torpedo forward at high
@@ -3440,15 +3067,12 @@ energy build-up which will
 culminate in its detonation.
 Torpedoes have a limited
 ability to detect a target
-
-76
-
 and will alter course to
 intercept if they pass
 within a few thousand
 kilometres of a vessel.
 
-Torpedo Rules
+### Torpedo Rules
 
 Torpedoes may be launched
 by a ship with torpedo
@@ -3464,6 +3088,7 @@ the more torpedoes there
 are in a salvo. The higher
 the speed, the faster
 the torpedoes travel.
+
 A torpedo salvo (regardless
 of strength) is represented
 with a the original Strength
@@ -3485,6 +3110,7 @@ ordnance interactions as
 appropriate to prevent
 targeting vessels out of fire
 arc due to proximity, etc.
+
 Standard torpedoes move in
 a straight line once they have
 been launched, travelling
@@ -3496,14 +3122,14 @@ Unlike ships, torpedoes may
 not vary their speed and
 must make their full move
 in each Ordnance Phase.
+
 If the Torpedo marker
 contacts a ship’s base (friend
 or foe) it attacks. Roll a D6
 for every point of Strength
 in the torpedo salvo. Each
 dice which equals or beats
-
-the ship’s Armour value scores one point of
+the ship’s Armour value scores one point of
 damage. Torpedoes will pass through shields
 before they impact, so ignore any shields when
 applying damage. The torpedo salvo continues
@@ -3598,7 +3224,7 @@ but will still attack if they make contact.
 
 77
 
-Turning Torpedoes:
+Turning Torpedoes:
 
 When turning torpedoes
 (that are allowed to do so),
@@ -3672,7 +3298,7 @@ in contact with, nor are
 they removed by friendly
 fighters in contact.
 
-ATTACK CRAFT
+ATTACK CRAFT
 Attack craft are launched from a ship’s launch
 bays and may include any mix of fighters,
 bombers or assault boats. In combat, they
@@ -3742,7 +3368,7 @@ markers have not yet rolled their attacks.
 
 79
 
-TURRETS
+TURRETS
 Ordnance Defences
 
 Most fighting ships mount numerous weapon systems and turrets for shooting
@@ -3786,7 +3412,7 @@ marker. In this and ONLY this case can it then mass turrets while moving!
 
 80
 
-FIGHTERS
+FIGHTERS
 
 COMBAT AIR PATROL (CAP)
 
@@ -3878,7 +3504,7 @@ to escort a cruiser so that it immediately
 
 81
 
-makes attacks upon an enemy ship the
+makes attacks upon an enemy ship the
 cruiser moves in base contact with. This
 includes resilient bombers such as Mantas.
 Multi-role ordnance markers that can
@@ -3972,7 +3598,7 @@ have to move any more to do so. For example,
 two Mantas attack an Ork Terror Ship with a
 fighta-bomma in base contact serving as CAP.
 
-TURRET SUPPRESSION
+TURRET SUPPRESSION
 Each fighter in a wave of bombers
 actually attacking a ship will add
 +1 attack to the total attack run of
@@ -4057,7 +3683,7 @@ removed from play.
 
 83
 
-TORPEDO BOMBERS
+TORPEDO BOMBERS
 Torpedo bombers are ordinary bombers
 reconfigured to carry a payload of (relatively)
 small anti-ship torpedoes. This gives them
@@ -4096,7 +3722,7 @@ in the same turn they were launched. In such
 cases, use normal bombers instead if desiring
 to attack an enemy ship in close range.
 
-ASSAULT BOATS
+ASSAULT BOATS
 
 LAUNCHING WAVES OF ATTACK CRAFT
 
@@ -4178,7 +3804,7 @@ ordnance markers complete their attacks.
 
 85
 
-RESILIENT ATTACK CRAFT
+RESILIENT ATTACK CRAFT
 Some attack craft such as Thunderhawks or
 Eldar fighters are “resilient”, meaning they
 have a 4+ save against other ordnance.
@@ -4233,7 +3859,7 @@ can thus move full distance. Conversely, the
 Space Marine player may decide to engage
 the Swiftdeaths one apiece, in which case
 
-both Thunderhawks remain in play if they
+both Thunderhawks remain in play if they
 both make their saves, but both expend
 their saves for that Ordnance Phase in the
 process. In this case, both Thunderhawks
@@ -4281,7 +3907,7 @@ were not attacked (and thus didn’t use their
 
 87
 
-THE END PHASE
+THE END PHASE
 During the End Phase,
 players sort out any events
 which have been set into
@@ -4352,7 +3978,7 @@ from the tabletop.
 
 88
 
-BOARDING ACTIONS
+BOARDING ACTIONS
 Boarding actions are bloody, desperate
 battles between ships at very close range. The
 boarding vessel manoeuvres close to an enemy
@@ -4405,7 +4031,7 @@ boarding modifier with an asterisk *).
 
 89
 
-Resolving the Boarding Action
+Resolving the Boarding Action
 To resolve the action, both players
 roll a D6 and add the appropriate
 modifiers from the following list.
@@ -4567,7 +4193,7 @@ into the total or effects that either halve or
 double their respective boarding values,
 whether or not ships are braced, crippled, etc.
 
-Any damage points inflicted
+Any damage points inflicted
 are distributed amongst
 the attacking ships by the
 attacker himself, but the
@@ -4670,7 +4296,7 @@ then removed from play.
 
 91
 
-Boarding Torpedoes
+Boarding Torpedoes
 
 Boarding torpedoes carry
 dedicated assault troops
@@ -4794,7 +4420,7 @@ destroyed, though they can
 Brace for Impact! to counter
 the effects of the attack.
 
-SQUADRONS
+SQUADRONS
 Small ships, such as escorts, stand little chance of damaging larger ships on their own, so they
 are normally grouped into squadrons. A squadron will manoeuvre closely together and mass its
 weaponry to attack more effectively. Although cruisers and battleships normally operate alone,
@@ -4810,7 +4436,7 @@ this time!’
 
 94
 
-SQUADRON COMMAND CHECKS
+SQUADRON COMMAND CHECKS
 Using squadrons enables the Admiral of
 the Fleet to give orders to groups of ships
 at the same time, instead of having to relay
@@ -4865,7 +4491,7 @@ can only undergo one special order per turn
 
 95
 
-SQUADRON FORMATION
+SQUADRON FORMATION
 To count as being part of a
 squadron, ships must remain
 close to at least one other
@@ -4962,7 +4588,7 @@ because of weaker armour,
 armour ignoring weapons
 cannot exploit this rule.
 
-Allocating Hits
+Allocating Hits
 against Squadrons
 
 When a squadron is fired
@@ -5027,7 +4653,7 @@ cannot be hit.
 
 97
 
-+++ASSUME.ATTACK.FORMATION.DELTA+++READY.TORPEDOES+++FIRE.SEQUENCE.
++++ASSUME.ATTACK.FORMATION.DELTA+++READY.TORPEDOES+++FIRE.SEQUENCE.
 DESTRUCTUS+++LAUNCH.450.5.FROM.ATTACK.SIGNAL+++LAUNCH.TRAJECTORY.45/67
 /90.5%+++LET.OUR.WEAPONS.BRING.THE.EMPEROR’S.VENGEANCE+++
 
@@ -5125,7 +4751,7 @@ victory points separately
 and not in the same
 manner as escorts.
 
-SHOOTING BY SQUADRONS
+SHOOTING BY SQUADRONS
 As mentioned earlier, squadrons
 combine their firing together.
 Escort squadrons have their total firepower
@@ -5200,7 +4826,7 @@ the Battle of Gethsemane.
 
 99
 
-PLANETARY DEFENCES
+PLANETARY DEFENCES
 In certain scenarios, one player may be allowed
 to select planetary defences as part of their forces,
 generally to assist in defending a planet against
@@ -5274,7 +4900,7 @@ and can make Special Orders normally.
 When shooting at minefields, treat them as
 ordnance for purposes of target priority.
 
-Notes: If a critical hit is rolled which cannot be applied, for example a station with no lances
+Notes: If a critical hit is rolled which cannot be applied, for example a station with no lances
 gets a ‘Lances damaged’ critical hit, apply the next highest critical instead. In this case the
 station would suffer main armament damage instead. If a station suffers multiple critical hits
 to the same place they must all be repaired before the location functions again as normal.
@@ -5386,7 +5012,7 @@ effects but otherwise capable of movement.
 
 101
 
-THE BATTLEFIELD
+THE BATTLEFIELD
 In order to fight a battle you will need somewhere to set up
 your battlefield – any flat, stable area will do. Some people
 make do with a smooth bit of floor but most use a kitchen or
@@ -5401,9 +5027,9 @@ to ensure that you’ve got some room to manoeuvre.
 
 102
 
-103
+103
 
-CELESTIAL PHENOMENA
+CELESTIAL PHENOMENA
 Space, the void, vacuum.
 Sounds empty, but actually
 there’s all kinds of stuff
@@ -5521,7 +5147,7 @@ Beyond the ghosts of the rim
 But remember, lads, there ain’t no words
 for every void-born thing
 
-Setting Up Celestial
+Setting Up Celestial
 Phenomena: Method 1
 
 One of the players positions
@@ -5595,7 +5221,7 @@ fought in the zone he chose.
 
 105
 
-BATTLEZONES
+BATTLEZONES
 
 S
 
@@ -5615,7 +5241,7 @@ unwary foe.
 
 106
 
-1. Flare Region Generator
+1. Flare Region Generator
 
 The flare region is closest to the system’s
 sun. It is an area scoured by incandescent
@@ -5771,7 +5397,7 @@ Planet
 
 107
 
-5. Outer Reaches Generator
+5. Outer Reaches Generator
 
 The outer reaches of a system are the
 realm of gas giants and worlds generally
@@ -5857,7 +5483,7 @@ rings around it on a D6 roll of 4 or more.
 
 108
 
-TABLETOP FEATURES
+TABLETOP FEATURES
 
 The following features are
 celestial phenomena that
@@ -5939,7 +5565,7 @@ to shipping: basic shielding
 
 109
 
-is sufficient to prevent
+is sufficient to prevent
 damage occurring but ships
 are slowed somewhat by
 passing through them. Gas
@@ -6057,7 +5683,7 @@ which move through an
 asteroid field are destroyed
 on a D6 roll of 6.
 
-Ships cannot shoot into
+Ships cannot shoot into
 or out of an asteroid field.
 However, shooting between
 ships inside an asteroid field
@@ -6151,7 +5777,7 @@ Minefields in abundance were there to discourage the foolish.’
 – Lexicus Planetarium. M.38
 111
 
-the rift, pointing in any
+the rift, pointing in any
 direction. If it fails, the ship
 disappears from the battle
 altogether – lost in the warp!
@@ -6240,7 +5866,7 @@ of sight to it. If multiple ships
 are on a planetary template,
 they can all see each other.
 
-Every planet is surrounded by an area of space
+Every planet is surrounded by an area of space
 where its gravitational pull is strong enough to
 affect shipping. This area is referred to as its
 gravity well. The gravity well extends out a set
@@ -6347,7 +5973,7 @@ direction they are from the planet.
 
 113
 
-TABLETOP EFFECTS
+TABLETOP EFFECTS
 
 The following features affect the entire
 battlefield. They may be combined with
@@ -6400,7 +6026,7 @@ surface. Of course small, in solar terms,
 means areas hundreds of millions of
 kilometres across! These huge flares of energy
 
-rush outward at tremendous speeds, flooding
+rush outward at tremendous speeds, flooding
 the vicinity with highly charged particles and
 magnetic shock waves. A shielded vessel can
 find its protection virtually overwhelmed by
@@ -6482,7 +6108,7 @@ away, but the shockwave buffeted us badly, and the engines cut.’
 The loss of the Invincible by 4th Lieutenant Burns, one of only 1,250 survivors.
 115
 
-FIGHTING IN LOW ORBIT
+FIGHTING IN LOW ORBIT
 
 In certain scenarios, ships can enter low
 orbit to attack a planet. Achieving low
@@ -6546,6483 +6172,3 @@ markers, using a scale of 1 mm : 1 cm on the
 Deep Space table. Alternatively, you could
 use graph paper to plot moves in low orbit,
 again changing the scale as appropriate.
-
-117
-
-SCENARIOS
-Although some space battles are straightforward
-affairs, with two fleets engaging each other
-simply to destroy the enemy, it is just as likely
-that the fleets will have a more specific objective
-to achieve, such as escorting a convoy or
-supporting a planetary assault. This section
-of Battlefleet Gothic provides the rules for
-fighting these different types of battle.
-
-118
-
-119
-
-CHOOSING A SCENARIO
-
-USING AN ATTACK RATING
-
-For your first couple of games we recommend
-you play the Cruiser Clash introductory
-scenario on pg. 128 while you get used to
-the rules and start building up your fleet.
-Once you have an idea of how the rules
-work you can try out some of the different
-scenarios that follow. There are ten scenarios
-in this section of the book, divided into
-small scale raids and larger battles. The
-two featured campaigns have some specific
-scenarios, as do a lot of the fleet lists.
-
-Some fleets are intrinsically better than
-others at launching attacks and picking
-where and when they fight their battles. This
-may be due to a skilled admiral, faster ships,
-better organisation, or access to powerful
-psykers who can scry the future and predict
-the enemy’s actions. It also represents the
-fleet’s ability to navigate warp space, as well
-as the wild, aggressive and often random
-nature of their attacks (particularly for
-Orks!). This is called a fleet’s attack rating,
-which represents how likely they are to
-initiate a raid or battle (as opposed to being
-attacked themselves). The chart that follows
-shows the attack ratings of all fleets.
-
-Below are several ways of deciding
-which scenario to play.
-
-Arbitrary Decision Method
-
-This is by far the quickest and simplest
-method of choosing a scenario. Despite its
-rather grandiose title, this method merely
-involves the players picking a scenario
-they want to play because of the forces
-they have available, how much time they
-have, or just because it’s their favourite.
-
-Random Generation Method
-
-If you wish to pick a scenario randomly, roll
-a D6. On a roll of a 1, 2 or 3, roll again on the
-Raids table. On a roll of a 4 or more, roll on
-the Battles table. Alternatively you can just
-decide whether you want to fight a raid or a
-battle and then roll on the appropriate table.
-RAIDS
-D6 Roll
-
-Scenario
-
-1
-
-One: Cruiser Clash
-
-2
-
-Two: The Bait
-
-3
-
-Three: The Raiders
-
-4
-
-Five: Blockade Run
-
-5-6
-
-Six: Convoy
-
-BATTLES
-D6 Roll
-
-120
-
-Scenario
-
-1
-
-Nine: Exterminatus!
-
-2
-
-Four: Surprise Attack
-
-3
-
-Seven: Planetary Assault
-
-4
-
-Eight: Escalating Engagement
-
-5-6
-
-Ten: Fleet Engagement
-
-ATTACK RATINGS
-Fleet
-
-Attack Rating
-
-Imperial
-
-2
-
-Chaos
-
-2
-
-Tau
-
-2
-
-Orks
-
-3
-
-Craftworld Eldar
-
-3
-
-Space Marines
-
-3
-
-Tyranids
-
-3
-
-Corsair Eldar
-
-4
-
-Dark Eldar
-
-4
-
-Necrons
-
-4
-
-You can use attack ratings to determine
-the scenario to be played by the following
-method. Each player rolls a number of D6
-equal to their attack rating and chooses
-the best individual dice score. Compare
-the best scores of both sides. The fleet
-with the highest score has launched an
-attack and may choose which scenario
-to fight. If it is a draw, then determine a
-scenario randomly as already described.
-
-DETERMINING ATTACKERS AND DEFENDERS
-In many of the scenarios, one side will be attacking and the other side will be defending.
-If a scenario has an attacker and a defender, you can simply decide who is attacking and
-who is defending, or randomly choose which player is attacking by rolling a dice, tossing
-a coin, playing scissors-paper-stone or whatever. Alternatively, you can use the attack
-ratings given above. As with determining a scenario, both players roll a number of dice
-equal to their attack rating and the player with the highest single dice roll is the attacker.
-If you are using attack ratings to determine the scenario being played (see
-above), the player who gets to choose the scenario is always the attacker.
-
-P
-
-ort Maw is the capital system of the Gothic Sector. The planet itself is the
-most productive hive world in the region, with a population of over 200
-billion people. Orbiting above the world arc three Naval stations, including
-Fleet Command for the whole of Battlefleet Gothic, Nexus Station – the Gothic
-Sectors largest shipbuilding and repair station. Port Maw’s orbital defences
-outmatch even those of the Blackstone Fortresses and the Chaos fleet wisely
-decided not to launch an all-out attack against this base. Instead, the naval
-base was blockaded continuously for seven years by Chaos ships. During this
-time, only a handful of vessels managed to slip into or out of the system and the
-need for food and supplies became great. After seven years, a brief break in the
-warpstorms around the sub-sector gave the battlecruiser, Sword of Redemption,
-and several other capital ships the opportunity to launch an effective attack,
-driving the Chaos blockade from the system and allowing the navy to make
-much-needed use of Port Maw’s considerable shipyard facilities.
-
-121
-
-THE SCENARIOS
-
-Each scenario is presented
-in the following format:
-Title and Overview
-presents the type of scenario
-being played, with a short
-description detailing the
-situation that faces the
-fleet commanders.
-Forces tells you how to
-pick your fleets, usually in
-conjunction with the Fleet
-Lists. In some scenarios, one
-side may have random forces,
-or additional resources
-such as planetary defences,
-transport ships, etc.
-Battlezone shows what
-restrictions there are,
-if any, on choosing a
-battlezone, as well as
-any compulsory celestial
-phenomena that must be
-placed on the tabletop.
-
-122
-
-Set-up gives instructions for
-each of the fleets, showing
-where they begin the battle,
-where any reinforcements
-arrive on the battlefield,
-etc. This section also tells
-you which of the fleets
-must be set up first.
-First Turn tells you which
-fleet has the first turn. Often
-the players roll a D6 and the
-winner can choose whether
-to go first or second.
-Special Rules gives you
-details of any rules that are
-specific to that scenario,
-such as making a planetary
-assault, using special Contact
-markers, squadrons being on
-standby orders and so forth.
-Game Length tells you
-how many turns the battle
-will last for, together with
-any other events which
-may end the battle.
-
-Victory Conditions is the
-important bit! It is here
-that you’ll find what your
-fleet must do in order to
-win. Often victory points
-are used to determine the
-winner, and the rules for
-these are as follows.
-
-VICTORY POINTS
-In many scenarios, the
-winner will be the player
-who scores the most victory
-points. Victory points are
-a measure of how much
-damage a fleet has inflicted
-on its enemy and are won
-by crippling and destroying
-enemy ships. Additional
-victory points can also be
-scored by achieving certain
-objectives, as detailed in the
-Victory Conditions section of
-the scenario, such as escaping
-an attack or attacking an
-enemy base. Victory points
-are earned as follows:
-
-Capital Ships
-
-If a capital ship is destroyed, the opposing
-player earns a number of victory points equal
-to the ship’s points value. This should also
-include the points value of any Admiral,
-Warmaster or Chaos Lord on board and any
-points spent on other types of upgrades.
-If a capital ship is crippled, the opposing player
-earns 25% of its total points value (rounding
-up) as victory points.
-
-Disengaged Ships
-
-Ships and escort squadrons which have
-disengaged are worth 25% of their total
-points value (including refits and embarked
-commander) in victory points if they were
-crippled before they disengaged. If the ship
-or escort squadron disengaged before it was
-crippled it is worth victory points equal to 10%
-of its value. An escort squadron is considered
-crippled if it loses half of its ships, rounding up.
-
-At the end of the battle, the fleet that holds
-the field earns victory points for the number
-of hulks it can capture. Your fleet holds the
-field if all enemy ships have been destroyed
-(or have disengaged) and your fleet has at least
-one operational ship on the table at the end of
-the battle. If one fleet holds the field the player
-earns victory points equal to half of the points
-value of each hulk on the table. Note that you
-earn victory points for your own ships that
-have been reduced to hulks (you have denied
-valuable resources to the enemy) as well as
-enemy hulks.
-
-VICTORY POINTS SUMMARY
-
-Escort Ships, Orbital Defences
-and Other Vessels
-
-Holding the field
-
-Each destroyed planetary defence installation
-earns a player a number of victory points equal
-to the installation’s points value. Each destroyed
-escort earns its value in victory points provided
-the entire escort squadron is destroyed.
-
-Each enemy ship destroyed
-
-Victory points equal to its points value.
-
-Each enemy capital ship crippled
-
-Victory points equal to 25% of its points
-value, (rounded up).
-
-Each enemy ship disengaged
-
-Victory points equal to 25% of the
-enemy ship’s points value (rounded up)
-if crippled, or 10% (rounded up) if not.
-Victory points equal to 50% of the
-points value of each hulk (friend or foe)
-on the tabletop (rounded up).
-
-Scenario objectives
-
-Victory points are awarded as detailed
-in the individual scenarios.
-
-PRE-BATTLE SUMMARY
-1. Determine Scenario. Choose, randomly
-generate one or use the attack ratings method.
-2. Decide Attacker and Defender. If needed,
-randomly decide who is attacking, or use the
-attack ratings to determine the attacker. If you
-are using attack ratings to choose a scenario,
-the player who chooses is the attacker.
-3. Choose Forces. Select your fleet following the
-instructions in the selected scenario.
-4. Set up Celestial Phenomena. Determine
-the type of battlezone the game is played in
-and place any celestial phenomena on the
-tabletop (see pgs. 104–113 for details).
-
-5. Generate Leadership. Roll for the
-Leadership values of your ships and
-squadrons.
-6. Declare any capital ship squadrons.
-Assign the Fleet Commander(s) to their
-ship(s) if you haven't already.
-7. Deploy Fleets. Set up your ships on the
-table as outlined in the scenario.
-8. Determine First Turn. Find out who has
-the first turn as detailed in the scenario.
-9. Start Fighting!
-
-123
-
-SUB-PLOTS
-
-Each player may generate a sub-plot if
-they wish (note that in a campaign you
-must generate a sub-plot each). Roll a
-D6. On a roll of 1-2, roll on the Legacies
-of War table. On a roll of 3-4, roll on the
-Chance Circumstances table. On a roll
-of 5-6, roll on the Secret Ploys table.
-
-124
-
-Each sub-plot includes additional victory
-conditions, which may or may not
-complement your primary mission. If you
-are fighting a battle with sub-plots, there
-are four different victory results, depending
-on whether you win the main battle and if
-you complete your sub-plot objectives.
-
-OBJECTIVES ACHIEVED
-
-BATTLE RESULT
-
-Completed main mission and sub-plot
-
-Heroic Victory!
-You will long be remembered as a magnificent
-commander. Epic tales will be told of
-your exploits, and your deeds and tactics
-will be taught to future generations.
-
-Completed main mission
-
-Victory!
-Your fame is growing, as someone who can get
-the job done despite minor set-backs and myriad
-distractions. Your name becomes synonymous
-with sound tactics and steadfast leadership.
-
-Failed main mission but completed sub-plot
-
-Heroic Defeat!
-You will be remembered for snatching honour
-from the jaws of defeat. Stories will tell of hopeless
-odds and unforeseeable circumstances. You will be
-remembered for your courage and determination.
-
-Failed main mission and sub-plot
-
-Miserable Defeat!
-Your name becomes a watchword for
-incompetence and failure. If you die, you will not
-be missed. This is a dark day for your race ...
-
-RENOWN
-If you are playing in a campaign, you may gain or lose renown for achieving or
-failing in your sub-plot objective. This is given in brackets after the objective
-like this: (renown gained for completion/renown lost for failure). For example,
-the Extended Duty sub-plot is (+1/0) which means you gain an extra point
-of Renown for completing it, but you will not lose any if you fail.
-
-LEGACIES OF WAR (ROLL OF 1-2)
-Score
-1
-
-Sub-Plot
-Gunnery Practice: In most space battles, victory went to the fleet with the best trained gun
-crews. It was not unusual for a fleet commander to order his captains to concentrate on
-gun drill training above all else. Roll a D6 for every capital ship in your fleet. On a 4, 5 or
-6 the ship has a +1 Leadership bonus when attempting to go onto Lock On special order.
-Prove the wisdom of your commands and inflict at least 1 point
-of damage on every enemy capital ship. (+1/-1)
-
-2
-
-Extended Duty: Towards the end of the Gothic War, both sides were in poor shape.
-Ships often went into battle still suffering from damage sustained in previous
-engagements, or suffering serious shortages of manpower and ammunition. Roll
-a D6 for each capital ship in your fleet. On a 1, it starts the battle with D3 damage
-points less than normal. On a 2, it suffers a -1 modifier to all Leadership tests for
-Lock On & Reload Ordnance special orders. On a 3+ the ship is unaffected.
-Destroy/cripple more points of enemy ships than you lose. (+1/0)
-
-3
-
-Blood Bond: Ships’ captains working together over an extended period built up
-a great deal of camaraderie. They would often push their crew to ever greater
-efforts to avenge a fallen comrade. Equally, if the fleet lost too many ships,
-morale would suffer badly. If one of your capital ships is crippled or destroyed,
-all the other capital ships in the fleet gain +1 Leadership for the next turn.
-Finish the battle with less than half your capital ships crippled or destroyed. (+1/-1)
-
-4
-
-Fleet Experience: A fleet that spent a long period under the same commander
-would get to know his plans and thinking. In some cases, they would even be
-able to predict the fleet commander’s orders. Any ship within 30 cm of your
-fleet commander’s ship may use his Leadership value instead of their own.
-Your fleet commander’s ship must survive the battle with at least 75% of its
-original damage left or lose the confidence of its subordinates. (+1/0)
-
-5
-
-No Quarter! As the war dragged on, the battle of attrition escalated
-to astounding proportions. Often fleets were sent in to battle with
-no other objective than to blast the enemy out of the stars!
-Cripple/destroy at least half the points value of the enemy fleet. (+1/-1)
-
-6
-
-Vendetta: As the war progressed, worlds were razed and populations were
-enslaved or killed. Enemy ships became infamous for their exploits so it
-was a real boost to morale if these vessels could be destroyed.
-Nominate one enemy capital ship to be the object of your vendetta.
-Cripple or destroy the nominated capital ship. (+1/-2)
-
-125
-
-CHANCE CIRCUMSTANCES (ROLL OF 3-4)
-Score
-1
-
-Result
-Meteor Storm! Meteor storms were a major cause of damage to ships. Roll a
-D6 for each capital ship in your fleet. On a 1, 2 or 3, roll once on the Critical
-Damage table and apply the result to the ship at the start of the game.
-There are no additional victory conditions. If you can win with your fleet
-in such disarray it will be truly heroic, if you fail you will be condemned for
-your poor navigation and inability to adapt to circumstance. (+3/-2)
-
-2
-
-Signalling Problems: Due to the increased warp storms, Astropaths were
-frequently unable to communicate between star systems, so escort ships were
-used to carry orders instead. You may only use fleet commander re-rolls on
-squadrons that have a ship within 30 cm of your fleet commander’s ship.
-At least half of your fleet’s escorts must survive the battle. (+1/-1)
-
-3
-
-Unexpected Help: Many ships were used in smaller numbers as long range patrols or scout
-fleets. In a good many battles, one side or the other had its strength unexpectedly bolstered
-by being joined by one of these roving ships or squadrons. You may add a single capital ship
-or squadron of escort ships totalling D3×50 points to your fleet before the game begins.
-At least one ship from the reinforcements must survive the battle, without
-being crippled or destroyed, to continue its mission. (0/-2)
-
-4
-
-Navigational Hazards: Asteroid fields and gas clouds can aid or hinder
-a fleet, depending on how well their cover is utilised. Roll a D6.
-D6 Effect
-1-2 Place an extra gas/dust cloud on the tabletop.
-3-4 Place two extra gas/dust clouds on the tabletop.
-5 Place an extra asteroid field on the tabletop.
-6 Place an extra asteroid field and D3 gas & dust clouds on the tabletop!
-No additional victory conditions. Win and you’ll be praised for using the environment against
-your foe, lose and you’ll be cursed for not choosing a better battlezone! (+1/-1)
-
-5
-
-Fresh Captain: Ship captains who proved themselves in battle would often be re-assigned
-to larger, better armed vessels. This meant that the captain’s previous ship would have to
-spend time getting used to their new commander. Randomly select one of your capital
-ships (not including the fleet commander’s vessel). This ship loses -1 Leadership.
-The chosen ship must cripple or destroy enemy ships worth
-equal to or more than its own points value. (+1/-1).
-
-6
-
-Enemy Plans: Boarding parties occasionally uncovered enemy plans. Each time you launch a
-boarding action against an enemy capital ship, roll a D6. On a score of a 4 or more, the enemy
-plans have been located. Add +1 to the roll if you board the opposing fleet commander’s ship.
-You must capture the enemy’s battle plans. (+1/-1)
-
-126
-
-SECRET PLOYS (ROLL OF 5-6)
-Score
-1
-
-Sub-Plot
-Surprise Attack! Although many battles were decided by sheer weight of fire and
-big guns, an almost equal number were won by one fleet surprising another while en
-route to its destination. A fleet commander who could ambush his enemy in such a
-fashion would have to maximise his advantage, before the enemy had time to organise
-themselves. The enemy fleet cannot go on to special orders for the first D3 turns.
-There are no additional victory conditions. If you can win then your
-cunning strategy will be praised across the sector; if you fail you will be
-condemned for your hastiness and poorly thought out plan. (+2/-2)
-
-2
-
-Secret Intelligence: Spies and traitors could be found in nearly every fleet in the
-Gothic War. Although mostly they were only useful for informing the enemy about
-fleet movements at the strategic level, occasionally they could gain knowledge of the
-fleet commander’s battle plan just prior to an engagement and get this information
-to the other side. You gain an extra fleet commander re-roll for this battle.
-Nominate one enemy capital ship, where your informant is hiding out. You must board
-this ship, or make a Hit-and-Run attack on it at least once to extract the informer. (0/-1)
-
-3
-
-Experimental Ship: Both sides tried numerous ploys to gain whatever edge they could over their
-enemy. Strategy and tactics would be changed and one area of experiment was ship design itself. Many
-ships were fitted with one-off weapons, engines or shield systems and their performance was closely
-monitored. Even recovered ancient technology or alien artefacts were sometimes retro-fitted to a ship
-to change its performance in one way or another. Unfortunately, there was no perfect combination
-and whenever something was improved, something else had to be sacrificed to accommodate the
-new systems. Randomly select a capital ship in your fleet. This ship has recently been fitted with an
-experimental system that has yet to be tried out in the heat of battle. Roll a D6 on each of the following
-tables to see how the ship has been altered (re-roll the side effect if the two contradict each other):
-D6 Improvement
-D6 Side Effect
-1 All weapons batteries/lances +50% range.
-1 -1 shield
-2 +1 shield
-2 All weapons batteries/
-lances are at 50% range.
-3 Speed +5 cm
-3 -2 damage
-4 +2 damage
-4 Speed -5 cm
-5 Ship may make 90° turns.
-5 -1 Leadership
-6 +1 Leadership
-6 Weapon battery firepower/lances
-at 50% strength (rounding up).
-You must prevent the experimental ship from being crippled or destroyed so that
-it may be examined and lessons teamed about its performance. (+1/-1)
-
-4
-
-Desperate Mission: It was not unusual for individual ships to be detached from the main fleet
-to undertake special missions. This could range from transporting attack plans, to small raids,
-or conveying Imperial Agents such as Inquisitors and Assassins to their secret destinations.
-Nominate one of your capital ships as having to perform the desperate mission.
-You must prevent this ship from being crippled or destroyed. (+1/-1)
-
-5
-
-Decoy: There are instances throughout the war of both sides using decoy ships to distract the
-enemy and cause confusion. Often these decoys would be incredibly ancient, out-of-service
-vessels, or transports refitted to outwardly resemble warships. They would only have a skeleton
-crew and their objective would be to attract enemy fire and divert the enemy’s attention away
-from your real warships. You may include an extra capital ship in your fleet. However, this
-vessel really has the characteristics of a transport ship. Do not tell your opponent which of your
-ships is the decoy until it is fired upon or fires itself. The decoy is worth zero victory points.
-If the enemy fires with a capital ship at the decoy, then your ploy has
-succeeded. If he does not, then you have failed. (+1/-1)
-
-6
-
-Hit-and-Run: Although the war was a constant battle of attrition, speed was vital on occasion. If a
-fleet could hit hard and fast, it could attain its objectives before nearby enemy ships could react. If an
-attack could be quickly repulsed, then a swift counter-attack could scatter or destroy an enemy fleet.
-Roll 2D6. This is the number of turns you have in which to win the game. If you have not won within this
-time limit then you have failed in your sub-plot, as your victory will not be as useful to the fleet. (+1/-1)
-
-127
-
-SCENARIO ONE
-
-CRUISER CLASH
-The Cruiser Clash is an introduction to the Battlefleet Gothic rules. We
-suggest you play it several times when you’re learning the rules, adding
-in extra rules from the Alternatives section as you become more familiar
-with the way the game works. After a couple of games you should hopefully
-be able to play a game using just the information on the playsheets.
-In this battle, two forces of opposing cruisers have run into each other near to a
-system’s jump point. Seeing their hated enemies, they immediately attack. The
-side which can inflict the most damage on the enemy will emerge victorious.
-
-FORCES
-Each fleet consists of between one and
-four cruisers (both sides have the same
-amount). Each ship is worth no more
-than 185 points and should be chosen
-from the appropriate fleet list. Refer to
-the fleet lists for characteristics, etc.,
-of the different cruiser classes.
-
-BATTLEZONE
-For your first game, we suggest you do
-not place any celestial phenomena.
-
-SET-UP
-Remember to roll for the Leadership
-values of your ships before setting
-them up, using the Leadership table
-on pg. 45 (also on the playsheet).
-One player rolls a dice. On a 1, 2 or 3
-they set up in the area marked Fleet A
-on the map. On a 4, 5 or 6 their ships
-must be set up in the Fleet B zone.
-
-Next, both players roll a dice. The player with
-the lowest score sets up one of his cruisers
-first. The other player then sets up one of
-his ships and the players alternate deploying
-ships until all the cruisers are on the table.
-
-128
-
-Ships may be put anywhere in the player’s
-own deployment zone, but must be placed
-facing towards the opposite long table edge.
-
-FIRST TURN
-Both players roll a dice. The player with
-the highest score may choose whether
-to have the first or second turn.
-
-GAME LENGTH
-The game lasts until the players have
-had eight complete turns each or until
-one fleet has all its ships destroyed.
-
-VICTORY CONDITIONS
-Normal victory points are not used in this
-scenario. Instead, at the end of the game,
-each player scores 1 point for each point of
-damage they have inflicted on the enemy
-ships. A player scores an additional point
-for each crippled enemy ship, or 3 additional
-points for each destroyed enemy ship.
-For example, if an enemy ship suffers 5
-points of damage this earns the opposing
-player 5 points and an additional point
-because the ship has been crippled. Note
-that you only receive 3 additional points
-for destroyed ships – you do not also
-get the single point for the ship having
-been crippled before it was destroyed.
-The player who scores the most
-victory points is the winner.
-
-CRUISER CLASH
-
-ALTERNATIVES
-After you have played this scenario once
-or twice, you may like to introduce some
-of the other Battlefleet Gothic rules.
-
-FORCES
-One thing you could do is remove the
-restriction on the maximum points value
-of the cruisers, which means that you’ll be
-able to take cruisers with nova cannons
-and launch bays if you want. Alternatively,
-you could allow each player one cruiser
-with launch bays in their fleet, or some
-other restriction. Refer to the Fleet lists for
-the points values of different cruisers.
-As another alternative, the players can pick
-any number of cruisers, up to an agreed
-points value, using their fleet list. A good size
-to start with is 750 points, or 1,000 points
-if you want to include fleet commanders in
-your game. Fleet commanders are Admirals
-and Warmasters who lead the fleets into
-battle. The rules for fleet commanders and
-the fleet commander options available to a
-player are given at the start of the fleet lists.
-
-BATTLEZONE
-Once you’ve got used to moving and shooting
-with your ships over an open table, you
-can try placing celestial phenomena on the
-tabletop. First of all, place a few gas and dust
-clouds on the table and after you’ve played
-with those a couple of times you might like to
-add a planet or some asteroid fields as well.
-When you’ve got an idea of how these
-basic types of celestial phenomena work
-in the game (and the tactics you can use
-to make the most of them), you can use
-the full celestial phenomena rules. If you
-do this, roll a dice – on a roll of a 1, 2 or 3
-the battle takes place in the outer reaches;
-on a 4, 5 or 6 the battle is fought in deep
-space. See the Celestial Phenomena section
-starting on pg. 104 for more details.
-
-SET-UP
-You may like to use the Set-up rules for
-the Fleet Engagement on pg. 142.
-
-VICTORY CONDITIONS
-Rather than adding up damage points, you
-can use the victory points system in the
-introduction to the Scenarios section.
-
-129
-
-SCENARIO TWO
-
-THE BAIT
-A lone ship has been sent into a system to lure out the defending
-forces in an extended pursuit. Unknown to the pursuers, the
-fleeing vessel has some friends lying in wait up ahead.
-
-FORCES
-
-SPECIAL RULES
-
-This scenario is a raid, so it plays well
-with forces worth up to 750 points.
-These are divided up as shown below.
-
-Any reinforcements for the fleeing ships may
-enter the table on any turn, including Turn 1.
-If the reinforcing ships enter after turn 1,
-they may be deployed up to 30 cm along the
-long table edges for each turn after the first.
-
-Pursuing forces: Up to 500 points.
-Pursued forces: One ship or squadron
-worth up to 250 points initially, with
-up to 500 points of reinforcements.
-
-BATTLEZONE
-This battle is most likely to take place in the
-outer reaches at the edge of a system, or in
-deep space near the jump point. If you are
-using a random battlezone generator, roll a
-D6: 1-3 = outer reaches, 4-6 = deep space.
-
-SET-UP
-The pursued vessel is placed in the
-centre of the table first, facing one
-of the short edges. The pursuers are
-deployed more than 60 cm away behind
-it. Reinforcements for the pursued ship
-enter from the table edge in front of it.
-
-FIRST TURN
-The fleeing ship takes the first turn.
-
-130
-
-For example, a Slaughter class cruiser
-enters as reinforcements on turn 4, so it
-may be placed on the short table edge or
-up to 90 cm along one of the long edges.
-
-GAME LENGTH
-The game continues until one fleet
-disengages or is destroyed.
-
-VICTORY CONDITIONS
-Standard victory points are earned
-for ships crippled or destroyed.
-
-SCENARIO THREE
-
-THE RAIDERS
-A small attacking force has been sent in to cripple or destroy as much of
-the enemy fleet as possible before they are destroyed themselves. If the
-attackers succeed, the defending fleet will be put out of operation for months,
-enabling the attacker’s main fleet to roam the system unhindered.
-
-FORCES
-
-FIRST TURN
-
-Agree a points limit for the battle.
-The defender may spend up to this
-points limit in total, while the attacker
-can spend up to half this total.
-
-The attacker takes the first turn and
-moves his fleet on from one table edge.
-
-BATTLEZONE
-The attack could take place on a fleet
-near a planet, or on one out in deep
-space, so set up celestial phenomena
-in any mutually agreed fashion.
-
-SET-UP
-The defender deploys his whole fleet first. The
-defending fleet must be set up with all the
-ships facing the same table edge and at least
-30 cm from any table edge. Each defending
-ship or squadron must be set up at least
-20 cm apart. The attacker moves his fleet on
-to the table from any edge in his first turn.
-
-SPECIAL RULES
-For the first D6 turns, all the defender’s
-ships suffer a -1 Leadership penalty to
-represent their reduced state of alert.
-
-GAME LENGTH
-The game continues for eight turns,
-or until one fleet disengages.
-
-VICTORY CONDITIONS
-Both fleets score victory points as normal
-and the fleet with the highest victory
-points total at the end of the battle wins.
-
-131
-
-SCENARIO FOUR
-
-SURPRISE ATTACK
-The attacking fleet has launched a pre-emptive strike against the enemy, catching
-them unawares while they are still taking on stores in dock. The defenders must try
-to muster a defence as quickly as possible, before they are destroyed piecemeal.
-
-FORCES
-Both fleets are picked to an equal points value.
-In addition, the defender may spend an extra
-D6×10 points on planetary defences for every
-500 points (or part) in his fleet (i.e. 10-60
-points for up to 500 points of ships, 20-120
-points for 501-1,000 points of ships and so on).
-
-BATTLEZONE
-
-FIRST TURN
-
-A surprise attack normally takes place in the
-system’s primary or inner biosphere. Set up a
-planet in the middle of the table. The planet’s
-size depends upon the size of the battle: up
-to 500 points = small, between 500 to 1,500
-points = medium, over 1,500 points = large.
-Generate rings, moons, etc. as normal. Then
-determine which table edge is sunward and
-place other celestial phenomena as normal.
-
-The attacker gets the first turn.
-
-SET-UP
-At the start of the game, the defender may
-choose D3 ships or squadrons to be on full
-alert. These ships may be set up anywhere
-on the table that is at least 30 cm from
-a table edge. The rest of the defending
-fleet is still on standby. Squadrons on
-standby must be deployed with at least
-one ship within 15 cm of the planet and
-all ships abeam of the planet’s surface.
-The attackers move on to the table edge
-of their choice in their first turn.
-
-132
-
-SPECIAL RULES
-Ships or squadrons on standby may not
-move, fire weapons or launch ordnance.
-They may however attempt to Brace for
-Impact! and repair critical damage. Turrets
-and shields work normally. To go on alert
-status, it must first pass a Leadership Test.
-Note that this is not a Command check, so
-failing with one squadron or ship will not
-prevent you from testing the others. A ship
-or squadron may not use special orders on
-the same turn that it goes on alert status.
-
-GAME LENGTH
-The game lasts until one fleet
-disengages or is destroyed.
-
-VICTORY CONDITIONS
-Both fleets score victory points as normal
-and the fleet with the highest victory
-points total at the end of the battle wins.
-
-SCENARIO FIVE
-
-BLOCKADE RUN
-A fleet has been trapped in the system for several months, unable to fight
-past the enemy fleet blockading the jump point. A small attack force has been
-assembled to break through the blockade at its weakest point, to hopefully
-return with sufficient reinforcements to lift the blockade totally.
-
-FORCES
-
-FIRST TURN
-
-Agree on a points value total for the battle.
-The blockading player may spend this
-many points on his fleet. The attacker
-(attempting to break the blockade) may
-spend up to half this points total on ships.
-
-Both players roll a dice and the player
-with the highest score may choose
-whether to go first or second.
-
-BATTLEZONE
-The blockading force is stationed on the edges
-of the system, so the battle will take place
-in either the outer reaches or deep space.
-
-SET-UP
-Divide the table lengthways into thirds,
-as shown. The blockading player then sets
-up his fleet. Roll a D6 for each blockading
-ship or squadron to determine which third
-of the table it is deployed in. Blockading
-ships may start facing in any direction,
-but may not be placed within 60 cm of the
-attacker’s table edge. The attacker then sets
-up his force within 15 cm of his table edge.
-
-GAME LENGTH
-The game lasts for six turns.
-
-VICTORY CONDITIONS
-Both players score victory points for
-destroying and crippling enemy ships as
-normal. In addition, the attacker scores
-victory points equal to the points value
-of any ships that he can move off via the
-blockading player’s table edge. Crippled ships
-are worth a quarter of their points value if
-the attacker can get them off the table. The
-side with the most victory points wins.
-
-133
-
-SCENARIO SIX
-
-CONVOY
-In this scenario, the defender must escort a convoy of vital transport vessels into a
-star system threatened by enemy forces. In order to catch the convoy, the attacking
-forces have seeded a wide area of space with ships lurking on minimal power to avoid
-detection and clusters of ‘deadfall’ torpedoes which will activate and launch as soon
-as an enemy ship registers on their sensors. But this convoy is desperately needed
-and must run the gauntlet of ships and missiles to deliver the supplies it carries.
-
-FORCES
-
-SET-UP
-
-The convoy must include at least two
-transport ships. For every two transports the
-defender may choose up to 100 points of ships
-to protect the convoy, which may be deployed
-in a maximum of one squadron per pair of
-transports in the convoy. The transports may
-be formed into a single squadron if you want.
-
-The attacking player sets up first. Place a
-face down Contact marker on the table for
-each capital ship, squadron, deadfall missile
-or attack craft cluster. Markers must be
-placed at least 30 cm apart and may not be
-placed within 30 cm of a table edge. If all
-of the counters cannot fit onto the table,
-start to double them up by placing an extra
-counter on top of each one already placed.
-
-The attackers are generated randomly. Make
-D3 rolls on the table below plus one extra roll
-for each pair of transport ships in the convoy.
-D6 ROLL
-
-RESULT
-
-1
-
-One deadfall torpedo or
-attack craft cluster
-
-2
-
-Two deadfall torpedo or
-attack craft clusters
-
-3
-
-Three deadfall torpedo or
-attack craft clusters
-
-4
-
-A squadron of escort ships
-worth up to 100 points
-
-5
-
-A squadron of escort ships
-worth up to 150 points
-
-6
-
-One capital ship worth up to 200 points
-
-The convoy player then rolls a D6 to
-determine which short table edge the
-convoy enters from. Place one ship from the
-convoy at the edge of the table to mark the
-point where the convoy will move on from.
-The convoy may not enter the table within
-45 cm of either of the long table edges.
-
-Escort squadrons and capital ships are
-chosen from the attacker’s fleet list.
-
-BATTLEZONE
-The convoy could be attacked near a planet,
-or out in deep space, so set up celestial
-phenomena in any mutually agreed fashion.
-If you wish, you can use battlezone generators
-for the Convoy scenario. Roll to see which
-region of space the convoy is moving through
-and then generate celestial phenomena on
-the appropriate battlezone generator.
-
-134
-
-FIRST TURN
-The convoy player takes the first turn. The
-convoy moves onto the table from the point
-indicated. Any ships which do not enter
-the table on the first turn must move on
-in the second convoy player’s turn. Any
-convoy ships which fail to enter play on the
-second turn are considered to be lost in the
-warp and do not take part in the game.
-
-SPECIAL RULES
-
-GAME LENGTH
-
-The attacker’s face down counters are
-activated by a convoy vessel moving within
-30 cm of them. Turn the activated counter face
-up as soon as the vessel moves within range
-and then complete the vessel’s movement.
-Once the convoy player’s Movement Phase
-is finished, deploy the attacking forces
-for any activated counters as follows.
-
-The battle continues until the last transport
-leaves the table or is destroyed.
-
-The attacking player may voluntarily
-activate one counter at the start of his own
-Movement Phase to represent his forces
-detecting the approaching convoy. If any
-of the convoy player’s ships are using
-special orders the attacking player may
-voluntarily activate up to two counters.
-
-VICTORY CONDITIONS
-The success or failure of the convoy depends
-on the number of transports which get
-through. Only transports which cross the
-board and move off the opposite short
-table edge count for victory purposes.
-TRANSPORTS
-EXISTING
-
-RESULT
-
-None
-
-Attackers Win
-The defending forces have
-performed miserably. The
-attackers will feast well on
-their captured booty.
-
-Replace the Contact marker with a D6+2
-Strength torpedo salvo. The attacking
-player may orientate the torpedo salvo to
-fire in whichever direction he wishes. The
-torpedoes have a speed of 30 cm and start
-moving in the next Ordnance Phase.
-
-One
-
-Attackers Marginal Win
-A single transport getting through
-was barely worth the risk of
-sending forces into hostile space.
-If the attackers can maintain
-this kind of stranglehold,
-the system is doomed.
-
-Attack Craft
-
-Two
-
-Convoy Marginal Win
-The convoy has been defended
-adequately – two of the valuable
-transports made it. More would
-have been better though.
-
-Three or
-more
-
-Convoy Win
-The convoy has made it through
-with enough transports to stave
-off the current crisis. Medals
-and promotions all round!
-
-Deadfall torpedoes
-
-Replace the Contact marker with D3+1
-squadrons of attack craft. The attacking player
-can select any mix of fighters, bombers or
-assault boats and may place them together
-into a wave if he wants. The attack craft
-start moving in the next Ordnance Phase.
-
-Squadron
-
-Place one ship from the squadron on top of
-the Contact marker. The rest of the squadron
-is placed in formation with the first ship,
-no closer to the enemy than the first ship
-placed. The squadron may be deployed
-facing in any direction, but all the ships in
-it must be pointing in the same direction.
-
-Capital Ship
-
-Place the capital ship on top of the
-Contact marker, facing in any direction
-the attacking player chooses.
-
-135
-
-SCENARIO SEVEN
-
-PLANETARY ASSAULT
-One fleet is attempting to deploy troops onto a contested planet, either to spearhead
-an invasion or reinforce existing armies. They must smash through the defenders
-and hold off any counter-attack while they send troops down to the planet’s surface.
-
-FORCES
-
-FIRST TURN
-
-Both fleets are of equal points. The
-defender can spend an extra D6×10
-points on planetary defences for every
-500 points (or part) in his fleet. The
-attacker may take two free transports for
-every 500 points (or part) in his fleet.
-
-The players roll a D6. Whoever got the highest
-may take either the first or second turn.
-
-BATTLEZONE
-A planetary assault normally takes place in
-the system’s primary or inner biosphere. Place
-a planet no more than 150 cm from one of
-the short table edges (roll a D6 to determine
-size: 1 = small, 2-5 = medium, 6 = large)
-and generate rings, moons etc. as normal.
-Declare one table edge as sunward and set
-up other celestial phenomena as normal.
-
-SET-UP
-The defender can choose to place ships and
-squadrons either on patrol or on standby in
-high orbit within the planet’s gravity. Roll
-a D6 for each defending ship/squadron on
-patrol: 1-3 the attacker may set up the ship/
-squadron, on a 4-6 the defender may set it
-up. Ships on patrol may be set up anywhere
-that is not within 30 cm of a table edge or
-within an area of celestial phenomena. The
-defender always decides the facing of ships,
-regardless of who set them up. The attacker
-deploys his fleet within 15 cm of the short
-table edge furthest from the planet. You
-will also need a separate low orbit table.
-
-136
-
-SPECIAL RULES
-Attacking ships must move within 30 cm
-of the planet table edge on the low orbit
-table to send troops to the surface and
-bombard enemy positions. For each turn
-an attacking capital ship spends within
-30 cm of the planet edge, the attacker scores
-1 assault point. For each turn an attacking
-transport spends within 30 cm of the planet
-edge, the attacker scores 2 assault points. A
-ship deploying troops or bombarding the
-planet may not do anything else that turn.
-
-GAME LENGTH
-The game lasts until one fleet is destroyed
-or disengages, or the attacker has
-scored 10 or more assault points.
-
-VICTORY CONDITIONS
-Add up the assault points earned by the attacker and add +1 to the total for every 500 victory
-points (rounding down) scored by the attacker for destroying or crippling ships and planetary
-defences. Deduct -1 assault point for every 500 victory points (rounding up) scored by the
-defender. Look up the adjusted assault point total on the table below.
-TOTAL
-ASSAULT POINTS
-
-RESULT
-
-0-1
-
-Defender’s Victory
-The attacking forces achieved almost nothing. The pitiful amount of
-assaulting troops that reached the planet will be quickly annihilated.
-
-2-5
-
-Defender’s Marginal Win
-The assaulting forces are prevented from making a substantial landing on the planet.
-Nonetheless, enemy detachments will now have to be hunted down and destroyed.
-
-6-9
-
-Attacker’s Marginal Win
-The assault dropped enough troops, etc., to capture a large part of the planet’s
-resources. Ongoing battles for control of the world will rage for months, even years.
-
-10+
-
-Attacker’s Victory
-The attackers succeeded in sweeping aside the defending forces and staging
-decisive landings at key points all over the planet. Within a few weeks of
-mopping up, the attackers will have complete control of the planet.
-
-137
-
-SCENARIO EIGHT
-
-ESCALATING ENGAGEMENT
-Two opposing fleets are in the area, each unsure of the enemy’s size and
-disposition. As they split to spread their search wider, two groups come
-into contact and signal the rest of their fleets. Whose ships will arrive
-first? Will they be able to overcome the enemy? Only time will tell ...
-
-FORCES
-
-SET-UP
-
-Both players’ fleets are split into five
-divisions. Each player takes five Contact
-markers to represent their divisions
-and assigns part of their fleet to each
-marker. Note down which vessels and
-squadrons are allocated to each marker.
-
-At the start of battle, each player has only one
-division on the tabletop: the others arrive as
-reinforcements later. Each player randomly
-chooses one Contact marker for their starting
-force. Roll to see who places their marker
-first. A marker may be placed anywhere on
-the table that is not within 30 cm of a table
-edge or within 60 cm of an enemy marker.
-
-There are no restrictions as to what ships
-can be in a division. Once a division moves
-onto the table, it is not constrained to stick
-together like a squadron. However, all five
-Contact markers must be allocated to at least
-some ships and they are drawn randomly,
-so an even split of forces is best. Also be
-warned that the time a division takes to arrive
-depends on the speed of its slowest vessel.
-
-Once both markers have been placed, deploy
-the ships from the divisions they represent
-anywhere within 10 cm of the marker.
-
-BATTLEZONE
-Escalating engagements can occur anywhere
-from deep space to far inside a contested
-system, hence any method for placing
-celestial phenomena which can be mutually
-agreed by the players is acceptable.
-
-138
-
-FIRST TURN
-Once all ships have been deployed both
-players roll a D6 and the player with the
-higher score has the choice of whether
-to take the first or second turn.
-
-SPECIAL RULES
-In the End Phase of each
-player’s turn, the player
-randomly chooses another
-one of their Contact
-markers and places it
-along a randomly rolled
-table edge within the
-following restrictions:
-• The marker may not
-be placed within 60 cm
-of any enemy ships.
-• If there are friendly
-ships within 30 cm
-of the table edge the
-marker must be placed
-within 30 cm of them.
-At the beginning of a player’s
-turn, he can try to bring
-additional ships into play by
-
-rolling a D6 for any Contact
-marker that is already in
-place on a table edge. The
-minimum score needed to
-bring the ships represented
-by that marker into play
-depends on the speed of the
-slowest ship in the division:
-DIVISION’S SPEED
-
-SCORE NEEDED
-TO ARRIVE*
-
-anywhere along the table
-edge that is within 10 cm
-of the Contact marker.
-If the roll is failed, the
-Contact marker may be
-moved along the table edge
-by up to the speed of the
-slowest ship in the division.
-
-up to 20 cm
-
-5+
-
-GAME LENGTH
-
-25
-
-4+
-
-30 cm or more
-
-3+
-
-The game lasts until one fleet
-disengages or is destroyed.
-
-*If friendly ships are within
-30 cm of the Contact marker
-add +2 to the dice roll.
-If the roll equals or beats
-the number needed, the
-ships of that division may
-move on to the table from
-
-VICTORY CONDITIONS
-Both fleets score victory
-points as normal and the
-fleet with the highest
-victory points total at the
-end of the battle wins.
-
-139
-
-SCENARIO NINE
-
-EXTERMINATUS
-The attacking fleet is escorting Exterminators, ships capable of laying
-waste to entire planetary populations or even obliterating all life on a
-world in a matter of hours. The Exterminator fleet must be stopped and
-every ship in the vicinity is rushing to defend the threatened planet.
-
-FORCES
-Agree a points total for the game. The attacker
-chooses a fleet up to this points value and in
-addition may take specialised Exterminator
-ships. The attackers may include a ship
-modified to become an Exterminator for
-every 1,000 points (or part) in his fleet (i.e.
-up to 1,000 points = one Exterminator,
-1,001-2,000 points = two Exterminators,
-etc.). Nominate any capital ship to be an
-Exterminator: the ship’s prow armament is
-replaced by an Armageddon weapon, which
-can only be used against planetary targets (in
-effect the prow weapon is lost). An attacking
-Chaos fleet may choose to include an active
-Blackstone Fortress (with the rules given in
-the Chaos Ships fleet list) instead of using
-modified capital ships. In this case the fortress
-does not sacrifice any of its weaponry to
-enable it to carry an Armageddon weapon.
-The defender chooses a fleet to defend
-the planet and will receive additional
-reinforcements throughout the game. The
-defender may spend an extra D6×10 points
-on planetary defences for every 500 points
-(or part) in his fleet (i.e. 10-60 points for
-up to 500 points of ships, 20-120 points
-for 501-1,000 points of ships, etc.).
-
-edge as sunward, as detailed in the Celestial
-Phenomena rules and place extra phenomena
-following whichever method you choose.
-
-SET-UP
-The defender has most of his fleet stationed
-near to the planet as the enemy approaches,
-but several ships or squadrons are out on
-patrol and arrive later in the engagement.
-The defender must pick one capital ship
-or escort squadron to be on patrol for each
-500 points in his fleet. These are kept to
-one side, not deployed at the start of the
-game. The remainder of the defending fleet
-may be deployed anywhere on the tabletop,
-but not within 30 cm of a table edge.
-The attacker sets up his entire fleet
-within 15 cm of the table edge which
-is furthest from the planet.
-You will also need a separate low orbit table, as
-described in the Celestial Phenomena section.
-
-BATTLEZONE
-The battle is fought in the primary or inner
-biosphere. Place a planet no more than
-150 cm from one of the short table edges
-(roll a D6 to determine size: 1 = small,
-2-5 = medium, 6 = large), generating rings,
-moons etc. as normal. Declare one table
-
-140
-
-FIRST TURN
-Each player rolls a dice and the player
-with the higher score may choose
-whether to go first or second.
-
-SPECIAL RULES
-The Exterminator/s must enter low orbit and
-move to within 45 cm of the planet table edge.
-At the start of each turn that an Exterminator
-is within 45 cm of the planet table edge, roll
-a dice. On a roll of a 4 or more it activates
-its Armageddon weapon and triggers a
-catastrophic event that will obliterate all life
-on the planet! The defenders may always
-target an Exterminator – if it is not the closest
-target then no Leadership test is required.
-The defending fleet rolls for the arrival of its
-patrols at the start of each of the defender’s
-turns. Roll a D6 for each defending capital
-ship and escort squadron which is not in
-play and compare it to the table below.
-SHIP’S SPEED
-
-SCORE NEEDED TO ARRIVE
-
-up to 20 cm
-
-5+
-
-25
-
-4+
-
-30 cm or more
-
-3+
-
-If the roll equals or beats the number
-shown, the ship arrives as a reinforcement
-on a randomly determined table edge.
-
-Note: If this scenario is being played
-as part of a campaign and the planet is
-destroyed roll on the table that follows.
-D6 ROLL
-
-RESULT
-
-1-3
-
-The system becomes uninhabited, mark
-it as such on the sub-sector map.
-
-4-6
-
-The system’s primary world is
-destroyed but one or more other
-planets still bear life. Roll again to
-see what the system becomes: 1-3
-agri-world, 4-6 mining planet.
-
-GAME LENGTH
-The game ends when one fleet disengages, all
-the attacker’s Exterminators are destroyed,
-or an Exterminator destroys the planet.
-
-VICTORY CONDITIONS
-If one fleet disengages then it loses.
-If all the attacking Exterminators are
-destroyed, the defender wins. If the planet
-is destroyed then the attacker wins!
-
-141
-
-SCENARIO TEN
-
-FLEET ENGAGEMENT
-Although many space battles are fought between relatively small forces
-with very specific objectives – raiding convoys, making surprise strikes
-and so on – larger fleets will sometimes bring each other to battle to
-protect a system, hold the line or simply to destroy each other.
-
-FORCES
-
-SET-UP
-
-Both fleets are picked to an equal points value.
-
-Each player must choose one of the
-following fleet formations. Compare
-the two formations chosen on the table
-below and use the set-up indicated.
-
-BATTLEZONE
-Fleet actions are normally fought in the
-primary or inner biospheres to keep a
-particular world outside bombardment
-range, but they could take place anywhere.
-Celestial phenomena can be set up in
-any mutually agreeable manner.
-
-Sphere: This formation attempts to spread
-the fleet broadly so that it envelops the enemy
-fleet, surrounding it as the ships close in. The
-sphere is vulnerable to a wedge formation
-which will break through the closing net.
-Wedge: A wedge is easily surrounded by more
-complex formations such as the sphere and
-cross. However a wedge keeps the fleet closely
-packed together for mutual support and allows
-it to storm through thinly-spread opponents.
-Cross: A formation which spreads ships
-out to run parallel with the enemy
-fleet, keeping them on the broadside
-for an extended engagement.
-OPPONENT’S CHOICE
-
-YOUR CHOICE
-
-Sphere
-
-Wedge
-
-Cross
-
-Sphere
-
-B
-
-A(d.grey)/C(d.grey)
-
-A(d.grey)/D(d.grey)
-
-Wedge
-
-A(white)/C(white)
-
-D(d.grey)/D(white)
-
-B
-
-Cross
-
-A (white)/D(white)
-
-B
-
-B
-
-Notes: In a split result (i.e. A(d.grey)/D(d.grey)) both players roll a D6 to see which set-up is
-used. The player whose fastest ship has a higher speed than any enemy ship adds +1 to his dice
-roll. The fleet with the best Admiral (i.e. highest Leadership) adds +1 to its roll. The fleet with
-the most escort class ships adds +1. The winner of the dice roll may choose which set-up to use.
-Once the set-up has been determined, both players roll a D6 and the player who rolls the lowest
-has to deploy a squadron or lone ship in their set-up area first. The players then alternate
-deploying ships or squadrons in their set-up areas until all forces have been deployed.
-
-142
-
-Divisions
-
-Some set-ups split a fleet’s deployment zone
-into several divisions. When this happens
-the fleet must deploy at least one ship or
-squadron in each division available.
-
-Approach Angle
-
-The set-up maps have arrows indicating the
-approach angle for the opposing fleets. As
-ships are deployed, they must be orientated
-so that they are travelling in the same
-direction as the arrows in their division.
-
-FIRST TURN
-Once all ships have been deployed both players roll a D6 and the player with the
-higher score has the choice of whether to take the first or the second turn.
-
-GAME LENGTH
-The game lasts until one fleet disengages or is destroyed.
-
-VICTORY CONDITIONS
-Both fleets score victory points as normal and the fleet with the highest victory points total wins.
-
-143
-
-CAMPAIGN
-RULES
-At some stage all wargamers contemplate
-running a campaign. This is understandable
-– after all, battles don’t take place in isolation,
-they are part of an ongoing war. A campaign
-allows you to fight your own ‘ongoing war’
-by linking battles together, so that the results
-of one battle will have an effect on the future
-ones you fight. It adds a lot to a campaign if
-you keep a journal of the progress of the war,
-and from this you can write your own part of
-the history of the Gothic campaign. Over the
-course of the war you will be able to develop
-cunning strategies to conquer a whole subsector of the Gothic system and you will be
-able to watch your fleet develop as ships’ crews
-gain in skill and ability – or are destroyed and
-have to be replaced with inexperienced crews.
-In the battles you fight there will be famous
-victories and shameful defeats, legendary (or
-infamous!) commanders will emerge and ships
-in your fleet will gain fame for the awesome
-feats they have pulled off against all the odds!
-As I hope you can tell, campaigns can be a lot
-of fun and they are not all that difficult to run
-either. To help you, we’ve developed a mapbased campaign system based on our own
-experiences of running campaigns over the
-years, but you really should feel free to modify
-and change what’s here to suit your own tastes.
-For example, playing a campaign offers
-great opportunities to try out new rules or
-new classes of ship that you’ve invented, or
-you could start thinking of adding rules for
-fighting land battles and boarding actions
-using the Warhammer 40,000 and Kill Team
-rules. The possibilities really are endless.
-
-144
-
-145
-
-GETTING STARTED
-
-In order to run a campaign you’ll need
-at least one player with a Chaos fleet
-and one player with an Imperial fleet.
-Any amount of extra players can join in,
-including players with Ork or Eldar fleets.
-Once you’ve got your players together you
-need to pick one of the sub-sectors we’ve
-provided maps for as the location for your
-campaign (the maps can be found at the
-end of this section). For your first campaign
-we recommend starting off with one of the
-smaller sub-sectors, unless there are lots of
-players (i.e. more than eight) taking part
-in the campaign. You’ll need to photocopy
-the sub-sector map you’ve decided to use
-(or draw it by hand) to keep track of which
-player controls each system. We glued
-our map to a sheet of card and blu-tacked
-it to the wall in our gaming area, then
-used coloured pins to show which player
-controlled each system, but you could just
-as easily write down who controls what.
-
-146
-
-Next you need to get all the players together
-for a ‘campaign briefing’. The most important
-thing you’ll need to go over at this point is
-the rules for the campaign, to make sure that
-everybody knows what’s going on. You should
-then decide how long the campaign is to
-last. For your first campaign we recommend
-playing for one month of real time and on
-the whole it’s best to keep campaigns short –
-after all, you can always start another one!
-Once this has been decided, players can
-pick their starting systems and design their
-fleets using the rules described below, then
-you can start fighting battles. However,
-it is usually a good idea to set a regular
-time and place for campaign meetings,
-and also to elect a ‘campaign arbitrator’
-who is in charge of making sure that the
-campaign runs smoothly. You might
-also want to consider putting together a
-campaign newsletter, in which case you’ll
-need to decide who will be its editor.
-
-STARTING SYSTEMS
-At the start of the campaign,
-many of the systems in the
-sub-sector will be neutral.
-As the campaign progresses,
-this will change and players
-will gain control of systems
-that will pay them tithes
-and help repair their ships.
-Designers’ Note: Actually
-all systems start nominally
-under the control of the
-Imperium, but as planetary
-governors tend to go their own
-way until reminded of their
-obligations, they are for all
-intents and purposes neutral.
-Imperial and Chaos players
-start with one of the systems
-in the sub-sector under
-their control. Roll a D6 to
-decide the order that both
-players pick their system, and
-record who controls which
-system with coloured pins
-on the campaign map, or by
-keeping a written record.
-Eldar and Ork players start
-with a hidden pirate base
-instead, and should write
-down secretly which system
-it is hidden in (they can pick
-a system controlled by an
-Imperial or Chaos player).
-
-STARTING FLEETS & THE
-FLEET REGISTER
-Imperial and Chaos fleets
-begin the campaign with
-2,000 points and Ork and
-Eldar fleets start with 1,500
-points. Important: you must
-have models to represent all
-of the ships in your fleet, in
-case they all end up in a big
-battle! If your fleet doesn’t
-add up to 2,000 points,
-then just use what you’ve
-got available (don’t worry
-
-– you will get to add new
-ships to your fleet during
-the course of the campaign
-as you buy and paint new
-models for your collection).
-Each player has his own
-fleet registry. He uses it
-to keep notes and dates of
-when a capital ship or escort
-squadron was commissioned
-(i.e. bought) along with
-class of ship etc., when it
-takes its fleet trials (i.e. it’s
-assembled, painted and its
-Leadership rating is rolled
-for), its campaign history
-and its loss if and when they
-occur. If a vessel is used in
-battle before its fleet trials
-are complete (i.e. it’s not
-fully assembled and painted)
-it will suffer a critical hit
-on a D6 roll of 1 every time
-it uses special orders.
-Ships which are added to the
-fleet register after the start
-of the campaign suffer a -1
-modifier to their Leadership
-due to their hasty training
-and less experienced officers.
-When players fight battles
-they must pick their forces
-from their own fleet register.
-
-THE COMMANDER
-Each player’s fleet has
-a commander (or an
-appropriately named leader
-for their race) who represents
-the player himself. Over
-the course of the campaign,
-your commander will
-collect renown points and
-gain in rank, and at the
-end of the campaign the
-commander with the highest
-renown is the winner.
-
-Once you’ve filled in your
-fleet register, you need to
-fill in the details of your
-commander. He’ll need a
-name, and starts off with
-1 point of renown and one
-re-roll. In addition, you must
-pick one ship in your fleet
-as his flagship. If this ship is
-involved in a battle then ‘you’
-are there, and you may use
-the commander’s re-roll or
-any other special abilities he
-may have in the battle. If the
-flagship is not there then you
-may not use the commander’s
-re-roll or abilities.
-If the flagship is destroyed,
-then it is assumed that your
-commander manages to
-escape somehow. He may
-not have any further effect
-in that game, but you may
-choose a new flagship for
-him once the game is over.
-
-FIGHTING BATTLES
-In order for things to happen
-in the campaign players
-must fight battles (doh!). At
-its simplest level all players
-have to do is challenge any
-other player that is in the
-campaign to a game and if
-they agree then the game
-uses the additional campaign
-rules below as well as the
-rules used for a normal game.
-The only problem with
-this is that it can lead to
-some odd situations where
-Imperial fleets attack other
-Imperial fleets to gain
-control of systems, and
-because of this, it’s best if
-the Imperial players are not
-allowed to attack each other
-and if the Chaos and Eldar
-players restrain themselves,
-
-147
-
-if possible, from attacking players of their
-own race. If you have a lot of Imperial fleets
-in the campaign (or, indeed, only Imperial
-fleets), then it is best to split them into
-loyalists and rebels, the latter being assumed
-to have gone over to the dark gods of Chaos!
-Anyway, however you decide to do it, you need
-to challenge other players in the campaign to
-a game. The game is arranged in exactly the
-same manner as a one-off game; simply agree
-on a time and a place and go for it. You can
-play as many or as few campaign games as you
-like, all you need to do is find an opponent.
-Note that opposing players do not have to
-agree to play just because you happened to
-have challenged them to a battle – but you may
-want to penalise players that refuse to play
-games with anybody for long periods of time
-and spoil the campaign for the other players.
-For example, if a player doesn’t play
-any games for (say) a fortnight then they
-lose a point of renown, and if they don’t
-play any games for a month then one of
-their systems (randomly selected) rebels
-and is turned over to another player.
-
-W
-
-THE CAMPAIGN TURN
-Campaign games include a number
-of extra steps which take place at the
-beginning and end of the game, these are
-described below. Unless stated otherwise
-all of the normal Battlefleet Gothic
-rules apply in a campaign game.
-Each time that two players have a game they
-both get what is known as a campaign turn.
-The turn uses the following sequence of play:
-1) Build-Up
-Determine Initiative
-Roll for incoming Orders,
-select target system if necessary
-Select Forces from Fleet Registry
-2) Fight Battle
-3) Aftermath
-Claim System
-Adjust Renown
-Promotions & Demotions
-Ship Experience
-Repairs & Withdrawals
-Make Appeals
-
-e fell upon them as hawks do from a cloudless sky. Cannon were
-our terrible claws, and lasers our ripping beaks. In a flash we
-had torn their craft asunder and turned for home, giving praise to the
-Emperor and our captain both.
-
-148
-
-BUILD-UP
-
-The build-up stage takes place at the start
-of the battle, before either player deploys or
-picks his fleet. In this stage you decide where
-the battle will be, what type of scenario
-to play, and what size of fleets to use. The
-stage has a number of steps that need to
-be carried out in the following order:
-
-2. Receive Orders
-
-1. Determine Initiative
-2. Receive Orders
-3. Pick Fleet
-
-Although fleet commanders have a large
-measure of autonomy, higher command still
-sends down the orders telling them what
-they must achieve next. In effect, the players
-get to decide what happens in the battles,
-but receive orders that direct the strategy
-they must follow, and the type of battles
-they will fight. To reflect this, one of the
-players must roll a D6 to determine what
-type and size of scenario is to be played.
-
-1. Determine Initiative
-
-INCOMING ORDERS
-
-Roll to see who is attacker and who is defender
-(the player who rolls highest is the attacker).
-If one player has more systems than the other
-his forces are stretched more thinly, so the
-player with fewer systems gains a +1 bonus to
-the dice roll. You may want to incorporate the
-attack ratings from the scenarios introduction,
-where you roll a number of dice, picking the
-highest one, to determine the initiative.
-
-D6 Roll
-
-Orders
-
-1-2
-
-Raid (500-750 points)
-
-3-6
-
-Battle (750-1500 points)
-
-If one player has 21 Renown points
-or more he may choose whether to
-fight a battle or a raid (if both are this
-status then roll to see who decides).
-
-149
-
-Decide Scenario: Roll on the tables below
-to determine which scenario is to be played,
-or if both player agree you can pick one
-from those listed for the type of scenario.
-RAIDS
-D6 Roll
-
-Scenario
-
-1
-
-Cruiser Clash
-
-2
-
-The Bait
-
-3
-
-The Raiders
-
-4
-
-Blockade Run
-
-5-6
-
-Convoy
-
-BATTLES
-D6 Roll
-
-Scenario
-
-1
-
-Exterminatus!
-
-2
-
-Surprise Attack
-
-3
-
-Planetary Assault
-
-4
-
-Escalating Engagement
-
-5-6
-
-Fleet Engagement
-
-Decide Location: The attacker must select
-the system in which the scenario will take
-place. The system must be connected to one
-already controlled by the player via a warp
-route. If no systems are already held, any
-may be chosen. If an uninhabited system is
-chosen, the defender must reduce his points
-value by 100 pts. Other types of system can
-affect the number of planetary defences,
-as described elsewhere in the rules.
-Decide Size of Battle: Once a mission has
-been generated, players agree the points
-value of the game and select their forces. The
-players can agree on the exact number of
-points for the game within the limits listed
-on the Incoming Order table. If one player
-holds more systems than the other their forces
-will be spread thinly, giving the player with
-the least number of systems an advantage.
-Each extra system a player holds over his
-opponent reduces his fleet size by 10 points.
-Ork & Eldar Scenarios: Ork and Eldar fleets
-only ever make raids, they never take part in
-battles. If you roll up a battle on the Incoming
-Orders table, then it is treated as a major
-raid instead. Roll for the scenario for the
-major raid on the Raids table, but the size of
-the battle is increased to 750-1,500 points.
-
-150
-
-3. Pick Fleets
-
-Both players must now pick their fleets using
-ships from their fleet register. The total
-value of the ships you pick may not exceed
-the points total you and your opponent have
-decided for the scenario you are to play. Note
-that you can’t change the details of ships on
-the register or adjust their points value at this
-stage – the ships you pick must come from
-your register and not be changed in any way.
-Fight the Battle: With the build-up
-completed all you need do now is roll for a
-sub-plot and then get fighting (hurrah!).
-
-Attacking Pirate Bases
-
-Orks and Eldar never get to capture
-systems, but instead have a secret
-pirate base. If an Ork or Eldar player’s
-opponent with a rank of Admiral or
-higher (or its equivalent for other races)
-gains the initiative for a scenario,
-then he can attempt to attack the base
-instead of playing a normal scenario.
-The attacker must, however, first find
-the base: roll a D6 and multiply the
-score by 10. If you roll under the Ork
-or Eldar side’s renown, then you’ve
-tracked down the base and system that
-it is hidden in must be revealed. If the
-player fails to find the base (i.e. fails
-to roll under the defender’s renown)
-then play a normal scenario. Once you
-know the location of the base you don’t
-have to find it again (you can reveal its
-location to other players too if you want).
-Once the base is found, the player may
-attack it if he controls the system, or it
-is in a neutral system. If neither of these
-conditions apply, then play a normal
-scenario instead. Assuming you find
-the base and it is in a location where
-you can attack it, then play either the
-Planetary Assault or the Exterminatus
-scenario. If the attacker wins then the
-base is destroyed and can no longer
-be used by the Ork or Eldar player.
-
-AFTERMATH
-
-Once you have fought a campaign game and
-know who has won, you come to probably
-the most important stage: the aftermath.
-This is where you find out what effect
-the game you have just played has on the
-campaign map, as well as the effect it has
-had on the ships and crew that took part.
-This stage has a number of steps, which need
-to be carried out in the following order:
-1. Spoils of War
-2. Adjust Renown
-3. Promotions & Demotions
-4. Ship Experience
-5. Repairs & Withdrawals
-6. Appeals
-
-1. The Spoils of War
-
-Whenever an attacker wins a battle, he
-may claim control of the system if it is
-connected by a warp route to one he already
-controls. The system can only be taken
-over by the player that won the battle if it
-previously belonged to the player that he
-defeated, or if it was previously neutral.
-Whenever an attacker wins a raid, he
-may count the opponent’s system where
-the raid took place as his own for the
-rest of this campaign turn (which is
-important, since the systems you control
-affect your ability to repair ships, etc.).
-
-‘The Emperor will judge your sins – after the officer of the
-Watch is finished with you.’
-– Popular naval saying
-
-151
-
-2. Adjust Renown
-
-Renown is a measure of the
-fame or infamy enjoyed by
-you, the fleet commander.
-Players start the campaign
-with 1 point of renown and
-can gain or lose renown
-as shown on the Renown
-table. Renown is very, very
-important because, at the
-end of the campaign, the
-player that has earned the
-most renown is the winner!
-Note that you can gain or
-lose renown even if your
-commander was not present
-during the scenario (i.e. his
-flagship did not take part).
-
-RENOWN
-Renown can be gained for the following:
-Winning a battle or major raid
-
-+2
-
-Winning a raid
-
-+1
-
-Victory points earned
-
-+(VPs/100 round up)
-
-Sub-plots
-
-variable
-
-Each capital ship hulk captured
-
-+1
-
-Fought commander with higher renown
-
-+1
-
-Fought fleet with higher points value and lost
-
-+1
-
-Fought fleet with higher points value and won +2
-Renown is lost for the following:
-Losing a battle
-
--1
-
-Losing a raid
-
--1
-
-Each capital ship lost
-
--1
-
-Sub-plots
-
-variable
-
-Note: A commander can never be reduced below 1 renown point (you
-may be renowned as a bad commander, but you will be renowned
-nonetheless).
-
-A
-
-skilled Navigator can steer a ship anywhere through the warp, in
-theory at least. However, this task can be made much easier, and
-even allow vessels without a Navigator to make longer warp jumps,
-along certain shipping routes. These routes have a relay of Astropathic
-beacons along them, giving ships’ captains and Navigators guidance
-along a pre-set path. Some shipping routes are part of a system of warp
-gates which link areas of the Gothic Sector together through stabilised
-warp tunnels. During the Gothic War, as the warp storms made travel
-through any area of space around the region extremely difficult, the
-control of the shipping routes became vital. Important meeting points
-of the trade routes, such as Port Maw and the Lysades sub-sector, were
-the site of several major fleet battles, as whoever dominated these areas
-could move their ships around the sector much more quickly and with
-greater accuracy.
-152
-
-3. Promotions and
-Demotions
-
-IMPERIAL PROMOTIONS (ALL IMPERIALS EXCEPT MECHANICUS FLEETS)
-Renown
-
-Title
-
-Ld
-
-Notes
-
-1-5
-
-Commander
-
-8
-
-1 re-roll
-
-6-10
-
-Battle Group Commander
-
-8
-
-2 re-rolls
-
-11-20
-
-Sub-sector Commander
-
-9
-
-2 re-rolls
-
-21-30
-
-Admiral
-
-9
-
-3 re-rolls
-
-31-50
-
-Fleet Admiral
-
-10
-
-3 re-rolls
-
-51+
-
-Solar Admiral
-
-10
-
-4 re-rolls
-
-Title
-
-Ld
-
-Notes
-
-MECHANICUS PROMOTIONS
-Renown
-1-5
-
-Explorator Techpriest
-
-7
-
-1 re-roll
-
-6-10
-
-Magos Errant
-
-8
-
-1 re-roll, 1 refit
-
-11-20
-
-Magos Explorator
-
-8
-
-2 re-rolls, 1 refit
-
-21-30
-
-Aspiring Archmagos
-
-9
-
-2 re-rolls, 1 refit
-
-31-50
-
-Archmagos Explorator
-
-9
-
-3 re-rolls, 1 refit
-
-51+
-
-Archmagos Veneratus
-
-10
-
-3 re-rolls, 2 refits
-
-The player gains promotions
-according to their renown as
-shown on the tables below.
-It is possible to lose rank
-if you lose renown points.
-Your rank determines how
-many re-rolls or Marks of
-Chaos you receive in the
-scenarios that you fight.
-Tau fleet commanders
-use the Imperial table
-for their promotions.
-
-CHAOS PROMOTIONS
-Renown
-
-Title
-
-Ld Notes
-
-1-5
-
-Chaos Champion
-
-8
-
-1 re-roll
-
-6-10
-
-Exalted Chaos Champion
-
-8
-
-1 re-roll, 1 Mark of Chaos
-
-11-20
-
-Tyrant
-
-9
-
-1 re-roll, 1 Mark of Chaos
-
-21-30
-
-Chaos Lord
-
-9
-
-1 re-roll, 2 Mark of Chaos
-
-31-50
-
-Overlord
-
-10
-
-1 re-roll, 2 Mark of Chaos
-
-51+
-
-Warmaster
-
-10
-
-1 re-roll, 3 Mark of Chaos
-
-ORK PROMOTIONS
-Renown
-
-Title
-
-Notes
-
-1-5
-
-Nob
-
-1 re-roll
-2 re-rolls
-
-6-10
-
-Big Nob
-
-11-20
-
-Boss
-
-2 re-rolls
-
-21-30
-
-Big Boss
-
-3 re-rolls
-
-31-50
-
-War Boss
-
-3 re-rolls
-
-51+
-
-Warlord
-
-4 re-rolls
-
-ELDAR PROMOTIONS (ALL TYPES OF ELDAR)
-Renown
-
-Title
-
-Ld Bonus
-
-Notes
-
-1-5
-
-Captain
-
-+0
-
-1 re-roll
-
-6-10
-
-Lord
-
-+1
-
-1 re-rolls
-
-11-20
-
-Shadow Lord
-
-+1
-
-2 re-rolls
-
-21-30
-
-Prince
-
-+2
-
-2 re-rolls
-
-31-50
-
-Shadow Prince
-
-+2
-
-3 re-rolls
-
-51+
-
-King
-
-+2
-
-4 re-rolls
-
-‘The most important
-aspect of any
-planetary assault
-is to ensure the safe
-passage of shuttles
-and dropships.
-The greatest threat
-to this has always
-been the groundbased defence.’
-– Imperial Navy
-Training Dogma
-
-153
-
-4. Ship Experience
-
-As the campaign progresses
-ships (or rather, ship crews)
-will gain experience.
-This is represented by
-increasing their Leadership
-characteristic, and by giving
-them special ‘crew skills’.
-On the other hand a ship
-that is badly damaged is
-likely to have lost a sizable
-proportion of its experienced
-crewmen, which will reduce
-its effectiveness, while a
-ship that is destroyed will
-have to be replaced by a new
-or salvaged vessel with a
-very inexperienced crew.
-Gaining Experience: Ships
-which fought in a battle
-and were not crippled or
-
-154
-
-destroyed roll 2D6. If the
-roll is higher than their
-Leadership rating, then
-either their Leadership may
-be improved by +1 point (up
-to a maximum of 10) or the
-ship may roll on the Crew
-Skills table. You may choose
-which option to take, unless
-the ship has a Leadership
-of 6 or 7, in which case you
-must choose to increase the
-ship’s Leadership by +1 point
-instead of taking a skill.
-Crippled Ships: Ships which
-were crippled in a battle lose
--1 Leadership (to a minimum
-of 6). Note that crew skills
-aren’t lost for being crippled,
-even if the ship’s Leadership
-is reduced to 6 or 7.
-
-Destroyed Ships: Ships
-which are destroyed (i.e.
-reduced to 0 damage points)
-must be replaced with a new
-ship. Change their name
-on your fleet register. The
-new ship has a Leadership
-of 6, no crew skills, and
-any refits that have been
-taken are lost (the rules
-for refits follow later on).
-Escort Squadrons: Escort
-squadrons gain and lose
-Leadership and skills in the
-same way as ships. Escort
-squadrons which suffer 50%
-or greater casualties are
-considered crippled for the
-purpose of experience, while
-those that are wiped out
-are considered destroyed.
-
-5. Repairs & Withdrawals
-
-Repairing Vessels
-
-In a campaign, ships that have suffered
-damage must be repaired, and it is the
-number of systems a player controls that
-determines just how much damage can
-be fixed. Sometimes the systems under
-your control won’t be able to repair all the
-damage your fleet has suffered, in which
-case you can either withdraw the ships and
-send them to be repaired outside the subsector, or you can let them limp on as they
-are until you have time to repair them.
-Repairs: Each system a player controls may
-repair a number of damage points. This
-varies depending on the type of system and
-your renown. The number of damage points
-different systems can repair is shown below.
-Renown is important because it helps with
-recruiting/press ganging extra crew, claiming
-resources and time in dock etc.. Note that all
-criticals are repaired automatically, including
-ones which may not be repaired during
-a battle (i.e. Bridge Smashed and Shields
-Collapse). Also remember that if the attacker
-won a raid he may count the enemy system
-where the raid took place as his own for this
-turn. You can use Repair points to bring
-escort squadrons back up to strength, in which
-case each escort ship is worth 1 damage point.
-
-An Imperial commander has just won
-a battle. He now controls a hive world,
-two Agri-worlds and a penal colony
-and has 28 renown points. During the
-battle one of his cruisers took five points
-of damage, another took three points of
-damage and another lost four hits. He
-also lost two frigates from a squadron
-of four. With the systems he currently
-has under his control, the Imperial
-commander may repair nine points of
-damage plus D6-2 for his penal colony.
-He rolls a 4, which gives him a total of
-11 repair points. He uses 5 to totally
-repair the first cruiser and another 3 to
-repair the second cruiser. He replaces the
-two lost frigates, meaning he can only
-repair 1 point of damage on the third
-cruiser. This cruiser will start its next
-battle with three hits less than normal.
-
-REPAIR POINTS
-Renown
-
-Agri
-
-Penal
-(min. of 1)
-
-Mining
-
-Forge, hive,
-pirate world
-
-Civilised
-
-1-5
-
-1
-
-1
-
-2
-
-3
-
-1
-
-1
-
-6-10
-
-1
-
-D6-4
-
-2
-
-3
-
-2
-
-1
-
-11-20
-
-1
-
-D6-3
-
-2
-
-4
-
-3
-
-1
-
-21-30
-
-2
-
-D6-2
-
-2
-
-5
-
-4
-
-1
-
-31-50
-
-2
-
-D6-1
-
-3
-
-6
-
-5
-
-1
-
-51+
-
-3
-
-D6
-
-4
-
-12
-
-6
-
-1
-
-Uninhabited
-
-Withdrawing ships: A player may choose to withdraw ships to get them fully repaired at a
-major base. Mark the fact they have been withdrawn on the fleet register. Ships which are
-withdrawn are unavailable for the player’s next game, after which they return to the fleet with
-their full number of hits. Escort squadrons which are withdrawn may return at full strength.
-
-155
-
-6. Appeals
-
-After repairs have been completed, both
-players can appeal to higher authorities/
-the gods of Chaos for aid. The amount of
-help you can expect to receive depends on
-how well you’ve been doing, as measured
-by your renown. To reflect this, the number
-of appeals that may be made depend on the
-players’ renown as shown on the table below.
-RENOWN
-
-NO. OF APPEALS
-
-1-10
-
-1 Appeal
-
-11-30
-
-2 Appeals
-
-31-50
-
-3 Appeals
-
-51+
-
-4 Appeals
-
-Appeals may be made for the things listed
-below. If you are allowed to make more than
-one appeal you can ask for the same thing
-up to two times (and may have each appeal
-granted), or you can appeal for different
-things – it’s up to you! However, you must
-declare what you will appeal for this turn
-before determining whether the appeals
-have been granted. Having declared what
-you are going to appeal for, roll a D6 for
-each appeal to see if the appeal is granted.
-
-Type of appeals allowed
-
-There are 3 different types of appeal.
-Not every fleet is allowed every type.
-Allowances, restrictions and specific
-upgrades are printed with the fleet lists.
-The General Upgrades on the following pages
-are used by most fleets, so they are printed
-here and are not repeated in the fleet lists.
-APPEAL GRANTED
-
-156
-
-Reinforcements
-
-2+
-
-Refits
-
-4+
-
-Other
-
-5+
-
-Reinforcements
-
-If the appeal is granted, one new capital
-ship or a squadron of up to five escorts
-may be added to the player’s fleet registry.
-Note that you must have the models to
-represent the ships – if you don’t, then
-they can’t be added to the fleet register.
-
-Refits
-
-If you read through the background sections
-of Battlefleet Gothic, you’ll see that ships
-often have things added, or have equipment
-updated or improved. This is called refitting,
-and in a campaign, you’ll get a chance to refit
-the ships in your fleet in order to (hopefully)
-improve their performance in different areas.
-A player who is granted a refit must choose
-one of his capital ships to undergo the
-refit, then roll a D6 to see what type of
-equipment system is upgraded. On a roll of
-1 or 2 you receive a ship refit, on a roll of 3
-or 4 an engine refit, and on a roll of 5 or 6
-a weapon refit Then roll on the appropriate
-Refit table given later to see exactly what
-you get. If you roll a result that the ship
-already has, roll again until you get a result
-the ship does not already benefit from.
-The points value of the ship is increased by
-10% for each refit it has and you’ll need to
-update your ship register appropriately.
-
-Other Appeals
-
-Other appeals allow you to request the aid
-of other allied forces. For example, Imperial
-players can call on the aid of a Space Marine
-Chapter, Chaos players may draw on the
-power of the warp to cast arcane spells, etc..
-The types of other appeal you can make
-are listed under “Types of Appeal Allowed”
-earlier, and if granted allows you to roll on
-the appropriate Appeal table. Again, if you
-roll a result on the table that you already have,
-then roll again until you get a new result.
-
-CONCLUSION
-As noted in the introduction,
-you should set a deadline
-for the campaign. When
-the deadline comes up the
-player that has built up
-the greatest renown is the
-winner. However, once you’ve
-got some experience running
-campaigns like this, you
-should feel free to change
-the criteria for victory. For
-example, you could say that
-the first player to gain control
-of five systems is the winner
-
-(though this will be tough
-on Ork and Eldar players),
-or you could keep on playing
-until the entire sub-sector
-is entirely controlled by
-Chaos, in which case all of
-the Chaos and Ork players
-win, or is entirely controlled
-by the Imperium, in which
-case all of the Imperial
-and Eldar players win.
-Other alternatives include
-doing a convoy run, where
-a fleet has to travel from
-
-system to system across the
-map, fighting opponents
-along the way as it does so, or
-you could have a game based
-on an Ork Waaagh! where
-Ork players are allowed to
-control systems. The most
-important thing to remember
-is that the rules above are
-only a starting point, and
-the possibilities for making
-up your own campaigns are
-really only limited by your
-imagination. Have fun!
-
-157
-
-GENERAL UPGRADES
-These refits and crew skills can be earned by every ship, unless otherwise noted.
-ENGINE REFIT
-The ship’s engines are fitted with additional systems or improvements have been made to
-the power generators and energy relays in some fashion. Roll on the following table.
-D6 roll
-
-Engine Refit
-
-1
-
-Secondary Reactors: The ship’s additional power generators allow it
-to put on a tremendous burst of speed for short lengths of time. The
-ship rolls an extra 2D6 when on All Ahead Full special orders.
-
-2
-
-Evasive Jets: The hull of the vessel is studded with powerful short-burn engines which
-allow it to drastically turn to avoid incoming fire. At the start of the enemy Shooting Phase,
-the ship may take a Leadership test. If it is passed, the ship may make a single 45° turn
-immediately. However, the ship may not go on to special orders during the next turn.
-
-3
-
-Manoeuvring Thrusters: Additional thrusters along the length of the ship allow it to turn
-much more quickly. The ship reduces the distance it needs to move before turning by 5 cm.
-
-4
-
-Arrester Engines: The ship has a number of secondary engines mounted near its
-prow, which enable the vessel to reduce speed rapidly. When attempting to Burn Retros
-or Come to New Heading special orders, the ship may add +1 to its Leadership.
-
-5
-
-Auxiliary Power Relays: The rear of the ship is criss-crossed with additional cables
-and pipelines, feeding more power to the engines. The ship gains +5 cm to its speed.
-
-6
-
-Navigational Shields: The ship is enveloped in low-frequency shields
-designed to shunt aside debris and other impediments as the ship moves.
-The ship does not suffer reductions to its speed for moving through Blast
-Markers (this includes gas and dust clouds and similar effects).
-
-SHIP REFIT
-The structure of the ship is improved in some way, new equipment is installed, or better
-trained or specialised crew members are brought in. Roll on the following table.
-D6 roll
-
-158
-
-Ship Refit
-
-1
-
-Improved Sensor Array: The ship’s assayers and long range surveyors are
-particularly attuned to pick up energy emissions and signals from enemy
-ships. When taking Leadership tests to go on to special orders, the ship gains
-+2 for enemy ships on special orders, rather than the normal +1.
-
-2
-
-Additional Shield Generator: The ship has additional shield generators
-to deflect incoming shots. The ship gains +1 Shields.
-
-3
-
-Superior Damage Control: The ship benefits from an improved auto-repair
-system, or more highly adept engineers and technicians. The ship may roll
-one extra dice in the End Phase when attempting to repair damage.
-
-4
-
-Reinforced Hull: The ship’s hull is fitted with additional armour and internal bracing,
-increasing its damage by 25% (rounded up) but reducing its speed by 5 cm.
-
-5
-
-Improved Logic Engines: The ship’s countless metriculators and mechanical cogitators
-enable the crew to perform with full effectiveness even in the midst of the fiercest battle.
-The ship does not suffer -1 Leadership for being in contact with Blast Markers.
-
-6
-
-Overload Shield Capacitors: Specialised power relays and generators allow the ship’s
-engineers to temporarily divert extra power to the shields. For each hit against the
-shields, roll a D6. On a roll of a 6, the hit is ignored and no Blast Marker is placed.
-
-WEAPONS REFIT
-The ship has been upgraded with additional or more sophisticated weapons systems,
-greatly enhancing its battle effectiveness. Roll on the following table:
-D6 roll
-
-Weapons Refit
-
-1
-
-Extra Turrets: The vessel is studded with numerous close defence weapons to shoot
-down enemy torpedoes and attack craft. This ship adds +1 to its Turrets value.
-
-2
-
-Turbo-weapons: The ship’s weapons have been given additional punch and accuracy
-at long range. The ship does not suffer a right column shift when firing over 30 cm.
-
-3
-
-Targeting Matrix: The ship’s weapon systems are linked together through
-a massive targeting network so that they can maximise their fire. All firing
-by weapons batteries benefits from a left column shift on the Gunnery
-table (before any other column shifts for range or Blast Markers).
-
-4
-
-Auto-loaders: The ship’s crew are aided in their task of readying torpedoes and attack
-craft by huge semi-automated machinery. The ship adds +1 to its Leadership when
-attempting Reload Ordnance special orders (re-roll this if the ship has no ordnance).
-
-5
-
-Superior Fire Control: A powerful fire control system has been installed in the ship’s
-bridge, enabling the command crew to direct the ship’s firing with greater effect.
-The ship adds +1 to its Leadership when attempting Lock On special orders.
-
-6
-
-Motion-Tracking Targeters: A complex analytical array linked to the ship’s
-navigational systems enables the gun crews to fire with greater accuracy
-when the ship is performing special manoeuvres. If the ship is on All Ahead
-Full, Burn Retros or Come to New Heading special orders, its firepower and
-lance Strength is reduced by 25% (rounded up) rather than halved.
-
-CREW SKILLS
-D6 roll
-
-Skill
-
-1
-
-Expert Gunnery: The ship’s gun crew are amongst the finest in the whole sector, able to
-lay down a devastating barrage. When the ship attempts Lock On special orders you may
-roll 3D6 and discard the highest roll before comparing the score to the ship’s Leadership.
-
-2
-
-Skilled Engineers: The crew responsible for running the engines are highly
-adept, able to respond quickly to orders for more or less power. When the ship
-attempts All Ahead Full or Burn Retros special orders you may roll 3D6 and
-discard the highest roll before comparing the score to the ship’s Leadership.
-
-3
-
-Adept Trimsman: The officers and crew responsible for the ship’s manoeuvring
-boast that they could get the ship to turn on the head of a pin! Whenever the
-ship attempts Come to New Heading special orders you may roll 3D6 and discard
-the highest roll before comparing the score to the ship’s Leadership.
-
-4
-
-Excellent Pilots: The ship is famed for the skill of its pilots. The well-timed attack runs of its
-bombers can cause horrendous damage while its fighter pilots fly rings around enemy attack
-craft. Any bombers launched by this ship may re-roll the dice when determining how many
-To Hit rolls they have. If fighters from this ship intercept attack craft or torpedoes, roll a D6.
-On a score of 4+ the fighters are not removed as normal but remain in play. Re-roll this skill if
-the ship does not carry attack craft. Eldar and Space Marine players should re-roll this skill.
-
-5
-
-Disciplined Crew: The ship’s crew bend to their tasks with enthusiasm and loyalty.
-Once per battle the ship may re-roll a failed Leadership test or Command check.
-
-6
-
-Elite Command Crew: The ship’s command crew work well as a team, able to respond
-quickly to the orders of the fleet commander. Once per battle the ship may automatically
-pass a Leadership test or Command check – there is no need to roll any dice.
-
-159
-
-THE SUB SECTOR MAPS
-
-160
-
-NUMBER OF SYSTEMS
-
-WARPSPACE CHANNELS
-
-A sub-sector contains many
-stars, but of these only a
-few will have any planets
-orbiting. The vast majority
-will be gas giants or planets
-locked in sub-zero ice ages.
-This means that any given
-sub-sector will have relatively
-few star systems actually
-worth fighting over. Of these,
-the majority will be mining
-worlds, agri-worlds and
-other worlds with a sizeable
-population and contemporary
-technology level (categorised
-as civilised worlds). A few
-systems may have a forge
-world, hive world or other
-such planet. Occasionally
-uninhabited systems also
-have strategic importance
-as jump points or gathering
-places for assembling war
-fleets. The sub-sector maps
-only show those systems
-of military or strategic
-importance to the forces
-fighting in the Gothic War.
-
-In theory it is possible to
-travel anywhere through
-warp space. However, the
-warp’s shifting tides make
-it easier to travel from some
-systems to others, and short
-warp jumps are always more
-accurate than longer ones.
-This is particularly true when
-moving a large fleet, which
-may become spread out across
-several light years of space. For
-this reason, the systems on a
-sub-sector map are connected
-by a number of warp channels
-to the other systems.
-
-SYSTEM TYPE
-Each system will be one of the
-following types: uninhabited,
-agri-world, mining world,
-hive world, penal colony, forge
-world or civilised world. The
-system may actually contain
-more than one world, but
-the political power and the
-bulk of the resources will be
-
-concentrated on the type of
-world shown. The system
-type will influence how much
-ship damage it can repair and
-level of its orbital defences.
-
-SPECIAL NOTES
-Blackstone Fortresses: We
-have marked on the maps
-where each of the Blackstone
-Fortresses is located. If you
-wish to (and you don’t have
-to if you don’t want to) you
-can include a Blackstone
-Fortress in the planetary
-defences of that system.
-Port Maw: Port Maw is
-the largest naval base
-in the Gothic Sector
-and the headquarters of
-the Battlefleet Gothic.
-Any planets in the Port
-Maw system (not to be
-confused with the Port
-Maw sub-sector) have
-double the normal amount
-of planetary defences.
-
-GOTHIC SECTOR
-C
-C
-M
-
-A
-
-M
-
-A
-
-M
-
-M
-
-A
-H
-
-C
-C
-
-M
-
-H
-
-F
-A
-
-A
-
-M
-
-A
-C
-
-H
-
-U
-A
-
-U
-
-A
-
-P
-
-A
-H
-
-M
-M
-
-M
-
-M
-
-A
-
-C
-U
-
-M
-
-M
-
-P
-
-C
-
-P
-
-U
-
-A
-
-A
-
-M
-
-H
-
-A
-U
-
-C
-
-H
-
-A
-
-A
-
-M
-
-M
-
-U
-
-M
-
-M
-M
-
-M
-
-A
-
-U
-H
-
-M
-
-C
-F
-
-H
-
-A
-
-A
-
-A
-F
-
-C
-
-C
-
-U
-
-M
-
-M
-
-M
-
-H
-
-M
-A
-
-C
-C
-M
-
-KEY TO SUB-SECTOR MAPS
-A
-
-Agri-world
-
-C
-
-Civilised world
-
-F
-
-Forge world
-
-H
-
-Hive world
-
-M
-
-Mining world
-
-P
-
-Penal world
-
-U
-
-Uninhabited system
-
-161
-
-941.M41
-THE THIRD
-ARMAGEDDON WAR
-The Third Armageddon War is nothing less than the
-greatest Ork menace ever known. Ghazghkull had failed
-to invade that accursed world once before, and returned
-with a new plan and new determination to avoid repeating
-his mistakes. A terrible time was about to begin...
-
-THE LEGACY OF WAR
-The Second Armageddon War,
-Ghazghkull’s first invasion of that illfated planet, had cost the Imperium
-dearly. As the Imperium finally
-repelled the Ork invaders, their forces
-pushed outwards to reclaim worlds
-and systems which had been cut off
-for years, finding most of them to be
-little more than smouldering wrecks.
-Rebuilding even a tiny portion of the
-carnage wreaked by the Orks would
-stretch the Imperium’s resources to
-the limit. More pressingly, ensuring
-a sturdy defence during this time, to
-guard against further opportunistic
-attacks, would be a tall order with
-the depleted, dilapidated and
-demoralised forces now available to
-the Imperium. The Apocalypse class
-battleship, Triumph, was brought
-into Battlefleet Armageddon in
-951.M41 and, between the wars,
-served as the flagship of the defence
-fleet under Captain Honyaeger.
-The Triumph proved to be the
-bane of many pirate fleets keen to
-take advantage of any weakness
-in the Imperial Navy. Amassing
-an impressive roll of honour, the
-Triumph became the symbol of the
-Emperor’s Will within the sub-sector.
-
-162
-
-A generation later, when further
-Ork attacks on systems surrounding
-Armageddon started to drastically
-cut the amount of merchant shipping
-voyaging to the main system, the
-Triumph and other ships of the
-Imperial Navy found themselves
-stretched to breaking point. There
-were simply too few ships to cover so
-much space and it was the merchant
-transports that were feeling the effect.
-An appeal for reinforcements was
-met by the arrival of Admiral Parol
-on board His Will, accompanied by
-three first line cruiser squadrons.
-Acknowledging the Admiral’s
-seniority and greater experience,
-Captain Honyaeger transferred
-command of the fleet to Parol and,
-for a short time, the depredations
-of the Ork pirates abated.
-This all changed, almost overnight,
-as the piratical raids turned into
-full blown planetary assaults
-of several minor systems.
-
-163
-
-THE GREEN TIDE APPROACHES
-
-THE BATTLE OF PELUCIDAR
-
-The Third Armageddon War began in
-earnest when the Ork fleet re-entered normal
-space at the very fringes of the Armageddon
-system, converging immediately on Monitor
-Station Dante, one of three stations specially
-designed to guard against just such an
-attack. Dante survived barely long enough
-to open a communications channel, let
-alone broadcast a distress signal, but for the
-defenders of Armageddon, already convinced
-that attack was inevitable, the breakdown
-in such communications was all the proof
-they needed that Ghazghkull had returned.
-
-For Parol, perhaps feeling the pressure as
-the first line of defence against this greatest
-of threats, Pelucidar presented a quandary.
-The Orks’ inevitable goal would be to land
-on Chosin, Armageddon and the host of
-other populated planets in the system. Here,
-amidst the far less appealing gas giants and
-barren super-planets of the outer reaches
-might well be the only chance the Imperium
-would get to fully engage the Ork fleet. On
-the other hand, even the few garbled messages
-received from Dante station were enough to
-tell him that victory would not come against
-such a numerous enemy. Regardless, perhaps
-feeling the burden of hope placed upon
-him, Parol felt forced to commit his entire
-fleet to an action staged around Pelucidar.
-
-While the ground forces in Armageddon
-and its neighbouring systems were placed
-on high alert, preparations were made
-for deep space conflict. Admiral Parol,
-commanding the fleet from his flagship His
-Will, led seven cruiser groups against the
-invading Ork fleet, intercepting them close
-to the high-gravity world of Pelucidar.
-
-Within five days of leaving St. Jowen’s Dock,
-the Imperial fleet had encountered leading
-elements of the Ork fleet, decoying enemy
-escorts with the battleships as the faster
-moving Imperial cruisers used Pelucidar’s
-gravity well to swing around the Orks’ flanks.
-
-’Ere we go, ’ere we go, ’ere we go,
-’Ere we go, ’ere we go, throo the cosmos.
-’Ere we go, ’ere we go, ’ere we go,
-’Ere we go, ’ere we go, throo infinity.
-’Ere we go, ’ere we go, ’ere we go,
-’Ere we go, don’t know where ’til we get there.
-Orkish Space Chant,
-intoned when hitching into space hulks
-164
-
-The Triumph and His
-Will worked in concert,
-combining their fearsome
-lance armament to create a
-lethal web of firepower that
-no Ork vessel could survive
-for long. Over sixty enemy
-escorts were blasted apart
-for no loss on the Imperial
-side. As more and more Ork
-ships joined battle though,
-combat degenerated into a
-chaotic brawl of the sort Orks
-excel in. As the bulk of the
-alien fleet moved further
-into the Armageddon system,
-the Imperial ships suffered
-greatly as the Orks’ combined
-numbers and suicidal rushes
-threatened to overwhelm
-the Naval line. The
-battlecruiser, Thunderchild,
-was the first to fall, its
-Captain bravely deciding
-to fight on whilst crippled
-rather than disengage, in
-order that the rest of his
-squadron could rally around
-the battleship His Will.
-As more and more cruiser
-squadrons started to suffer
-losses, Admiral Parol
-ordered the Triumph to keep
-station so that the Imperial
-
-fleet had a stable rallying
-point. The Admiral took
-His Will forward to join the
-engagement of the first Ork
-hulk to enter the pitched
-battle. Almost immediately,
-an oversized squadron of
-kroozers took advantage of
-the break in the Imperial
-line and surged forward,
-taking little damage from His
-Will’s long ranged broadside
-fire, before bracketing the
-Triumph and bombarding her
-with massed fire. Triumph’s
-shields failed within seconds
-and its ancient hull was
-soon battered by crude but
-heavy Ork weaponry. As
-the kroozers moved closer
-to the battleship, a series of
-boarding attempts by attack
-craft and teleporters took
-the battle into the very heart
-of the Triumph, where its
-crewmen fought valiantly
-hand-to-hand against the
-Orks. As crew were diverted
-from their main duties
-to fight the boarders, the
-kroozers in the void outside
-found it easier to continue
-their bombardment of
-the increasingly sluggish
-Triumph, heedless of the lives
-
-of the Orks they had already
-sent to board the battleship.
-Captain Honyaeger was
-pained by the onslaught
-his ship had suffered and
-reluctantly gave the order
-to disengage from combat,
-a feat he barely managed
-in his crippled vessel. The
-fighting to clear the Ork
-boarders from his vessel
-reportedly took another
-four days to complete.
-With the Triumph out of
-action and three more Ork
-fleets detected entering the
-Armageddon system, Admiral
-Parol was forced to disengage
-the remainder of his ships and
-regroup them to slow the Ork
-advance through Imperial
-space by any means he could.
-In the event, the Orks seemed
-to care little for the Imperial
-fleet, obviously viewing a
-fleeing enemy as good as a
-destroyed one and instead
-sped forward as fast as they
-could towards the glittering
-jewel of Armageddon itself.
-Parol and his captains
-watched on, helpless as
-their system was overrun.
-
-165
-
-A WORLD SHUDDERS
-First to feel the wrath of the
-Ork fleets was the sector
-naval facility of St. Jowen’s
-Dock, as facility commander,
-Captain Starrkos, recorded
-in a transmission to
-Admiral Parol in the
-days after Pelucidar:
-“I must now report on our
-own situation here on St.
-Jowen’s Dock. As the Ork
-fleet swept past your line,
-we prepared for multiple
-boarding actions but,
-incredibly, the Orks opted for
-simple bombardment. Few
-enemy vessels attempted orbit
-of our dock, preferring instead
-
-166
-
-to simply unload ammunition
-into our hull as they
-continued their headlong rush
-towards Armageddon itself. I
-feel that we were in no way a
-target for them – St. Jowen’s
-Dock was just in their way.
-Over ninety percent of
-our surface defences were
-destroyed in the first seven
-hours of the attack, negating
-our ability to strike back
-at the invaders. Soon
-after, enemy assault boats
-were launched. There was
-nothing coordinated in their
-assault and many of my
-bridge officers have formed
-the opinion that the many
-boarding craft that left the
-
-launch bays of passing Terror
-Ships were the result of poor
-discipline amongst the aliens.
-Simply put, we believe we
-were finally boarded by Orks
-that could not wait long
-enough to reach Armageddon
-before engaging in battle.
-With our defences all but
-nullified, we were powerless to
-stop them entering the Dock
-itself, but I organised combat
-teams to repel their assault
-with all haste. We suffered
-heavy losses as the Orks
-fought with literally inhuman
-ferocity and the fighting that
-took place as the aliens pushed
-towards the main reactors was
-intense. I was forced to divert
-
-many teams to aid in the
-defence of the reactors for fear
-that the Dock could be lost
-altogether if they succeeded
-in their attack, though
-this allowed many of their
-number to sweep unopposed
-through to some of our upper
-decks. We now have the Orks
-somewhat under control, but
-we have lost almost all contact
-with the lower decks and
-must consider them enemy
-held territory. We have the
-manpower to halt any further
-advance now that the fleets
-have moved passed us and
-begun their main assault, but
-we will never be able to clear
-the infestation unaided.”
-
-Although at first report
-Parol was mildly relieved to
-hear the fate of St. Jowen’s
-Dock, escaping, as it had,
-complete destruction at
-the hands of the Orks, he
-quickly realised that their
-dismissal of the stations
-importance was in fact an
-even more damning blow
-to the Imperium’s efforts. If
-the Orks had no intention of
-spreading their green curse
-across the entire system, the
-sheer scale of invasion which
-was Armageddon was about
-to face must be even larger
-than previously feared, Parol
-reasoned. Still, ever the calm
-strategist, even amidst these
-
-hopeless opening defeats of
-the war, this chain of events
-nurtured some hope in
-Parol. If the Orks, apparently
-under direct instruction
-to do nothing more than
-bombard St. Jowen’s Dock,
-could still not resist their
-barbaric urge to close and
-tussle with the enemy,
-perhaps their actions could
-be as much of his making
-as their master’s. A strategy
-of divide and conquer
-was rapidly becoming the
-Imperium’s last hope.
-
-167
-
-LOGISTICS
-
-TO RECLAIM THE STARS...
-While Parol remained
-distant from the conflict,
-regrouping and re-evaluating
-the Navy’s effort in the wake
-of Pelucidar, matters on
-Armageddon itself became
-ever more urgent. Fearing
-that the encroaching Ork
-fleet would come upon
-Armageddon before a
-coordinated defence could
-be mounted, many of those
-Space Marine Chapters
-now massing on the planet
-took to their battlebarges
-and strike cruisers and
-returned to space. As the
-Ork fleet approached the
-assembled fleet, under the
-command of Black Templars
-High Marshall Helbrecht,
-they gambled on a single,
-
-168
-
-short lasting volley of fire
-against the Orks. Almost
-in unison, more than a
-dozen battlebarges and
-several dozen strike cruisers
-pummelled Ghazghkull’s
-fleet with torpedoes and
-bombardment cannons,
-virtually demolishing
-the first wave of escorts
-and crippling the hulk,
-Rumbledeth. Even so,
-Helbrecht quickly realised
-that the stars could not
-belong to the Space Marines
-that day, and dispatched
-most of the assembled forces
-back to the planet, leaving
-the fleet to retire and join
-Parol’s own navy vessels in
-solemnly allowing the Orks
-to push on to Armageddon
-virtually untouched.
-
-Following Pelucidar, as final
-preparations for a ground
-war were undertaken, very
-serious consideration had
-to be given to the role the
-Imperial Navy could play
-in the coming war. In the
-Imperium’s long history,
-combined actions where
-Imperial Navy elements acted
-principally as transports
-for the lumbering Imperial
-Guard armies, or as reserves
-guarding supply chains and
-patrol routes were common,
-as were the many spacebound wars which the Navy
-had become accustomed
-to fighting. Likewise, the
-Chapters of the Adeptus
-Astartes excelled in swift
-and bloody fleet actions
-designed to hammer a way
-through to contested planets
-where their particular
-penchant for planetary
-assaults would lend them the
-upper hand. Armageddon,
-however, proved to be
-something quite different.
-Simply using the Navy to
-defeat the Orks in space had
-proved impossible, since
-Ghazghkull had no reason
-to allow any portion of his
-fleet to be drawn into combat
-where superior Imperial
-discipline would probably
-overwhelm Ork brutality.
-Likewise, relying on the
-speedy deployment of ground
-forces to counter the Orks as
-they landed was ineffective.
-The Ork horde was simply
-too great in numbers to be
-conclusively beaten in a
-solely planetside conflict,
-but likewise too vast, and
-what’s more too reticent to
-be properly engaged in space.
-Instead a new strategy had
-to be devised – one allowing
-
-the Imperial Navy to operate
-effectively in deep space,
-despite being overwhelmingly
-outnumbered, whilst
-maintaining enough of a
-transport capacity to ensure
-that no single enclave of the
-system became overlooked
-or cut off from the Imperial
-effort. For virtually the
-first time since the Heresy,
-a system wide war had
-broken out which required
-the complete integration of
-ground and fleet actions.
-These problems, initially
-at least, were not easily
-overcome. Unusually, the
-majority of the Imperial fleet
-was made up of Space Marine
-vessels, and their role in this
-mixed campaign was initially
-unclear. Commitments
-on the ground led to an
-undermanned Space Marine
-fleet, and one further stymied
-by the need to remain close
-to their attendant ground
-forces should the need for
-sudden movements arise.
-Any determined attempt
-to muster a Space Marine
-fleet for deep space combat
-invariably compromised
-other areas of the campaign.
-
-MARSHALLING THE
-FORCES
-After several horrifying
-defeats in the early part of
-the war, the Space Marines
-quickly came to realise,
-however, that the almost
-unstoppable numbers in
-which the Orks were arriving
-on Armageddon itself was
-only being exacerbated by
-their failure to deal with the
-threat effectively in space.
-Angry at his counterpart’s
-arrogant dismissal of
-the Imperial Navy, High
-Marshall Helbrecht of the
-Black Templars restructured
-firstly his own men, then
-gradually all Imperial forces,
-to better fight the war system
-wide. Helbrecht, like many
-descendants of Dorn, had
-
-always prided himself on
-his willingness to cooperate
-with other elements of
-the monolithic Imperial
-institutions, and his skill at
-negotiation and delegation
-proved pivotal. Helbrecht
-himself assumed joint
-command of the fleet, taking
-responsibility for organised
-movement and transport
-affairs whilst Parol was freed
-to dedicate his time solely to
-the actual matter of fighting
-one of the Imperium’s
-largest ever space conflicts.
-Helbrecht quickly realised
-that the inevitable casualties
-on the ground were
-themselves making the
-size of the Space Marine
-fleet a problem. Indeed, the
-
-169
-
-Salamanders, one of the
-Chapters hardest hit in the
-early stages of the conflict,
-reluctantly reported to
-Helbrecht that two of their
-much needed battlebarges
-would be unable to attend as
-they had been left in a state
-of near abandonment for
-several weeks following an
-overzealous commitment of
-their crews to the fighting
-around Acheron Hive. To
-Helbrecht, the Master of
-a Chapter whose entire
-existence is spent aboard
-their Crusade Fleets,
-such problems were easily
-remedied. The typical Space
-Marine tactic of boarding
-had to be stayed – such close
-quarters fighting would be
-reserved for the bloodied soil
-of Armageddon. Helbrecht
-also overcame the initial
-reluctance of his fellow
-commanders to withdraw
-a greater proportion of
-their men from the ground
-
-170
-
-to place them aboard the
-fleet with the insistence
-that the extra mobility such
-increased manpower would
-lend the fleet would make
-those same Space Marines
-infinitely better able to return
-speedily to the surface should
-the need present itself.
-
-TO TRADE VICTORY FOR
-DEFEAT
-Even with such masterfully
-crafted reforms, the initial
-Ork assault had already
-pummelled large parts of
-Armageddon into a bleeding,
-smoking mass of rubble
-and corpses. That battle,
-Helbrecht and Parol agreed,
-was already lost. Instead,
-both the Marine and Navy
-vessels withdrew from the
-immediate space around
-Armageddon to concentrate
-instead on a blockade of
-the system to prevent Ork
-reinforcements. From this
-
-strategy born of earlier
-failure, an unexpected boon
-was gained by the Imperium.
-Allowing such vast numbers
-of Ork vessels through
-pandered to the Ork psyche
-(as Parol had already
-presciently noted after St.
-Jowen’s Dock) and they
-began a frantic planetary
-assault in their millions. Orks
-from the lowliest Grot to the
-most ancient and bloated of
-Warbosses boarded landing
-craft and plunged violently
-and insanely towards the
-planet’s surface, leaving
-their fleet a muddled and
-disorganised mass. As well as
-this, the Ork landing diverted
-the vast majority of their
-available fighta-bommas,
-leaving the Ork fleet largely
-without attack craft for the
-remainder of the campaign
-–a fact which would cost
-Ghazghkull dearly.
-
-HELBRECHT’S REVENGE
-Capitalising on this,
-Helbrecht began the first
-stage of the war to return
-space to Imperial control.
-At the battle later dubbed
-Helbrecht’s Revenge, a
-Space Marine fleet acting
-in wedge formation (a
-tactic allowing powerful
-forward bombardment
-whilst retaining as many
-defensive attributes as
-possible) closed upon the
-Ork hulk, Rokdroppa.
-The encounter proved to be
-something new for many
-of the Space Marine vessels
-present – a battle in which
-the firepower superiority of
-their ships was to be utilised
-almost to the exclusion of
-their favoured boarding and
-assault tactics. Amongst
-the fleet, members of
-the Black Templars and
-Black Dragons Chapters,
-already experienced naval
-chapters, excelled beyond
-all others, and in their
-absolute supremacy acted
-as a fine example to the
-rest of the fleet of how the
-war must henceforth be
-fought. Against the wedge
-of vessels, Rokdroppa was
-unable to move itself into a
-good firing position without
-leaving itself vulnerable, even
-with the sizeable armada
-of escorts, kroozers and
-roks which accompanied
-it. No matter which way
-it turned, Rokdroppa
-found itself pummelled by
-bombardment cannons. The
-Orks, unable to resist the
-urge to close with the enemy,
-only brought themselves
-closer to the hungry guns
-of the Space Marine fleet.
-At the loss of two thirds
-of its escorting vessels and
-
-the apparent death of its
-Warboss, Rokdroppa finally
-turned to disengage, though
-it was too late and its hurried
-flight served only to bring it
-into the sights of Ebon Flame,
-a Black Dragons battlebarge
-operating in the honour
-position of the left hand flank
-of the wedge. Mere moments
-after it came into range, the
-Rokdroppa was torn clean
-in two, even its wreckage
-pummelled by the astute
-Helbrecht for fear such a
-large chunk of a hulk might
-fall planetward if left simply
-to float through the ether.
-
-A CIRCLE OF IRON
-Even with such a victory
-under its belt, the Space
-Marine fleet still remained
-a lone lighthouse in a sea
-of green, and at great risk
-of encirclement. At this
-point, Parol enacted the
-first stage of his counterpart
-plan to slowly widen a
-blockade around the entire
-Armageddon system. Parol
-and his fleet emerged
-alongside the victorious
-Space Marine fleet just
-in time to repel a further
-opportunistic attack from
-a second Ork fleet. Parol
-deployed a cordon of
-battleships and cruisers to
-the rear of the Space Marines
-while determined packs of
-Imperial escorts saw off the
-already intimidated Orks.
-Parol’s manoeuvre allowed
-the Space Marines the time
-needed to disengage from
-their highly effective, but
-woefully immobile, wedge
-formation in safety.
-Having at last bought
-themselves a little breathing
-space, the fleet dispersed into
-a series of more effective,
-
-smaller battlegroups, moving
-cautiously at first to guard
-one another’s backs, but
-nonetheless slowly widening
-the area of space over which
-they could exert control.
-Helbrecht willingly took a
-back seat to Parol during this
-stage of the campaign, whose
-unequalled tactical skill
-allowed the Imperial fleet to
-rapidly expand its blockade
-for only minimal loss.
-Parol was keenly aware
-that his only advantage lay
-in the Orks’ predictable
-pattern of invasion, doing,
-as they did, little more
-than head for whichever
-planets they hadn’t already
-overrun. Parol clustered
-his battlegroups around
-the planets in question,
-though always taking care
-to remain some distance
-away from any planetary
-assaults already underway.
-Instead clever manoeuvring,
-so Parol hoped, would
-allow his fleets to retain
-the cover of those planets,
-moons and phenomena for
-as long as they could, before
-intercepting the Ork fleets
-as they approached. The
-remnants of the Chosin
-line, a woefully inadequate
-perimeter of planetary
-defences installed in the
-system after the Second
-Armageddon War, finally
-proved to be of some, albeit
-minor, use in this strategy.
-By these means, Parol
-overcame his lack of
-numbers, since he could
-afford to leave gaps in the
-blockade in deep space areas,
-from where the Orks would
-inevitably head planetward
-and run in to the Imperial
-forces later on, anyway.
-
-171
-
-SILENT RUNNING
-Insurgencies beyond the
-blockade were still frequent
-however, and when they
-did occur, Parol carefully
-monitored the movement of
-the Ork hulks in question,
-waiting for them to approach
-within precise ranges of other
-key points of the blockade.
-At meticulously timed
-opportunities, battlebarges
-would make a single
-speedy movement towards
-a rendezvous point before
-disabling their own systems
-and gliding coldly and silently
-on a straight collision course
-with the invading hulk. Several
-hulks and the battleship
-Gorbag’s Revenge were lost to
-this new ‘silent running’ tactic,
-where battlebarges would
-suddenly engage their systems
-and appear to emerge from
-nowhere to quickly cripple
-their unsuspecting prey. Ever
-the masters of Hit-and-Run
-warfare, silent running quickly
-became a favourite tactic of the
-White Scars elements of the
-Imperial fleet, keenly rejoicing
-in the unexpected ability to
-fight by their own favoured
-means, even in the cold
-blackness of space. The White
-Scars’ battlebarge Plainsmaster
-was even renamed The Silent
-Horseman in honour of this
-newly adopted mode of attack.
-Such a blockade would never be
-strong enough to repel the Ork
-attack completely, indeed both
-Parol and Helbrecht would have
-considered any attempt to do
-so foolish in the light of earlier
-events. However, the carefully
-placed points of resistance along
-the blockade did dramatically
-reduce the number of Ork vessels
-and, most importantly, Ork hulks
-getting through, reducing the
-Orks’ available troops planetside
-and so handing the advantage
-
-172
-
-to the otherwise beleaguered
-Imperial ground forces. Cautious
-but nonetheless erudite advances
-by battlegroups at the edges of
-the blockade shored up valuable
-supply chains, sometimes
-reopening them after months of
-Ork domination. With this came
-the inevitable increase in Imperial
-reinforcements, still being
-summoned to Armageddon
-in numbers. With each new
-influx of Imperial Navy vessels,
-Helbrecht was able to redirect
-precious battlebarges and strike
-cruisers to the ground conflicts,
-
-further tipping the balance
-in favour of the Imperium.
-But there was no escaping the
-fact that the ground war would
-remain a precarious balance
-while the Orks still flooded
-reinforcements planetwards
-via their mysterious
-tellyportas. Acting on the
-freedom of movement brought
-about by this new dominance
-of space, Parol gave instruction
-for some of the most unique
-actions of the war – to seek out
-and destroy the tellyportas.
-
-THE HUNT FOR RED ORKTOBA
-Hunting the enemy is one thing, indeed, the one
-thing that most of the available forces were adept
-at. But this was an enemy who had no reason
-to be caught. The simple pirates and raiders
-most often the targets of such scouring searches
-sooner or later, by their very nature, have to
-reveal themselves, even if only against unarmed
-merchant and transport vessels. Whichever vessel
-or vessels it was that bore the tellyportas had little
-reason to remain in the face of the enemy, and
-could simply flee at first sight of attack since their
-only role lay in remotely teleporting hordes of Ork
-warriors. Parol and Helbrecht were well prepared
-for a long hunt. The Oberon class battleship,
-Green Lake, was chosen as one of the foremost
-hunting vessels, since its ancient design, dating
-from a time when the Imperium feared the then
-newly developed attack craft would invalidate its
-battleships, and optimised for operating single
-handedly against a variety of foes without the
-need for escorts, made it the perfect predator.
-Even for this, the hunt could still have been in
-vain where it not for a peculiar piece of luck.
-Ground forces on Armageddon itself reported
-a brief, three week long period when, at initially
-unconnected times of day, the tellyporta drops
-seemed almost to stop completely, with those
-that did arrive presenting an extraordinarily
-high number of dead Orks, hideously mutilated
-by the process. Captain Fitzmander, a skilled
-
-pirate hunter, realised there were only two
-possible causes – a sudden failure of the Ork
-technology (unlikely, since as far as anyone
-knew, Orkimedes was still alive and well), or
-some unexpected change in the conditions
-from which the tellyporta was operating.
-Fitzmander narrowed down the likely causes
-to the area around Namara, where a fluke
-alignment of planets had captured the tiny world
-of Chosin exactly equidistant between its gigantic
-neighbours, Namara and Gramaul, exerting
-countless unpredictable astronomical forces upon
-all three. Most acutely, as revealed by long range
-sensor probes conducted by Green Lake, was
-the distortion of energy and electrical activity
-around Namara, where the gravity of the other
-two planets had conspired to distort such signals.
-Working on the theory that this must be the
-source of the tellyporta disruption, the Green
-Lake headed as swiftly as possible for Namara.
-Sure enough, in orbit about the planet Fitzmander
-located the Ork hulk, Skullbanga. The Green
-Lake closed quickly, attacking from close
-range with substantial broadside firepower.
-Lacking the fighta-bommas that would be the
-customary response to a lone battleship such
-as this and with only limited numbers of escort
-vessels, Skullbanga was so badly mauled that it
-was crippled as it attempted to enter Warp, the
-strain of which utterly destroyed the hulk.
-
-173
-
-RED BLOOD IN THE GREEN LAKE
-Victorious, the Green Lake pursued the
-fleeing elements of the Ork fleet, hunting
-them down in short skirmishes over the
-course of several days. Green Lake’s pursuit
-continued unabated until the unexpected
-appearance of the Ork battleship, Dethdeala.
-An exploratory wave of attack craft drew
-no response from the battleship, leading
-Fitzmander to assume that, like much of
-the Ork fleet, Dethdeala was at a distinct
-shortage when it came to fighta-bommas.
-Relying on proven tactics, Fitzmander
-elected to close to optimum weapons
-range and open fire. Little could he have
-known he had already run too far…
-
-174
-
-Moments before the order to fire could
-be given, the Green Lake was overrun by
-boarding Orks. Fitzmander could never
-have predicted such an attack and his crew
-struggled to repel the boarders. Dethdeala
-it seemed, also bore a tellyporta, perhaps
-without sufficient range for planetary
-landings, but nonetheless sufficiently
-powerful to flood the Green Lake with
-Orks at a distance where ordinarily only
-the most long range weapons should have
-been effective. Caught completely unawares
-by the tactic, Fitzmander died alongside
-his crew, fighting the Orks hand-to-hand
-amidst the cramped corridors across
-every level of the ancient battleship.
-
-PAROL’S SACRIFICE
-At news of the Green Lake’s
-destruction, Parol ordered
-an even more intense
-search for Ork elements
-operating on the fringes
-of the system, believing
-now that far more vessels
-carried tellyportas than
-he had previously feared.
-The destroyer squadron,
-Brothers of Cale, made a long
-distance sighting of another
-Ork hulk in the debris of
-Mannheim station. Tortured
-by the loss of his old friend
-Fitzmander, Parol led the
-attack on the hulk in person.
-Just as Skullbanga had done,
-the hulk, never properly
-identified by Imperial
-sources, broke from orbit
-and fled, attempting to enter
-the Warp. Parol, aboard His
-Will, his flagship of many
-decades gave desperate chase.
-Hastily deployed attack
-craft disrupted the hulk
-just enough to prevent it
-entering the Warp while His
-Will attempted to close. The
-speed and manoeuvrability
-of the hulk was startling,
-so much so that Parol
-was certain Orkimedes
-himself must be on board.
-Fearing that such a marvel
-of Ork engineering might
-outrun him, Parol abandoned
-his normally stayed methods,
-forsook all thoughts of
-proper formation and simply
-ordered His Will all ahead
-full in pursuit of the hulk.
-As the hulk prepared to
-enter the Warp, Parol saw
-no alternative but to ram,
-bringing His Will hard into
-the vulnerable rear starboard
-side of the hulk. Parol
-
-ordered his crew ready for a
-desperate boarding action,
-a call for reinforcements in
-support of which was the
-last communication ever
-received from His Will before
-it and the hulk both slid
-away into the Immaterium.
-With nothing to suggest
-he could possibly have
-survived, Admiral Parol
-has been presumed dead
-ever since that moment.
-While Parol’s loss was a
-bitter blow to the Imperium,
-it did not seem to be in
-vain. The tellyporta drops
-ceased at once, seemingly
-proving that the hulk Parol
-encountered had been
-responsible for most of the
-Ork reinforcements making
-it through the blockade.
-
-THE GREEN TIDE TURNS
-Next, Helbrecht chose to
-make a decisive move,
-turning almost all the
-remaining Space Marine
-vessels inwards from the
-blockade, aiming to finally
-confront head-on those Ork
-vessels which had long held
-such a strong position around
-Armageddon itself. Perhaps
-realising that he would be
-stranded should his fleet be
-lost now, Ghazghkull proved
-himself once again the most
-exceptional of Orks and
-withdrew huge numbers of
-his troops to the fleet and
-swiftly headed out system.
-Helbrecht prepared to
-pursue, but now, wiser than
-ever to the danger of dividing
-his forces too thinly, delayed
-long enough to retrieve those
-Space Marines that could
-be spared from the planet’s
-
-surface. A number of the
-other chapters were assigned
-to close planetary actions,
-blockading Armageddon
-itself more tightly behind
-the departing Orks, while
-Helbrecht withdrew his
-Black Templars to their ships
-and initiated a spacebound
-Crusade in pursuit of
-Ghazghkull’s immense fleet.
-Similarly concerned that the
-Orks might simply use their
-retreat as a means to attack
-nearby worlds whilst such
-substantial numbers of men
-were tied up on Armageddon,
-Yarrick ordered that all
-ground based Imperial
-Guard reserves return to
-fleet transport to be ready for
-any new planetary assaults,
-should the need arise. Having
-seen Ghazghkull slip through
-his fingers once before, this
-was not enough for Yarrick,
-and the Old Man joined
-Helbrecht at the head of the
-Imperial fleet as it set off in
-pursuit of his old enemy.
-The pursuers might have lost
-Ghazghkull in those first few
-days of the chase, had it not
-been for another side effect of
-Parol’s ingenious blockade.
-The staunch line of resistance
-which had once kept the Orks
-out, now hemmed them in, or
-at least forced them to make
-their presence known as they
-tried to leave the system.
-Battlegroups on the edges
-of the blockade reported
-the Ork fleets movements,
-attacking them in delaying
-Hit-and-Run attacks where
-they could, allowing Yarrick
-and Helbrecht in pursuit to
-close with the greenskins.
-
-175
-
-ARMAGEDDON NOW
-Both Helbrecht and Yarrick
-knew the fighting was far
-from over, and prepared for
-a long campaign against
-Ghazghkull around the
-edges of the system, one for
-which Ghazghkull quickly
-amassed his surviving vessels
-into a horrifying armada
-poised once again perilously
-close to Armageddon.
-Behind them, though, the
-story was rather different.
-Armageddon itself remained
-ravaged, and perhaps
-a little too much effort
-was concentrated on the
-planetside campaign by
-the commanders left there
-following the departure of
-Yarrick, Helbrecht and Parol.
-
-176
-
-The Imperium of Man is a
-vast and nigh immutable
-thing, unchanged in
-millennia as much through
-its own reluctance as through
-any lack of means. Typically
-for such a lumbering
-organisation, the bold and
-courageous kind of reforms
-which Helbrecht and Parol
-had instituted to win such
-a victory as they could were
-all too quickly forgotten in
-their absence. As the conflict
-in space relented a little,
-pedantic Imperial captains
-quickly fell into the old habits
-of needless bureaucracy,
-insisting on pointless
-movements of vessels
-solely to restore old and
-unnecessary arrangements
-of battlegroups and fleets, as
-
-much for their own comfort
-and sense of place as for
-any good strategic reason.
-With such pointless deeds,
-the Imperial Navy, having
-achieved such remarkable
-success from so pitiful a
-position at the start of the
-war, now just as astonishingly
-neglected its advantage,
-content simply to patrol and
-defend the blockade which
-Parol had intended to act as
-a base for later campaigns,
-not simply as a place of rest
-for the lazy or cowardly. A
-hard won advantage rests
-in Imperial hands, though
-whilst Parol remains missing
-presumed lost, it is hard
-to imagine when, if ever, it
-will be decisively pressed.
-
-ARMAGEDDON SECTOR
-
-KEY TO SUB-SECTOR MAPS
-A
-
-Agri-world
-
-C
-
-Civilised world
-
-F
-
-Forge world
-
-H
-
-Hive world
-
-M
-
-Mining world
-
-P
-
-Penal world
-
-U
-
-Uninhabited system
-
-177
-
-THE THIRD ARMAGEDDON WAR: SCENARIO ONE
-
-THE GAUNTLET
-The ferocity and speed with which Ghazghkull’s Waaagh! assailed the
-Armageddon sector left many worlds isolated, and left much of the Imperial
-Navy scattered. To ensure the sector did not become entirely strangled,
-numerous daring convoy runs had to be made through Ork held space...
-
-FORCES
-
-VICTORY CONDITIONS
-
-The Imperial convoy must include at least
-two Transport ships. For every two convoy
-ships taken, the Imperial and Ork players
-may take 100 points worth of ships. The rules
-for Heavy Transports may be used freely in
-this scenario. The Imperial player may only
-take one Cruiser. All his other ships must
-be either Light Cruisers or Escorts. The Ork
-player is limited to taking just Escorts.
-
-The Imperial player must exit at least three
-Transport ships from the opposite short table
-edge to the one he started on to claim a victory.
-Any less is considered to be an Ork victory.
-
-BATTLEZONE
-
-As this is a running battle, representing an
-Imperial fleet desperately trying to get their
-convoy to safety, you might like to try the
-following special rule in this scenario.
-
-This battle takes place in the Primary Biosphere
-where the Orks are attempting to tighten
-their gauntlet around Armageddon. Generate
-celestial phenomena on the Primary Biosphere
-table. Ignore any rolls that produce a planet.
-
-The Imperial convoy and escorting ships
-are all placed within 30 cm of the centre
-of the table at the start of the game, facing
-either short table edge. The Ork ships
-move on from any point along either long
-table edge in the first turn as normal.
-
-SET-UP
-
-At the end of every Imperial turn, every ship and
-item of celestial phenomena is moved back 20 cm,
-away from the table edge the Imperial ships
-were facing at the start of the game. Any ship
-that ‘drops’ off the end of the table during this is
-considered to have disengaged from the battle.
-
-The Imperial convoy and escorting ships are all
-placed within 45 cm of one short table edge, facing
-the opposite edge. The Ork ships move on from any
-point along either long table edge in the first turn.
-
-FIRST TURN
-The Ork player has the first turn.
-
-GAME LENGTH
-The battle continues until one fleet is
-destroyed or disengages, or the Imperial
-fleet exits from the far short table edge.
-
-178
-
-RUNNING BATTLES
-
-In addition, roll a die at the end of the Imperial
-player’s turn. On a 6, a randomly generated
-item of celestial phenomena is placed by the
-Imperial player along the short table edge his
-ships originally faced. It is assumed that the
-Imperial commander leading the convoy will
-be able to ‘steer’ the battle towards any celestial
-phenomena that he feels will give him an
-advantage in this mission. As before, ignore
-any rolls that generate a planet – Armageddon
-is still many thousands of kilometres away!
-In this variation of The Gauntlet, the game
-lasts for ten turns. If the Imperial player
-still has at least three Transports on the
-table by this time, he may claim victory.
-
-THE THIRD ARMAGEDDON WAR: SCENARIO TWO
-
-PAROL’S BAIT
-As the massive tidal wave of Ork ships spread throughout the Armageddon
-system, Admiral Parol was forced to disengage his ships from front line combat
-or run the risk of having his fleet destroyed before he was able to mount any
-serious challenge. With direct battle out of the question, Parol dispersed his
-forces with orders to harry the Orks’ flanks wherever possible. With most of
-the alien vessels only too willing to seek combat, Parol hoped that he could
-distract and possibly destroy enough of the enemy to delay their arrival around
-Armageddon itself. Many text book naval stratagems were tested to their limits.
-
-FORCES
-In this scenario, a small group of Light
-Cruisers and Escorts have successfully
-drawn out a force of Ork ships from the
-main fleet and are leading them towards a
-trap. Parol’s Bait is a variation of Scenario
-Two: The Bait on pg. 130. You may want
-to familiarise yourself with The Bait
-before proceeding with this mission.
-
-Imperial reinforcements enter from the short
-table edge that the pursued ships are facing.
-
-Pursuing forces: Up to 500 points of Ork ships.
-Pursued forces: Up to 250 points initially,
-with up to 500 points of reinforcements. Only
-Light Cruisers and Escorts may be bought
-but, unlike The Bait scenario, more than one
-Light Cruiser or squadron may start as the
-fleeing ships. The Imperial player may also
-purchase up to six Orbital Mines. Although
-they start on the table, they will be paid
-from the 500 points for the reinforcements.
-
-BATTLEZONE
-Roll for the battlezone randomly. On a 1-4,
-this scenario takes place in the outer reaches.
-On a 5-6 it takes place in the Primary
-Biosphere. Generate celestial phenomena
-on the appropriate battlezone table.
-
-SET-UP
-The pursued Imperial ships are placed in
-the centre of the table, facing one of the
-short table edges. Any Orbital mines can be
-deployed anywhere in front of these ships.
-The pursuing Orks are placed behind the
-Imperial ships, at least 60 cm away. The
-
-FIRST TURN
-The Imperial player has the first turn.
-
-SPECIAL RULES
-Any reinforcements for the Imperial
-ships may enter the table on any turn,
-including turn one. If the reinforcing
-ships enter after turn one, they may be
-deployed up to 30 cm along the long table
-edges for each turn after the first.
-
-GAME LENGTH
-The battle continues until one fleet
-is destroyed or disengages.
-
-VICTORY CONDITIONS
-Standard Victory Points are earned for ships
-crippled, destroyed or disengaged. In addition,
-the Orks gain bonus Victory Points equal to
-half the points value of any reinforcements
-brought on to help the pursued Imperial ships.
-If mines are taken, the victory points for these
-are automatically awarded to the attacker.
-
-179
-
-THE THIRD ARMAGEDDON WAR: SCENARIO THREE
-
-PELUCIDAR
-The initial elements of Ghazghkull’s fleet entered the Armageddon system on the Day
-of the Feast of the Emperor’s Ascension, a time when the Imperial Navy was building
-up to full alert status. Admiral Parol knew that time was of the essence as the forces
-of the Imperium marshalled their strength on Armageddon itself and that it would
-be the task of his fleet to buy this valuable time in the face of an immense Ork fleet.
-The Defence of Pelucidar was actually a huge engagement and so this scenario
-concentrates on only a small portion of the battle. The Imperial player, representing
-Admiral Parol, must cause as much damage as possible to the Ork fleet whilst trying
-to minimise his own losses. Initially, the Ork fleet will be poorly organised, but
-their strength will soon increase and threaten to overwhelm the Imperial force.
-
-FORCES
-
-FIRST TURN
-
-The Imperial player may have a fleet of up to
-1500 points, but may only choose Cruisers,
-Battlecruisers and Battleships from his fleet list.
-Up to four Minefields may also be purchased.
-Historically, only Armageddon-class Battleships
-were featured in this battle, but there is no
-reason that an Imperial player cannot use other
-classes just to ‘see what would have happened’.
-
-The Orks have the first turn in
-the Defence of Pelucidar.
-
-The Ork player starts with no ships
-at all and will receive his fleet
-randomly throughout the battle.
-
-BATTLEZONE
-This battle is fought in the Outer Reaches
-of the Armageddon system. After rolling
-for Celestial Phenomena randomly, the
-Imperial player may then place the planet
-of Pelucidar anywhere on the table he
-wishes. He must then deploy his entire fleet
-in the area indicated on the map below.
-The Ork player moves his ships on
-from any point along his table edge.
-
-SET-UP
-The defender deploys his whole fleet first. The
-defending fleet must be set up with all the
-ships facing the same table edge and at least
-30 cm from any table edge. Each defending
-ship or squadron must be set up at least
-20 cm apart. The attacker moves his fleet on
-to the table from any edge in his first turn.
-
-180
-
-SPECIAL RULES
-At the start of each of his turns, the Ork
-player rolls on the chart below to see what
-forces turn up for battle. You will notice that
-the first few turns go by very quickly, but
-things will soon start hotting up as the Orks
-gradually receive more and more ships.
-A Squadron of Escorts will have D6
-Escorts of whatever type the Ork player
-wishes. A Fighta-Bomma or Attack
-Craft Wing will have four counters.
-D6+TURN
-ROLL
-
-RESULT
-
-2-4
-
-1 Fighta-Bomma/Attack Craft Wing
-
-5-6
-
-1 Escort Squadron
-
-7-9
-
-2 Escort Squadrons
-
-10
-
-3 Escort Squadrons
-
-11
-
-1 Kroozer or Terror Ship
-
-12
-
-2 Kroozers or Terror Ships
-
-13-14
-
-1 Rok
-
-15+
-
-1 Space Hulk
-
-If the Ork player rolls a unit he cannot field
-due to a lack of models, use the next lowest
-item on the table instead. For example, if a
-Kroozer is rolled for, but the Ork player has
-already used all of his Kroozer models, then he
-would receive three Escort Squadrons instead.
-
-GAME LENGTH
-The battle lasts until the Imperial fleet is destroyed or has disengaged
-
-VICTORY CONDITIONS
-The Imperial player scores Victory points for destroying and crippling Ork ships as normal, but
-not for ‘Holding the Field’. In addition, the Victory Points for any Imperial ship that is destroyed
-or disengages is deducted from his total. The Ork player receives no Victory Points in this battle.
-The Imperial player must earn at least 2000 Victory Points at the end of the battle
-to claim a victory. Anything less is counted as being a victory for the Orks.
-Take particular note that the Imperial player will lose Victory Points at the end of
-the battle because his ships have to disengage, so he must take this into account or
-be very red faced when he pulls into the space dock around Armageddon!
-
-181
-
-999.M41
-TH
-ABADDON’S 13
-BLACK CRUSADE
-Since the end of the Heresy the surviving Chaos Space Marines
-of the Traitor Legions have remained the Imperium’s greatest
-enemies with their frequent raids from the Eye of Terror. Amongst
-them, undoubtedly the greatest and most fearsome is Abaddon,
-heir of Horus and dread leader of the Black Crusades...
-
-THE GROWING STORM
-The beginning of Abaddon’s 13th Black
-Crusade was marked by an escalation in
-the number of raids on isolated, seemingly
-insignificant worlds in the sectors outlying
-the Eye of Terror. Such raids, whilst certainly
-not unusual, had previously always been
-the work of small groups of pirates, acting
-without common motive, and invariably
-dogged shipping lanes and the like, rather
-than directly attacking settlements. This
-new wave of attacks seemed too highly
-coordinated, based on far too detailed a
-plan to simply be the work of the wolf packs.
-Something terrible was clearly emerging.
-
-182
-
-Rashes of warp flares erupted all around
-the Eye of Terror, making travel impossible,
-disrupting communication and breaking
-supply lines. Around these warp flares, small
-Chaos fleets emerged to prey upon those
-Imperial vessels stranded in small numbers
-by the inhospitable conditions, brutally
-massacring them all. Most horrifically,
-alongside these emergent Chaos fleets, there
-came reports of weird, ethereal Daemon
-ships, seemingly creatures of the warp
-carried into material realm on the tides of
-Chaos. Imperial fleets engaged these vessels
-where they could, though many reported
-them intangible and elusive, translating to
-and from the warp at will, making their
-ambushes and raids all the more deadly.
-
-Patrol groups from all local battlefleets
-dispersed across the Agripinaa sector, the
-target of many of the fiercest and most
-brutal raids, hunting down and engaging
-the raiders where they could. The small
-raiding groups which Imperial command
-had anticipated invariably turned out to
-be drastically larger forces, and many
-of the Imperial patrols were lost before
-even being able to give accurate reports
-of the opposition they faced. It quickly
-became apparent that a system of patrol
-and interception would do little more
-than plug the holes – not cut off the leak.
-Under such an atmosphere of uncertainty,
-the decision was made to withdraw fleet
-resources to dock, where larger, more
-effective battlegroups could be mustered and
-a common plan for defence determined. The
-captains of the returning vessels were grilled
-for what information they could provide
-on the growing threat, though so short and
-bloody had been their defeat that little of
-use could be gleaned. Confusing reports
-of Eldar vessels completely ignoring, or
-even aiding Imperial fleets baffled many of
-those present, but the wisest amongst them
-realised instantly that such unexpected unity
-could only stem from a common enemy.
-A foe to trouble even the Eldar was about
-to descend upon the galaxy, it seemed.
-
-183
-
-TRAITORS UNMASKED
-It would not be long before
-confirmation emerged.
-Even as fleet commanders
-gathered in the Agripinaa
-sector to ponder their next
-move, news reached them
-of the Volscani Cataphracts’
-horrifying betrayal on Cadia.
-Chaos, it would appear, was
-not merely on their doorstep,
-but already deep within
-their house. The massacre
-on Cadia, however, meant
-that the Imperial fleets’
-numbers were bolstered
-dramatically in the following
-days, as reinforcements
-arrived from neighbouring
-sectors, including an almost
-unprecedented number of
-Chapters of the Adeptus
-Astartes also responding
-to the call for aid in the
-aftermath of Kasr Tyrok. The
-Gothic class cruiser, Abridal’s
-Glory, even filed a report of a
-Fortress Monastery entering
-the region, suggesting that
-even to the Space Marines,
-coming events were of the
-greatest importance.
-Understandably, most of the
-arriving Chapters feared
-further revolts and uprisings
-across the sectors bordering
-the Eye of Terror, and almost
-all elected to begin ground
-offensives against those
-systems where the strife
-and disorder had already
-become widespread. The
-Space Marines were similarly
-tasked with fighting through
-many of the raging warp
-storms and mounting assaults
-on the scattered and isolated
-worlds already fallen to the
-Curse of Unbelief. Here,
-the Space Marines would
-be far less hindered by the
-
-184
-
-lack of numbers and adverse
-conditions than the Imperial
-Navy. Against a host of
-worlds the Adeptus Astartes
-fleets unleashed massive
-planetary assaults to corral
-and contain the spreading
-contagion, using planetary
-bombardments (and in the
-worst cases, Exterminatus)
-to control areas already
-deemed unclean.
-The best this strategy could
-hope to achieve, however,
-was to stabilise conditions
-on many of the smaller
-worlds across the affected
-sectors, where Imperial rule
-had been placed under the
-most strain. A far stronger
-defence would be required
-if Cadia and its neighbours
-were to be truly ready for
-what few now doubted
-would be a major invasion.
-
-To this end, the vast
-collection of ships assembled
-at the main sector docks
-around the Eye of Terror were
-formalised into battlefleets
-and dispatched to defend
-vital supply lines, inhabited
-worlds, and known routes
-out of the Eye of Terror.
-Foremost amongst these
-would be battlefleets Cadia,
-Agripinaa and Scarus,
-who were detailed to act
-as the main crux of the
-Imperial fleet effort.
-As these defensive
-preparations were made,
-unknown raiders hit the
-Tabor and Ulthor systems,
-but this time vessels of
-the Imperial Navy were in
-position to counter-attack.
-Three squadrons of Cobra
-Destroyers in conjunction
-with the Lunar class
-cruiser, Goliath, pursued
-
-the attackers into the Faberius Straits and
-in a fearsome battle, crippled the Styx class
-cruiser, Darkblood. The engagement cost the
-Navy most of the Cobras and the Goliath was
-severely damaged, but at last the attackers
-had been identified. The Darkblood was
-codified as being attached to the Night
-Lords warleader, Tarraq Darkblood, one of
-the most vicious killers in a Legion replete
-with sadistic butchers. Before Imperial
-reinforcements could arrive, a huge force of
-Chaos warships were picked up on longrange augers, and the surviving Imperial
-vessels were forced to withdraw, and limp
-to the safety of the nearby port of Aurent.
-Similar opposition was met by many of
-the Imperial battlegroups. The Imperium
-was able, largely, to stave off these small
-incursions, but often at a great cost in
-resources, invariably forcing back the
-Imperial fleet and leaving it poorly
-equipped to repel any subsequent attacks.
-Reluctantly, the Imperial vessels withdrew,
-realising that some massive attack must
-be imminent and that their best hope lay
-in a single, combined defensive effort.
-
-This change in tack meant that the
-Imperium’s highest priority very rapidly
-became predicting and pre-empting the
-location of any initial attack. The answer was
-to come in unimaginably bloody fashion.
-A patrol group, delivering Cadian Kasrkin
-to the planet of Urthwart, were to make the
-discovery. They came upon Urthwart to find
-it already lost, enslaved utterly by Chaos.
-Nothing there could be saved, and the Kasrkin
-made ready to withdraw, perhaps suspecting
-they had arrived too late. In truth, the fact
-that they had arrived at all was the enemy’s
-ultimate success. As the Cadians made ready
-to withdraw, the space around Urthwart
-was eclipsed by a Chaos fleet emerging
-from the Eye of Terror. At the centre of this
-armada of the Dark Gods, horrifying and
-incomprehensible, came the Planet Killer.
-In a matter of hours, Urthwart became a
-victim of the aptly-named Planet Killer
-– the world and all it had ever contained
-committed instantly to history by this
-greatest of Abaddon’s machineries. Like a
-herald of damnation, the arrival of the Planet
-Killer instantly announced to all that a new
-Black Crusade had well and truly begun…
-
-185
-
-THE SPREADING PLAGUE
-As if answering some
-unspoken signal, the
-destruction of Urthwart
-coincided precisely with
-the emergence of Typhus’
-Plaguefleet, the fiend
-himself in command at
-the helm of his flagship,
-Terminus Est. The fleet was
-immense, accompanied most
-alarmingly by two Blackstone
-fortresses (relics of Abaddon’s
-previous incursions into the
-Gothic sector) though now
-hideously altered so as to
-appear artefacts of Chaos
-rather than the ancient
-bastions they once were.
-If a stand was to be made,
-it was now. The Imperial
-fleet amassed at Ormantep,
-within the boundaries of
-a vast asteroid belt known
-as the Ilithrium Belt. It was
-here that the forces of the
-Imperium and those of the
-dark gods at last came face
-to face. The disruptive effect
-of the asteroid belt forced
-the fleets into brutally close
-range combat. Hordes of
-Chaos attack craft, and
-torpedoes unleashed at close
-range where their accuracy
-was highest decimated the
-Imperial fleet. Even the
-fleet flagship, Honour and
-Duty, under the command
-of Admiral Pulaski, fell
-
-186
-
-prey to the hungry guns
-of Chaos and exploded as
-its internal damage got the
-better of the ancient vessel.
-While strength of numbers
-and sheer firepower may
-have been advantages that
-lay squarely in the hands of
-Chaos, unbreakable faith and
-courage remained as ever the
-epitome of the Imperial Navy.
-If victory could not be gained
-at Ilithrium, defeat would
-at least be stalled. Captain
-Agenager, adopting control of
-the fleet after Pulaski’s demise
-ordered the fleet into a cross
-formation, arranging their
-broadsides against the Chaos
-fleet where vessels could
-defend one another with
-massed firepower and turrets,
-fending off enemy attack craft
-and creating a vicious zone
-of crossfire to their port and
-starboard. The immobility of
-the formation left Agenager
-with little hope of escape, but
-would at least stall the Chaos
-advance. With his decision
-made, Agenager and his fleet
-steeled themselves for the
-fight, praying only that their
-sacrifice would not be in vain.
-In the event, the sacrifice
-was not to be asked of
-them. As the Chaos fleet
-found itself stubbed by the
-unbreakable cross formation
-arrayed against them, its
-
-flanks first buckled then
-collapsed utterly as the
-mighty Battlefleet Agripinaa
-arrived to unleash its fury
-upon the traitors. It was
-immediately apparent to
-Admiral Quarren, arriving
-at the head of the Battlefleet,
-that a final victory could
-not be achieved. Instead, his
-reinforcements could provide
-only respite and the chance
-of escape to their comrades
-– a chance which all the
-assembled Imperial Navy
-vessels gladly took, departing
-at once for the relative safety
-of port at Demios Binary.
-
-THE SLOW REPRISAL
-So it was that as Abaddon’s
-Thirteenth Black Crusade
-swept throughout the sectors
-bordering the Eye of Terror,
-the immense warfleet which
-he had amassed proving
-unstoppable. In comparison
-to Abaddon’s Grand Fleet and
-the Plaguefleet of Typhus,
-the Imperium’s defences were
-thinly spread, even around
-the Cadian Gate where the
-so called Bastion fleets stand
-as the largest permanent
-Imperial Navy element
-outside of the Solar system.
-Thus, in the early stages of
-the war Abaddon’s fleet held
-orbital supremacy across
-
-most of the sectors within
-the warzone allowing him
-to bombard worlds, enslave
-their populace and deploy
-Chaos forces to the surface at
-will. All the while, however,
-the ponderous machine of the
-Imperial Navy readied itself,
-slowly but surely against him.
-The Imperial Navy is,
-ultimately, an inevitability.
-Stretched out across the
-thousands of light years of
-Imperial Space, dispersed
-across a hundred warzones,
-patrol routes and shipping
-lanes it is far from the most
-
-reactive force in the Emperor’s
-service. Nonetheless, the
-Imperial Navy is a giant,
-an unstoppable behemoth
-which sooner or later will,
-inevitably, arrive to unleash
-its vengeance, no matter
-how powerful the foe.
-The Imperial Navy had been
-forced to divide its assets
-across hundreds of worlds
-at the outset of the war.
-However, as the war drew
-on it was gifted a valuable
-opportunity to combine its
-numbers and concentrate
-its forces once Abaddon’s
-
-plans became clear and the
-Chaos fleets had delivered
-hordes of ground troops
-to important worlds such
-as Cadia, Agripinaa and
-Thracian Primaris. Where
-Imperial defences had been
-overstretched at the outset
-of the war, they soon stood
-reinforced by dozens of
-neighbouring battlefleets.
-Tiny patrols, at first
-hopelessly outnumbered and
-overwhelmed by Abaddon’s
-invasion, mustered together
-into battlefleets numbering
-hundreds of vessels. Space
-Marine Chapters committed
-their own fleets to the
-war in space and soon the
-Imperial Navy stood as an
-unbreakable circle of iron
-around Abaddon’s forces.
-From this strong regrouping,
-Admiral Quarren was more
-than ready to launch his
-counter-attacks against
-Abaddon’s chosen targets.
-A thousand small battles were
-already lost for the Imperium
-– worlds engulfed by cults
-and treacherous defenders,
-worlds decimated by the
-Plague of Unbelief and other
-forgotten battlefields were
-already far past the point at
-which they might be saved.
-Indeed, fighting the war
-across a front scattered like
-a thousand broken shards
-
-187
-
-In his first action, Quarren
-chose to strike directly at the
-vessels in orbit around Cadia
-itself. The vast majority
-of Abaddon’s forces had
-already been committed to
-the planet, so Quarren could
-do little to aid the struggle
-there, but his fleet did now
-have a massive opportunity
-to retake control of the space
-around Cadia and prevent
-Chaos reinforcements.
-
-had undoubtedly stymied the
-Imperium in the early days of
-the invasion, forced to spread
-its already hard pressed assets,
-uncertain of where the hardest
-blow might land. To win the
-greater war now, the wise
-(and not least amongst them,
-Admiral Quarren) realised
-that a handful of crucial
-fronts must be all to which
-the Imperium committed.
-So it is that the course of a
-war – the story of victory and
-defeat – cannot be described
-in terms of all its constituent
-parts, but instead must be
-thought of in terms of those
-particular prizes for which
-both sides tussle most fiercely
-– worlds like Agrapinna,
-Nemesis, Agripinaa, Subiaco
-Diablo and most of all, Cadia
-and its ancient Pylons.
-
-188
-
-THE IMPERIUM RESURGENT
-As Quarren’s reunified,
-reinforced and reinvigorated
-fleet moved towards Cadia,
-the Chaos fleet, including
-one of the Blackstone
-Fortresses – ancient engines
-of destruction built aeons
-ago by unknown xenos –
-gathered above the planet.
-In a manner no-one could
-have predicted, the Chaos
-fleet was unexpectedly
-delayed by lightning-fast
-attacks on the Blackstone by
-squadrons of Eldar cruisers.
-Lord Admiral Quarren was
-quick to take advantage of
-the delay and his counterstrike (composed of vessels
-arriving from out of system)
-flowed from Cadia to Xersia
-and finally Demios Binary.
-
-Quarren attacked the Chaos
-fleet side-on, trapping the
-traitor vessels between his
-own fleet and the planet
-Cadia where their superior
-speed would provide them
-little benefit. Even with
-the enemy trapped, the
-Chaos fleet still presented
-a fearsome amount of
-firepower By dint of this
-cunning stunt Quarren
-succeeded, first in dividing
-the main fleet, and then,
-in pursuing the defeated
-elements to final extinction.
-Only those squadrons
-that stayed close to the
-Blackstone Fortress remained
-a threat but the Chaos fleet
-was now concerned with
-survival. Most significantly,
-the Imperial Flagship,
-Galathamor crippled the
-Merciless Death, driving it to
-Warp from whence it took
-no further part in the war.
-As an act of vengeance,
-Abaddon despatched the
-Planet Killer to Macharia. A
-desperate boarding action
-by Space Marine Honour
-Guard companies failed to
-prevent the Planet Killer
-firing, but damaged its
-shields. As a consequence,
-debris from the shattered
-world struck the Planet
-
-Killer, which was last seen tumbling away
-into wilderness space critically damaged.
-When worlds in the Cadia system fell
-prey to the Dark Eldar, the Relictors Space
-Marines stood ready and swiftly repelled
-the raiders, driving them back to their
-fleet. The Dark Eldar could not have
-expected Admiral Quarren would have set
-his fleet in motion so swiftly after fighting
-the Chaos fleet though. His vanguard
-smashed into the Dark Eldar fleet and
-inflicting terrible damage and driving
-them out of the war in the Cadian sector.
-Upon the fortress world of Kasr Patrox,
-the Traitor Legions of the Chaos Space
-Marines scored an immeasurable victory,
-though would themselves be slain by a
-most unexpected foe. High above them
-oblivion beckoned in the monstrous form
-of a corrupted Blackstone Fortress.
-The Blackstone Fortresses’ weaponry
-beat down on Kasr Patrox, remorselessly
-slaughtering the warriors of both sides.
-Faced with the certain destruction of Cadia’s
-last defenders, Admiral Quarren had no
-choice but to muster his battered fleet for
-yet another battle. One by one the screening
-Chaos vessels were peeled away from the
-Blackstone until eventually it was forced to
-cease its attack and concentrate upon its own
-defence. With the end of the Blackstone’s
-attack an uneasy lull settled on Cadia during
-which Lord Castellan Ursarkar Creed
-evacuated Kasr Patrox while he still could.
-
-THE LONG DEMISE
-Abaddon may have succeeded in his conquest of
-the worlds outlying the Eye of Terror, but by the
-grace of the Imperial Navy, few reinforcements
-will reach his forces now to bolster his campaign.
-Some have said that it is for this reason alone
-that Cadia still belongs in the material realm.
-As with all wars, many of the events of the
-Thirteenth Black Crusade will forever go
-unknown and unremembered. The Fog of War
-does not rise quickly, and in a conflict of such
-immensity as this, the fate of many worlds (and,
-indeed, exactly how they came to meet that fate)
-is something history will singularly fail to remark
-upon. To seek out survivors of the countless
-scattered warzones around the Eye of Terror
-could never be a priority for the perpetually
-embattled Imperium, and many of those who
-perhaps survive do so without the means to
-contact their fellow Man, isolated and cut-off
-by the tumult of Abaddon’s bloody invasion.
-Perhaps in days to come distant patrols or
-roaming merchant fleets may stumble upon
-forgotten worlds to find that their human
-populations endure, or perhaps that they no
-longer exist at all. Perhaps they will find whole
-worlds in the grip of Chaos, where treacherous
-warlords rule unopposed on the surface but with
-their fleets beaten and destroyed, leaving them
-with the hollowest of victories and stranding
-them on worlds which can expect nothing more
-than Exterminatus as soon as the vessels might
-be found to perpetrate it. There may be other
-worlds, too, where no living thing now remains
-–a whole world’s substance expended in the
-unspeakable battles which it has witnessed.
-There may even be those worlds upon which
-war still rages, but unless the hordes there
-assembled can yet threaten the wider Imperium
-their fate is less than a major concern.
-
-189
-
-13 BLACK CRUSADE
-TH
-
-Kholan
-
-Mordax Parn
-
-Vagera
-
-Taeloth
-
-Barisa
-
-KEY TO SUB-SECTOR MAPS
-
-190
-
-A
-
-Agri-world
-
-C
-
-Civilised world
-
-F
-
-Forge world
-
-H
-
-Hive world
-
-M
-
-Mining world
-
-P
-
-Penal world
-
-U
-
-Uninhabited system
-
-13TH BLACK CRUSADE: SCENARIO ONE
-
-CHANCE ENCOUNTER
-A Chaos fleet led by the Planet Killer heads towards the Cadia system to
-join Typhus and his Plague Fleet. Imperial forces on patrol detect the fleet
-and quickly change course. Their only option is to stop or at least stall this
-advancing Chaos fleet before they can join the main warfleet around Cadia.
-Will the Imperial forces succeed in buying some precious time, or will these
-brave souls join the long list of those crushed under the might of Chaos?
-
-FORCES
-
-FIRST TURN
-
-The Chaos fleet includes the Planet Killer, a
-Devastation class cruiser, a Slaughter class
-cruiser, and a squadron of three Iconoclast
-destroyers. The Planet Killer is commanded by
-a Chaos Warmaster (Ld9) with three re-rolls.
-
-The Imperial fleet may choose
-whether to go first or second.
-
-The Imperial fleet includes a Mars class
-battlecruiser, one Tyrant class cruiser,
-one Gothic class cruiser and a squadron
-of four Cobra class destroyers. The Mars
-class battlecruiser is commended by
-an Admiral (Ld9) with two re-rolls.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table with whatever
-celestial terrain you wish for the scenario.
-
-SET-UP
-1. The Chaos player first places the Planet
-Killer on the centre line of his long
-table edge 10 cm in from the edge.
-2. Players then alternate placing a single
-cruiser or squadron of escorts within
-their deployment zone up to 30 cm from
-the table edge until all models have been
-placed. (See map for deployment zones)
-
-GAME LENGTH
-The game lasts six turns.
-
-VICTORY CONDITIONS
-All the Imperial forces can hope to do is
-slow the Chaos fleet and buy time for Cadia’s
-defenders. If the Planet Killer is destroyed, it
-will be a major victory for the Imperial forces.
-If the Planet Killer is crippled, then it will
-be a minor victory for the Imperial fleet.
-If the Planet Killer and one other Chaos
-capital ship make it off the opposite table
-edge, the game will end with a Chaos victory
-(unless the Planet Killer is crippled).
-
-191
-
-13TH BLACK CRUSADE: SCENARIO TWO
-
-REARGUARD ATTACK
-Forces sector wide have been split up into smaller patrols and sent in to
-cripple or destroy as much of the Chaos rearguard as possible before they
-are destroyed themselves. The targeted Chaos forces are experiencing radar
-malfunctions due to the presence of jammer mines scattered in their way. The
-time to strike is now. If the Forces of Order cause enough damage, then these
-rearguard fleets will be rendered temporarily ineffective, buying the systems
-ahead some time to organize their defences. The odds are stacked against
-the Imperium, but stealth may just triumph over numerical superiority.
-
-FORCES
-
-FIRST TURN
-
-Agree a points limit for the battle.
-
-The attacker takes the first turn and
-moves his fleet onto the table.
-
-Forces of Disorder: This player is the
-defender. They may spend up to the agreed
-points limit in total on their fleet. Split
-25% of this force off as reinforcements.
-Forces of Order: This player is the
-attacker. They may spend up to half of
-the agreed points limit on their fleet.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table with whatever
-celestial terrain you wish for the scenario.
-
-SET-UP
-1. The defender deploys his whole fleet first.
-The defending fleet must be set up with
-all the ships facing the sunward table edge
-and at least 30 cm from any long table edge
-and 60 cm from the sunward table edge.
-2. Each defending ship or squadron must
-be set up at least 10 cm away from all
-other defending ships or squadrons.
-3. The attacker moves any of his ships in
-from any table edge in his first turn.
-
-192
-
-SPECIAL RULES
-Ambushed: For the first D6 turns, all the
-defender’s ships suffer a -1 Leadership penalty
-to represent their reduced state of readiness.
-Reinforcements: Reinforcements for the
-Forces of Disorder may enter the sunward
-table edge on any turn, including Turn 1. If
-the reinforcing ships enter after Turn 1, they
-may be deployed up to 30 cm along the long
-table edges for each turn after the first.
-For example, a Slaughter class cruiser enters
-as reinforcements on Turn 4, so it may be
-placed on the short table edge or up to 90 cm
-(30 cm × 3) along one of the long edges.
-
-GAME LENGTH
-The game continues for eight turns,
-or until one fleet disengages.
-
-VICTORY CONDITIONS
-Both fleets score victory points as normal
-and the fleet with the highest victory
-points total at the end of the battle wins.
-
-13TH BLACK CRUSADE: SCENARIO THREE
-
-ALIEN INTERVENTION
-A Chaos fleet thought to have abandoned the sector of Chinchare is instead
-found raiding a space hulk orbiting Van Sele’s World. Once this news reached
-Imperial command, a force was quickly gathered in an attempt to surprise the
-traitors and crush them. However this was not to be. Imperial scouts were spotted
-by the Chaos fleet. The Forces of Order now sped into a trap they know nothing
-about and all seems to be in favour of the evil forces aligned against them.
-That is until their sensors began picking up traces of nearby Eldar ships...
-
-FORCES
-
-FIRST TURN
-
-Agree a points limit for the battle.
-
-The attacker rolls 2D6 and the defender rolls
-a D6. High roll chooses who goes first.
-
-Forces of Disorder: This player is the
-attacker. They may spend up to the agreed
-points limit in total on their fleet.
-Forces of Order: This player is the defender.
-They may spend up to 75% of the agreed
-points limit on their fleet. The remaining
-25% of this force is chosen from the Eldar
-list as reinforcements. This is a great
-opportunity to get a friend to join you and
-play the separate Eldar fleet along with you.
-
-BATTLEZONE
-
-SPECIAL RULES
-Eldar Reinforcements: The Eldar, fickle as
-they are, arrive as reinforcements randomly.
-Roll a D6 at the start of the Forces of Order
-player’s 2nd turn and consult the chart below:
-TURN NUMBER
-
-ELDAR FLEET ARRIVES ON
-
-2
-
-4+
-
-3
-
-3+
-
-4
-
-2+
-
-5
-
-2+
-
-6
-
-Auto
-
-Set up a 180 cm × 120 cm table with whatever
-celestial terrain you wish, except that you
-must include one planet and a drifting hulk
-anywhere within 30 cm of the table centre.
-
-When the Eldar arrive, the entire fleet enters
-play from one of the long table edges.
-
-SET-UP
-
-GAME LENGTH
-
-1. The defender deploys his whole fleet
-first. The defending fleet must be set up
-within 30 cm of the table centre line.
-2. Each defending ship or squadron
-must be set up at least 10 cm apart
-and facing in the same direction.
-3. The attacker sets up all his ships within
-20 cm of either short table edge.
-
-The game continues for eight turns, or
-until one fleet is left on the table.
-
-VICTORY CONDITIONS
-Both fleets score victory points as normal
-and the side with the highest victory
-points total at the end of the battle wins.
-
-193
-
-13TH BLACK CRUSADE: SCENARIO FOUR
-
-ABOVE BELIS CORONA
-A massive influx of Imperial reinforcements are making their way to the
-Belis Corona System from Cypra Mundi. Although this regrouping effort
-can’t be stopped, it can be hindered. A raid on the orbital docks around the
-planet Belis Corona could stall the current Imperial momentum if the attack
-goes well. The docks will need to be repaired by the Imperials before they can
-move on. A small fleet has been dispatched to raid the planet and cause as
-much havoc as possible before further Imperial reinforcements arrive.
-
-FORCES
-
-SET-UP
-
-Forces of Disorder: This player will
-be the attacker. Choose a 1500pts fleet
-and then split it into 2 forces with a
-points value as equal as possible.
-
-1. The defending player places the orbital
-dock and two space stations anywhere
-within the planet’s gravity well. Next,
-the defender places the four outer
-platforms anywhere on the table (these
-platforms are special and do not need to
-be placed within a planet’s gravity well).
-2. The attacker places one half of his fleet
-up to 10 cm in from a short table edge and
-then does the same on the opposite table
-edge with the other half of his fleet.
-3. The defender now places his four inner
-platforms, two system ships, defence
-monitor, and eight orbital mines
-anywhere within 30 cm of the planet.
-4. The defender’s remaining ships are held
-in reserve and the defender needs to
-roll on the reinforcement chart (found
-below) to see when they enter play.
-
-Forces of Order: The defender chooses
-a 750pts fleet with no battleships and
-an extra Re-roll for free. In addition to
-this the player receives 2 space stations,
-1 orbital dock, 8 orbital mines, 2 system
-ships, and 1 defence monitor.
-Also, choose a mix of eight platforms from
-the following list: orbital defence laser
-platform, orbital torpedo launcher, orbital
-weapons platform. Then split the chosen
-eight platforms into two groups of four.
-Nominate one group as outer platforms
-and one group as inner platforms.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table. Place
-the planet Belis Corona in the dead
-centre of the table. This planet’s gravity
-well extends 30 cm. Each player places
-an asteroid field anywhere on the table
-that is at least 30 cm from the planet.
-
-FIRST TURN
-The attacking player rolls 2D6 and the
-defender rolls 1D6. The player who rolls the
-highest chooses whether to go first or second.
-
-194
-
-SPECIAL RULES
-Reinforcements: A small
-patrol fleet has been called in
-to aid in the defence of Belis
-Corona. To see if help arrives,
-the defending player rolls
-a D6 at the start of his turn
-for each ship or squadron
-in reserve. Check the chart
-below for the result. If a
-roll is failed for a particular
-ship or squadron twice,
-add +1 to the roll next turn.
-This effect is cumulative.
-When attempting to see if
-a mixed squadron arrives,
-use the slowest ship speed
-
-in the squadron. Defending
-ships enter play from the
-designated long table edge
-as per the map above.
-SHIP SPEED
-
-REINFORCEMENTS
-ARRIVE ON
-
-up to 20 cm
-
-5+
-
-25
-
-4+
-
-30 cm or more
-
-3+
-
-GAME LENGTH
-The game lasts for
-eight turns.
-
-VICTORY CONDITIONS
-The attacker is attempting
-to cripple Belis Corona’s
-defensive capabilities. Victory
-can only be claimed with
-the complete destruction
-of the two space stations,
-the orbital docks, the
-four inner platforms, and
-25% (points wise) of the
-defender’s reinforcement
-fleet. ALL criteria must
-be met for the attackers to
-win! Any other result is a
-win for the defenders.
-
-195
-
-13TH BLACK CRUSADE: SCENARIO FIVE
-
-DAEMON BLOCKADE
-Reinforcements en route to the Belis Corona and Scelus sectors find themselves
-having to penetrate various Chaos blockades. This is risky business indeed.
-Admirals find themselves having to move as fast as possible through treacherous
-minefields and withering amounts of firepower. Surprise is the only thing on their
-side. To make matters even more difficult, there are reports that the ruinous powers
-have infused orbital mines with Daemonic power. This can only be a bad thing.
-
-FORCES
-
-FIRST TURN
-
-Agree on a points value total for the battle.
-
-Players roll a D6. The player who rolls
-the highest decides who goes first.
-
-The Chaos fleet will act as the blockading fleet.
-Chaos Fleet: The blockading player may
-spend up to the agreed points value minus
-100 on his fleet. In addition to the chosen
-fleet this player receives ten daemon mines,
-which follow the special rules below.
-Forces of Order: The attacker (attempting
-to break the blockade) may spend up to
-half the agreed points total on ships.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table. The
-blockading force is stationed on the edges
-of the system, so the battle will take place
-in either the outer reaches or deep space.
-
-SET-UP
-Divide the table lengthways into thirds, as
-shown. The blockading player then sets up
-his fleet. Roll a D6 for each blockading ship,
-squadron or Daemon mine to determine
-which third of the table it is deployed in.
-Blockading ships may start facing in any
-direction, but may not be placed within 60 cm
-of the attacker’s table edge. The attacker then
-sets up his force within 15 cm of his table edge.
-
-196
-
-SPECIAL RULES
-Daemon Mines: These function
-as the orbital mines except:
-• They move 10+D6 cm each
-Ordnance Phase.
-• A Daemon mine will devour any enemy
-ordnance it comes in contact with
-no repercussions, except for fighters.
-Yes, this means torpedoes too!
-• When enemy fighters contact a
-Daemon Mine, roll a D6. On a roll of
-4+, the Mine remains in play. Remove
-the enemy fighter counter from
-play regardless of the outcome.
-
-GAME LENGTH
-The game lasts for six turns.
-
-VICTORY CONDITIONS
-Both players score victory points for
-destroying and crippling enemy ships as
-normal. In addition, the attacker scores
-victory points equal to the points value of any
-ships that he can move off the table via the
-blockading player’s table edge. Crippled ships
-are worth a quarter of their points value if the
-attacker can get them off the table. Daemon
-Mines that are destroyed (not detonated) are
-worth 10 pts each to the attacking player.
-The side with the most victory points wins.
-
-13TH BLACK CRUSADE: SCENARIO SIX
-
-NAVIGATE THE STORM
-Warp Storms have ravaged several sectors, making travel through them
-difficult at best, and in many cases impossible. Many warp rifts have opened
-up along transport channels as a result of these storms. These vital channels
-have been rendered doubly dangerous by the disturbing fact that the arriving
-Chaos fleets have found a way to use the Warp Rifts to their advantage. The
-transports must continue to deliver their important cargo on time and so
-convoy escort fleets have doubled in size to repel any would-be attackers.
-
-FORCES
-
-SPECIAL RULES
-
-Chaos Fleet: The Chaos player has
-750 pts to spend on a fleet.
-
-Transformation: If a Chaos ship attempts
-to navigate a Warp Rift and fails, it is not
-lost forever. Instead it is transformed into a
-Daemonship! During the current Chaos End
-Phase the new Daemonship immediately
-deploys via Warp Translation as per the rules
-for Daemonships. This transformation is
-permanent! Further failed Warp Rift rolls as a
-Daemonship will yield the same result as above
-– i.e. during the current Chaos End Phase the
-ship is redeployed via translation and so on.
-
-Imperial Fleet: The Imperial player has
-1000 pts to spend on a fleet. In addition to
-this fleet you have 10 Transport ships.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table. Each player
-has eight Warp Rifts (pg. 111) and takes
-it in turns to place these on the table.
-Each Warp Rift must be 10 cm at least
-away from any others deployed so far.
-
-Exit Point: The light grey area of the map is
-where Imperial transports need to exit the table.
-
-SET-UP
-
-GAME LENGTH
-
-1. Both players should set up their fleets
-secretly. Erect a screen to shield each
-board half, or have each player sketch
-their ship locations onto a map. Place
-the fleets in the designated deployment
-zones as per the map to the right.
-2. Each player reveals their ship locations
-and places their fleets onto the table.
-
-The game lasts until victory conditions
-are met or no transports remain in play.
-
-FIRST TURN
-The Chaos player chooses whether
-to go first or second.
-
-VICTORY CONDITIONS
-The Chaos player needs to destroy eight
-transports and cripple or destroy 50% (points
-wise) of the Imperial fleet. Imperial ships lost
-in Warp Rifts count towards this total. Both
-of these stipulations must be achieved to win.
-The Imperial player needs to move five
-transports off the table via the exit point (see
-the map) as well as move 25% of his fleet
-(points wise) off the same table edge. This
-25% may not include crippled vessels. Both of
-these stipulations must be achieved to win.
-If neither player achieves both of their
-stipulations, then whichever player has the
-higher amount of destroyed (Chaos) or escaped
-(Imperial) transports can claim a minor victory.
-
-197
-
-13TH BLACK CRUSADE: SCENARIO SEVEN
-
-MACHARIA’S END
-The dreaded Planet Killer has managed to battle its way to the planet Macharia
-with the help of a sizable Chaos armada. If action is not taken immediately,
-the unthinkable will happen. Data previous victims of the Planet Killer points
-to the fact that the Armageddon gun takes a considerable amount of time to
-charge to a level of energy capable of destroying a planet. This means that
-there may still be enough time to thwart the Chaos fleet and save Macharia
-if swift Imperial vengeance is brought upon Abaddon’s infernal machine.
-
-FORCES
-
-SET-UP
-
-Chaos Fleet: The Chaos player
-has 1500 pts to spend on a fleet in
-addition to the Planet Killer itself.
-
-1. The Imperial player places his main
-fleet within 20 cm of his table edge.
-2. The Chaos player places his fleet minus the
-Planet Killer within 10 cm of his table edge.
-3. The Imperial player can now place
-his vanguard fleet anywhere within
-5 cm of the table centre line.
-4. The Planet Killer will move onto
-the table from the Chaos player’s
-table edge during the first turn.
-
-Imperial Fleet: The Imperial player
-has 2000 pts to spend on the main
-fleet. Up to 500 of the 2000 pts may
-be separated as a Vanguard fleet.
-
-BATTLEZONE
-Set up a 180 cm × 120 cm table.
-Place Macharia in the centre of the
-Imperial player’s table edge.
-
-FIRST TURN
-The Imperial player goes first.
-
-198
-
-SPECIAL RULES
-This scenario uses a large number of special
-rules, especially for the Planet Killer.
-Armageddon Overcharge: The Planet Killer
-needs to build up a charge of energy before it
-can deal the deathblow to Macharia. While
-it can use this weapon normally if desired, it
-must overcharge the weapon in order to win
-the game. At the start of the Chaos player’s
-turn decide whether or not to begin the charge
-build up for the Armageddon Gun. If you
-do, place a charge counter (a penny will do
-fine) next to the Planet Killer, and another
-counter at the start of each following turn.
-Once 3 counters have been accumulated the
-gun must fire during the Shooting Phase.
-
-60 cm. Note that this is a slightly shorter
-firing range than the gun normally enjoys.
-It does NOT fire 90 cm when overcharged!
-If any part of the template passes over ANY
-ship’s base, that ship is obliterated. If the
-template hole touches planet Macharia
-it is destroyed and the game is over.
-Recharging: If for some reason you
-manage to miss planet Macharia with the
-overcharged blast (how did you do that?),
-the Planet Killer needs to pass two Reload
-Ordnance special orders over different
-turns IN A ROW to bring it back online.
-During this time the Planet Killer cannot
-fire any weapons; all it can do is move.
-
-While Charging the Gun: The Planet Killer
-cannot turn, nor can it take any Special
-Orders or fire its lances. The Planet Killer
-gains an extra 2 shields. Once started, the
-charging process can not be stopped.
-
-GAME LENGTH
-
-Firing The Gun: Place the Nova Cannon
-template so that it is touching the Planet
-Killer’s stem then move it directly ahead
-
-The Chaos player needs to destroy
-Macharia. The Imperial player needs to
-stop the Planet Killer by crippling it.
-
-The game lasts until Macharia is destroyed
-or the Planet Killer is crippled.
-
-VICTORY CONDITIONS
-
-199
-
-ANDY CHAMBERS’ NOTES
-
-So you’ve made it all this way and you’re
-still hungry for more! Well at this point
-I get to talk about some of the general
-principles behind the rules. First thing
-is to say a big thank you to all the people
-who have offered ideas, suggestions
-or encouragement by writing in or
-speaking to me direct. Thank you!
-Anyway on to business. The first thing is the
-most important rule you’ll ever need to know.
-If (when) you come across a situation that
-doesn’t seem to be covered by the rulebook,
-roll a D6 for it. Let fate decide the outcome
-and then get on with the game. It’s more
-important to keep the game going than get
-bogged down in a long argument about rules.
-If you find the idea of rolling a dice to sort
-it out horrifying, feel free to sort out the
-problem in a more gentlemanly fashion.
-If you want to change bits of the game
-to suit yourself, you have my blessings
-as long as your opponent agrees.
-
-200
-
-LEADERSHIP
-Random Leadership: Many players struggle
-with having randomly generated Leadership.
-I’ve had lots of suggestions about generating
-crews first and then assigning them to ships
-afterwards, or using unmodified values
-based on race. Either of these ideas is fine of
-course, I just find them dull. The idea that the
-biggest ships will always have the best crews
-is not born out by history (in fact smaller
-ships tend to see more action and so develop
-better crews). Likewise the practicality of
-transferring experienced crews from one ship
-to another is… questionable – quite apart
-from the issues of crew size (frigate crews can’t
-run battleships) a good deal of experience
-represents familiarity with a specific
-vessel. Commanders and the clever use of
-squadrons can overcome the worst effects of
-bad leadership, so I urge you to accept the
-vagarities of fate and the occasional untried
-crew as part of the challenge of the game. And
-if it still really bothers you, play a campaign!
-
-THE TURN
-The alternating turn sequence is clunky but
-useful for keeping things nice and forward.
-Players with a hankering for more complexity
-can always start by experimenting with the
-turn sequence. Options include: players
-alternate moving and shooting with one ship/
-squadron at a time, introducing an Initiative
-system based on speed for making moves,
-counters drawn at random to see which
-ships move when or use a Player A moves/
-Player B shoots principle, etc. (yes, I really
-thought about using all these options!).
-
-THE MOVEMENT PHASE
-Accidental Collisions: The observant
-player will have noted that there’s no
-chance of accidental collisions in Gothic.
-This is deliberate – amidst the vast
-gulfs of space the chances of actually
-getting that close to another ship (unless
-deliberately trying to ram it) are tiny.
-
-THE SHOOTING PHASE
-On the Line: If a ship ends up where it has a
-target “on the line” between two of its fire arcs
-the player can decide which he has the target
-in, but may not count it as being in both.
-Halted Ships: Sometimes a combination
-of critical damage and Blast markers will
-bring a ship to a halt, or a ship may be
-using a gravity well to remain stationary.
-In either of these cases use the Defences
-column on the Gunnery table if they are
-fired at – a halted ship is just a sitting target.
-
-that moves away from Blast markers in contact
-with its base always suffers the 5 cm speed
-penalty, even if it moves directly away and not
-through the markers – the buffeting it receives
-still limits its speed. Being slowed down by
-Blast markers does not reduce the distance
-a capital ship must move before turning, or
-the half speed distance the ship must travel.
-
-THE ORDNANCE PHASE
-Moving Ordnance: It’s important to
-appreciate that ordnance always moves
-in both players’ turns. Although attack
-craft can opt not to move in an Ordnance
-Phase, torpedoes must move their
-full speed each Ordnance Phase.
-Ordnance vs Varying Armour Values:
-Bombers attacking a ship with more than
-one armour value always roll against
-the lowest value. Torpedoes, however,
-attack the armour value of the ship on
-whichever facing they strike first.
-
-THE END PHASE
-Shields: These are knocked down or
-‘regenerated’ by the presence of Blast markers.
-This is how it’s intended to work so don’t be
-surprised that there are no separate rolls for
-repairing shields in the End Phase. If you want
-your shields back up keep moving! They’ll
-recover automatically once you’re out of the
-salvoes the enemy is plastering you with.
-
-Blast Markers: These take effect as soon
-as they are placed, and will even affect
-subsequent shooting by the same ship in the
-same Shooting Phase (here’s a hint: always fire
-your weapons batteries before lances). A ship
-
-201
-
-Thank you for reading.
-
-I hope you enjoyed this compilation of rules presented in a new
-format and you have many space battles yet to fight.
-
-If you find any errors, please feel free to contact me at: simon.saier@gmx.de
-
-– REMASTERED –
-
-+++INCOMING.ORDERS+++FLEET.TO.ASSEMBLE+++
-Man has learned to embrace war as its religion,
-billions take up arms against a galaxy of foes.
-Great ships sail the void, their guns charged to rain
-death upon the enemies of the God-Emperor.
-
-This book provides you with all
-the core rules to play games of
-Battlefleet Gothic, based on the
-2007 digital rules and updated with
-the 2010 FAQ/Compendium.
-
-This the Age of the lmperium. A time of war and
-carnage among the stars, of great fleets and mighty
-armies, selfless heroism and blackest infamy.
-
-Please note: You will need the fleet
-lists and ship profiles, as these
-are not included in this book.
-
-A game set in the universe of
-
-
