@@ -22,17 +22,10 @@ theme:
     - navigation.top
 extra:
   generator: false
-extra_css:
-  - stylesheets/extra.css
 markdown_extensions:
   - md_in_html
   - tables
-  - pymdownx.details
-  - pymdownx.tilde
   - attr_list
-  - pymdownx.snippets:
-      auto_append:
-        - includes/footnotes.md
 validation:
   absolute_links: ignore
 
