@@ -83,6 +83,8 @@ gets a ‘Lances damaged’ critical hit, apply the next highest critical instea
 station would suffer main armament damage instead. If a station suffers multiple critical hits
 to the same place they must all be repaired before the location functions again as normal.*
 
+### Defences Critical Hits Table
+
 | 2D6 Roll | Extra Damage | Result |
 | --- | --- | --- |
 | 2-3 | +0 | **Lances Damaged:** The station’s lance array is taken off-line by the hit. The station may not fire until its lance armament has been repaired. |

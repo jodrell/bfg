@@ -186,7 +186,7 @@ which rolled a 4 or more.*
 *A target’s orientation depends upon which fire
 arc the firing vessel is in, as shown in the
 diagram. Match this with the target’s type to
-find out which column of the Gunnery table to
+find out which column of the [Gunnery table](#gunnery-table) to
 use.*
 
 ![](assets/image--154.png)
@@ -194,7 +194,7 @@ use.*
 *The Unclean opens fire with its starboard (right)
 weapons batteries. The weapons have a firepower
 of 10 and the Agrippa is a closing capital ship
-which on the Gunnery table means that the
+which on the [Gunnery table](#gunnery-table) means that the
 Unclean rolls 7D6. The Agrippa’s front armour
 rating is 6 so the Unclean needs to roll 6s to hit.*
 
@@ -227,14 +227,14 @@ the battery’s firepower on
 the ship’s data sheet. Then
 look up the target’s type
 and orientation on the
-Gunnery table that follows.
+[Gunnery table](#gunnery-table) that follows.
 
 If a ship or squadron is firing
 multiple weapons that rely
 on the gunnery, they may
 be fired simultaneously.
 Calculate the dice on the
-gunnery table separately
+[gunnery table](#gunnery-table) separately
 
 for each type of gunnery
 weapon. This means you do
@@ -319,13 +319,13 @@ closing can be affected by these modifiers.
 Modifiers are applied in the form of column
 shifts. A good modifier (such as being at
 close range) means that you move across
-the Gunnery table one column to the left
+the [Gunnery table](#gunnery-table) one column to the left
 when you work out how many Hit dice to
 roll. A bad modifier (such as being at long
 range) means you move across one column
 to the right. No target aspect or modifier can
 adjust shooting beyond the far left or right
-columns on the gunnery table. The gunnery
+columns on the [gunnery table](#gunnery-table). The gunnery
 modifiers are summarised as follows:
 
 #### Modifiers:
@@ -341,38 +341,214 @@ Markers – shift one column right
 For example, as shown earlier, the *Unclean*
 firing at the *Agrippa* rolls 7D6. If the *Agrippa*
 were within 15 cm you would shift one column
-left on the Gunnery table and the *Unclean*
+left on the [Gunnery table](#gunnery-table) and the *Unclean*
 would roll 9D6 instead. If the *Agrippa* was
 over 30 cm away the column shift to the right
 would mean the *Unclean* rolled 5D6 instead.
 
-| CLOSING | | CAPITAL SHIPS | ESCORTS | | |
-| --- | --- | --- | --- | --- | --- |
-| MOVING AWAY | | | CAPITAL SHIPS | ESCORTS | |
-| ABEAM | | | | CAPITAL SHIPS | ESCORTS |
-| SPECIAL* | DEFENCES | | | | ORDNANCE |
-| 1 | 1 | 1 | 1 | 0 | 0 |
-| 2 | 2 | 1 | 1 | 1 | 0 |
-| 3 | 3 | 2 | 2 | 1 | 1 |
-| 4 | 4 | 3 | 2 | 1 | 1 |
-| 5 | 5 | 4 | 3 | 2 | 1 |
-| 6 | 5 | 4 | 3 | 2 | 1 |
-| 7 | 6 | 5 | 4 | 2 | 1 |
-| 8 | 7 | 6 | 4 | 3 | 2 |
-| 9 | 8 | 6 | 5 | 3 | 2 |
-| 10 | 9 | 7 | 5 | 4 | 2 |
-| 11 | 10 | 8 | 6 | 4 | 2 |
-| 12 | 11 | 8 | 6 | 4 | 2 |
-| 13 | 12 | 9 | 7 | 5 | 3 |
-| 14 | 13 | 10 | 7 | 5 | 3 |
-| 15 | 14 | 11 | 8 | 5 | 3 |
-| 16 | 14 | 11 | 8 | 6 | 3 |
-| 17 | 15 | 12 | 9 | 6 | 3 |
-| 18 | 16 | 13 | 9 | 6 | 4 |
-| 19 | 17 | 13 | 10 | 7 | 4 |
-| 20 | 18 | 14 | 10 | 7 | 4 |
+#### Gunnery Table
 
-*<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the Gunnery table.
+<table>
+  <thead>
+    <tr>
+      <td colspan="2">CLOSING</td>
+      <td>&nbsp;</td>
+      <td>CAPITAL SHIPS</td>
+      <td>ESCORTS</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2">MOVING AWAY</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>CAPITAL SHIPS</td>
+      <td>ESCORTS</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2">ABEAM</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>CAPITAL SHIPS</td>
+      <td>ESCORTS</td>
+    </tr>
+    <tr>
+      <td colspan="2">SPECIAL*</td>
+      <td>DEFENCES</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>ORDNANCE</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="20" style="writing-mode: vertical-rl;text-orientation: mixed;">Firepower</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>5</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>6</td>
+      <td>5</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>7</td>
+      <td>6</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>8</td>
+      <td>6</td>
+      <td>5</td>
+      <td>3</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>9</td>
+      <td>7</td>
+      <td>5</td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>10</td>
+      <td>8</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>11</td>
+      <td>8</td>
+      <td>6</td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>12</td>
+      <td>9</td>
+      <td>7</td>
+      <td>5</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>13</td>
+      <td>10</td>
+      <td>7</td>
+      <td>5</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>14</td>
+      <td>11</td>
+      <td>8</td>
+      <td>5</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>14</td>
+      <td>11</td>
+      <td>8</td>
+      <td>6</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>15</td>
+      <td>12</td>
+      <td>9</td>
+      <td>6</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>16</td>
+      <td>13</td>
+      <td>9</td>
+      <td>6</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>17</td>
+      <td>13</td>
+      <td>10</td>
+      <td>7</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>18</td>
+      <td>14</td>
+      <td>10</td>
+      <td>7</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+*<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the [Gunnery table](#gunnery-table).
 If a squadron has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
 
 *\*Defences (for example ground based defences and satellites) and ordnance targets are not affected by orientation. A ship must move at least 5 cm to not be targeted as defences.*
@@ -809,6 +985,8 @@ weapons gets a Dorsal Armament Damaged
 critical hit. In this case the ship would suffer
 damage to its starboard armament.
 
+#### Critical Hits Table
+
 | 2D6 Roll | Extra Damage | Result |
 | ---      | ---          | --- |
 | 2 | +0 | **Dorsal Armament Damaged:** The ship’s dorsal armament is badly damaged by the hit – power lines are severed, traverse mechanisms crippled and many gunners are killed. The ship’s dorsal armament may not fire until it has been repaired. |
@@ -1080,7 +1258,7 @@ with a ship’s base) or it or its
 targets are in base contact
 with Blast Markers, it suffers
 a column shift to the right on
-the Gunnery table. Lances and
+the [Gunnery table](#gunnery-table). Lances and
 nova cannon are unaffected.
 Note that Blast Markers come
 into effect immediately and
@@ -1240,6 +1418,8 @@ Blast Markers from the explosion as possible
 fanning around and in contact with it until
 the total number Blast Markers are placed
 without overlapping any Blast Markers.
+
+#### Catastrophic Damage Table
 
 | 2D6 Roll | Extra Blast Markers | Result |
 | --- | --- | --- |

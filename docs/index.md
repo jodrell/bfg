@@ -1,8 +1,4 @@
-# Welcome to Battlefleet
-
-This site is a web-based version of the Official [*Battlefleet Gothic: Remastered*](https://linktr.ee/bfg.remastered) v1.10 Rulebook. None of the text has been changed, except to add hypertext markup, to make the rules easier to access on mobile devices, where PDFs intended for archival and print use are less useful.
-
-## Table of Contents
+# Table of Contents
 
 * [Introduction](the-rules.md)
     * [What You Will Need](the-rules.md#what-you-will-need)
@@ -56,6 +52,25 @@ This site is a web-based version of the Official [*Battlefleet Gothic: Remastere
     * [Tabletop Effects](the-battlefield.md#tabletop-effects)
     * [Fighting in low Orbit](the-battlefield.md#fighting-in-low-orbit)
 * [Scenarios](scenarios.md)
+    * [Choosing a Scenario](scenarios.md#choosing-a-scenario)
+    * [Using an Attack Rating](scenarios.md#using-an-attack-rating)
+    * [Determining Attackers and Defenders](scenarios.md#determining-attackers-and-defenders)
+    * [The Scenarios](scenarios.md#the-scenarios)
+    * [Victory Points](scenarios.md#victory-points)
+    * [Sub-Plots](scenarios.md#sub-plots)
+    * [Legacies of War (Roll of 1-2)](scenarios.md#legacies-of-war-roll-of-1-2)
+    * [Chance Circumstances (Roll of 3-4)](scenarios.md#chance-circumstances-roll-of-3-4)
+    * [Secret Ploys (Roll of 5-6)](scenarios.md#secret-ploys-roll-of-5-6)
+    * [Scenario One: Cruiser Clash](scenarios/cruiser-clash.md)
+    * [Scenario Two: The Bait](scenarios/the-bait.md)
+    * [Scenario Three: The Raiders](scenarios/the-raiders.md)
+    * [Scenario Four: Surprise Attack](scenarios/surprise-attack.md)
+    * [Scenario Five: Blockade Run](scenarios/blockade-run.md)
+    * [Scenario Six: Convoy](scenarios/convoy.md)
+    * [Scenario Seven: Planetary Assault](scenarios/planetary-assault.md)
+    * [Scenario Eight: Escalating Engagement](scenarios/escalating-engagement.md)
+    * [Scenario Nine: Exterminatus](scenarios/exterminatus.md)
+    * [Scenario Ten: Fleet Engagement](scenarios/fleet-engagement.md)
 * [Campaign Rules](campaign-rules.md)
 * [Gothic Sector](gothic-sector.md)
 * [The Third Armageddon War](the-third-armageddon-war.md)

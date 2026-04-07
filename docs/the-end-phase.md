@@ -122,6 +122,8 @@ To resolve the action, both players
 roll a D6 and add the appropriate
 modifiers from the following list.
 
+##### Boarding Modifiers
+
 | Condition | Modifier |
 | --- | --- |
 | Own boarding value higher* | +1 |
@@ -155,6 +157,8 @@ reduced to 0 damage by a critical hit, roll
 for catastrophic damage as normal). Ships
 which survive being boarded may move off
 normally in their next Movement Phase.
+
+##### Results Table
 
 | Difference in scores | Boarding result | Winners/Losers Score Critical Hit on |
 | --- | --- | --- |

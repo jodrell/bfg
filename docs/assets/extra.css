@@ -1,0 +1,6 @@
+article img {
+  display:block;
+  margin: 0 auto 1em auto;
+  min-width: 50%;
+  max-width: 100%;
+}
