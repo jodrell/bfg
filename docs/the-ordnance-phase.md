@@ -649,7 +649,7 @@ enemy ordnance. If they choose to do so,
 they go on Combat Air Patrol (CAP).
 
 One or more fighter markers on CAP move
-with its ship in the [Movement Phase](the-movement-phase) (thus
+with its ship in the [Movement Phase](the-movement-phase.md) (thus
 remaining in base contact), but it may
 NOT then move in the Ordnance Phase. In
 other words, no double moves. Fighters on
