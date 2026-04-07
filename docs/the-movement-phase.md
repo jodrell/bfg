@@ -186,9 +186,9 @@ execute a turn.
 execute a turn at any
 point in its move.
 
-![](assets/image--135.png)
-![](assets/image--135.png)
-![](assets/image--136.png)
+![Basic Turning 1](assets/image--134.png)
+![Basic Turning 2](assets/image--135.png)
+![Basic Turning 3](assets/image--136.png)
 
 > #### Special Order: *Come To New Heading*
 > 
