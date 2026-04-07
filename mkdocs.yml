@@ -1,4 +1,5 @@
 site_name: Battlefleet
+
 theme:
   name: material
   palette:
@@ -21,6 +22,10 @@ theme:
     - navigation.top
 extra:
   generator: false
+
+extra_css:
+  - assets/extra.css
+
 markdown_extensions:
   - md_in_html
   - tables
