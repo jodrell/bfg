@@ -113,7 +113,7 @@ moves his ships.
 
 The player begins by
 removing any [special
-order](what-you-will-need.md#special-orders) dice he placed last
+order](the-rules.md#special-orders) dice he placed last
 turn (except for ships on
 *Brace for Impact!* orders.
 They are stuck with
@@ -122,7 +122,7 @@ them for this turn).
 Next, the player moves his
 ships and [squadrons](squadrons.md) one at
 a time. In this phase he may
-also take [Command checks](what-you-will-need.md#taking-command-checks)
+also take [Command checks](the-rules.md#taking-command-checks)
 to institute special orders
 before moving a ship or
 squadron. If any Command

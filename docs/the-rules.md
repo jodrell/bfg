@@ -1,4 +1,6 @@
-# What You Will Need
+# The Rules
+
+## What You Will Need
 
 As well as the Battlefleet
 Gothic rulebook, there are a

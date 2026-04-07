@@ -32,8 +32,8 @@ validation:
 nav:
   - Home:
     - Home: index.md
-  - What You Will Need:
-    - What You Will Need: what-you-will-need.md
+  - The Rules:
+    - The Rules: the-rules.md
   - The Turn:
     - The Turn: the-turn.md
   - The Movement Phase:
