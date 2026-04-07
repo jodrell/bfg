@@ -2,7 +2,7 @@
 
 This site is a web-based version of the Official *Battlefleet Gothic: Remastered* Rulebook (v1.10). None of the text has been changed, except to add hypertext markup, to make the rules easier to access on mobile devices, where PDFs intended for archival and print use are less useful.
 
-It is still a Work-in-Progress: if you see a problem, please [let me know](https://github.com/jodrellissues/new)!
+It is still a Work-in-Progress: if you see a problem, please [let me know](https://github.com/jodrell/bfg/issues/new)!
 
 Brought to you by [𝔍𝔬𝔡𝔯𝔢𝔩𝔩.𝔬𝔯𝔤](https://jodrell.org).
 
