@@ -9,7 +9,7 @@ require to be able to play. For
 a start, you will need two or
 more players, with models to
 represent their [ships](#ship-types). You will
-also need a battlefield to fight
+also need a [battlefield](the-battlefield.md) to fight
 over. Any firm, level surface
 will do, such as a tabletop
 or an area of floor – most
@@ -43,9 +43,9 @@ measure or ruler). All
 distances in this book
 are given in centimetres.
 You will also need some
-ordinary six-sided dice and
+ordinary six-sided [dice](#dice-rolls) and
 a pen and some paper for
-noting down damage to
+noting down [damage](the-shooting-phase.md#damage) to
 ships and other details.
 
 ## First Principles
@@ -69,7 +69,7 @@ still not even close to how far
 apart things are in space. In
 order to include interesting
 and exciting features such
-as planets and moons on
+as [planets](the-battlefield.md#planets) and [moons](the-battlefield.md#moons) on
 the battlefield and have ship
 models which are not the
 size of molecules, Battlefleet
@@ -240,7 +240,7 @@ the length of the ship: This places the 90°
 quadrants so that one is in front, one is
 behind and one is to each side of the ship.
 Fire arcs and ship’s gunnery are explained in
-more detail in the Shooting Phase section.
+more detail in the [Shooting Phase](the-shooting-phase.md) section.
 
 Secondly, it is used to find out what aspect
 a target is presenting to a ship firing at
@@ -256,8 +256,9 @@ shown by which quadrant faces the firer.
 **Definition of Game Turns:** A game [turn](the-turn.md)
 is both player turns, so a game that lasts
 eight turns has sixteen player turns.
-Pre-measurement: You may pre-measure
-movement and range unless all players agree
+
+**Pre-measurement:** You may pre-measure
+[movement](the-movement-phase.md) and [range](the-shooting-phase.md#range) unless all players agree
 not to. Note: To aid in pre-measuring, use a
 couple of empty flying bases with bearing
 compasses dropped over the stems.
@@ -291,7 +292,7 @@ be revealed at the end of the game.
 Battlefleet Gothic allows
 you to fight space battles
 amidst the cold, bright stars
-of the Gothic Sector during
+of the [Gothic Sector](gothic-sector.md) during
 the period of raging war
 and unbridled destruction
 heralded by the ninth Black
