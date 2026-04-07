@@ -1,7 +1,5 @@
 # Andy Chambers’ Notes
 
-*This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
-
 So you’ve made it all this way and you’re
 still hungry for more! Well at this point
 I get to talk about some of the general

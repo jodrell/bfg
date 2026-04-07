@@ -12,8 +12,7 @@ marker it will make an attack.
 
 ## Launching Ordnance
 
-Ships armed with torpedoes and/
-or launch bays can use ordnance.
+Ships armed with torpedoes and/or launch bays can use ordnance.
 
 Ordnance is declared, placed on the table and
 launched at the end of the Shooting Phase (the
@@ -136,7 +135,7 @@ contact with each other and cannot be stacked.
 
 Ordnance weapons are not shielded like
 larger ships, so they may be destroyed if they
-pass through Blast Markers. If an Ordnance
+pass through [Blast Markers](the-shooting-phase.md#blast-markers). If an Ordnance
 marker passes through Blast Markers during
 its movement, roll a D6. The Ordnance
 marker is removed from play on a roll of 6.
@@ -152,9 +151,9 @@ number of Blast Markers moved through.
 
 ## Shooting at Ordnance
 
-Ordnance may be fired at in the Shooting
-Phase with direct fire weapons. A ship firing at
-ordnance does not have to make a leadership
+Ordnance may be fired at in the [Shooting
+Phase](the-shooting-phase.md) with direct fire weapons. A ship firing at
+ordnance does not have to make a [leadership](the-rules.md#leadership)
 check to ignore closer targets, nor does it have
 to make a leadership check to ignore enemy
 ordnance if it is the closest target. It must still
@@ -165,16 +164,16 @@ check to fire on an enemy ordnance marker,
 wave or salvo if it is not the closest enemy
 ordnance marker in range.
 
-Weapon batteries firing at ordnance use the
+[Weapon batteries](the-shooting-phase.md#direct-firing-weapons-batteries) firing at ordnance use the
 Ordnance column on the Gunnery table. This
 is because ordnance targets are relatively small
 and fast moving. Target aspects are not taken
 into account, but column shifts for range and
-Blast Markers do apply. Lances and weapons
+Blast Markers do apply. [Lances](the-shooting-phase.md#direct-firing-lances) and weapons
 batteries both need 6s to hit ordnance because
 they are such difficult targets. If an Ordnance
 marker is hit it is removed from play. Any
-Ordnance markers caught in a nova cannon
+Ordnance markers caught in a [nova cannon](the-shooting-phase.md#nova-cannon)
 detonation are also removed from play.
 
 ## Ordnance Attacks
@@ -182,10 +181,10 @@ detonation are also removed from play.
 If an Ordnance marker comes into contact
 with a ship's base or another Ordnance
 marker the effect is resolved immediately,
-including in the Movement Phase when a ship
+including in the [Movement Phase](the-movement-phase.md) when a ship
 moves into enemy ordnance.
 
-All Ordnance attacks ignore the target's shields.
+All Ordnance attacks ignore the target's [shields](the-shooting-phase.md#shields).
 
 Ordnance markers must always attack the
 first ordnance or vessels they come in contact
@@ -340,7 +339,7 @@ detonated it is removed from play.
 No torpedo marker can attack a target
 more than once per full turn, even if they
 are already in contact with it at the start
-of the Movement or Ordnance Phase. For
+of the [Movement](the-movement-phase.md) or Ordnance Phase. For
 example, a torpedo marker is launched
 toward a battleship with a large base, ending
 its movement just inside base contact
@@ -349,7 +348,7 @@ immediately, with turrets rolled and hits
 allocated. While any surviving markers
 remain in play, they do not once again attack
 the same ship at the beginning of that ship’s
-Movement Phase, and that ship is allowed to
+[Movement Phase](the-movement-phase.md), and that ship is allowed to
 assume the torpedoes have flown off behind
 it and move off the torpedo marker. The
 marker will however immediately attack
@@ -462,10 +461,10 @@ into contact with a ship’s
 base, they attack just like
 ordinary torpedoes (roll for
 turrets and to hit). Each one
-that hits makes a Hit-and-Run attack in the Ordnance
+that hits makes a [Hit-and-Run attack](the-end-phase.md#hit-and-run-attacks) in the Ordnance
 Phase rather than inflicting
-a point of damage. Hit-and-Run attacks are discussed
-in the End Phase section.
+a point of damage. [Hit-and-Run attacks](the-end-phase.md#hit-and-run-attacks) are discussed
+in the [End Phase](the-end-phase.md) section.
 
 When boarding torpedoes
 come in contact with any
@@ -531,8 +530,8 @@ their relevant sections that follow. They are
 assumed to be able to avoid or ignore closer
 targets or obstructions unless the course of
 their movement unavoidably brings them in
-contact, such as Blast Markers, other ordnance
-or celestial phenomena.
+contact, such as [Blast Markers](the-shooting-phase.md#blast-markers), other ordnance
+or [celestial phenomena](the-battlefield.md#celestial-phenomena).
 
 Attack craft can ignore any targets they are not
 actually in contact with, but they cannot “fly
@@ -650,7 +649,7 @@ enemy ordnance. If they choose to do so,
 they go on Combat Air Patrol (CAP).
 
 One or more fighter markers on CAP move
-with its ship in the Movement Phase (thus
+with its ship in the [Movement Phase](the-movement-phase) (thus
 remaining in base contact), but it may
 NOT then move in the Ordnance Phase. In
 other words, no double moves. Fighters on
@@ -673,7 +672,7 @@ midst of the ship’s movement.
 Multiple fighters on CAP in base contact
 with a single ship function as independent
 markers in all respects and are not a wave.
-When encountering Blast Markers, roll once
+When encountering [Blast Markers](the-shooting-phase.md#blast-markers), roll once
 per squadron marker. This includes if the
 ship is subsequently destroyed, at which
 time the fighter markers roll separately
@@ -685,7 +684,7 @@ again in the subsequent Ordnance Phase.
 Only fighters and ordnance markers that
 behave as fighters can be used as CAP.
 Bombers and attack craft cannot be used as
-CAP to protect against ramming or Hit-andRun attacks by other ships the escorted ship
+CAP to protect against ramming or [Hit-and-Run attacks](the-end-phase.md#hit-and-run-attacks) by other ships the escorted ship
 encounters in its own Movement Phase. For
 example, a bomber can’t be placed on CAP
 to escort a cruiser so that it immediately
@@ -699,7 +698,7 @@ attacking ships (such as Fighta-Bommas and
 Thunderhawks) can only attack ships during
 the Ordnance Phase unless an attacking
 ship moves into contact with them during
-the enemy’s Movement Phase. They may
+the enemy’s [Movement Phase](the-movement-phase.md). They may
 not otherwise attack a ship until they leave
 CAP first. See the following two examples:
 
@@ -711,13 +710,13 @@ Imperial cruiser as well but must wait until the
 Ordnance Phase, and even then may only do so
 if the attacking ship ends its movement in base
 contact with the target vessel because attack
-craft that escort a ship in the Movement Phase
+craft that escort a ship in the [Movement Phase](the-movement-phase.md)
 cannot also move in the Ordnance Phase. If
 engaged in a boarding action and the Terror
 Ship ends its movement in base contact with
 the Imperial cruiser, the fighta-bommas may
 attack it in the Ordnance Phase before the
-boarding action takes place in the End Phase.*
+boarding action takes place in the [End Phase](the-end-phase.md).*
 
 *An Imperial cruiser rams and/or boards an
 Ork Terror Ship that has two fighta-bommas
@@ -731,7 +730,7 @@ in a boarding action and the Imperial cruiser
 ends its movement in base contact with the
 Terror Ship, the fighta-bommas still resolve
 their attack immediately, before the boarding
-action takes place in the End Phase.*
+action takes place in the [End Phase](the-end-phase.md).*
 
 **Note:** The same example would apply for other
 multi-role attack craft that behave as fighters
@@ -752,11 +751,10 @@ they can subsequently serve as CAP.
 There are only two situations where fighters
 can leave CAP excluding their destruction.
 
-1. At the beginning of the owning player’s Movement Phase.
+1. At the beginning of the owning player’s [Movement Phase](the-movement-phase.md).
 
 2. During the owning player’s part of their opponent’s Ordnance Phase. Note: If the attack craft on CAP
-is resilient, it still moves with the
-ship even if it has made a save.
+is resilient, it still moves with the ship even if it has made a save.
 
 **Fighters on CAP and Other Friendly Attack
 Craft:** It is possible to defend friendly attack
