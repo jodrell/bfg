@@ -6,7 +6,7 @@ number of other things you’ll
 require to be able to play. For
 a start, you will need two or
 more players, with models to
-represent their ships. You will
+represent their [ships](#ship-types). You will
 also need a battlefield to fight
 over. Any firm, level surface
 will do, such as a tabletop
@@ -23,13 +23,13 @@ which they can place on
 top of a table to extend
 their playing area. Onto
 this surface, you can then
-place the celestial objects
+place the [celestial objects](the-battlefield.md#celestial-phenomena)
 around which the battle
-is fought, such as planets,
-moons, asteroid fields and
-dust clouds. You can find
+is fought, such as [planets](the-battlefield.md#planets),
+[moons](the-battlefield.md#), [asteroid fields](the-battlefield.md#asteroid-fields) and
+[dust clouds](the-battlefield.md#gas-and-dust-clouds). You can find
 out more about fleets and
-the battlefield later on.
+[the battlefield](the-battlefield.md) later on.
 
 As well as players, ships
 and a battlefield there are
@@ -251,7 +251,7 @@ shown by which quadrant faces the firer.
 
 ## Set-up
 
-**Definition of Game Turns:** A game turn
+**Definition of Game Turns:** A game [turn](the-turn.md)
 is both player turns, so a game that lasts
 eight turns has sixteen player turns.
 Pre-measurement: You may pre-measure
@@ -322,12 +322,6 @@ they are separated into the
 following types: battleships,
 cruisers and escorts.
 
-held space. In a major battle,
-cruisers screen the approach
-of the fleet in support of the
-escorts and form the gun
-line once battle begins.
-
 **Battleships** are the largest
 fighting ships in space. They
 can absorb a tremendous
@@ -365,6 +359,11 @@ extended periods. This means
 that cruisers are used for
 extended patrols, blockades
 and raiding deep into enemy
+held space. In a major battle,
+cruisers screen the approach
+of the fleet in support of the
+escorts and form the gun
+line once battle begins.
 
 Note that for reasons of
 brevity, battleships and
@@ -425,7 +424,7 @@ the same type their actual
 characteristics are different.
 
 **Leadership:** A ship’s
-Leadership value indicates
+[Leadership](#leadership) value indicates
 how experienced and well
 trained its crew are and/or
 how clever and decisive its
@@ -639,7 +638,7 @@ something, such as gunnery or navigation,
 during its turn. A ship or squadron can only
 ever be on one special order at a time.
 Special orders are declared during the
-Movement Phase by choosing a vessel
+[Movement Phase](the-movement-phase.md) by choosing a vessel
 or squadron, declaring the order and
 rolling leadership, then moving it.
 
@@ -718,8 +717,8 @@ additional energy from its
 engines to fire its armament
 in multiple salvoes.
 
-**Effect:** Re-roll hit rolls for lances and weapon
-batteries during the Shooting Phase.
+**Effect:** Re-roll hit rolls for [lances](the-shooting-phase.md#lances) and [weapon
+batteries](the-shooting-phase.md#direct-firing-weapons-batteries) during the [Shooting Phase](the-shooting-phase.md).
 
 **Speed:** Half to full cruising speed.
 
@@ -734,8 +733,8 @@ batteries during the Shooting Phase.
 ![](assets/image--114.png)
 
 Ships start the game with
-their ordnance, such as
-torpedoes and attack craft,
+their [ordnance](the-ordnance-phase.md), such as
+[torpedoes](the-ordnance-phase.md#torpedoes) and [attack craft](the-ordnance-phase.md#attack-craft),
 fully loaded and armed.
 However, once the ordnance
 has been fired or launched the vessel must
@@ -769,12 +768,12 @@ including when ramming or being rammed
 or against damage from asteroid fields.
 
 It may be used to protect against critical
-damage from any kind of Hit & Run attack.
+damage from any kind of [Hit & Run attack](the-end-phase.md#hit-and-run-attacks).
 *Brace For Impact!* DOES NOT protect
-against critical damage caused by hits
+against [critical damage](the-shooting-phase.md#critical-hits) caused by hits
 that were not saved against normally, nor
-any damage caused during a boarding
-action (including critical damage).
+any damage caused during a [boarding
+action](the-end-phase.md#boarding-actions) (including critical damage).
 A ship is placed on *Brace For Impact!* orders
 until the end of its next turn, replacing any
 other special orders it may be on currently.
@@ -818,7 +817,7 @@ in its special rules, such as a Ramilies Star Fort.
 
 With all of the orders except *Brace For
 Impact!* you must make the check in
-the Movement Phase before moving the
+the [Movement Phase](the-movement-phase.md) before moving the
 ship. Each ship or squadron may make a
 Special Order until all are under Special
 Orders or a Command Check fails.
@@ -840,7 +839,7 @@ Elite Command Crew or when Orks use *All
 Ahead Full* special orders) must be taken
 before a special order is failed. Once special
 orders are failed, no more special orders
-can be declared except Brace For Impact!
+can be declared except *Brace For Impact!*
 
 Only one re-roll can be spent on a vessel
 or squadron per leadership check. In other
@@ -863,10 +862,10 @@ unless SPECIFICALLY stated otherwise.
 
 #### Under Fire -1
 
-If a ship has Blast Markers in contact with
+If a ship has [Blast Markers](the-shooting-phase.md#blast-markers) in contact with
 its base, it is under fire and suffers a -1
 modifier to its Leadership. Blast Markers
-are described more fully in the Shooting
+are described more fully in the [Shooting](the-shooting-phase.md)
 section of the rules. For now it’s simply worth
 knowing that they represent weapon impacts,
 debris clouds, and other impediments
@@ -904,7 +903,7 @@ difficult undertaking.
 
 For example, a successful
 test against Leadership is
-required for a ship to ram
+required for a ship to [ram](the-movement-phase.md#all-ahead-full-ramming-speed)
 an enemy, safely navigate
 an asteroid field or target a
 specific vessel. These tests
