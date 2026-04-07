@@ -96,19 +96,18 @@ possible distance instead.
 > A ship can move faster
 > than its basic cruising
 > speed by using the
-> All Ahead Full special
-> order. Using All Ahead
-> Full orders means that
+> *All Ahead Full* special
+> order. Using * orders means that
 > a ship cannot turn and
 > its firing ability is less
 > effective, as explained
-> in the Shooting rules.
-> All Ahead Full orders
+> in the [Shooting rules](the-shooting-phase.md).
+> *All Ahead Full* orders
 > are most useful for
 > closing in on a distant
 > foe or escaping from
 > a deadly situation.
-> See pg. 46 for all effects.
+> See [pg. 46](the-rules.md#all-ahead-full) for all effects.
 
 <br>
 
@@ -117,7 +116,7 @@ possible distance instead.
 > A ship can move
 > slower than half its
 > basic cruising speed by
-> using the Burn Retros
+> using the *Burn Retros*
 > special order, or even
 > remain stationary
 > (hold station). A ship
@@ -125,7 +124,7 @@ possible distance instead.
 > without having to move
 > forward first but its
 > firing is less effective.
-> Burn Retros orders
+> *Burn Retros* orders
 > are handy for holding
 > back, when moving at
 > full speed would bring
@@ -133,7 +132,7 @@ possible distance instead.
 > an enemy’s guns, or
 > would cause a ship to
 > crash into asteroids.
-> See pg. 46 for all effects.
+> See [pg. 46](the-rules.md#all-ahead-full) for all effects.
 
 ## Turning
 
@@ -152,8 +151,8 @@ to travel in a straight line,
 directly ahead. However,
 ships may make one turn
 as part of their movement
-unless they are using special
-orders which prevent
+unless they are using [special
+orders](the-rules.md#special-orders) which prevent
 them from doing so.
 
 A ship can turn by a
@@ -194,17 +193,17 @@ point in its move.
 > 
 > A ship can turn more
 > sharply by using the
-> Come To New Heading
+> *Come To New Heading*
 > special order. It may
 > make an extra turn
 > during its movement.
-> Using Come To New
-> Heading means that
+> Using *Come To New
+> Heading* means that
 > a ship is less effective
-> in the Shooting Phase
+> in the [Shooting Phase](the-shooting-phase.md)
 > as explained in the
-> Shooting rules. Come
-> To New Heading orders
+> Shooting rules. *Come
+> To New Heading* orders
 > are best used either
 > for turning to get a
 > more favourable attack
@@ -212,7 +211,7 @@ point in its move.
 > it attempts to escape,
 > or to outmanoeuvre
 > a larger enemy ship.
-> See pg. 46 for all effects.
+> See [pg. 46](the-rules.md#all-ahead-full) for all effects.
 <br>
 
 ## All Ahead Full – Ramming Speed!
@@ -236,7 +235,7 @@ reach the intended vessel. The number of ships
 it “moves through” or ends in contact with does
 not change or alter this.
 
-Take a Leadership test for the ramming ship:
+Take a [Leadership](the-rules.md#leadership) test for the ramming ship:
 if the test is passed, the captain skillfully
 manoeuvres his ship into a ramming position.
 If the test is failed, the would-be rammer
@@ -282,7 +281,7 @@ Roll 1D6 for each point of its starting damage
 capacity (not the damage capacity it has
 left). Any dice that equal or beat the target’s
 armour value score a point of damage on it.
-Damage from rams is not deflected by shields.
+Damage from rams is not deflected by [shields](the-shooting-phase.md#shields).
 
 The ramming ship may well suffer damage
 too, so the vessel being rammed rolls a
@@ -330,7 +329,7 @@ contact with one at the end of its full
 movement. This does not necessarily have
 to be the same vessel it just rammed.
 
-When ramming defences, they always roll
+When ramming [defences](planetary-defences.md), they always roll
 their full number of starting damage capacity
 to damage the ramming ship as if prow-on, as
 defences are more solidly built than ships are.
@@ -338,9 +337,11 @@ defences are more solidly built than ships are.
 > #### Ramming Summary
 > Ramming ship: Roll a number of
 > D6 equal to its starting damage.
+>
 > Rammed ship hit from the side or
 > rear: Roll a number of D6 equal
 > to half its starting damage.
+>
 > Rammed ship hit from the front
 > or Defence: Roll a number of D6
 > equal to its starting damage.
@@ -364,7 +365,7 @@ A vessel that moves off of the table edge
 during play for any reason counts as being
 disengaged. Or, in order to disengage,
 a ship or escort squadron must pass a
-Leadership test at the end of its Movement
+[Leadership](the-rules.md#leadership) test at the end of its Movement
 Phase with the following modifiers:
 
 | CIRCUMSTANCE | MODIFIER |
@@ -373,15 +374,15 @@ Phase with the following modifiers:
 | Any celestial phenomena within 15 cm | +3* |
 | Each enemy ship or Ordnance | marker within 15 cm | -1 |
 
-** This is for a tabletop feature such as
-an asteroid field or planet. If a tabletop
-effect such as a radiation burst or
+*\*This is for a [tabletop feature](the-battlefield.md#tabletop-features) such as
+an asteroid field or planet. If a [tabletop
+effect](the-battlefield.md#tabletop-effects) such as a radiation burst or
 solar flare is taking place this bonus
 applies anywhere on the tabletop.*
 
 All positive and negative modifiers must
 be added together before determining
-the leadership check, even though check
+the [leadership](the-rules.md#leadership) check, even though check
 rolls of 11 or 12 still automatically fail.
 
 *For instance, a ship or escort
@@ -495,7 +496,7 @@ this as well. The drastic
 weakening of their shield
 strength usually discourages
 this as described in the
-section on Blast Markers,
+section on [Blast Markers](the-shooting-phase.md#blast-markers),
 but it is completely legal.
 
 ## Stacking Ships And Escort Squadrons
