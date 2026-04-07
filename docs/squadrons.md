@@ -196,14 +196,14 @@ took, though it affects ALL
 escorts within range and fire
 arc. This also applies to hits
 taken by an escort squadron
-negotiating an asteroid field,
+negotiating an [asteroid field](the-battlefield.md#asteroid-fields),
 as well as hits delivered by
-ordnance or Nova Cannon,
+ordnance or [Nova Cannon](the-shooting-phase.md#nova-cannon),
 as those hits (regardless of
 how many) affect only the
 vessels directly contacted
-by the ordnance markers or
-Nova Cannon blast template.
+by the [ordnance](the-ordnance-phase.md) markers or
+[Nova Cannon](the-shooting-phase.md#nova-cannon) blast template.
 For example, if an escort
 squadron takes a total of
 ten hits from gunnery fire
