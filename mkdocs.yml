@@ -35,8 +35,8 @@ validation:
 nav:
   - Home:
     - Home: index.md
-  - The Rules:
-    - The Rules: the-rules.md
+  - Introduction:
+    - Introduction: the-rules.md
   - The Turn:
     - The Turn: the-turn.md
   - The Movement Phase:

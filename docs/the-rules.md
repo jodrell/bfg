@@ -1,4 +1,4 @@
-# The Rules
+# Introduction
 
 ## What You Will Need
 
