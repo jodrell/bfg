@@ -40,6 +40,22 @@ validation:
 nav:
   - Home:
     - Home: index.md
+    - Introduction: the-rules.md
+    - The Turn: the-turn.md
+    - The Movement Phase: the-movement-phase.md
+    - The Shooting Phase: the-shooting-phase.md
+    - The Ordnance Phase: the-ordnance-phase.md
+    - The End Phase: the-end-phase.md
+    - Squadrons: squadrons.md
+    - Planetary Defences: planetary-defences.md
+    - The Battlefield: the-battlefield.md
+    - Scenarios: scenarios.md
+    - Campaign Rules: campaign-rules.md
+    - Gothic Sector: gothic-sector.md
+    - The Third Armageddon War: the-third-armageddon-war.md
+    - "Abaddon's 13th Black Crusade": abaddons-13th-black-crusade.md
+    - "Andy Chambers' Notes": andy-chambers-notes.md
+    - Colophon: colophon.md
   - Introduction:
     - Introduction: the-rules.md
   - The Turn:
@@ -60,6 +76,16 @@ nav:
     - The Battlefield: the-battlefield.md
   - Scenarios:
     - Scenarios: scenarios.md
+    - "Scenario One: Cruiser Clash": scenarios/cruiser-clash.md
+    - "Scenario Two: The Bait": scenarios/the-bait.md
+    - "Scenario Three: The Raiders": scenarios/the-raiders.md
+    - "Scenario Four: Surprise Attack": scenarios/surprise-attack.md
+    - "Scenario Five: Blockade Run": scenarios/blockade-run.md
+    - "Scenario Six: Convoy": scenarios/convoy.md
+    - "Scenario Seven: Planetary Assault": scenarios/planetary-assault.md
+    - "Scenario Eight: Escalating Engagement": scenarios/escalating-engagement.md
+    - "Scenario Nine: Exterminatus": scenarios/exterminatus.md
+    - "Scenario Ten: Fleet Engagement": scenarios/fleet-engagement.md
   - Campaign Rules:
     - Campaign Rules: campaign-rules.md
   - Gothic Sector:

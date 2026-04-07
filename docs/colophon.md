@@ -53,7 +53,7 @@ Bob Henderson, Ray Bell, Nate Montes
 **Battlefleet Gothic: Remastered**<br>
 Simon Saier
 
-## Copyright Disclaimer
+## Disclaimer
 
 This website is completely unofficial and in no way endorsed by Games Workshop Limited.
 
