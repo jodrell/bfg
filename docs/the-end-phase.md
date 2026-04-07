@@ -367,8 +367,8 @@ has no shields, within 10 cm.
 
 Teleport attacks can be
 conducted by capital ships
-that are on *Lock On* or *Reload
-Ordnance* special orders.
+that are on [*Lock On*](the-rules.md#lock-on) or [*Reload
+Ordnance*](the-rules.md#reload-ordnance) special orders.
 All other special orders
 preclude the use of teleport
 attacks. Necron Portals
@@ -446,5 +446,5 @@ Remember that an escort
 which has suffered critical
 damage is automatically
 destroyed, though they can
-Brace for Impact! to counter
+[*Brace For Impact!*](the-rules.md#brace-for-impact) to counter
 the effects of the attack.

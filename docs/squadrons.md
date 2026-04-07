@@ -35,12 +35,12 @@ Vessels in a squadron are all equally affected
 by special orders taken by **any one ship** in the
 squadron.
 
-For instance, when on *All Ahead Full*, only
+For instance, when on [*All Ahead Full*](the-rules.md#all-ahead-full), only
 one roll is made to determine additional move
 distance for all the vessels in the squadron.
 As is true for individual ships, squadrons
 can only undergo one special order per turn
-(including *Brace For Impact!*, which replaces
+(including [*Brace For Impact!*](the-rules.md#brace-for-impact), which replaces
 any special order currently in effect). All
 ships in a squadron are affected by *Brace For
 Impact!*, not merely the ship actually taking
@@ -353,7 +353,7 @@ primary target may fire on another enemy.
 
 #### Firing Weapons Batteries
 
-Squadrons firing weapons batteries normally
+Squadrons firing [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries) normally
 add their firepower together before working
 out how many dice they roll on the Gunnery
 chart. However, squadrons firing weapons
@@ -379,7 +379,7 @@ added together before making the dice roll.
 
 ### Launching Ordnance
 
-Ships in a squadron launch ordnance
+Ships in a squadron launch [ordnance](the-ordnance-phase.md)
 individually unless they are in base-to-base
 contact. Any ships in base-to-base contact
 with other ships from the squadron can opt

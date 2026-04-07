@@ -93,7 +93,7 @@ in more detail in the
 There are times when a player
 will perform certain actions
 when it is not their turn,
-such as *Brace for Impact!*
+such as [*Brace For Impact!*](the-rules.md#brace-for-impact)
 for example. It may also be
 convenient to interrupt a
 player’s turn because of some
@@ -112,10 +112,10 @@ This is when a player
 moves his ships.
 
 The player begins by
-removing any [special
-order](the-rules.md#special-orders) dice he placed last
+removing any special
+order dice he placed last
 turn (except for ships on
-*Brace for Impact!* orders.
+[*Brace For Impact!*](the-rules.md#brace-for-impact) orders.
 They are stuck with
 them for this turn).
 
@@ -131,7 +131,7 @@ checks may be made in the
 same turn. Note that ships
 must always move at least
 half their speed unless they
-wish to use the *Burn Retros*
+wish to use the [*Burn Retros*](the-rules.md#burn-retros)
 special order in order to hold
 position. See the [Movement
 rules](the-movement-phase.md) for more details about

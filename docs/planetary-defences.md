@@ -58,12 +58,12 @@ planetary defences such as Defence Monitors
 or system ships do not roll for leadership or
 have a leadership value just as other normal
 planetary defences do not, with the exception
-that they reload ordnance (where applicable)
+that they [*Reload Ordnance*](the-rules.md#reload-ordnance) (where applicable)
 on a nominal leadership of 7 unless specifically
 stated otherwise in their fleet lists or special
 rules. This means that they cannot take on any
-special orders except Reload Ordnance, though
-they may also attempt to Brace For Impact
+special orders except [*Reload Ordnance*](the-rules.md#reload-ordnance), though
+they may also attempt to [*Brace For Impact!*](the-rules.md#brace-for-impact)
 against this same leadership. They also make all
 other leadership checks they may have to make
 against Ld 7, such as for navigating celestial
@@ -73,7 +73,7 @@ Ships that are targeted as defences but
 otherwise are not normally restricted to
 planetary defences, such as Ork Roks,
 Kroot Warspheres, etc., are treated as ships
-and can make Special Orders normally.
+and can make [Special Orders](the-rules.md#special-orders) normally.
 
 When shooting at minefields, treat them as
 ordnance for purposes of target priority.
@@ -109,9 +109,9 @@ defences never drift, they always remain in place.
 
 ### Blast Marker Removal
 
-You remove D6 Blast Markers from each
-defence with a speed of 0 cm in each End
-Phase after all other actions in the End Phase.
+You remove D6 [Blast Markers](the-shooting-phase.md#blast-markers) from each
+defence with a speed of 0 cm in each [End
+Phase](the-end-phase.md) after all other actions in the End Phase.
 This only applies to stationary defences,
 not planetary defences that behave as ships
 (such as monitors or system ships). This
@@ -121,7 +121,7 @@ effects but otherwise capable of movement.
 
 ### Warp Rifts
 
-Warp rifts are especially unstable and
+[Warp rifts](the-battlefield.md#warp-rifts) are especially unstable and
 dangerous forms of celestial phenomena,
 and planetary defences of any type cannot
 be placed closer than 30 cm to a warp rift,

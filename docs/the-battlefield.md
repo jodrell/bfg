@@ -735,9 +735,9 @@ have to move its minimum distance before
 it is able to make its free turn. Free turns
 provided by gravity wells can be used even
 when the ship cannot normally turn, such
-as when under All Ahead Full or Lock On
+as when under [*All Ahead Full*](the-rules.md#all-ahead-full) or [*Lock On*](the-rules.md#lock-on)
 special orders. They can also be combined
-with Come To New Heading special orders.
+with [*Come To New Heading*](the-rules.md#come-to-new-heading) special orders.
 
 This does not change the fact that the free
 turn can only be used before the start of

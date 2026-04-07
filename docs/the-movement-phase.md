@@ -30,7 +30,7 @@ This can be summarised as:
 
 Note that a player has to
 move his ships unless they
-use the *Burn Retros* special
+use the [*Burn Retros*](the-rules.md#burn-retros) special
 order to remain stationary.
 A ship has to move at least
 5 cm to not count as defences
@@ -55,7 +55,7 @@ Lunar class cruiser has
 a speed of 20 cm.
 A ship’s normal move may
 be increased by using the
-*All Ahead Full* special order
+[*All Ahead Full*](the-rules.md#all-ahead-full) special order
 that follows. A vessel’s move
 
 can also be decreased in
@@ -83,7 +83,7 @@ moving at the same speed.
 Because of this, ships must
 always move at least half
 of their speed unless they
-use the *Burn Retros* special
+use the [*Burn Retros*](the-rules.md#burn-retros) special
 order, detailed below. Ships
 who are unable to move
 half their speed (due to
@@ -96,13 +96,13 @@ possible distance instead.
 > A ship can move faster
 > than its basic cruising
 > speed by using the
-> *All Ahead Full* special
+> [*All Ahead Full*](the-rules.md#all-ahead-full) special
 > order. Using * orders means that
 > a ship cannot turn and
 > its firing ability is less
 > effective, as explained
 > in the [Shooting rules](the-shooting-phase.md).
-> *All Ahead Full* orders
+> [*All Ahead Full*](the-rules.md#all-ahead-full) orders
 > are most useful for
 > closing in on a distant
 > foe or escaping from
@@ -111,12 +111,12 @@ possible distance instead.
 
 <br>
 
-> #### Special Order: Burn Retros
+> #### Special Order: *Burn Retros*
 > 
 > A ship can move
 > slower than half its
 > basic cruising speed by
-> using the *Burn Retros*
+> using the [*Burn Retros*](the-rules.md#burn-retros)
 > special order, or even
 > remain stationary
 > (hold station). A ship
@@ -124,7 +124,7 @@ possible distance instead.
 > without having to move
 > forward first but its
 > firing is less effective.
-> *Burn Retros* orders
+> [*Burn Retros*](the-rules.md#burn-retros) orders
 > are handy for holding
 > back, when moving at
 > full speed would bring
@@ -151,8 +151,8 @@ to travel in a straight line,
 directly ahead. However,
 ships may make one turn
 as part of their movement
-unless they are using [special
-orders](the-rules.md#special-orders) which prevent
+unless they are using special
+orders which prevent
 them from doing so.
 
 A ship can turn by a
@@ -193,7 +193,7 @@ point in its move.
 > 
 > A ship can turn more
 > sharply by using the
-> *Come To New Heading*
+> [*Come To New Heading*](the-rules.md#come-to-new-heading)
 > special order. It may
 > make an extra turn
 > during its movement.
@@ -216,19 +216,19 @@ point in its move.
 
 ## All Ahead Full – Ramming Speed!
 
-A ship moving at *All Ahead Full* may attempt
+A ship moving at [*All Ahead Full*](the-rules.md#all-ahead-full) may attempt
 to ram an enemy vessel. As Battlefleet Gothic
 is a 2D representation of 3D space, a ship
 cannot attempt to ram more than one ship
 per Movement Phase, even if multiple enemy
 vessels are in its range of movement.
 
-When the *All Ahead Full* command check is
+When the [*All Ahead Full*](the-rules.md#all-ahead-full) command check is
 passed, the owning player must declare which
 ship it is attempting to ram and make the
 appropriate leadership test to do so before rolling
 the number of additional D6 cm it will move
-*All Ahead Full*. This choice cannot be changed
+[*All Ahead Full*](the-rules.md#all-ahead-full). This choice cannot be changed
 if the ramming ship ends its movement in base
 contact with more than one vessel or does not
 reach the intended vessel. The number of ships
@@ -240,7 +240,7 @@ if the test is passed, the captain skillfully
 manoeuvres his ship into a ramming position.
 If the test is failed, the would-be rammer
 misses the target and moves normally (under
-*All Ahead Full*).
+[*All Ahead Full*](the-rules.md#all-ahead-full)).
 
 Obviously, it’s easier for an escort to ram a
 battleship than the other way round.
@@ -268,7 +268,7 @@ ram one further away.
 
 The ship now must move its FULL distance,
 including any extra distance moved for being
-*All Ahead Full*.
+[*All Ahead Full*](the-rules.md#all-ahead-full).
 
 Ramming is determined by base-to-base
 contact. If any part of the ramming ship’s

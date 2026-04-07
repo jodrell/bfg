@@ -27,7 +27,7 @@ be reloaded to launch again. For example,
 a carrier with four launch bays that due to
 ordnance limits cannot launch more than
 two attack craft cannot “save” the other two
-markers and must reload ordnance again
+markers and must [*Reload Ordnance*](the-rules.md#reload-ordnance) again
 before it can launch more attack craft. This
 same concept applies to torpedoes, though
 there are no launch limits for torpedoes.
@@ -40,7 +40,7 @@ launch the other before having to reload again.
 
 *For example, if an Imperial Dictator launches its
 attack craft but not its torpedoes in a turn and
-in the subsequent turn fails to Reload Ordnance,
+in the subsequent turn fails to [*Reload Ordnance*](the-rules.md#reload-ordnance),
 it may still launch its torpedoes in that turn.*
 
 Any ship that has either never launched
@@ -96,7 +96,7 @@ launchers and attack craft bays normally.
 
 <br>
 
-> #### Special Order: Reload Ordnance
+> #### Special Order: *Reload Ordnance*
 > 
 > Ordnance needs to be loaded and
 > armed in order to be launched. Ships

@@ -789,6 +789,7 @@ any special orders at all in its next turn.
 **Turns:** Up to one.
 
 **Armament:** Half effect. No Nova Cannon.
+
 **Ordnance:** Half effect.
 
 If a ship fails to take *Brace For Impact!*
@@ -841,7 +842,7 @@ Elite Command Crew or when Orks use *All
 Ahead Full* special orders) must be taken
 before a special order is failed. Once special
 orders are failed, no more special orders
-can be declared except *Brace For Impact!*
+can be declared except [*Brace For Impact!*](#brace-for-impact)
 
 Only one re-roll can be spent on a vessel
 or squadron per leadership check. In other
@@ -883,9 +884,9 @@ gains a +1 modifier to its Leadership value
 if any enemy ships are on special orders.
 
 *For example, the Imperial cruiser Agrippa
-(Leadership 7) wants to use All Ahead Full
+(Leadership 7) wants to use [*All Ahead Full*](#all-ahead-full)
 orders to catch up with the Chaos cruiser
-Unclean. The Chaos cruiser used Lock On
+Unclean. The Chaos cruiser used [*Lock On*](#lock-on)
 orders last turn so the Agrippa gets a +1
 modifier to its Leadership value. Rolling
 2D6 the Imperial player gets a 2 and 6 for a
