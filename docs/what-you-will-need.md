@@ -384,9 +384,9 @@ how fast, manoeuvrable,
 well-armoured and
 hideously armed they are.
 
-<img src="/bfg/assets/ship-profile.png">
+![](assets/ship-profile.png)
 
-*The table to the right
+*The table above
 represents the characteristics
 for an Imperial Lunar
 class cruiser and a Murder
@@ -717,7 +717,7 @@ additional energy from its
 engines to fire its armament
 in multiple salvoes.
 
-**Effect:** Re-roll hit rolls for [lances](the-shooting-phase.md#lances) and [weapon
+**Effect:** Re-roll hit rolls for [lances](the-shooting-phase.md#direct-firing-lances) and [weapon
 batteries](the-shooting-phase.md#direct-firing-weapons-batteries) during the [Shooting Phase](the-shooting-phase.md).
 
 **Speed:** Half to full cruising speed.

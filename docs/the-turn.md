@@ -36,11 +36,11 @@ player’s actions are finished.
 
 In a turn the player performs
 his actions in the appropriate
-phases – the move, shoot
-and Ordnance Phases to be
+phases – the [move](the-movement-phase.md), [shoot](the-shooting-phase.md)
+and [Ordnance](the-ordnance-phase.md) Phases to be
 precise. Exactly what happens
 in each phase is described in
-The Turn Sequence later.
+The [Turn Sequence](#turn-sequence) later.
 
 ## Who Gets The First Turn
 
@@ -61,7 +61,7 @@ will always get the first turn.
 Fighting all sorts of
 different battles is covered
 in more detail in the
-Scenarios section later.
+[Scenarios](scenarios.md) section later.
 
 ## Ending The Battle
 
@@ -86,7 +86,7 @@ amount of time to play in.
 Different ways of ending
 the battle are discussed
 in more detail in the
-Scenarios section.
+[Scenarios](scenarios.md) section.
 
 ## Exceptions
 
@@ -112,17 +112,17 @@ This is when a player
 moves his ships.
 
 The player begins by
-removing any special
-order dice he placed last
+removing any [special
+order](what-you-will-need.md#special-orders) dice he placed last
 turn (except for ships on
-Brace for Impact! orders.
+*Brace for Impact!* orders.
 They are stuck with
 them for this turn).
 
 Next, the player moves his
-ships and squadrons one at
+ships and [squadrons](squadrons.md) one at
 a time. In this phase he may
-also take Command checks
+also take [Command checks](what-you-will-need.md#taking-command-checks)
 to institute special orders
 before moving a ship or
 squadron. If any Command
@@ -131,10 +131,10 @@ checks may be made in the
 same turn. Note that ships
 must always move at least
 half their speed unless they
-wish to use the Burn Retros
+wish to use the *Burn Retros*
 special order in order to hold
-position. See the Movement
-rules for more details about
+position. See the [Movement
+rules](the-movement-phase.md) for more details about
 how to move your ships.
 
 ### 2. The Shooting Phase
@@ -145,8 +145,8 @@ this part of the turn.
 The player can shoot with
 any of his ships that are
 within range of enemy
-vessels. See the Shooting
-rules for more details about
+vessels. See the [Shooting
+rules](the-shooting-phase.md) for more details about
 how to resolve shooting.
 
 ### 3. The Ordnance Phase
@@ -157,17 +157,17 @@ as torpedoes or fighter
 squadrons) which are still
 on the tabletop, having
 been launched in a previous
-turn. See the Ordnance
-rules for more details.
+turn. See the [Ordnance
+rules](the-ordnance-phase.md) for more details.
 
 ### 4. The End Phase
 
 Both players may attempt
-to repair critical damage
+to repair [critical damage](the-shooting-phase.md#critical-hits)
 which has been inflicted
-on their ships: D6 Blast
-Markers are also removed
+on their ships: D6 [Blast
+Markers](the-shooting-phase.md#blast-markers) are also removed
 by the player whose turn it
-is. See the End Phase rules
+is. See the [End Phase](the-end-phase.md) rules
 for more about repairs and
 removing Blast Markers.
