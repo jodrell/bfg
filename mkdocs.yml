@@ -16,7 +16,6 @@ theme:
   logo: assets/image--004.png
   favicon: assets/favicon.ico
   features:  
-    - header.autohide
     - navigation.indexes
     - navigation.tabs
     - navigation.top
@@ -26,6 +25,10 @@ markdown_extensions:
   - md_in_html
   - tables
   - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 4
+
 validation:
   absolute_links: ignore
 
