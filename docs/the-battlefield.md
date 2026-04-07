@@ -314,7 +314,7 @@ to see whether a planet has any moons.
 If a large planet is generated, it will have
 rings around it on a D6 roll of 4 or more.*
 
-## TABLETOP FEATURES
+## Tabletop Features
 
 The following features are
 celestial phenomena that

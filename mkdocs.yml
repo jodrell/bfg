@@ -37,6 +37,8 @@ validation:
   absolute_links: ignore
 
 nav:
+  - Home:
+    - Home: index.md
   - What You Will Need:
     - What You Will Need: what-you-will-need.md
   - The Turn:
@@ -55,6 +57,15 @@ nav:
     - Planetary Defences: planetary-defences.md
   - The Battlefield:
     - The Battlefield: the-battlefield.md
-
+  - Scenarios:
+    - Scenarios: scenarios.md
+  - Campaign Rules:
+    - Campaign Rules: campaign-rules.md
+  - Gothic Sector:
+    - Gothic Sector: gothic-sector.md
+  - The Third Armageddon War:
+    - The Third Armageddon War: the-third-armageddon-war.md
+  - "Abaddon's 13th Black Crusade":
+    - "Abaddon's 13th Black Crusade": abaddons-13th-black-crusade.md
 
 
