@@ -292,7 +292,7 @@ be revealed at the end of the game.
 Battlefleet Gothic allows
 you to fight space battles
 amidst the cold, bright stars
-of the [Gothic Sector](gothic-sector.md) during
+of the [Gothic Sector](campaign-rules.md#gothic-sector) during
 the period of raging war
 and unbridled destruction
 heralded by the ninth Black

@@ -2,8 +2,6 @@
 
 *This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
 
-CAMPAIGN
-RULES
 At some stage all wargamers contemplate
 running a campaign. This is understandable
 – after all, battles don’t take place in isolation,
@@ -25,12 +23,14 @@ victories and shameful defeats, legendary (or
 infamous!) commanders will emerge and ships
 in your fleet will gain fame for the awesome
 feats they have pulled off against all the odds!
+
 As I hope you can tell, campaigns can be a lot
 of fun and they are not all that difficult to run
 either. To help you, we’ve developed a mapbased campaign system based on our own
 experiences of running campaigns over the
 years, but you really should feel free to modify
 and change what’s here to suit your own tastes.
+
 For example, playing a campaign offers
 great opportunities to try out new rules or
 new classes of ship that you’ve invented, or
@@ -39,17 +39,14 @@ fighting land battles and boarding actions
 using the Warhammer 40,000 and Kill Team
 rules. The possibilities really are endless.
 
-144
-
-145
-
-GETTING STARTED
+## Getting Started
 
 In order to run a campaign you’ll need
 at least one player with a Chaos fleet
 and one player with an Imperial fleet.
 Any amount of extra players can join in,
 including players with Ork or Eldar fleets.
+
 Once you’ve got your players together you
 need to pick one of the sub-sectors we’ve
 provided maps for as the location for your
@@ -68,8 +65,6 @@ used coloured pins to show which player
 controlled each system, but you could just
 as easily write down who controls what.
 
-146
-
 Next you need to get all the players together
 for a ‘campaign briefing’. The most important
 thing you’ll need to go over at this point is
@@ -80,6 +75,7 @@ last. For your first campaign we recommend
 playing for one month of real time and on
 the whole it’s best to keep campaigns short –
 after all, you can always start another one!
+
 Once this has been decided, players can
 pick their starting systems and design their
 fleets using the rules described below, then
@@ -93,7 +89,8 @@ also want to consider putting together a
 campaign newsletter, in which case you’ll
 need to decide who will be its editor.
 
-STARTING SYSTEMS
+## Starting Systems
+
 At the start of the campaign,
 many of the systems in the
 sub-sector will be neutral.
@@ -102,14 +99,16 @@ this will change and players
 will gain control of systems
 that will pay them tithes
 and help repair their ships.
-Designers’ Note: Actually
+
+_**Designers’ Note:** Actually
 all systems start nominally
 under the control of the
 Imperium, but as planetary
 governors tend to go their own
 way until reminded of their
 obligations, they are for all
-intents and purposes neutral.
+intents and purposes neutral._
+
 Imperial and Chaos players
 start with one of the systems
 in the sub-sector under
@@ -128,8 +127,8 @@ it is hidden in (they can pick
 a system controlled by an
 Imperial or Chaos player).
 
-STARTING FLEETS & THE
-FLEET REGISTER
+## Starting Fleets & the Fleet Register
+
 Imperial and Chaos fleets
 begin the campaign with
 2,000 points and Ork and
@@ -141,43 +140,44 @@ case they all end up in a big
 battle! If your fleet doesn’t
 add up to 2,000 points,
 then just use what you’ve
-got available (don’t worry
-
-– you will get to add new
+got available (don’t worry – you will get to add new
 ships to your fleet during
 the course of the campaign
 as you buy and paint new
 models for your collection).
+
 Each player has his own
 fleet registry. He uses it
 to keep notes and dates of
 when a capital ship or escort
-squadron was commissioned
+[squadron](squadrons.md) was commissioned
 (i.e. bought) along with
 class of ship etc., when it
 takes its fleet trials (i.e. it’s
 assembled, painted and its
-Leadership rating is rolled
+[Leadership](the-rules.md#leadership) rating is rolled
 for), its campaign history
 and its loss if and when they
 occur. If a vessel is used in
 battle before its fleet trials
 are complete (i.e. it’s not
 fully assembled and painted)
-it will suffer a critical hit
+it will suffer a [critical hit](the-shooting-phase.md#critical-hits)
 on a D6 roll of 1 every time
-it uses special orders.
+it uses [special orders](the-rules.md#special-orders).
 Ships which are added to the
 fleet register after the start
 of the campaign suffer a -1
-modifier to their Leadership
+modifier to their [Leadership](the-rules.md#leadership)
 due to their hasty training
 and less experienced officers.
+
 When players fight battles
 they must pick their forces
 from their own fleet register.
 
-THE COMMANDER
+## The Commander
+
 Each player’s fleet has
 a commander (or an
 appropriately named leader
@@ -185,7 +185,7 @@ for their race) who represents
 the player himself. Over
 the course of the campaign,
 your commander will
-collect renown points and
+collect [renown points](scenarios.md#renown) and
 gain in rank, and at the
 end of the campaign the
 commander with the highest
@@ -196,8 +196,8 @@ fleet register, you need to
 fill in the details of your
 commander. He’ll need a
 name, and starts off with
-1 point of renown and one
-re-roll. In addition, you must
+1 point of [renown](scenarios.md#renown) and one
+[re-roll](the-rules.md#re-rolls). In addition, you must
 pick one ship in your fleet
 as his flagship. If this ship is
 involved in a battle then ‘you’
@@ -208,6 +208,7 @@ may have in the battle. If the
 flagship is not there then you
 may not use the commander’s
 re-roll or abilities.
+
 If the flagship is destroyed,
 then it is assumed that your
 commander manages to
@@ -217,7 +218,8 @@ in that game, but you may
 choose a new flagship for
 him once the game is over.
 
-FIGHTING BATTLES
+## Fighting Battles
+
 In order for things to happen
 in the campaign players
 must fight battles (doh!). At
@@ -229,6 +231,7 @@ they agree then the game
 uses the additional campaign
 rules below as well as the
 rules used for a normal game.
+
 The only problem with
 this is that it can lead to
 some odd situations where
@@ -240,15 +243,13 @@ the Imperial players are not
 allowed to attack each other
 and if the Chaos and Eldar
 players restrain themselves,
-
-147
-
 if possible, from attacking players of their
 own race. If you have a lot of Imperial fleets
 in the campaign (or, indeed, only Imperial
 fleets), then it is best to split them into
 loyalists and rebels, the latter being assumed
 to have gone over to the dark gods of Chaos!
+
 Anyway, however you decide to do it, you need
 to challenge other players in the campaign to
 a game. The game is arranged in exactly the
@@ -256,53 +257,49 @@ same manner as a one-off game; simply agree
 on a time and a place and go for it. You can
 play as many or as few campaign games as you
 like, all you need to do is find an opponent.
+
 Note that opposing players do not have to
 agree to play just because you happened to
 have challenged them to a battle – but you may
 want to penalise players that refuse to play
 games with anybody for long periods of time
 and spoil the campaign for the other players.
-For example, if a player doesn’t play
+
+*For example, if a player doesn’t play
 any games for (say) a fortnight then they
 lose a point of renown, and if they don’t
 play any games for a month then one of
 their systems (randomly selected) rebels
-and is turned over to another player.
+and is turned over to another player.*
 
-W
+## The Campaign Turn
 
-THE CAMPAIGN TURN
 Campaign games include a number
 of extra steps which take place at the
 beginning and end of the game, these are
 described below. Unless stated otherwise
 all of the normal Battlefleet Gothic
 rules apply in a campaign game.
+
 Each time that two players have a game they
 both get what is known as a campaign turn.
 The turn uses the following sequence of play:
-1) Build-Up
-Determine Initiative
-Roll for incoming Orders,
-select target system if necessary
-Select Forces from Fleet Registry
-2) Fight Battle
-3) Aftermath
-Claim System
-Adjust Renown
-Promotions & Demotions
-Ship Experience
-Repairs & Withdrawals
-Make Appeals
 
-e fell upon them as hawks do from a cloudless sky. Cannon were
-our terrible claws, and lasers our ripping beaks. In a flash we
-had torn their craft asunder and turned for home, giving praise to the
-Emperor and our captain both.
+**1) Build-Up**<br>
+&emsp;&emsp;Determine Initiative<br>
+&emsp;&emsp;Roll for incoming Orders,<br>
+&emsp;&emsp;select target system if necessary<br>
+&emsp;&emsp;Select Forces from Fleet Registry<br>
+**2) Fight Battle<br>
+3) Aftermath**<br>
+&emsp;&emsp;Claim System<br>
+&emsp;&emsp;Adjust Renown<br>
+&emsp;&emsp;Promotions & Demotions<br>
+&emsp;&emsp;Ship Experience<br>
+&emsp;&emsp;Repairs & Withdrawals<br>
+&emsp;&emsp;Make Appeals
 
-148
-
-BUILD-UP
+## Build-up
 
 The build-up stage takes place at the start
 of the battle, before either player deploys or
@@ -312,11 +309,23 @@ to play, and what size of fleets to use. The
 stage has a number of steps that need to
 be carried out in the following order:
 
-2. Receive Orders
-
 1. Determine Initiative
 2. Receive Orders
 3. Pick Fleet
+
+### 1. Determine Initiative
+
+Roll to see who is attacker and who is defender
+(the player who rolls highest is the attacker).
+If one player has more systems than the other
+his forces are stretched more thinly, so the
+player with fewer systems gains a +1 bonus to
+the dice roll. You may want to incorporate the
+attack ratings from the scenarios introduction,
+where you roll a number of dice, picking the
+highest one, to determine the initiative.
+
+### 2. Receive Orders
 
 Although fleet commanders have a large
 measure of autonomy, higher command still
@@ -329,94 +338,44 @@ they will fight. To reflect this, one of the
 players must roll a D6 to determine what
 type and size of scenario is to be played.
 
-1. Determine Initiative
+#### Incoming Orders
 
-INCOMING ORDERS
-
-Roll to see who is attacker and who is defender
-(the player who rolls highest is the attacker).
-If one player has more systems than the other
-his forces are stretched more thinly, so the
-player with fewer systems gains a +1 bonus to
-the dice roll. You may want to incorporate the
-attack ratings from the scenarios introduction,
-where you roll a number of dice, picking the
-highest one, to determine the initiative.
-
-D6 Roll
-
-Orders
-
-1-2
-
-Raid (500-750 points)
-
-3-6
-
-Battle (750-1500 points)
+| **D6 Roll** | **Orders** |
+| --- | --- |
+| 1-2 | Raid (500-750 points) |
+| 3-6 | Battle (750-1500 points) |
 
 If one player has 21 Renown points
 or more he may choose whether to
 fight a battle or a raid (if both are this
 status then roll to see who decides).
 
-149
-
-Decide Scenario: Roll on the tables below
+**Decide Scenario:** Roll on the tables below
 to determine which scenario is to be played,
 or if both player agree you can pick one
 from those listed for the type of scenario.
-RAIDS
-D6 Roll
 
-Scenario
+#### Raids
 
-1
+| D6 Roll | Scenario |
+| --- | --- |
+| 1 |  Cruiser Clash |
+| 2 |  The Bait |
+| 3 |  The Raiders |
+| 4 |  Blockade Run |
+| 5-6 | Convoy |
 
-Cruiser Clash
+#### Battles
 
-2
+| D6 Roll | Scenario |
+| --- | --- |
+| 1 |  Exterminatus! |
+| 2 |  Surprise Attack |
+| 3 |  Planetary Assault |
+| 4 |  Escalating Engagement |
+| 5-6 | Fleet Engagement |
 
-The Bait
-
-3
-
-The Raiders
-
-4
-
-Blockade Run
-
-5-6
-
-Convoy
-
-BATTLES
-D6 Roll
-
-Scenario
-
-1
-
-Exterminatus!
-
-2
-
-Surprise Attack
-
-3
-
-Planetary Assault
-
-4
-
-Escalating Engagement
-
-5-6
-
-Fleet Engagement
-
-Decide Location: The attacker must select
+**Decide Location:** The attacker must select
 the system in which the scenario will take
 place. The system must be connected to one
 already controlled by the player via a warp
@@ -426,28 +385,28 @@ chosen, the defender must reduce his points
 value by 100 pts. Other types of system can
 affect the number of planetary defences,
 as described elsewhere in the rules.
-Decide Size of Battle: Once a mission has
+
+**Decide Size of Battle:** Once a mission has
 been generated, players agree the points
 value of the game and select their forces. The
 players can agree on the exact number of
 points for the game within the limits listed
-on the Incoming Order table. If one player
+on the [Incoming Order](#incoming-orders) table. If one player
 holds more systems than the other their forces
 will be spread thinly, giving the player with
 the least number of systems an advantage.
 Each extra system a player holds over his
 opponent reduces his fleet size by 10 points.
-Ork & Eldar Scenarios: Ork and Eldar fleets
-only ever make raids, they never take part in
-battles. If you roll up a battle on the Incoming
-Orders table, then it is treated as a major
+
+**Ork & Eldar Scenarios:** Ork and Eldar fleets
+only ever make [raids](#raids), they never take part in
+battles. If you roll up a battle on the [Incoming
+Orders](#incoming-orders) table, then it is treated as a major
 raid instead. Roll for the scenario for the
-major raid on the Raids table, but the size of
+major raid on the [Raids table](#raids), but the size of
 the battle is increased to 750-1,500 points.
 
-150
-
-3. Pick Fleets
+### 3. Pick Fleets
 
 Both players must now pick their fleets using
 ships from their fleet register. The total
@@ -458,45 +417,48 @@ that you can’t change the details of ships on
 the register or adjust their points value at this
 stage – the ships you pick must come from
 your register and not be changed in any way.
-Fight the Battle: With the build-up
+
+**Fight the Battle:** With the build-up
 completed all you need do now is roll for a
 sub-plot and then get fighting (hurrah!).
 
-Attacking Pirate Bases
+> #### Attacking Pirate Bases
+> 
+> Orks and Eldar never get to capture
+> systems, but instead have a secret
+> pirate base. If an Ork or Eldar player’s
+> opponent with a rank of Admiral or
+> higher (or its equivalent for other races)
+> gains the initiative for a scenario,
+> then he can attempt to attack the base
+> instead of playing a normal scenario.
+> 
+> The attacker must, however, first find
+> the base: roll a D6 and multiply the
+> score by 10. If you roll under the Ork
+> or Eldar side’s renown, then you’ve
+> tracked down the base and system that
+> it is hidden in must be revealed. If the
+> player fails to find the base (i.e. fails
+> to roll under the defender’s renown)
+> then play a normal scenario. Once you
+> know the location of the base you don’t
+> have to find it again (you can reveal its
+> location to other players too if you want).
+> 
+> Once the base is found, the player may
+> attack it if he controls the system, or it
+> is in a neutral system. If neither of these
+> conditions apply, then play a normal
+> scenario instead. Assuming you find
+> the base and it is in a location where
+> you can attack it, then play either the
+> Planetary Assault or the Exterminatus
+> scenario. If the attacker wins then the
+> base is destroyed and can no longer
+> be used by the Ork or Eldar player.
 
-Orks and Eldar never get to capture
-systems, but instead have a secret
-pirate base. If an Ork or Eldar player’s
-opponent with a rank of Admiral or
-higher (or its equivalent for other races)
-gains the initiative for a scenario,
-then he can attempt to attack the base
-instead of playing a normal scenario.
-The attacker must, however, first find
-the base: roll a D6 and multiply the
-score by 10. If you roll under the Ork
-or Eldar side’s renown, then you’ve
-tracked down the base and system that
-it is hidden in must be revealed. If the
-player fails to find the base (i.e. fails
-to roll under the defender’s renown)
-then play a normal scenario. Once you
-know the location of the base you don’t
-have to find it again (you can reveal its
-location to other players too if you want).
-Once the base is found, the player may
-attack it if he controls the system, or it
-is in a neutral system. If neither of these
-conditions apply, then play a normal
-scenario instead. Assuming you find
-the base and it is in a location where
-you can attack it, then play either the
-Planetary Assault or the Exterminatus
-scenario. If the attacker wins then the
-base is destroyed and can no longer
-be used by the Ork or Eldar player.
-
-AFTERMATH
+## Aftermath
 
 Once you have fought a campaign game and
 know who has won, you come to probably
@@ -507,6 +469,7 @@ campaign map, as well as the effect it has
 had on the ships and crew that took part.
 This stage has a number of steps, which need
 to be carried out in the following order:
+
 1. Spoils of War
 2. Adjust Renown
 3. Promotions & Demotions
@@ -514,7 +477,7 @@ to be carried out in the following order:
 5. Repairs & Withdrawals
 6. Appeals
 
-1. The Spoils of War
+### 1. The Spoils of War
 
 Whenever an attacker wins a battle, he
 may claim control of the system if it is
@@ -523,6 +486,7 @@ controls. The system can only be taken
 over by the player that won the battle if it
 previously belonged to the player that he
 defeated, or if it was previously neutral.
+
 Whenever an attacker wins a raid, he
 may count the opponent’s system where
 the raid took place as his own for the
@@ -530,22 +494,16 @@ rest of this campaign turn (which is
 important, since the systems you control
 affect your ability to repair ships, etc.).
 
-‘The Emperor will judge your sins – after the officer of the
-Watch is finished with you.’
-– Popular naval saying
+### 2. Adjust Renown
 
-151
-
-2. Adjust Renown
-
-Renown is a measure of the
+[Renown](scenarios.md#renown) is a measure of the
 fame or infamy enjoyed by
 you, the fleet commander.
 Players start the campaign
 with 1 point of renown and
 can gain or lose renown
-as shown on the Renown
-table. Renown is very, very
+as shown on the [Renown
+table](#renown). Renown is very, very
 important because, at the
 end of the campaign, the
 player that has earned the
@@ -556,197 +514,35 @@ commander was not present
 during the scenario (i.e. his
 flagship did not take part).
 
-RENOWN
-Renown can be gained for the following:
-Winning a battle or major raid
+#### Renown
 
-+2
+| Renown can be gained for the following: | &nbsp; |
+| --- | --- |
+| Winning a battle or major raid | +2 |
+| Winning a raid | +1 |
+| Victory points earned | +(VPs/100 round up) |
+| Sub-plots | variable |
+| Each capital ship hulk captured | +1 |
+| Fought commander with higher renown | +1 | 
+| Fought fleet with higher points value and lost | +1 |
+| Fought fleet with higher points value and won | +2 |
+| **Renown is lost for the following:** | &nbsp; |
+| Losing a battle | -1 |
+| Losing a raid | -1 |
+| Each capital ship lost | -1 |
+| Sub-plots | variable |
 
-Winning a raid
-
-+1
-
-Victory points earned
-
-+(VPs/100 round up)
-
-Sub-plots
-
-variable
-
-Each capital ship hulk captured
-
-+1
-
-Fought commander with higher renown
-
-+1
-
-Fought fleet with higher points value and lost
-
-+1
-
-Fought fleet with higher points value and won +2
-Renown is lost for the following:
-Losing a battle
-
--1
-
-Losing a raid
-
--1
-
-Each capital ship lost
-
--1
-
-Sub-plots
-
-variable
-
-Note: A commander can never be reduced below 1 renown point (you
+_**Note:** A commander can never be reduced below 1 renown point (you
 may be renowned as a bad commander, but you will be renowned
-nonetheless).
+nonetheless)._
 
-A
-
-skilled Navigator can steer a ship anywhere through the warp, in
-theory at least. However, this task can be made much easier, and
-even allow vessels without a Navigator to make longer warp jumps,
-along certain shipping routes. These routes have a relay of Astropathic
-beacons along them, giving ships’ captains and Navigators guidance
-along a pre-set path. Some shipping routes are part of a system of warp
-gates which link areas of the Gothic Sector together through stabilised
-warp tunnels. During the Gothic War, as the warp storms made travel
-through any area of space around the region extremely difficult, the
-control of the shipping routes became vital. Important meeting points
-of the trade routes, such as Port Maw and the Lysades sub-sector, were
-the site of several major fleet battles, as whoever dominated these areas
-could move their ships around the sector much more quickly and with
-greater accuracy.
-152
-
-3. Promotions and
-Demotions
-
-IMPERIAL PROMOTIONS (ALL IMPERIALS EXCEPT MECHANICUS FLEETS)
-Renown
-
-Title
-
-Ld
-
-Notes
-
-1-5
-
-Commander
-
-8
-
-1 re-roll
-
-6-10
-
-Battle Group Commander
-
-8
-
-2 re-rolls
-
-11-20
-
-Sub-sector Commander
-
-9
-
-2 re-rolls
-
-21-30
-
-Admiral
-
-9
-
-3 re-rolls
-
-31-50
-
-Fleet Admiral
-
-10
-
-3 re-rolls
-
-51+
-
-Solar Admiral
-
-10
-
-4 re-rolls
-
-Title
-
-Ld
-
-Notes
-
-MECHANICUS PROMOTIONS
-Renown
-1-5
-
-Explorator Techpriest
-
-7
-
-1 re-roll
-
-6-10
-
-Magos Errant
-
-8
-
-1 re-roll, 1 refit
-
-11-20
-
-Magos Explorator
-
-8
-
-2 re-rolls, 1 refit
-
-21-30
-
-Aspiring Archmagos
-
-9
-
-2 re-rolls, 1 refit
-
-31-50
-
-Archmagos Explorator
-
-9
-
-3 re-rolls, 1 refit
-
-51+
-
-Archmagos Veneratus
-
-10
-
-3 re-rolls, 2 refits
+### 3. Promotions and Demotions
 
 The player gains promotions
 according to their renown as
 shown on the tables below.
 It is possible to lose rank
-if you lose renown points.
+if you lose [renown](#renown) points.
 Your rank determines how
 many re-rolls or Marks of
 Chaos you receive in the
@@ -755,181 +551,68 @@ Tau fleet commanders
 use the Imperial table
 for their promotions.
 
-CHAOS PROMOTIONS
-Renown
-
-Title
-
-Ld Notes
-
-1-5
-
-Chaos Champion
-
-8
-
-1 re-roll
-
-6-10
-
-Exalted Chaos Champion
-
-8
-
-1 re-roll, 1 Mark of Chaos
-
-11-20
-
-Tyrant
-
-9
-
-1 re-roll, 1 Mark of Chaos
-
-21-30
-
-Chaos Lord
-
-9
-
-1 re-roll, 2 Mark of Chaos
-
-31-50
-
-Overlord
-
-10
-
-1 re-roll, 2 Mark of Chaos
-
-51+
-
-Warmaster
-
-10
-
-1 re-roll, 3 Mark of Chaos
-
-ORK PROMOTIONS
-Renown
-
-Title
-
-Notes
-
-1-5
-
-Nob
-
-1 re-roll
-2 re-rolls
-
-6-10
-
-Big Nob
-
-11-20
-
-Boss
-
-2 re-rolls
-
-21-30
-
-Big Boss
-
-3 re-rolls
-
-31-50
-
-War Boss
-
-3 re-rolls
-
-51+
-
-Warlord
-
-4 re-rolls
-
-ELDAR PROMOTIONS (ALL TYPES OF ELDAR)
-Renown
-
-Title
-
-Ld Bonus
-
-Notes
-
-1-5
-
-Captain
-
-+0
-
-1 re-roll
-
-6-10
-
-Lord
-
-+1
-
-1 re-rolls
-
-11-20
-
-Shadow Lord
-
-+1
-
-2 re-rolls
-
-21-30
-
-Prince
-
-+2
-
-2 re-rolls
-
-31-50
-
-Shadow Prince
-
-+2
-
-3 re-rolls
-
-51+
-
-King
-
-+2
-
-4 re-rolls
-
-‘The most important
-aspect of any
-planetary assault
-is to ensure the safe
-passage of shuttles
-and dropships.
-The greatest threat
-to this has always
-been the groundbased defence.’
-– Imperial Navy
-Training Dogma
-
-153
-
-4. Ship Experience
+#### Imperial Promotions (all Imperials Except Mechanicus Fleets)
+
+| Renown | Title | Ld | Notes |
+| --- | --- | --- | --- |
+| 1-5   | Commander | 8 | 1 re-roll |
+| 6-10  | Battle Group Commander | 8 | 2 re-rolls |
+| 11-20 | Sub-sector Commander | 9 | 2 re-rolls |
+| 21-31 | Admiral | 9 | 3 re-rolls |
+| 31-50 | Fleet Admiral | 10 | 3 re-rolls |
+| 51+   | Solar Admiral | 10 | 4 re-rolls |
+
+#### Mechanicus Promotions
+
+| Renown | Title | Ld | Notes |
+| --- | --- | --- | --- |
+| 1-5   | Explorator Techpriest | 7 | 1 re-roll |
+| 6-10  | Magos Errant | 8 | 1 re-roll, 1 refit |
+| 11-20 | Magos Explorator | 8 | 2 re-rolls, 1 refit |
+| 21-31 | Aspiring Archmagos | 9 | 2 re-rolls, 1 refit |
+| 31-50 | Archmagos Explorator | 9 | 3 re-rolls, 1 refit |
+| 51+   | Archmagos Veneratus 1| 10 | 3 re-rolls, 2 refits |
+
+#### Chaos Promotions
+
+| Renown | Title | Ld | Notes |
+| --- | --- | --- | --- |
+| 1-5   | Chaos Champion | 8 | 1 re-roll |
+| 6-10  | Exalted Chaos Champion | 8 | 1 re-roll, 1 Mark of Chaos |
+| 11-20 | Tyrant | 9 | 1 re-roll, 1 Mark of Chaos |
+| 21-31 | Chaos Lord | 9 | 1 re-roll, 2 Mark of Chaos |
+| 31-50 | Overlord | 10 | 1 re-roll, 2 Mark of Chaos |
+| 51+   | Warmaster | 10 | 1 re-roll, 3 Mark of Chaos |
+
+#### Ork Promotions
+
+| Renown | Title | Notes |
+| --- | --- | --- |
+| 1-5   | Nob | 1 re-roll |
+| 6-10  | Big Nob | 2 re-rolls |
+| 11-20 | Boss | 2 re-rolls |
+| 21-31 | Big Boss | 3 re-rolls |
+| 31-50 | War Boss | 3 re-rolls |
+| 51+   | Warlord | 4 re-rolls |
+
+#### Eldar Promotions (all Types of Eldar)
+
+| Renown | Title | Ld Bonus | Notes |
+| --- | --- | --- | --- |
+| 1-5   | Captain | +0 | 1 re-roll |
+| 6-10  | Lord | +1 | 1 re-rolls |
+| 11-20 | Shadow Lord | +1 | 2 re-rolls |
+| 21-31 | Prince | +2 | 2 re-rolls |
+| 31-50 | Shadow Prince | +2 | 3 re-rolls |
+| 51+   | King | +2 | 4 re-rolls |
+
+### 4. Ship Experience
 
 As the campaign progresses
 ships (or rather, ship crews)
 will gain experience.
 This is represented by
-increasing their Leadership
+increasing their [Leadership](the-rules.md#leadership)
 characteristic, and by giving
 them special ‘crew skills’.
 On the other hand a ship
@@ -942,48 +625,48 @@ ship that is destroyed will
 have to be replaced by a new
 or salvaged vessel with a
 very inexperienced crew.
-Gaining Experience: Ships
+
+**Gaining Experience:** Ships
 which fought in a battle
 and were not crippled or
-
-154
-
 destroyed roll 2D6. If the
 roll is higher than their
-Leadership rating, then
+[Leadership](the-rules.md#leadership) rating, then
 either their Leadership may
 be improved by +1 point (up
 to a maximum of 10) or the
 ship may roll on the Crew
 Skills table. You may choose
 which option to take, unless
-the ship has a Leadership
+the ship has a [Leadership](the-rules.md#leadership)
 of 6 or 7, in which case you
 must choose to increase the
 ship’s Leadership by +1 point
 instead of taking a skill.
-Crippled Ships: Ships which
+
+**Crippled Ships:** Ships which
 were crippled in a battle lose
--1 Leadership (to a minimum
+-1 **Leadership** (to a minimum
 of 6). Note that crew skills
 aren’t lost for being crippled,
 even if the ship’s Leadership
 is reduced to 6 or 7.
 
-Destroyed Ships: Ships
+**Destroyed Ships:** Ships
 which are destroyed (i.e.
 reduced to 0 damage points)
 must be replaced with a new
 ship. Change their name
 on your fleet register. The
-new ship has a Leadership
+new ship has a [Leadership](the-rules.md#leadership)
 of 6, no crew skills, and
 any refits that have been
-taken are lost (the rules
-for refits follow later on).
-Escort Squadrons: Escort
-squadrons gain and lose
-Leadership and skills in the
+taken are lost (the [rules
+for refits](#refits) follow later on).
+
+**Escort Squadrons:** Escort
+[squadrons](squadrons.md) gain and lose
+[Leadership](the-rules.md#leadership) and skills in the
 same way as ships. Escort
 squadrons which suffer 50%
 or greater casualties are
@@ -992,24 +675,23 @@ purpose of experience, while
 those that are wiped out
 are considered destroyed.
 
-5. Repairs & Withdrawals
-
-Repairing Vessels
+### 5. Repairs & Withdrawals
 
 In a campaign, ships that have suffered
 damage must be repaired, and it is the
 number of systems a player controls that
-determines just how much damage can
+determines just how much [damage](the-shooting-phase.md#damage) can
 be fixed. Sometimes the systems under
 your control won’t be able to repair all the
 damage your fleet has suffered, in which
 case you can either withdraw the ships and
 send them to be repaired outside the subsector, or you can let them limp on as they
 are until you have time to repair them.
-Repairs: Each system a player controls may
+
+**Repairs:** Each system a player controls may
 repair a number of damage points. This
 varies depending on the type of system and
-your renown. The number of damage points
+your [renown](#renown). The number of [damage points](the-shooting-phase.md#damage)
 different systems can repair is shown below.
 Renown is important because it helps with
 recruiting/press ganging extra crew, claiming
@@ -1024,136 +706,46 @@ turn. You can use Repair points to bring
 escort squadrons back up to strength, in which
 case each escort ship is worth 1 damage point.
 
-An Imperial commander has just won
-a battle. He now controls a hive world,
-two Agri-worlds and a penal colony
-and has 28 renown points. During the
-battle one of his cruisers took five points
-of damage, another took three points of
-damage and another lost four hits. He
-also lost two frigates from a squadron
-of four. With the systems he currently
-has under his control, the Imperial
-commander may repair nine points of
-damage plus D6-2 for his penal colony.
-He rolls a 4, which gives him a total of
-11 repair points. He uses 5 to totally
-repair the first cruiser and another 3 to
-repair the second cruiser. He replaces the
-two lost frigates, meaning he can only
-repair 1 point of damage on the third
-cruiser. This cruiser will start its next
-battle with three hits less than normal.
+### Repair Points
 
-REPAIR POINTS
-Renown
+| Renown | Agri | Penal (min. of 1) | Mining | Forge, hive, pirate world | Civilised | Uninhabited |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1-5 | 1 | 1 | 2 | 3 | 1 | 1 |
+| 6-10 | 1 | D6-4 | 2 | 3 | 2 | 1 |
+| 11-20 | 1 | D6-3 | 2 | 4 | 3 | 1 |
+| 21-30 | 2 | D6-2 | 2 | 5 | 4 | 1 |
+| 31-50 | 2 | D6-1 | 3 | 6 | 5 | 1 |
+| 51+ | 3 | D6 | 4 | 12 | 6 | 1 |
 
-Agri
+> ### Repairing Vessels
+> 
+> An Imperial commander has just won
+> a battle. He now controls a hive world,
+> two Agri-worlds and a penal colony
+> and has 28 renown points. During the
+> battle one of his cruisers took five points
+> of damage, another took three points of
+> damage and another lost four hits. He
+> also lost two frigates from a squadron
+> of four. With the systems he currently
+> has under his control, the Imperial
+> commander may repair nine points of
+> damage plus D6-2 for his penal colony.
+> He rolls a 4, which gives him a total of
+> 11 repair points. He uses 5 to totally
+> repair the first cruiser and another 3 to
+> repair the second cruiser. He replaces the
+> two lost frigates, meaning he can only
+> repair 1 point of damage on the third
+> cruiser. This cruiser will start its next
+> battle with three hits less than normal.
 
-Penal
-(min. of 1)
-
-Mining
-
-Forge, hive,
-pirate world
-
-Civilised
-
-1-5
-
-1
-
-1
-
-2
-
-3
-
-1
-
-1
-
-6-10
-
-1
-
-D6-4
-
-2
-
-3
-
-2
-
-1
-
-11-20
-
-1
-
-D6-3
-
-2
-
-4
-
-3
-
-1
-
-21-30
-
-2
-
-D6-2
-
-2
-
-5
-
-4
-
-1
-
-31-50
-
-2
-
-D6-1
-
-3
-
-6
-
-5
-
-1
-
-51+
-
-3
-
-D6
-
-4
-
-12
-
-6
-
-1
-
-Uninhabited
-
-Withdrawing ships: A player may choose to withdraw ships to get them fully repaired at a
+**Withdrawing ships:** A player may choose to withdraw ships to get them fully repaired at a
 major base. Mark the fact they have been withdrawn on the fleet register. Ships which are
 withdrawn are unavailable for the player’s next game, after which they return to the fleet with
 their full number of hits. Escort squadrons which are withdrawn may return at full strength.
 
-155
-
-6. Appeals
+### 6. Appeals
 
 After repairs have been completed, both
 players can appeal to higher authorities/
@@ -1163,25 +755,13 @@ how well you’ve been doing, as measured
 by your renown. To reflect this, the number
 of appeals that may be made depend on the
 players’ renown as shown on the table below.
-RENOWN
 
-NO. OF APPEALS
-
-1-10
-
-1 Appeal
-
-11-30
-
-2 Appeals
-
-31-50
-
-3 Appeals
-
-51+
-
-4 Appeals
+| RENOWN | NO. OF APPEALS |
+| --- | --- |
+| 1-10 | 1 Appeal |
+| 11-30 | 2 Appeals |
+| 31-50 | 3 Appeals |
+| 51+ | 4 Appeals |
 
 Appeals may be made for the things listed
 below. If you are allowed to make more than
@@ -1195,7 +775,7 @@ have been granted. Having declared what
 you are going to appeal for, roll a D6 for
 each appeal to see if the appeal is granted.
 
-Type of appeals allowed
+### Type of appeals allowed
 
 There are 3 different types of appeal.
 Not every fleet is allowed every type.
@@ -1204,23 +784,14 @@ upgrades are printed with the fleet lists.
 The General Upgrades on the following pages
 are used by most fleets, so they are printed
 here and are not repeated in the fleet lists.
-APPEAL GRANTED
 
-156
+| APPEAL GRANTED | &nbsp; |
+| --- | --- |
+| Reinforcements | 2+ |
+| Refits | 4+ |
+| Other | 5+ |
 
-Reinforcements
-
-2+
-
-Refits
-
-4+
-
-Other
-
-5+
-
-Reinforcements
+### Reinforcements
 
 If the appeal is granted, one new capital
 ship or a squadron of up to five escorts
@@ -1229,7 +800,7 @@ Note that you must have the models to
 represent the ships – if you don’t, then
 they can’t be added to the fleet register.
 
-Refits
+### Refits
 
 If you read through the background sections
 of Battlefleet Gothic, you’ll see that ships
@@ -1253,7 +824,7 @@ The points value of the ship is increased by
 10% for each refit it has and you’ll need to
 update your ship register appropriately.
 
-Other Appeals
+### Other Appeals
 
 Other appeals allow you to request the aid
 of other allied forces. For example, Imperial
@@ -1261,13 +832,14 @@ players can call on the aid of a Space Marine
 Chapter, Chaos players may draw on the
 power of the warp to cast arcane spells, etc..
 The types of other appeal you can make
-are listed under “Types of Appeal Allowed”
+are listed under [“Types of Appeal Allowed”](#type-of-appeals-allowed)
 earlier, and if granted allows you to roll on
 the appropriate Appeal table. Again, if you
 roll a result on the table that you already have,
 then roll again until you get a new result.
 
-CONCLUSION
+## Conclusion
+
 As noted in the introduction,
 you should set a deadline
 for the campaign. When
@@ -1282,7 +854,6 @@ the criteria for victory. For
 example, you could say that
 the first player to gain control
 of five systems is the winner
-
 (though this will be tough
 on Ork and Eldar players),
 or you could keep on playing
@@ -1294,10 +865,10 @@ win, or is entirely controlled
 by the Imperium, in which
 case all of the Imperial
 and Eldar players win.
+
 Other alternatives include
 doing a convoy run, where
 a fleet has to travel from
-
 system to system across the
 map, fighting opponents
 along the way as it does so, or
@@ -1313,195 +884,66 @@ up your own campaigns are
 really only limited by your
 imagination. Have fun!
 
-157
+## General Upgrades
 
-GENERAL UPGRADES
-These refits and crew skills can be earned by every ship, unless otherwise noted.
-ENGINE REFIT
-The ship’s engines are fitted with additional systems or improvements have been made to
-the power generators and energy relays in some fashion. Roll on the following table.
-D6 roll
+*These refits and crew skills can be earned by every ship, unless otherwise noted.*
 
-Engine Refit
+### Engine Refit
 
-1
+*The ship’s engines are fitted with additional systems or improvements have been made to
+the power generators and energy relays in some fashion. Roll on the following table.*
 
-Secondary Reactors: The ship’s additional power generators allow it
-to put on a tremendous burst of speed for short lengths of time. The
-ship rolls an extra 2D6 when on All Ahead Full special orders.
+| D6 roll | Engine Refit |
+| --- | --- |
+| 1 | **Secondary Reactors:** The ship’s additional power generators allow it to put on a tremendous burst of speed for short lengths of time. The ship rolls an extra 2D6 when on [*All Ahead Full*](the-rules.md#all-ahead-full) special orders. |
+| 2 | **Evasive Jets:** The hull of the vessel is studded with powerful short-burn engines which allow it to drastically turn to avoid incoming fire. At the start of the enemy [Shooting Phase](the-shooting-phase.md), the ship may take a [Leadership](the-rules.md#leadership) test. If it is passed, the ship may make a single 45° [turn](the-movement-phase.md#turning) immediately. However, the ship may not go on to [special orders](the-rules.md#special-orders) during the next turn. |
+| 3 | **Manoeuvring Thrusters:** Additional thrusters along the length of the ship allow it to turn much more quickly. The ship reduces the distance it needs to move before [turning](the-movement-phase.md#turning) by 5 cm. |
+| 4 | **Arrester Engines:** The ship has a number of secondary engines mounted near its prow, which enable the vessel to reduce speed rapidly. When attempting to [*Burn Retros*](the-rules.md#burn-retros) or [*Come to New Heading*](the-rules.md#come-to-new-heading) [special orders](the-rules.md#special-orders), the ship may add +1 to its [Leadership](the-rules.md#leadership). |
+| 5 | **Auxiliary Power Relays:** The rear of the ship is criss-crossed with additional cables and pipelines, feeding more power to the engines. The ship gains +5 cm to its speed. |
+| 6 | **Navigational Shields:** The ship is enveloped in low-frequency shields designed to shunt aside debris and other impediments as the ship moves. The ship does not suffer reductions to its speed for moving through [Blast Markers](the-shooting-phase.md#blast-markers) (this includes [gas and dust clouds](the-battlefield.md#gas-and-dust-clouds) and similar effects). |
 
-2
+### Ship Refit
 
-Evasive Jets: The hull of the vessel is studded with powerful short-burn engines which
-allow it to drastically turn to avoid incoming fire. At the start of the enemy Shooting Phase,
-the ship may take a Leadership test. If it is passed, the ship may make a single 45° turn
-immediately. However, the ship may not go on to special orders during the next turn.
+*The structure of the ship is improved in some way, new equipment is installed, or better
+trained or specialised crew members are brought in. Roll on the following table.*
 
-3
+| D6 roll | Ship Refit |
+| --- | --- |
+| 1 | **Improved Sensor Array:** The ship’s assayers and long range surveyors are particularly attuned to pick up energy emissions and signals from enemy ships. When taking [Leadership](the-rules.md#leadership) tests to go on to special orders, the ship gains +2 for enemy ships on [special orders](the-rules.md#special-orders), rather than the normal +1. |
+| 2 | **Additional Shield Generator:** The ship has additional shield generators to deflect incoming shots. The ship gains +1 [Shields](the-shooting-phase.md#shields). |
+| 3 | **Superior Damage Control:** The ship benefits from an improved auto-repair system, or more highly adept engineers and technicians. The ship may roll one extra dice in [the End Phase](the-end-phase.md) when attempting to [repair damage](the-end-phase.md#damage-control). |
+| 4 | **Reinforced Hull:** The ship’s hull is fitted with additional armour and internal bracing, increasing its damage by 25% (rounded up) but reducing its speed by 5 cm. |
+| 5 | **Improved Logic Engines:** The ship’s countless metriculators and mechanical cogitators enable the crew to perform with full effectiveness even in the midst of the fiercest battle. The ship does not suffer -1 [Leadership](the-rules.md#leadership) for being in contact with [Blast Markers](the-shooting-phase.md#blast-markers). |
+| 6 | **Overload Shield Capacitors:** Specialised power relays and generators allow the ship’s engineers to temporarily divert extra power to the shields. For each hit against the shields, roll a D6. On a roll of a 6, the hit is ignored and no [Blast Marker](the-shooting-phase.md#blast-markers) is placed. |
 
-Manoeuvring Thrusters: Additional thrusters along the length of the ship allow it to turn
-much more quickly. The ship reduces the distance it needs to move before turning by 5 cm.
+### Weapons Refit
 
-4
+*The ship has been upgraded with additional or more sophisticated weapons systems,
+greatly enhancing its battle effectiveness. Roll on the following table:*
 
-Arrester Engines: The ship has a number of secondary engines mounted near its
-prow, which enable the vessel to reduce speed rapidly. When attempting to Burn Retros
-or Come to New Heading special orders, the ship may add +1 to its Leadership.
+| D6 roll | Weapons Refit |
+| --- | --- |
+| 1 | **Extra Turrets:** The vessel is studded with numerous close defence weapons to shoot down enemy [torpedoes](the-ordnance-phase.md#torpedoes) and [attack craft](the-ordnance-phase.md#attack-craft). This ship adds +1 to its [Turrets](the-ordnance-phase.md#turrets) value. |
+| 2 | **Turbo-weapons:** The ship’s weapons have been given additional punch and accuracy at long range. The ship does not suffer a [right column shift](the-shooting-phase.md#modifiers) when firing over 30 cm. |
+| 3 | **Targeting Matrix:** The ship’s weapon systems are linked together through a massive targeting network so that they can maximise their fire. All firing by [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries) benefits from a left column shift on the [Gunnery table](the-shooting-phase.md#gunnery-table) (before any [other column shifts](the-shooting-phase.md#modifiers) for range or [Blast Markers](the-shooting-phase.md#blast-markers)). |
+| 4 | **Auto-loaders:** The ship’s crew are aided in their task of readying [torpedoes](the-ordnance-phase.md#torpedoes) and [attack craft](the-ordnance-phase.md#attack-craft) by huge semi-automated machinery. The ship adds +1 to its [Leadership](the-rules.md#leadership) when attempting [*Reload Ordnance*](the-rules.md#reload-ordnance) [special orders](the-rules.md#special-orders) (re-roll this if the ship has no ordnance). |
+| 5 | **Superior Fire Control:** A powerful fire control system has been installed in the ship’s bridge, enabling the command crew to direct the ship’s firing with greater effect. The ship adds +1 to its Leadership when attempting [*Lock On*](the-rules.md#lock-on) [special orders](the-rules.md#special-orders). |
+| 6 | **Motion-Tracking Targeters:** A complex analytical array linked to the ship’s navigational systems enables the gun crews to fire with greater accuracy when the ship is performing special manoeuvres. If the ship is on [*All Ahead Full*](the-rules.md#all-ahead-full), [*Burn Retros*](the-rules.md#burn-retros) or [*Come to New Heading*](the-rules.md#come-to-new-heading) [special orders](the-rules.md#special-orders), its firepower and lance Strength is reduced by 25% (rounded up) rather than halved. |
 
-5
+### Crew Skills
 
-Auxiliary Power Relays: The rear of the ship is criss-crossed with additional cables
-and pipelines, feeding more power to the engines. The ship gains +5 cm to its speed.
+| D6 roll | Skill |
+| --- | --- |
+| 1 | **Expert Gunnery:** The ship’s gun crew are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts [*Lock On*](the-rules.md#lock-on) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |
+| 2 | **Skilled Engineers:** The crew responsible for running the engines are highly adept, able to respond quickly to orders for more or less power. When the ship attempts [*All Ahead Full*](the-rules.md#all-ahead-full) or [*Burn Retros*](the-rules.md#burn-retros) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |
+| 3 | **Adept Trimsman:** The officers and crew responsible for the ship’s manoeuvring boast that they could get the ship to turn on the head of a pin! Whenever the ship attempts [*Come to New Heading*](the-rules.md#come-to-new-heading) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |
+| 4 | **Excellent Pilots:** The ship is famed for the skill of its pilots. The well-timed attack runs of its [bombers](the-ordnance-phase.md#bombers) can cause horrendous damage while its fighter pilots fly rings around enemy [attack craft](the-ordnance-phase.md#attack-craft). Any bombers launched by this ship may re-roll the dice when determining how many To Hit rolls they have. If [fighters](the-ordnance-phase.md#fighters) from this ship intercept attack craft or [torpedoes](the-ordnance-phase.md#torpedoes), roll a D6. On a score of 4+ the fighters are not removed as normal but remain in play. Re-roll this skill if the ship does not carry attack craft. Eldar and Space Marine players should re-roll this skill. |
+| 5 | **Disciplined Crew:** The ship’s crew bend to their tasks with enthusiasm and loyalty. Once per battle the ship may re-roll a failed [Leadership](the-rules.md#leadership) test or [Command check](the-rules.md#taking-command-checks). |
+| 6 | **Elite Command Crew:** The ship’s command crew work well as a team, able to respond quickly to the orders of the fleet commander. Once per battle the ship may automatically pass a [Leadership](the-rules.md#leadership) test or [Command check](the-rules.md#taking-command-checks) – there is no need to roll any dice. |
 
-6
+## The Sub-Sector Maps
 
-Navigational Shields: The ship is enveloped in low-frequency shields
-designed to shunt aside debris and other impediments as the ship moves.
-The ship does not suffer reductions to its speed for moving through Blast
-Markers (this includes gas and dust clouds and similar effects).
-
-SHIP REFIT
-The structure of the ship is improved in some way, new equipment is installed, or better
-trained or specialised crew members are brought in. Roll on the following table.
-D6 roll
-
-158
-
-Ship Refit
-
-1
-
-Improved Sensor Array: The ship’s assayers and long range surveyors are
-particularly attuned to pick up energy emissions and signals from enemy
-ships. When taking Leadership tests to go on to special orders, the ship gains
-+2 for enemy ships on special orders, rather than the normal +1.
-
-2
-
-Additional Shield Generator: The ship has additional shield generators
-to deflect incoming shots. The ship gains +1 Shields.
-
-3
-
-Superior Damage Control: The ship benefits from an improved auto-repair
-system, or more highly adept engineers and technicians. The ship may roll
-one extra dice in the End Phase when attempting to repair damage.
-
-4
-
-Reinforced Hull: The ship’s hull is fitted with additional armour and internal bracing,
-increasing its damage by 25% (rounded up) but reducing its speed by 5 cm.
-
-5
-
-Improved Logic Engines: The ship’s countless metriculators and mechanical cogitators
-enable the crew to perform with full effectiveness even in the midst of the fiercest battle.
-The ship does not suffer -1 Leadership for being in contact with Blast Markers.
-
-6
-
-Overload Shield Capacitors: Specialised power relays and generators allow the ship’s
-engineers to temporarily divert extra power to the shields. For each hit against the
-shields, roll a D6. On a roll of a 6, the hit is ignored and no Blast Marker is placed.
-
-WEAPONS REFIT
-The ship has been upgraded with additional or more sophisticated weapons systems,
-greatly enhancing its battle effectiveness. Roll on the following table:
-D6 roll
-
-Weapons Refit
-
-1
-
-Extra Turrets: The vessel is studded with numerous close defence weapons to shoot
-down enemy torpedoes and attack craft. This ship adds +1 to its Turrets value.
-
-2
-
-Turbo-weapons: The ship’s weapons have been given additional punch and accuracy
-at long range. The ship does not suffer a right column shift when firing over 30 cm.
-
-3
-
-Targeting Matrix: The ship’s weapon systems are linked together through
-a massive targeting network so that they can maximise their fire. All firing
-by weapons batteries benefits from a left column shift on the Gunnery
-table (before any other column shifts for range or Blast Markers).
-
-4
-
-Auto-loaders: The ship’s crew are aided in their task of readying torpedoes and attack
-craft by huge semi-automated machinery. The ship adds +1 to its Leadership when
-attempting Reload Ordnance special orders (re-roll this if the ship has no ordnance).
-
-5
-
-Superior Fire Control: A powerful fire control system has been installed in the ship’s
-bridge, enabling the command crew to direct the ship’s firing with greater effect.
-The ship adds +1 to its Leadership when attempting Lock On special orders.
-
-6
-
-Motion-Tracking Targeters: A complex analytical array linked to the ship’s
-navigational systems enables the gun crews to fire with greater accuracy
-when the ship is performing special manoeuvres. If the ship is on All Ahead
-Full, Burn Retros or Come to New Heading special orders, its firepower and
-lance Strength is reduced by 25% (rounded up) rather than halved.
-
-CREW SKILLS
-D6 roll
-
-Skill
-
-1
-
-Expert Gunnery: The ship’s gun crew are amongst the finest in the whole sector, able to
-lay down a devastating barrage. When the ship attempts Lock On special orders you may
-roll 3D6 and discard the highest roll before comparing the score to the ship’s Leadership.
-
-2
-
-Skilled Engineers: The crew responsible for running the engines are highly
-adept, able to respond quickly to orders for more or less power. When the ship
-attempts All Ahead Full or Burn Retros special orders you may roll 3D6 and
-discard the highest roll before comparing the score to the ship’s Leadership.
-
-3
-
-Adept Trimsman: The officers and crew responsible for the ship’s manoeuvring
-boast that they could get the ship to turn on the head of a pin! Whenever the
-ship attempts Come to New Heading special orders you may roll 3D6 and discard
-the highest roll before comparing the score to the ship’s Leadership.
-
-4
-
-Excellent Pilots: The ship is famed for the skill of its pilots. The well-timed attack runs of its
-bombers can cause horrendous damage while its fighter pilots fly rings around enemy attack
-craft. Any bombers launched by this ship may re-roll the dice when determining how many
-To Hit rolls they have. If fighters from this ship intercept attack craft or torpedoes, roll a D6.
-On a score of 4+ the fighters are not removed as normal but remain in play. Re-roll this skill if
-the ship does not carry attack craft. Eldar and Space Marine players should re-roll this skill.
-
-5
-
-Disciplined Crew: The ship’s crew bend to their tasks with enthusiasm and loyalty.
-Once per battle the ship may re-roll a failed Leadership test or Command check.
-
-6
-
-Elite Command Crew: The ship’s command crew work well as a team, able to respond
-quickly to the orders of the fleet commander. Once per battle the ship may automatically
-pass a Leadership test or Command check – there is no need to roll any dice.
-
-159
-
-THE SUB SECTOR MAPS
-
-160
-
-NUMBER OF SYSTEMS
-
-WARPSPACE CHANNELS
+### Number of Systems
 
 A sub-sector contains many
 stars, but of these only a
@@ -1532,6 +974,8 @@ of military or strategic
 importance to the forces
 fighting in the Gothic War.
 
+### Warpspace Channels
+
 In theory it is possible to
 travel anywhere through
 warp space. However, the
@@ -1549,7 +993,8 @@ sub-sector map are connected
 by a number of warp channels
 to the other systems.
 
-SYSTEM TYPE
+### System Type
+
 Each system will be one of the
 following types: uninhabited,
 agri-world, mining world,
@@ -1559,15 +1004,15 @@ system may actually contain
 more than one world, but
 the political power and the
 bulk of the resources will be
-
 concentrated on the type of
 world shown. The system
 type will influence how much
 ship damage it can repair and
 level of its orbital defences.
 
-SPECIAL NOTES
-Blackstone Fortresses: We
+### Special Notes
+
+**Blackstone Fortresses:** We
 have marked on the maps
 where each of the Blackstone
 Fortresses is located. If you
@@ -1576,7 +1021,8 @@ to if you don’t want to) you
 can include a Blackstone
 Fortress in the planetary
 defences of that system.
-Port Maw: Port Maw is
+
+**Port Maw:** Port Maw is
 the largest naval base
 in the Gothic Sector
 and the headquarters of
@@ -1586,4 +1032,26 @@ Maw system (not to be
 confused with the Port
 Maw sub-sector) have
 double the normal amount
-of planetary defences.
+of [planetary defences](planetary-defences.md).
+
+## Gothic Sector
+
+![](assets/image--377.png)
+![](assets/image--379.png)
+![](assets/image--381.png)
+![](assets/image--383.png)
+![](assets/image--385.png)
+![](assets/image--387.png)
+![](assets/image--389.png)
+
+### Key to Sub-Sector Maps
+
+<table><tbody>
+<tr><th scope="row" align="center">A</th><td>Agri-world</td></tr>
+<tr><th scope="row" align="center">C</th><td>Civilised world</td></tr>
+<tr><th scope="row" align="center">F</th><td>Forge world</td></tr>
+<tr><th scope="row" align="center">H</th><td>Hive world</td></tr>
+<tr><th scope="row" align="center">M</th><td>Mining world</td></tr>
+<tr><th scope="row" align="center">P</th><td>Penal world</td></tr>
+<tr><th scope="row" align="center">U</th><td>Uninhabited system</td></tr>
+</tbody></table>
