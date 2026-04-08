@@ -62,7 +62,7 @@ one fleet has all its ships destroyed.
 
 ## Victory Conditions
 
-Normal victory points are not used in this
+Normal [victory points](../scenarios.md#victory-points) are not used in this
 scenario. Instead, at the end of the game,
 each player scores 1 point for each point of
 damage they have inflicted on the enemy
