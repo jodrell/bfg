@@ -1,7 +1,5 @@
 # The Third Armageddon War
 
-*This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
-
 ## Armageddon Sector
 
 ![](assets/image--428.png)
