@@ -9,7 +9,7 @@ protect a system, hold the line or simply to destroy each other.
 
 FORCES
 
-SET-UP
+## Set-up
 
 Both fleets are picked to an equal points value.
 

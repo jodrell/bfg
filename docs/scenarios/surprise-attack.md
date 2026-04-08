@@ -50,7 +50,7 @@ The attacker gets the first turn.
 
 ## Special Rules
 
-Ships or [squadrons](../squadrons,md) on standby may not
+Ships or [squadrons](../squadrons.md) on standby may not
 move, fire weapons or launch ordnance.
 They may however attempt to [*Brace for
 Impact!*](../the-rules.md#brace-for-impact) and repair [critical damage](../the-shooting-phase.md#critical-hits). [Turrets](../the-ordnance-phase.md#turrets)

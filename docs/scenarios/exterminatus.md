@@ -1,11 +1,9 @@
 # Scenario Nine: Exterminatus
 
-*This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
-
-The attacking fleet is escorting Exterminators, ships capable of laying
+_**The attacking fleet is escorting Exterminators, ships capable of laying
 waste to entire planetary populations or even obliterating all life on a
 world in a matter of hours. The Exterminator fleet must be stopped and
-every ship in the vicinity is rushing to defend the threatened planet.
+every ship in the vicinity is rushing to defend the threatened planet.**_
 
 FORCES
 Agree a points total for the game. The attacker
