@@ -16,7 +16,7 @@ Cruisers and Escorts have successfully
 drawn out a force of Ork ships from the
 main fleet and are leading them towards a
 trap. Parol’s Bait is a variation of [Scenario
-Two: The Bait on pg. 130](../scenarios/the-bait.md). You may want
+Two: The Bait](../scenarios/the-bait.md) on [pg. 130](../scenarios/the-bait.md). You may want
 to familiarise yourself with The Bait
 before proceeding with this mission.
 

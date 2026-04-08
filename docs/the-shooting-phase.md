@@ -586,14 +586,14 @@ any target besides the closest.
 > any dice to hit for
 > lances and weapons
 > batteries, during the
-> Shooting Phase. Any
+> [Shooting Phase](the-shooting-phase.md). Any
 > dice which missed
 > are simply picked up
 > and rolled again. A
 > ship using [*Lock On*](the-rules.md#lock-on)
 > orders may not turn
-> during its Movement
-> Phase because it must
+> during its [Movement
+> Phase](the-movement-phase.md) because it must
 > maintain a steady
 > course and direct
 > additional power to its
@@ -604,7 +604,7 @@ any target besides the closest.
 > and no course changes
 > will be needed to bring
 > weapons to bear.
-> See pg. 46 for all effects.
+> See [pg. 46](the-rules.md#lock-on) for all effects.
 
 ### Nova Cannon
 
@@ -765,8 +765,8 @@ line of sight obstructions
 such as hulks, minefields
 or celestial phenomena, nor
 can they be saved against
-by holofields. See pg. 70 for
-more on catastrophic damage
+by holofields. See [pg. 70](#catastrophic-damage) for
+more on [catastrophic damage](#catastrophic-damage)
 and exploding ships.
 
 Chaos Marks that affect
@@ -777,8 +777,8 @@ implosions, Solar Flares,
 etc. are also not affected by
 celestial phenomena and
 other such line-of-sight
-obstructions. See pg. 110
-concerning asteroid fields.
+obstructions. See [pg. 110](the-battlefield.md#asteroid-fields)
+concerning [asteroid fields](the-battlefield.md#asteroid-fields).
 
 Exterminatus vessels used
 in scenarios that require
@@ -826,7 +826,7 @@ damage taken normally.
 > cannon may not be
 > fired at all. Ordnance
 > is unaffected.
-> See pg. 46 for all effects
+> See [pg. 46](the-rules.md#special-orders) for all effects
 
 ## Damage
 

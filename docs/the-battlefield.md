@@ -847,7 +847,7 @@ and short range.
 To determine if you are shooting sunward
 place the bearing compass over the firing ship
 with the arrows parallel with the sunward
-edge (see pg. 109 for the sunward edge). If the
+edge (see [pg. 109 for the sunward edge](#fighting-sunward)). If the
 target is within the arc facing the sunward
 edge you are shooting sunward.
 
