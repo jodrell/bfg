@@ -1,7 +1,5 @@
 # Campaign Rules
 
-*This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
-
 At some stage all wargamers contemplate
 running a campaign. This is understandable
 – after all, battles don’t take place in isolation,
