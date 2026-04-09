@@ -1,10 +1,6 @@
 # Imperial Navy
 
-*This page is a work in progress!*
-
-IMPERIAL
-NAVY
-Almost every ship in the Imperium is
+**Almost every ship in the Imperium is
 part of the Imperial fleet controlled
 by the Priesthood: the relative handful
 of vessels that are not, belong to a
@@ -18,16 +14,17 @@ upon the Imperial fleet to transport
 them to distant warzones. This fleet is
 divided into the civilian vessels of the
 Merchant fleet and the warships of the
-Imperial Navy.
+Imperial Navy.**
 
-!"
+## Special Rules
 
-SPECIAL RULES
-ATTACK RATING
-The Imperial Navy have a starting attack or
-initiative rating of 2.
+### Attack Rating
 
-ORDNANCE
+The Imperial Navy have a starting [attack or
+initiative rating](../scenarios.md#attack-ratings) of 2.
+
+### Ordnance
+
 The Imperial Navy has always employed an
 amazing variety of light craft aboard its vessels.
 From brigs, dories, pinnaces, couriers and
@@ -36,24 +33,24 @@ documents between ships, to deep-space bombers
 and interceptors, almost every ship has a selection
 of craft obtained locally from dozens of worlds or,
 in many cases, built by artisans aboard the ship
-itself. Nonetheless, the attack craft deployed by
+itself. Nonetheless, the [attack craft](../the-ordnance-phase.md#attack-craft) deployed by
 Imperial ships are categorised into broad classes
 of machines with similar capabilities.
+
 Fury class interceptors are built primarily for
 speed and manoeuvrability, with distinctive
 oversized thrusters and attitude jets. Furies
 carry a crew of between two and four and
 are typically equipped with several banks of
 forward firing lascannon and missile bays.
+
 Starhawk class bombers are larger, slower craft
 which carry a heavy payload of plasma bombs
 and armour-piercing missiles for attacking
-
-#!
-
 enemy ships. Starhawks have large crews,
 mainly to man their numerous short-range
 defence weapons.
+
 Shark class assault boats are built around a
 powerful central engine and an armoured
 troop-carrying compartment. The base of
@@ -63,87 +60,84 @@ blasting through the outer hull of a ship. Once
 a breach has been made, assault troops swarm
 into the enemy ship and attack from within its
 own defences.
-ATTACK CRAFT
 
-SPEED
-
-Fury Interceptor
-
-30 cm
-
-Starhawk Bomber
-
-20 cm
-
-Shark Assault Boat
-
-30 cm
+| ATTACK CRAFT | SPEED |
+| :-: | :-: |
+| Fury Interceptor | 30 cm |
+| Starhawk Bomber | 20 cm |
+| Shark Assault Boat | 30 cm |
 
 Note that attack craft are always carried into
 battle by larger ships and therefore have no
 separate points value.
 
-IMPERIAL NAVY IN CAMPAIGNS
+### Imperial Navy in Campaigns
+
 The Imperial Navy uses the default rules in
-campaigns as presented in the Battlefleet
-Gothic Remastered Rulebook on pg [???].
+[campaigns](../campaign-rules.md) as presented in the Battlefleet
+Gothic Remastered Rulebook on [pg [???]](../campaign-rules.md).
 
-SEGMENTUM OBSCURUS
+## Segmentum Obscurus: Gothic Sector Fleet List
 
-GOTHIC SECTOR FLEET LIST
-FLEET COMMANDER
+### Fleet Commander
 
-CAPITAL SHIPS
+#### 0-1 Admiral
 
-You may include 1 Admiral in your fleet, who
+*You may include 1 Admiral in your fleet, who
 must be assigned to a ship and improves its
-Leadership to the value shown. If the fleet is worth
+[Leadership](../the-rules.md#leadership) to the value shown. If the fleet is worth
 over 750 points an Admiral must be included to
-lead it.
-Fleet-Admiral (Ld 8) .................................. 50 pts
-Admiral (Ld 9)........................................... 100 pts
+lead it.*
+
+Fleet-Admiral (Ld 8) .................................. 50 pts<br>
+Admiral (Ld 9)........................................... 100 pts<br>
 Solar Admiral (Ld 10) .............................. 150 pts
-
-You may include up to one battleship in your fleet
-for every three cruisers or battlecruisers.
-Emperor class battleship (pg. 51) ................ 365 pts
-Retribution class battleship (pg. 52) ........... 345 pts
-
-0-1 Admiral
 
 Admirals get one Fleet Commander re-roll
 included in their points cost. If you want more
 you'll have to pay for them.
-One extra re-roll.......................................... 25 pts
-Two extra re-rolls ........................................ 75 pts
+
+One extra re-roll.......................................... 25 pts<br>
+Two extra re-rolls ........................................ 75 pts<br>
 Three extra re-rolls ................................... 150 pts
 
-Battleships
+### Capital Ships
 
-Battlecruisers
+#### Battleships
 
-You may include up to one battlecruiser in your
-fleet for every two cruisers.
-Mars class battlecruiser (pg. 59) ................. 270 pts
+*You may include up to one battleship in your fleet
+for every three cruisers or battlecruisers.*
+
+Emperor class battleship (pg. 51) ................ 365 pts<br>
+Retribution class battleship (pg. 52) ........... 345 pts
+
+#### Battlecruisers
+
+*You may include up to one battlecruiser in your
+fleet for every two cruisers.*
+
+Mars class battlecruiser (pg. 59) ................. 270 pts<br>
 Overlord class battlecruiser (pg. 64) .......... 220 pts
 
-0-12 Cruisers
+#### 0-12 Cruisers
 
-Dictator class cruiser (pg. 65) ...................... 220 pts
-Dominator class cruiser (pg. 66) ................. 190 pts
-Tyrant class cruiser (pg. 67) ......................... 185 pts
-Gothic class cruiser (pg. 68) ........................ 180 pts
-Lunar class cruiser (pg. 69) .......................... 180 pts
+Dictator class cruiser (pg. 65) ...................... 220 pts<br>
+Dominator class cruiser (pg. 66) ................. 190 pts<br>
+Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
+Gothic class cruiser (pg. 68) ........................ 180 pts<br>
+Lunar class cruiser (pg. 69) .......................... 180 pts<br>
 Dauntless class light cruiser (pg. 75) .......... 110 pts
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Firestorm class frigate (pg. 77) ...................... 40 pts
-Sword class frigate (pg. 80)............................. 35 pts
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Firestorm class frigate (pg. 77) ...................... 40 pts<br>
+Sword class frigate (pg. 80)............................. 35 pts<br>
 Cobra class destroyer (pg. 82)........................ 30 pts
 
-ORDNANCE
+### Ordnance
 Any ship with launch bays may choose to have
 them launch any mix of Fury interceptors and
 Starhawk bombers. Some ships may carry
@@ -151,19 +145,19 @@ Shark assault boats at an additional cost. Ships
 with torpedo tubes are armed with ordinary
 torpedoes.
 
-##
+## Segmentum Obscurus: Bastion Fleets List
 
-SEGMENTUM OBSCURUS
+### The Bastion Fleets
 
-BASTION FLEETS LIST
-THE BASTION FLEETS
 Even within a single segmentum, battlefleets can vary massively from sector to sector having been
 shaped over the course of millennia, responding to their own particular need and circumstance.
+
 For example, Battlefleet Gothic forms a component part of the Segementum Obscurus
 battlefleets, as do its neighbours, Tamahl and Odessa, as well as the more distant battlefleets
 Cadia, Agripinaa, Scarus and Corona, among others. Even though these battlefleets all hail from
 the same segmentum and rely on many of the same forge worlds and naval bases, there is still
 great variation within them.
+
 Battlefleets Cadia, Agripinaa, Scarus and Corona, in particular, are collectively known as the
 Bastion Fleets. These fleets are given over to guarding the region of space around the Eye of
 Terror, or the Sectors Ocular as these bordering regions are sometimes known. By their very
@@ -173,53 +167,72 @@ the Eye of Terror. More rarely, these battlefleets are forced to assemble into v
 repel the amassed threat of a Black Crusade, and to this end maintain substantial reserve fleets
 ready for action when the existing Navy are.
 
-FLEET COMMANDER
-0-1 Admiral
+### Fleet Commander
 
-You may include 1 Admiral in your fleet, who must be assigned to
+#### 0-1 Admiral
+
+*You may include 1 Admiral in your fleet, who must be assigned to
 a ship and improves its Leadership to the value shown. If the fleet
-is worth over 750 points an Admiral must be included to lead it.
-Fleet-Admiral (Ld 8) ................................................................ 50 pts
-Admiral (Ld 9).........................................................................100 pts
+is worth over 750 points an Admiral must be included to lead it.*
+
+Fleet-Admiral (Ld 8) ................................................................ 50 pts<br>
+Admiral (Ld 9).........................................................................100 pts<br>
 Solar Admiral (Ld 10) ............................................................150 pts
+
 Admirals get one Fleet Commander re-roll included in their points
 cost. If you want more you'll have to pay for them.
-One extra re-roll........................................................................ 25 pts
-Two extra re-rolls ...................................................................... 75 pts
+
+One extra re-roll........................................................................ 25 pts<br>
+Two extra re-rolls ...................................................................... 75 pts<br>
 Three extra re-rolls .................................................................150 pts
 
-#"
+### Capital Ships
 
-CAPITAL SHIPS
-Battleships
+#### Battleships
 
-You may include up to one battleship in your fleet
-for every three cruisers or battlecruisers.
-Apocalypse class battleship (pg. 50) ........... 365 pts
-Emperor class battleship (pg. 51) ................ 365 pts
+*You may include up to one battleship in your fleet
+for every three cruisers or battlecruisers.*
+
+Apocalypse class battleship (pg. 50) ........... 365 pts<br>
+Emperor class battleship (pg. 51) ................ 365 pts<br>
 Retribution class battleship (pg. 52) ........... 345 pts
 
-Battlecruisers & Grand Cruisers
+#### Battlecruisers & Grand Cruisers
 
-You may include up to one battlecruiser or grand
+*You may include up to one battlecruiser or grand
 cruiser in your fleet for every two cruisers. Grand
 Cruisers do not count as cruisers for purposes of
-fielding battleships.
-Exorcist class grand cruiser (pg. 57)........... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
-Avenger class grand cruiser (pg. 58)...........200 pts
-Mars class battlecruiser (pg. 59) ................. 270 pts
-Armageddon class battlecruiser (pg. 63) ... 235 pts
+fielding battleships.*
+
+Exorcist class grand cruiser (pg. 57)........... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
+Avenger class grand cruiser (pg. 58)...........200 pts<br>
+Mars class battlecruiser (pg. 59) ................. 270 pts<br>
+Armageddon class battlecruiser (pg. 63) ... 235 pts<br>
 Overlord class battlecruiser (pg. 64) .......... 220 pts
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Firestorm class frigate (pg. 77) ...................... 40 pts
-Sword class frigate (pg. 80)............................. 35 pts
+#### 0-12 Cruisers
+
+Dictator class cruiser (pg. 65) ...................... 220 pts<br>
+Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
+Gothic class cruiser (pg. 68) ........................ 180 pts<br>
+Lunar class cruiser (pg. 69) .......................... 180 pts<br>
+Dauntless class light cruiser (pg. 75) .......... 110 pts<br>
+Endeavour Class Light Cruiser (pg. 70) ..... 110 pts<br>
+Endurance Class Light Cruiser* (pg. 72) ... 110 pts<br>
+Defiant Class Light Cruiser* (pg. 74) ......... 120 pts
+
+### ESCORTS
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Firestorm class frigate (pg. 77) ...................... 40 pts<br>
+Sword class frigate (pg. 80)............................. 35 pts<br>
 Cobra class destroyer (pg. 82)........................ 30 pts
 
-ORDNANCE
+### Ordnance
+
 Any ship with launch bays may choose to have
 them launch any mix of Fury interceptors and
 Starhawk bombers. Some ships may carry
@@ -227,22 +240,9 @@ Shark assault boats at an additional cost. Ships
 with torpedo tubes are armed with ordinary
 torpedoes.
 
-0-12 Cruisers
-
-Dictator class cruiser (pg. 65) ...................... 220 pts
-Tyrant class cruiser (pg. 67) ......................... 185 pts
-Gothic class cruiser (pg. 68) ........................ 180 pts
-Lunar class cruiser (pg. 69) .......................... 180 pts
-Dauntless class light cruiser (pg. 75) .......... 110 pts
-Endeavour Class Light Cruiser (pg. 70) ..... 110 pts
-Endurance Class Light Cruiser* (pg. 72) ... 110 pts
-Defiant Class Light Cruiser* (pg. 74) ......... 120 pts
-
-* The Endurance and Defiant class light cruisers are rare variants of the Endeavour, hence the
+_* The Endurance and Defiant class light cruisers are rare variants of the Endeavour, hence the
 combined numbers of Endurance and Defiant class vessels may not exceed the number of
-Endeavour class light cruisers in the fleet.
-
-#$
+Endeavour class light cruisers in the fleet._
 
 BATTLEFLEET CADIA
 The constant turmoil surrounding the Cadian gate requires Battlefleet Cadia to be far
