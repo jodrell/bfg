@@ -29,7 +29,7 @@ table can be purchased for the number of
 points shown below.
 
 | STRENGTH | COST TO ROLL ON TORPEDO TABLE |
-| --- | --- |
+| :-: | :-: |
 | Up to 6 | 20 points |
 | 7 or more | 30 points |
 
@@ -51,7 +51,8 @@ torpedoes are in fact living organisms sent to
 consume enemy ships) cannot have special
 torpedoes.
 
-| D6 ROLL | TYPE AQUIRED |
+| D6 ROLL | TYPE ACQUIRED |
+| :-: | --- |
 | 1 | Short Burn Torpedoes* |
 | 2 | Guided Torpedoes* |
 | 3 | Seeking Torpedoes |
