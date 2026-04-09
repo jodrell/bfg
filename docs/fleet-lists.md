@@ -37,7 +37,7 @@ from the fleet lists.**
 Each fleet list is divided into the following
 sections:
 
-### Fleet Commander
+### Fleet Commander.
 
 Your fleet can be led by a commander, e.g. an
 Imperial Admiral, Chaos Warmaster, Eldar
@@ -122,7 +122,9 @@ Fleet Commander with Mad Meks that moves
 to another ship that ship already had Mad
 Meks gains no additional benefit from this.
 
-**Capital Ships:** This section shows which, and
+### Capital Ships:
+
+This section shows which, and
 how many, capital ships you may have in your
 fleet. Often, the number of larger capital ships
 such as battleships, Chaos grand cruisers and
@@ -132,14 +134,18 @@ fleet. This is because such mighty vessels
 rarely operate independently and generally
 fight only in larger fleet formations.
 
-**Escorts:** This shows the different types of
+### Escorts:
+
+This shows the different types of
 escorts available to the fleet. There is usually
 no limit to the number of escorts allowed in a
 fleet, although the number of certain types of
 escorts may be restricted in some way in some
 fleet lists.
 
-**Ordnance:** This details the various types of
+### Ordnance:
+
+This details the various types of
 ordnance available to the ships of the fleet.
 
 ## Points Values
