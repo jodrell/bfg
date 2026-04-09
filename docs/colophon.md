@@ -1,5 +1,11 @@
 # Colophon
 
+## What is this site?
+
+This website is a mobile-friendly, web-based version of the *Battlefleet Gothic: Remastered* v1.10 Rulebook.
+
+## How was it created?
+
 This website is hosted on [GitHub Pages](https://pages.github.com/) and
 is generated from its [Markdown source code](https://github.com/jodrell/bfg)
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).

@@ -1,24 +1,47 @@
-13TH BLACK CRUSADE: SCENARIO FOUR
+# Scenario Four: Above Belis Corona
 
-*This page is a work-in-progress, but you can help finish it! Send a [pull request](https://github.com/jodrell/bfg/compare)!*
-
-ABOVE BELIS CORONA
-A massive influx of Imperial reinforcements are making their way to the
+_**A massive influx of Imperial reinforcements are making their way to the
 Belis Corona System from Cypra Mundi. Although this regrouping effort
 can’t be stopped, it can be hindered. A raid on the orbital docks around the
 planet Belis Corona could stall the current Imperial momentum if the attack
 goes well. The docks will need to be repaired by the Imperials before they can
 move on. A small fleet has been dispatched to raid the planet and cause as
-much havoc as possible before further Imperial reinforcements arrive.
+much havoc as possible before further Imperial reinforcements arrive.**_
 
-FORCES
+## Forces
 
-SET-UP
+## Set-up
 
-Forces of Disorder: This player will
+**Forces of Disorder:** This player will
 be the attacker. Choose a 1500pts fleet
 and then split it into 2 forces with a
 points value as equal as possible.
+
+**Forces of Order:** The defender chooses
+a 750pts fleet with no battleships and
+an extra [Re-roll](../the-rules.md#re-rolls) for free. In addition to
+this the player receives 2 space stations,
+1 orbital dock, 8 orbital mines, 2 system
+ships, and 1 defence monitor.
+
+Also, choose a mix of eight platforms from
+the following list: orbital defence laser
+platform, orbital torpedo launcher, orbital
+weapons platform. Then split the chosen
+eight platforms into two groups of four.
+Nominate one group as outer platforms
+and one group as inner platforms.
+
+## Battlezone
+
+Set up a 180 cm × 120 cm table. Place
+the [planet](../the-battlefield.md#planets) Belis Corona in the dead
+centre of the table. This planet’s gravity
+well extends 30 cm. Each player places
+an [asteroid field](../the-battlefield.md#asteroid-fields) anywhere on the table
+that is at least 30 cm from the planet.
+
+## Set-up
 
 1. The defending player places the orbital
 dock and two space stations anywhere
@@ -40,37 +63,17 @@ in reserve and the defender needs to
 roll on the reinforcement chart (found
 below) to see when they enter play.
 
-Forces of Order: The defender chooses
-a 750pts fleet with no battleships and
-an extra Re-roll for free. In addition to
-this the player receives 2 space stations,
-1 orbital dock, 8 orbital mines, 2 system
-ships, and 1 defence monitor.
-Also, choose a mix of eight platforms from
-the following list: orbital defence laser
-platform, orbital torpedo launcher, orbital
-weapons platform. Then split the chosen
-eight platforms into two groups of four.
-Nominate one group as outer platforms
-and one group as inner platforms.
+![](../assets/image--499.png)
 
-BATTLEZONE
-Set up a 180 cm × 120 cm table. Place
-the planet Belis Corona in the dead
-centre of the table. This planet’s gravity
-well extends 30 cm. Each player places
-an asteroid field anywhere on the table
-that is at least 30 cm from the planet.
+## First Turn
 
-FIRST TURN
 The attacking player rolls 2D6 and the
 defender rolls 1D6. The player who rolls the
 highest chooses whether to go first or second.
 
-194
+## Special Rules
 
-SPECIAL RULES
-Reinforcements: A small
+**Reinforcements:** A small
 patrol fleet has been called in
 to aid in the defence of Belis
 Corona. To see if help arrives,
@@ -86,33 +89,24 @@ This effect is cumulative.
 When attempting to see if
 a mixed squadron arrives,
 use the slowest ship speed
-
 in the squadron. Defending
 ships enter play from the
 designated long table edge
 as per the map above.
-SHIP SPEED
 
-REINFORCEMENTS
-ARRIVE ON
+| SHIP SPEED | REINFORCEMENTS ARRIVE ON |
+| --- | --- |
+| up to 20 cm | 5+ |
+| 25 | 4+ |
+| 30 cm or more | 3+ |
 
-up to 20 cm
+## Game Length
 
-5+
-
-25
-
-4+
-
-30 cm or more
-
-3+
-
-GAME LENGTH
 The game lasts for
 eight turns.
 
-VICTORY CONDITIONS
+## Victory Conditions
+
 The attacker is attempting
 to cripple Belis Corona’s
 defensive capabilities. Victory
@@ -127,6 +121,3 @@ fleet. ALL criteria must
 be met for the attackers to
 win! Any other result is a
 win for the defenders.
-
-195
-

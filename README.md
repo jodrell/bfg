@@ -1,4 +1,4 @@
-# Battlefleet
+# Battlefleet Gothic: Remastered
 
 Steps to build the site:
 
