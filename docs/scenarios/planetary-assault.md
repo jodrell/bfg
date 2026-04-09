@@ -76,7 +76,7 @@ defences. Deduct -1 assault point for every 500 victory points (rounding up) sco
 defender. Look up the adjusted assault point total on the table below.
 
 | TOTAL ASSAULT POINTS | RESULT |
-| --- | --- |
+| :-: | --- |
 | 0-1 | **Defender’s Victory**<br>The attacking forces achieved almost nothing. The pitiful amount of assaulting troops that reached the planet will be quickly annihilated. |
 | 2-5 | **Defender’s Marginal Win**<br>The assaulting forces are prevented from making a substantial landing on the planet. Nonetheless, enemy detachments will now have to be hunted down and destroyed. |
 | 6-9 | **Attacker’s Marginal Win**<br>The assault dropped enough troops, etc., to capture a large part of the planet’s resources. Ongoing battles for control of the world will rage for months, even years. |

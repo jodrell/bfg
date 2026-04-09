@@ -352,198 +352,198 @@ would mean the *Unclean* rolled 5D6 instead.
   <thead>
     <tr>
       <td colspan="2">CLOSING</td>
-      <td>&nbsp;</td>
-      <td>CAPITAL SHIPS</td>
-      <td>ESCORTS</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>CAPITAL SHIPS</td>
+      <td align=center>ESCORTS</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
     </tr>
     <tr>
       <td colspan="2">MOVING AWAY</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>CAPITAL SHIPS</td>
-      <td>ESCORTS</td>
-      <td>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>CAPITAL SHIPS</td>
+      <td align=center>ESCORTS</td>
+      <td align=center>&nbsp;</td>
     </tr>
     <tr>
       <td colspan="2">ABEAM</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>CAPITAL SHIPS</td>
-      <td>ESCORTS</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>CAPITAL SHIPS</td>
+      <td align=center>ESCORTS</td>
     </tr>
     <tr>
       <td colspan="2">SPECIAL*</td>
-      <td>DEFENCES</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>ORDNANCE</td>
+      <td align=center>DEFENCES</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>&nbsp;</td>
+      <td align=center>ORDNANCE</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="20" style="writing-mode: vertical-rl;text-orientation: mixed;">Firepower</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
+      <td align=center>0</td>
+      <td align=center>0</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
-      <td>1</td>
-      <td>0</td>
+      <td align=center>2</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
+      <td align=center>0</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
+      <td align=center>3</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
-      <td>1</td>
+      <td align=center>4</td>
+      <td align=center>4</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
+      <td align=center>1</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>5</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
+      <td align=center>5</td>
+      <td align=center>5</td>
+      <td align=center>4</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>5</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
+      <td align=center>6</td>
+      <td align=center>5</td>
+      <td align=center>4</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>6</td>
-      <td>5</td>
-      <td>4</td>
-      <td>2</td>
-      <td>1</td>
+      <td align=center>7</td>
+      <td align=center>6</td>
+      <td align=center>5</td>
+      <td align=center>4</td>
+      <td align=center>2</td>
+      <td align=center>1</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>7</td>
-      <td>6</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
+      <td align=center>8</td>
+      <td align=center>7</td>
+      <td align=center>6</td>
+      <td align=center>4</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>8</td>
-      <td>6</td>
-      <td>5</td>
-      <td>3</td>
-      <td>2</td>
+      <td align=center>9</td>
+      <td align=center>8</td>
+      <td align=center>6</td>
+      <td align=center>5</td>
+      <td align=center>3</td>
+      <td align=center>2</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>9</td>
-      <td>7</td>
-      <td>5</td>
-      <td>4</td>
-      <td>2</td>
+      <td align=center>10</td>
+      <td align=center>9</td>
+      <td align=center>7</td>
+      <td align=center>5</td>
+      <td align=center>4</td>
+      <td align=center>2</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>10</td>
-      <td>8</td>
-      <td>6</td>
-      <td>4</td>
-      <td>2</td>
+      <td align=center>11</td>
+      <td align=center>10</td>
+      <td align=center>8</td>
+      <td align=center>6</td>
+      <td align=center>4</td>
+      <td align=center>2</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>11</td>
-      <td>8</td>
-      <td>6</td>
-      <td>4</td>
-      <td>2</td>
+      <td align=center>12</td>
+      <td align=center>11</td>
+      <td align=center>8</td>
+      <td align=center>6</td>
+      <td align=center>4</td>
+      <td align=center>2</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>12</td>
-      <td>9</td>
-      <td>7</td>
-      <td>5</td>
-      <td>3</td>
+      <td align=center>13</td>
+      <td align=center>12</td>
+      <td align=center>9</td>
+      <td align=center>7</td>
+      <td align=center>5</td>
+      <td align=center>3</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>13</td>
-      <td>10</td>
-      <td>7</td>
-      <td>5</td>
-      <td>3</td>
+      <td align=center>14</td>
+      <td align=center>13</td>
+      <td align=center>10</td>
+      <td align=center>7</td>
+      <td align=center>5</td>
+      <td align=center>3</td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>14</td>
-      <td>11</td>
-      <td>8</td>
-      <td>5</td>
-      <td>3</td>
+      <td align=center>15</td>
+      <td align=center>14</td>
+      <td align=center>11</td>
+      <td align=center>8</td>
+      <td align=center>5</td>
+      <td align=center>3</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>14</td>
-      <td>11</td>
-      <td>8</td>
-      <td>6</td>
-      <td>3</td>
+      <td align=center>16</td>
+      <td align=center>14</td>
+      <td align=center>11</td>
+      <td align=center>8</td>
+      <td align=center>6</td>
+      <td align=center>3</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>15</td>
-      <td>12</td>
-      <td>9</td>
-      <td>6</td>
-      <td>3</td>
+      <td align=center>17</td>
+      <td align=center>15</td>
+      <td align=center>12</td>
+      <td align=center>9</td>
+      <td align=center>6</td>
+      <td align=center>3</td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>16</td>
-      <td>13</td>
-      <td>9</td>
-      <td>6</td>
-      <td>4</td>
+      <td align=center>18</td>
+      <td align=center>16</td>
+      <td align=center>13</td>
+      <td align=center>9</td>
+      <td align=center>6</td>
+      <td align=center>4</td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>17</td>
-      <td>13</td>
-      <td>10</td>
-      <td>7</td>
-      <td>4</td>
+      <td align=center>19</td>
+      <td align=center>17</td>
+      <td align=center>13</td>
+      <td align=center>10</td>
+      <td align=center>7</td>
+      <td align=center>4</td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>18</td>
-      <td>14</td>
-      <td>10</td>
-      <td>7</td>
-      <td>4</td>
+      <td align=center>20</td>
+      <td align=center>18</td>
+      <td align=center>14</td>
+      <td align=center>10</td>
+      <td align=center>7</td>
+      <td align=center>4</td>
     </tr>
   </tbody>
 </table>
@@ -988,7 +988,7 @@ damage to its starboard armament.
 #### Critical Hits Table
 
 | 2D6 Roll | Extra Damage | Result |
-| ---      | ---          | --- |
+| :-:      | :-:          | --- |
 | 2 | +0 | **Dorsal Armament Damaged:** The ship’s dorsal armament is badly damaged by the hit – power lines are severed, traverse mechanisms crippled and many gunners are killed. The ship’s dorsal armament may not fire until it has been repaired. |
 | 3 | +0 | **Starboard Armament Damaged:** The starboard armament is taken off line by the hit. The ship’s starboard armament (right) may not fire until it has been repaired. |
 | 4 | +0 | **Port Armament Damaged:** Heavy damage silences the port side weaponry. The ship’s port armament (left) may not fire until it has been repaired. |
@@ -1422,7 +1422,7 @@ without overlapping any Blast Markers.
 #### Catastrophic Damage Table
 
 | 2D6 Roll | Extra Blast Markers | Result |
-| --- | --- | --- |
+| :-: | :-: | --- |
 | 2-6 | 1 | **Drifting Hulk:** The ship is reduced to a shattered hulk drifting in space. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base after each move. |
 | 7-8 | 1 | **Blazing Hulk:** The ship is reduced to a burning wreck with uncontrolled fires blazing on every deck. In time the fires will either burn out or trigger a cataclysmic explosion. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base and roll on the Catastrophic Damage table again after its move. |
 | 9-11 | Special | **Plasma Drive Overload:** The ship’s plasma coils overload and explode in a blazing inferno of white hot plasma. Remove the ship from play, leaving behind a number of Blast Markers equal to half its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by lance shots with a Strength equal to half the ship’s starting Damage capacity. Roll to hit as normal. |

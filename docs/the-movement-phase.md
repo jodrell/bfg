@@ -369,7 +369,7 @@ a ship or escort squadron must pass a
 Phase with the following modifiers:
 
 | CIRCUMSTANCE | MODIFIER |
-| --- | --- |
+| --- | :-: |
 | Each Blast Marker within 5 cm | +1 |
 | Any celestial phenomena within 15 cm | +3* |
 | Each enemy ship or Ordnance | marker within 15 cm | -1 |

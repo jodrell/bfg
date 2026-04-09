@@ -86,7 +86,7 @@ to the same place they must all be repaired before the location functions again 
 ### Defences Critical Hits Table
 
 | 2D6 Roll | Extra Damage | Result |
-| --- | --- | --- |
+| :-: | :-: | --- |
 | 2-3 | +0 | **Lances Damaged:** The station’s lance array is taken off-line by the hit. The station may not fire until its lance armament has been repaired. |
 | 4 | +0 | **Main Armament Damaged:** Heavy damage silences the station’s weapons batteries. They may not fire until it has been repaired. |
 | 5 | +0 | **Ordnance Bays Hit:** The station’s ordnance bays are ravaged by explosions. No ordnance may be fired by the station until the bays have been repaired. |

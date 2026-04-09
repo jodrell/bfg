@@ -95,7 +95,7 @@ designated long table edge
 as per the map above.
 
 | SHIP SPEED | REINFORCEMENTS ARRIVE ON |
-| --- | --- |
+| :-: | :-: |
 | up to 20 cm | 5+ |
 | 25 | 4+ |
 | 30 cm or more | 3+ |

@@ -57,7 +57,7 @@ Roll a D6 at the start of the Forces of Order
 player’s 2nd turn and consult the chart below:
 
 | TURN NUMBER | ELDAR FLEET ARRIVES ON |
-| --- | --- |
+| :-: | :-: |
 | 2 | 4+ |
 | 3 | 3+ |
 | 4 | 2+ |

@@ -48,22 +48,22 @@ battle and then roll on the appropriate table.
 #### Raids
 
 | D6 Roll | Scenario |
-| ---     | ---      |
-| 1       | One: Cruiser Clash |
-| 2       | Two: The Bait |
-| 3       | Three: The Raiders |
-| 4       | Five: Blockade Run |
-| 5-6     | Six: Convoy |
+| :-: | :-: |
+| 1 |  [Scenario One: Cruiser Clash](scenarios/cruiser-clash.md) |
+| 2 |  [Scenario Two: The Bait](scenarios/the-bait.md) |
+| 3 |  [Scenario Three: The Raiders](scenarios/the-raiders.md) |
+| 4 |  [Scenario Four: Blockade Run](scenarios/blockade-run.md) |
+| 5-6 | [Scenario Fivce: Convoy](scenarios/convoy.md) |
 
 #### Battles
 
 | D6 Roll | Scenario |
-| ---     | ---      |
-| 1       | Nine: Exterminatus! |
-| 2       | Four: Surprise Attack |
-| 3       | Seven: Planetary Assault |
-| 4       | Eight: Escalating Engagement |
-| 5-6     | Ten: Fleet Engagement |
+| :-: | :-: |
+| 1 |  [Scenario Six: Exterminatus!](scenarios/exterminatus.md) |
+| 2 |  [Scenario Seven: Surprise Attack](scenarios/surprise-attack.md) |
+| 3 |  [Scenario Eight: Planetary Assault](scenarios/planetary-assault.md) |
+| 4 |  [Scenario Nine: Escalating Engagement](scenarios/escalating-engagement.md) |
+| 5-6 | [Scenario Ten: Fleet Engagement](scenarios/fleet-engagement.md) |
 
 ## Using an Attack Rating
 
@@ -86,7 +86,7 @@ shows the attack ratings of all fleets.
 ### Attack Ratings
 
 | Fleet | Attack Rating |
-| ---   | --- |
+| ---   | :-: |
 | Imperial | 2 |
 | Chaos | 2 |
 | Tau | 2 |
@@ -349,7 +349,7 @@ you complete your sub-plot objectives.
 ## Legacies of War (Roll of 1-2)
 
 | Score | Sub-Plot |
-| --- | --- |
+| :-: | --- |
 | 1 | **Gunnery Practice:** In most space battles, victory went to the fleet with the best trained gun crews. It was not unusual for a fleet commander to order his captains to concentrate on gun drill training above all else. Roll a D6 for every capital ship in your fleet. On a 4, 5 or 6 the ship has a +1 Leadership bonus when attempting to go onto [*Lock On*](the-rules.md#lock-on) special order.<br><br>*Prove the wisdom of your commands and inflict at least 1 point of damage on every enemy capital ship. (+1/-1)* |
 | 2 | **Extended Duty:** Towards the end of the Gothic War, both sides were in poor shape. Ships often went into battle still suffering from damage sustained in previous engagements, or suffering serious shortages of manpower and ammunition. Roll a D6 for each capital ship in your fleet. On a 1, it starts the battle with D3 damage points less than normal. On a 2, it suffers a -1 modifier to all [Leadership](the-rules.md#leadership) tests for [*Lock On*](the-rules.md#lock-on) & [*Reload Ordnance*](the-rules.md#reload-ordnance) special orders. On a 3+ the ship is unaffected.<br><br>*Destroy/cripple more points of enemy ships than you lose. (+1/0)* |
 | 3 | **Blood Bond:** Ships’ captains working together over an extended period built up a great deal of camaraderie. They would often push their crew to ever greater efforts to avenge a fallen comrade. Equally, if the fleet lost too many ships, morale would suffer badly. If one of your capital ships is crippled or destroyed, all the other capital ships in the fleet gain +1 [Leadership](the-rules.md#leadership) for the next turn. <br><br>*Finish the battle with less than half your capital ships crippled or destroyed. (+1/-1)* |
@@ -360,7 +360,7 @@ you complete your sub-plot objectives.
 ## Chance Circumstances (Roll of 3-4)
 
 | Score | Sub-Plot |
-| --- | --- |
+| :-: | --- |
 | 1 | **Meteor Storm!** Meteor storms were a major cause of damage to ships. Roll a D6 for each capital ship in your fleet. On a 1, 2 or 3, roll once on the Critical Damage table and apply the result to the ship at the start of the game. <br><br>*There are no additional victory conditions. If you can win with your fleet in such disarray it will be truly heroic, if you fail you will be condemned for your poor navigation and inability to adapt to circumstance. (+3/-2)* |
 | 2 | **Signalling Problems:** Due to the increased warp storms, Astropaths were frequently unable to communicate between star systems, so escort ships were used to carry orders instead. You may only use fleet commander re-rolls on squadrons that have a ship within 30 cm of your fleet commander’s ship. <br><br>*At least half of your fleet’s escorts must survive the battle. (+1/-1)* |
 | 3 | **Unexpected Help:** Many ships were used in smaller numbers as long range patrols or scout fleets. In a good many battles, one side or the other had its strength unexpectedly bolstered by being joined by one of these roving ships or squadrons. You may add a single capital ship or squadron of escort ships totalling D3×50 points to your fleet before the game begins. <br><br>*At least one ship from the reinforcements must survive the battle, without being crippled or destroyed, to continue its mission. (0/-2)*  |
@@ -371,23 +371,10 @@ you complete your sub-plot objectives.
 ## Secret Ploys (Roll of 5-6)
 
 | Score | Sub-Plot |
-| --- | --- |
+| :-: | --- |
 | 1 | **Surprise Attack!** Although many battles were decided by sheer weight of fire and big guns, an almost equal number were won by one fleet surprising another while en route to its destination. A fleet commander who could ambush his enemy in such a fashion would have to maximise his advantage, before the enemy had time to organise themselves. The enemy fleet cannot go on to special orders for the first D3 turns. <br><br>*There are no additional victory conditions. If you can win then your cunning strategy will be praised across the sector; if you fail you will be condemned for your hastiness and poorly thought out plan. (+2/-2)* |
 | 2 | **Secret Intelligence:** Spies and traitors could be found in nearly every fleet in the Gothic War. Although mostly they were only useful for informing the enemy about fleet movements at the strategic level, occasionally they could gain knowledge of the fleet commander’s battle plan just prior to an engagement and get this information to the other side. You gain an extra fleet commander re-roll for this battle. <br><br>*Nominate one enemy capital ship, where your informant is hiding out. You must board this ship, or make a Hit-and-Run attack on it at least once to extract the informer. (0/-1)* |
 | 3 | **Experimental Ship:** Both sides tried numerous ploys to gain whatever edge they could over their enemy. Strategy and tactics would be changed and one area of experiment was ship design itself. Many ships were fitted with one-off weapons, engines or shield systems and their performance was closely monitored. Even recovered ancient technology or alien artefacts were sometimes retro-fitted to a ship to change its performance in one way or another. Unfortunately, there was no perfect combination and whenever something was improved, something else had to be sacrificed to accommodate the new systems. Randomly select a capital ship in your fleet. This ship has recently been fitted with an experimental system that has yet to be tried out in the heat of battle. Roll a D6 on each of the following tables to see how the ship has been altered (re-roll the side effect if the two contradict each other): <table><tbody><tr><td><table><thead><tr><th>D6</th><th>Improvement</th></tr></thead><tbody><tr><td>1</td><td>All weapons batteries/lances +50% range.</td></tr><tr><td>2</td><td>+1 shield</td></tr><tr><td>3</td><td>Speed +5cm</td></tr><tr><td>4</td><td>+2 damage</td></tr><tr><td>5</td><td>Ship may make 90° turns.</td></tr><tr><td>6</td><td>+1 [Leadership](the-rules.md#leadership)</td></tr></tbody></table></td><td><table><thead><tr><th>D6</th><th>Side Effect</th></tr></thead><tbody><tr><td>1</td><td>-1 shield</td></tr><tr><td>2</td><td>All weapons batteries/lances are at 50% range.</td></tr><tr><td>3</td><td>-2 damage</td></tr><tr><td>4</td><td>Speed -5 cm</td></tr><tr><td>5</td><td>-1 [Leadership](the-rules.md#leadership)</td></tr><tr><td>6</td><td>Weapon battery firepower/lances at 50% strength (rounding up).</td></tr></tbody></table></td></tr></tbody></table> *You must prevent the experimental ship from being crippled or destroyed so that it may be examined and lessons teamed about its performance. (+1/-1)* |
 | 4 | **Desperate Mission:** It was not unusual for individual ships to be detached from the main fleet to undertake special missions. This could range from transporting attack plans, to small raids, or conveying Imperial Agents such as Inquisitors and Assassins to their secret destinations. <br><br>*Nominate one of your capital ships as having to perform the desperate mission. You must prevent this ship from being crippled or destroyed. (+1/-1)* |
 | 5 | **Decoy:** There are instances throughout the war of both sides using decoy ships to distract the enemy and cause confusion. Often these decoys would be incredibly ancient, out-of-service vessels, or transports refitted to outwardly resemble warships. They would only have a skeleton crew and their objective would be to attract enemy fire and divert the enemy’s attention away from your real warships. You may include an extra capital ship in your fleet. However, this vessel really has the characteristics of a transport ship. Do not tell your opponent which of your ships is the decoy until it is fired upon or fires itself. The decoy is worth zero victory points. <br><br>*If the enemy fires with a capital ship at the decoy, then your ploy has succeeded. If he does not, then you have failed. (+1/-1)* |
 | 6 | **Hit-and-Run:** Although the war was a constant battle of attrition, speed was vital on occasion. If a fleet could hit hard and fast, it could attain its objectives before nearby enemy ships could react. If an attack could be quickly repulsed, then a swift counter-attack could scatter or destroy an enemy fleet. <br><br>*Roll 2D6. This is the number of turns you have in which to win the game. If you have not won within this time limit then you have failed in your sub-plot, as your victory will not be as useful to the fleet. (+1/-1)* |
-
-## Scenarios
-
-* [Scenario One: Cruiser Clash](scenarios/cruiser-clash.md)
-* [Scenario Two: The Bait](scenarios/the-bait.md)
-* [Scenario Three: The Raiders](scenarios/the-raiders.md)
-* [Scenario Four: Surprise Attack](scenarios/surprise-attack.md)
-* [Scenario Five: Blockade Run](scenarios/blockade-run.md)
-* [Scenario Six: Convoy](scenarios/convoy.md)
-* [Scenario Seven: Planetary Assault](scenarios/planetary-assault.md)
-* [Scenario Eight: Escalating Engagement](scenarios/escalating-engagement.md)
-* [Scenario Nine: Exterminatus](scenarios/exterminatus.md)
-* [Scenario Ten: Fleet Engagement](scenarios/fleet-engagement.md)

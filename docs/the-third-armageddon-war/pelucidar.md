@@ -69,7 +69,7 @@ wishes. A Fighta-Bomma or Attack
 Craft Wing will have four counters.
 
 | D6+TURN ROLL | RESULT |
-| --- | --- |
+| :-: | --- |
 | 2-4 | 1 Fighta-Bomma/Attack Craft Wing |
 | 5-6 | 1 Escort Squadron |
 | 7-9 | 2 Escort Squadrons |

@@ -89,7 +89,7 @@ depends on the speed of the
 slowest ship in the division:
 
 | DIVISION’S SPEED | SCORE NEEDED TO ARRIVE* |
-| --- | --- | 
+| :-: | :-: | 
 | up to 20 cm | 5+ |
 | 25 | 4+ |
 | 30 cm or more | 3+ |

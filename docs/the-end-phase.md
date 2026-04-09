@@ -125,7 +125,7 @@ modifiers from the following list.
 ##### Boarding Modifiers
 
 | Condition | Modifier |
-| --- | --- |
+| --- | :-: |
 | Own boarding value higher* | +1 |
 | Own boarding value is twice the enemy’s* | +2 |
 | Own boarding value is three times the enemy’s* | +3 |
@@ -161,7 +161,7 @@ normally in their next Movement Phase.
 ##### Results Table
 
 | Difference in scores | Boarding result | Winners/Losers Score Critical Hit on |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | 1 | Stalemate | 5+/5+ |
 | 2 | Heavy Fighting | 4+/5+ |
 | 3 | Driven Back | 3+/6+ |

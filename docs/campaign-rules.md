@@ -339,7 +339,7 @@ type and size of scenario is to be played.
 #### Incoming Orders
 
 | **D6 Roll** | **Orders** |
-| --- | --- |
+| :-: | --- |
 | 1-2 | Raid (500-750 points) |
 | 3-6 | Battle (750-1500 points) |
 
@@ -356,22 +356,22 @@ from those listed for the type of scenario.
 #### Raids
 
 | D6 Roll | Scenario |
-| --- | --- |
-| 1 |  Cruiser Clash |
-| 2 |  The Bait |
-| 3 |  The Raiders |
-| 4 |  Blockade Run |
-| 5-6 | Convoy |
+| :-: | :-: |
+| 1 |  [Cruiser Clash](scenarios/cruiser-clash.md) |
+| 2 |  [The Bait](scenarios/the-bait.md) |
+| 3 |  [The Raiders](scenarios/the-raiders.md) |
+| 4 |  [Blockade Run](scenarios/blockade-run.md) |
+| 5-6 | [Convoy](scenarios/convoy.md) |
 
 #### Battles
 
 | D6 Roll | Scenario |
-| --- | --- |
-| 1 |  Exterminatus! |
-| 2 |  Surprise Attack |
-| 3 |  Planetary Assault |
-| 4 |  Escalating Engagement |
-| 5-6 | Fleet Engagement |
+| :-: | :-: |
+| 1 |  [Exterminatus!](scenarios/exterminatus.md) |
+| 2 |  [Surprise Attack](scenarios/surprise-attack.md) |
+| 3 |  [Planetary Assault](scenarios/planetary-assault.md) |
+| 4 |  [Escalating Engagement](scenarios/escalating-engagement.md) |
+| 5-6 | [Fleet Engagement](scenarios/fleet-engagement.md) |
 
 **Decide Location:** The attacker must select
 the system in which the scenario will take
@@ -515,7 +515,7 @@ flagship did not take part).
 #### Renown
 
 | Renown can be gained for the following: | &nbsp; |
-| --- | --- |
+| --- | :-: |
 | Winning a battle or major raid | +2 |
 | Winning a raid | +1 |
 | Victory points earned | +(VPs/100 round up) |
@@ -552,7 +552,7 @@ for their promotions.
 #### Imperial Promotions (all Imperials Except Mechanicus Fleets)
 
 | Renown | Title | Ld | Notes |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1-5   | Commander | 8 | 1 re-roll |
 | 6-10  | Battle Group Commander | 8 | 2 re-rolls |
 | 11-20 | Sub-sector Commander | 9 | 2 re-rolls |
@@ -563,7 +563,7 @@ for their promotions.
 #### Mechanicus Promotions
 
 | Renown | Title | Ld | Notes |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1-5   | Explorator Techpriest | 7 | 1 re-roll |
 | 6-10  | Magos Errant | 8 | 1 re-roll, 1 refit |
 | 11-20 | Magos Explorator | 8 | 2 re-rolls, 1 refit |
@@ -574,7 +574,7 @@ for their promotions.
 #### Chaos Promotions
 
 | Renown | Title | Ld | Notes |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1-5   | Chaos Champion | 8 | 1 re-roll |
 | 6-10  | Exalted Chaos Champion | 8 | 1 re-roll, 1 Mark of Chaos |
 | 11-20 | Tyrant | 9 | 1 re-roll, 1 Mark of Chaos |
@@ -585,7 +585,7 @@ for their promotions.
 #### Ork Promotions
 
 | Renown | Title | Notes |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | 1-5   | Nob | 1 re-roll |
 | 6-10  | Big Nob | 2 re-rolls |
 | 11-20 | Boss | 2 re-rolls |
@@ -596,7 +596,7 @@ for their promotions.
 #### Eldar Promotions (all Types of Eldar)
 
 | Renown | Title | Ld Bonus | Notes |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1-5   | Captain | +0 | 1 re-roll |
 | 6-10  | Lord | +1 | 1 re-rolls |
 | 11-20 | Shadow Lord | +1 | 2 re-rolls |
@@ -707,7 +707,7 @@ case each escort ship is worth 1 damage point.
 ### Repair Points
 
 | Renown | Agri | Penal (min. of 1) | Mining | Forge, hive, pirate world | Civilised | Uninhabited |
-| --- | --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1-5 | 1 | 1 | 2 | 3 | 1 | 1 |
 | 6-10 | 1 | D6-4 | 2 | 3 | 2 | 1 |
 | 11-20 | 1 | D6-3 | 2 | 4 | 3 | 1 |
@@ -755,7 +755,7 @@ of appeals that may be made depend on the
 players’ renown as shown on the table below.
 
 | RENOWN | NO. OF APPEALS |
-| --- | --- |
+| :-: | :-: |
 | 1-10 | 1 Appeal |
 | 11-30 | 2 Appeals |
 | 31-50 | 3 Appeals |
@@ -784,7 +784,7 @@ are used by most fleets, so they are printed
 here and are not repeated in the fleet lists.
 
 | APPEAL GRANTED | &nbsp; |
-| --- | --- |
+| :-: | :-: |
 | Reinforcements | 2+ |
 | Refits | 4+ |
 | Other | 5+ |
@@ -892,7 +892,7 @@ imagination. Have fun!
 the power generators and energy relays in some fashion. Roll on the following table.*
 
 | D6 roll | Engine Refit |
-| --- | --- |
+| :-: | --- |
 | 1 | **Secondary Reactors:** The ship’s additional power generators allow it to put on a tremendous burst of speed for short lengths of time. The ship rolls an extra 2D6 when on [*All Ahead Full*](the-rules.md#all-ahead-full) special orders. |
 | 2 | **Evasive Jets:** The hull of the vessel is studded with powerful short-burn engines which allow it to drastically turn to avoid incoming fire. At the start of the enemy [Shooting Phase](the-shooting-phase.md), the ship may take a [Leadership](the-rules.md#leadership) test. If it is passed, the ship may make a single 45° [turn](the-movement-phase.md#turning) immediately. However, the ship may not go on to [special orders](the-rules.md#special-orders) during the next turn. |
 | 3 | **Manoeuvring Thrusters:** Additional thrusters along the length of the ship allow it to turn much more quickly. The ship reduces the distance it needs to move before [turning](the-movement-phase.md#turning) by 5 cm. |
@@ -906,7 +906,7 @@ the power generators and energy relays in some fashion. Roll on the following ta
 trained or specialised crew members are brought in. Roll on the following table.*
 
 | D6 roll | Ship Refit |
-| --- | --- |
+| :-: | --- |
 | 1 | **Improved Sensor Array:** The ship’s assayers and long range surveyors are particularly attuned to pick up energy emissions and signals from enemy ships. When taking [Leadership](the-rules.md#leadership) tests to go on to special orders, the ship gains +2 for enemy ships on [special orders](the-rules.md#special-orders), rather than the normal +1. |
 | 2 | **Additional Shield Generator:** The ship has additional shield generators to deflect incoming shots. The ship gains +1 [Shields](the-shooting-phase.md#shields). |
 | 3 | **Superior Damage Control:** The ship benefits from an improved auto-repair system, or more highly adept engineers and technicians. The ship may roll one extra dice in [the End Phase](the-end-phase.md) when attempting to [repair damage](the-end-phase.md#damage-control). |
@@ -920,7 +920,7 @@ trained or specialised crew members are brought in. Roll on the following table.
 greatly enhancing its battle effectiveness. Roll on the following table:*
 
 | D6 roll | Weapons Refit |
-| --- | --- |
+| :-: | --- |
 | 1 | **Extra Turrets:** The vessel is studded with numerous close defence weapons to shoot down enemy [torpedoes](the-ordnance-phase.md#torpedoes) and [attack craft](the-ordnance-phase.md#attack-craft). This ship adds +1 to its [Turrets](the-ordnance-phase.md#turrets) value. |
 | 2 | **Turbo-weapons:** The ship’s weapons have been given additional punch and accuracy at long range. The ship does not suffer a [right column shift](the-shooting-phase.md#modifiers) when firing over 30 cm. |
 | 3 | **Targeting Matrix:** The ship’s weapon systems are linked together through a massive targeting network so that they can maximise their fire. All firing by [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries) benefits from a left column shift on the [Gunnery table](the-shooting-phase.md#gunnery-table) (before any [other column shifts](the-shooting-phase.md#modifiers) for range or [Blast Markers](the-shooting-phase.md#blast-markers)). |
@@ -931,7 +931,7 @@ greatly enhancing its battle effectiveness. Roll on the following table:*
 ### Crew Skills
 
 | D6 roll | Skill |
-| --- | --- |
+| :-: | --- |
 | 1 | **Expert Gunnery:** The ship’s gun crew are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts [*Lock On*](the-rules.md#lock-on) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |
 | 2 | **Skilled Engineers:** The crew responsible for running the engines are highly adept, able to respond quickly to orders for more or less power. When the ship attempts [*All Ahead Full*](the-rules.md#all-ahead-full) or [*Burn Retros*](the-rules.md#burn-retros) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |
 | 3 | **Adept Trimsman:** The officers and crew responsible for the ship’s manoeuvring boast that they could get the ship to turn on the head of a pin! Whenever the ship attempts [*Come to New Heading*](the-rules.md#come-to-new-heading) [special orders](the-rules.md#special-orders) you may roll 3D6 and discard the highest roll before comparing the score to the ship’s [Leadership](the-rules.md#leadership). |

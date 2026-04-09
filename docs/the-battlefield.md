@@ -206,7 +206,7 @@ always death worlds, places too ravaged
 by the sun’s heat to be habitable to life.
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | Solar flare |
 | 2 | Solar flare |
 | 3 | Radiation burst |
@@ -226,7 +226,7 @@ or constantly moving around its dark
 side to shelter from the sun’s rays.
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | Solar flare |
 | 2 | Radiation burst |
 | 3 | Asteroid field |
@@ -244,7 +244,7 @@ colonies and hive cities occur in the
 inner biosphere of certain systems.
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | Roll again: 1-3 = Radiation burst; 4-6 = solar flare |
 | 2 | Asteroid field |
 | 3 | D3 asteroid fields |
@@ -261,7 +261,7 @@ lie within this biosphere and it’s here that
 the bulk of a system’s defences are built.
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | Asteroid field |
 | 2 | D3 asteroid fields |
 | 3 | Gas/dust clouds |
@@ -279,7 +279,7 @@ system’s defenders attempt to prevent enemy
 ships reaching the primary biosphere.
 
 | D6 | ROLL RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | D3+1 asteroid fields |
 | 2 | D3 asteroid fields |
 | 3 | D3 gas/dust clouds |
@@ -299,7 +299,7 @@ often lurk near a jump point in the hope
 of catching an emerging foe unaware.
 
 | D6 | ROLL RESULT |
-| --- | --- |
+| :-: | :-: |
 | 1 | D3 asteroid fields |
 | 2 | Asteroid fields |
 | 3 | D3 gas/dust clouds |

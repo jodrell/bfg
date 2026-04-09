@@ -22,7 +22,7 @@ D3 rolls on the table below plus one extra roll
 for each pair of transport ships in the convoy.
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | --- |
 | 1 | One deadfall torpedo or attack craft cluster |
 | 2 | Two deadfall torpedo or attack craft clusters |
 | 3 | Three deadfall torpedo or attack craft clusters |
@@ -144,8 +144,8 @@ board and move off the opposite short
 table edge count for victory purposes.
 
 | TRANSPORTS EXISTING | RESULT |
-| --- | --- |
+| :-: | --- |
 | None | **Attackers Win**<br>The defending forces have performed miserably. The attackers will feast well on their captured booty. |
-| One | **Attackers Marginal Win**<br> A single transport getting through was barely worth the risk of sending forces into hostile space. If the attackers can maintain this kind of stranglehold, the system is doomed. |
-| Two | **Convoy Marginal Win**<br> The convoy has been defended adequately – two of the valuable transports made it. More would have been better though. |
-| Three or more | **Convoy Win**<br><br> The convoy has made it through with enough transports to stave off the current crisis. Medals and promotions all round! |
+| One | **Attackers Marginal Win**<br>A single transport getting through was barely worth the risk of sending forces into hostile space. If the attackers can maintain this kind of stranglehold, the system is doomed. |
+| Two | **Convoy Marginal Win**<br>The convoy has been defended adequately – two of the valuable transports made it. More would have been better though. |
+| Three or more | **Convoy Win**<br>The convoy has made it through with enough transports to stave off the current crisis. Medals and promotions all round! |

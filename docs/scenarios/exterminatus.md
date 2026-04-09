@@ -97,7 +97,7 @@ ship and escort squadron which is not in
 play and compare it to the table below.
 
 | SHIP’S SPEED | SCORE NEEDED TO ARRIVE |
-| --- | --- |
+| :-: | :-: |
 | up to 20 cm | 5+ |
 | 25 | 4+ |
 | 30 cm or more | 3+ |
@@ -113,7 +113,7 @@ as part of a campaign and the planet is
 destroyed roll on the table that follows._
 
 | D6 ROLL | RESULT |
-| --- | --- |
+| :-: | --- |
 | 1-3 | The system becomes uninhabited, mark it as such on the sub-sector map. |
 | 4-6 | The system’s primary world is destroyed but one or more other planets still bear life. Roll again to see what the system becomes: 1-3 agri-world, 4-6 mining planet. |
 
