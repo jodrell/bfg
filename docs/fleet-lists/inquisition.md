@@ -1,7 +1,5 @@
 # The Emperor's Inquisition
 
-*This page is a work in progress!*
-
 ## Using Vessels of the Inquisition
 
 The Inquisition has no fleet list on its own.
