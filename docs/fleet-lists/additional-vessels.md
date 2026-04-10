@@ -1,11 +1,6 @@
-*This page is a work in progress!*
+# Additional Vessels
 
-ADDITIONAL
-VESSELS
-
-!"#
-
-Most vessels in a fleet will be chosen from a
+Most vessels in a fleet will be chosen from a
 fleet list, and will be specifically to tailored
 to the fleet of an individual race. However,
 there are some vessels which are employed
@@ -19,8 +14,8 @@ following pages include entries for a number
 of additional vessels which you can use in this
 manner.
 
-Q-SHIPS, ARMED FREIGHTERS &
-ESCORT CARRIERS
+## Q-ships, Armed Freighters & Escort Carriers
+
 These might be interesting additions to a
 Convoy scenario. You may replace regular
 freighters with these ships on a one-for-one
@@ -31,12 +26,9 @@ them with armed freighters and pay 80 points,
 or replace them all with armed freighters and
 pay 160 points.
 
-HEAVY TRANSPORTS
+# Heavy Transports
+
 If you want to use heavy transports just
 swap two ordinary transports for each heavy
 transport. Up to a third of the transports in
 your fleet may be heavy transports.
-
-$%%
-
-
