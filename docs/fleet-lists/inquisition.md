@@ -209,10 +209,10 @@ Sororitas and/or platoons of Inquisitorial Storm
 Troopers that serve as their personal bodyguard
 and assault force.
 
-The ship adds +1 to its leadership (max. 10).
+The ship adds +1 to its [leadership](../the-rules.md#leadership) (max. 10).
 
-It also adds +2 to its roll during a boarding
-action.
+It also adds +2 to its roll during a [boarding
+action](../the-end-phase.md#boarding-actions).
 
 [Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks) from this ship add +1 to
 their roll, and such attacks against this ship
@@ -221,7 +221,7 @@ subtract -1 from their roll.
 If a Blackship is used as an Exterminatus
 vessel, a Hereticus Inquisitor must lead it.
 
-Reserve/allies
+#### Reserve/allies
 
 An Imperial Navy or Adeptus Mechanicus
 fleet led by an Inquisitor that does not include
@@ -232,9 +232,8 @@ regarded with particular suspicion, though a
 single Rogue Trader and its attendant escorts
 may still accompany the fleet.
 
-!"%
+### Ordo Xenos Inquisitors
 
-ORDO XENOS INQUISITORS
 While Inquisitors of this Ordo know they
 must be fully cognizant of Xenos races in
 order to defeat them, radical Inquisitors of
@@ -243,75 +242,48 @@ the Istvaanists and Xeno Hybrists actively
 cultivate accommodation with aliens and seek
 their technology for the Imperium’s benefit.
 
-The vessel upon which the Inquisitor Lord is
-embarked may roll once against the following
-table and apply it to the ship. Alternatively, the
-refit may be selected for +5 points.
-D6 ROLL
+**Ordo Xenos Inquisitor Lord ..............+30 pts**
 
-IMPROVEMENT
-
-1
-
-Long Range Sensors: The vessel adds
-+1 to its base leadership (max. of Ld 10).
-
-2
-
-Targeting Matrix: The vessel counts
-all targets as closing when using the
-gunnery table within 30cm and ignores
-all right-shift modifiers for shooting
-greater than 30cm.
-
-3
-
-The ship adds +1 to its leadership (max. 10).
-
-Advanced Shielding: The vessel
-increases the strength of its shields by +1.
-
-4
-
-It also adds +2 to its roll during a boarding
-action against alien vessels, during which
-Xenos ships subtract -1 from their roll.
-
-Ship Defence Grid: The vessel increases
-the strength of its turrets by +1.
-
-5
-
-Hit and Run attacks from this ship add +1 to
-their roll, and such attacks against this ship
-subtract -1 from their roll.
-
-Advanced Drive Technology: The
-vessel adds +5 cm to its speed as well as
-+1D6 when undergoing All Ahead Full
-special orders.
-
-6
-
-Gravitic Thrusters: The vessel doubles
-the maximum rate of its normal turn.
-
-Ordo Xenos Inquisitor Lord ..............+30 pts
 A vessel embarking an Ordo Xenos Inquisitor
 Lord is accompanied by a Deathwatch kill-team
 that serves as their personal bodyguard and
 assault force.
 
+The ship adds +1 to its [leadership](../the-rules.md#leadership) (max. 10).
+
+It also adds +2 to its roll during a [boarding
+action](../the-end-phase.md#boarding-actions) against alien vessels, during which
+Xenos ships subtract -1 from their roll.
+
+[Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks) from this ship add +1 to
+their roll, and such attacks against this ship
+subtract -1 from their roll.
+
 Rolled saves by holofields, shadowfields or any
 similar rule against a boarding action or hit
 and run attack succeed on a 3+ instead of a 2+.
+
 An Ordo Xenos Inquisitor will only be called
 when an alien threat significantly exceeds
 a given Sector Stabilis mandate. The enemy
 Xenos fleet adds D6!50 points of escort
 vessels to its fleet for free.
 
-Reserve/allies
+The vessel upon which the Inquisitor Lord is
+embarked may roll once against the following
+table and apply it to the ship. Alternatively, the
+refit may be selected for +5 points.
+
+| D6 ROLL | IMPROVEMENT |
+| :-: | --- |
+| 1 | **Long Range Sensors:** The vessel adds +1 to its base [leadership](../the-rules.md#leadership) (max. of Ld 10). |
+| 2 | **Targeting Matrix:** The vessel counts all targets as closing when using the [gunnery table](../the-shooting-phase.md#gunnery-table) within 30cm and ignores all right-shift modifiers for shooting greater than 30cm. |
+| 3 | **Advanced Shielding:** The vessel increases the strength of its [shields](../the-shooting-phase.md#shields) by +1. |
+| 4 | **Ship Defence Grid:** The vessel increases the strength of its [turrets](../the-ordnance-phase.md#turrets) by +1. |
+| 5 | **Advanced Drive Technology:** The vessel adds +5 cm to its speed as well as +1D6 when undergoing [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
+| 6 | **Gravitic Thrusters:** The vessel doubles the maximum rate of its normal [turn](../the-movement-phase.md#turning). |
+
+#### Reserve/allies
 
 An Imperial Navy or Adeptus Mechanicus
 fleet led by an Inquisitor that does not include
@@ -324,9 +296,8 @@ cruiser. If taken, the Inquisitor’s ship loses
 its Deathwatch contingent along with their
 leadership and boarding value bonus.
 
-!"&
+### Ordo Malleus Inquisitors
 
-ORDO MALLEUS INQUISITORS
 Inquisitors of this Ordo are more
 knowledgeable of the dire threat Chaos poses
 to all of humanity than virtually anyone in
@@ -334,27 +305,34 @@ the Imperium. Some radical Inquisitors of this
 Ordo come to believe they can actually control
 this to an extent, turning Chaos against itself
 to humanity's benefit.
-Ordo Malleus Inquisitor Lord ............ +25 pts
+
+**Ordo Malleus Inquisitor Lord ............ +25 pts**
+
 A vessel embarking an Ordo Malleus Inquisitor
 Lord is accompanied by several squads of Grey
 Knights Space Marines that serves as their
 personal bodyguard and assault force.
-The ship adds +1 to its leadership (max. 10)
-and +2 to its roll during a boarding action.
-Hit and Run attacks from this ship add +1 to
+
+The ship adds +1 to its [leadership](../the-rules.md#leadership) (max. 10)
+and +2 to its roll during a [boarding action](../the-end-phase.md#boarding-actions).
+
+[Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks) from this ship add +1 to
 their roll, and such attacks against this ship
 subtract -1 from their roll.
+
 This ship or one Grey Knights vessel may
 board a Grey Knights terminator boarding
 party for +50 points.
+
 Once per turn a vessel equipped with
 Terminator boarding parties may use them
-when conducting a hit and run teleport
-attack. They roll two dice for its hit and run
+when conducting a hit and run [teleport
+attack][Hit and Run attacks](../the-end-phase.md#teleport-attacks). They roll two dice for its hit and run
 attack and apply both results, including the
 normal +1 bonus for being Space Marines.
 Terminators may be used in addition to a
 normal teleport attack that turn.
+
 Every Grey Knights vessel in the fleet may
 embark an Honour Guard for +10 points.
 Once per turn you may use the Honour
@@ -364,8 +342,6 @@ in addition to a normal teleport attack that
 turn. The player may roll two dice and choose
 which one to use as the result, including the
 normal +1 bonus for being Space Marines.
-
-!'(
 
 This ship and every Grey Knights vessel in the
 fleet mounts hexagrammic wards throughout
@@ -379,6 +355,7 @@ still apply normally, and any other special
 rules and effects such as the Forces of Chaos
 listed on p.158 [???] of the Rulebook remain
 unaffected.
+
 An Ordo Malleus Inquisitor will only
 be called when intense demonic activity
 threatens to overrun an entire Sector. The
@@ -388,7 +365,7 @@ at no cost, and may also do so again as many
 times as there are Grey Knights strike cruisers
 in the fleet.
 
-Reserve/allies
+#### Reserve/allies
 
 An Imperial Navy or Adeptus Mechanicus
 fleet led by an Inquisitor that does not include
@@ -406,5 +383,3 @@ its Grey Knights contingent along with their
 leadership, boarding value and other bonuses.
 Likewise, Chaos opponents gain no benefits,
 as the Grey Knights are absent.
-
-
