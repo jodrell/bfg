@@ -123,3 +123,9 @@
     * [Additional Vessels](fleet-lists/additional-vessels.md)
 
 * [Colophon](colophon.md)
+    * [What is this site?](colophon.md#what-is-this-site)
+    * [How was it created?](colophon.md#how-was-it-created)
+    * [Fixing mistakes in the text](colophon.md#fixing-mistakes-in-the-text)
+    * [Fixing bugs](colophon.md#fixing-bugs)
+    * [Acknowledgements](colophon.md#acknowledgements)
+    * [Disclaimer](colophon.md#disclaimer)
