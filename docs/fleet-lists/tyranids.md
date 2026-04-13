@@ -86,7 +86,7 @@ in either case.
 
 ### Instinctive Behaviour Flowchart
 
-![](../../assets/page-399.svg){style="width:100%;background-color:#fff"}
+![](../assets/page-399.svg){style="width:100%;background-color:#fff"}
 
 ## Navigation
 
@@ -419,7 +419,7 @@ markers in contact have no effect on this.
 
 Some Tyranid ships may have launch bays or
 torpedo batteries. Tyranids may only launch
-[boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes), [fighters](../the-ordnance-phase.md#fighers) and [assault
+[boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes), [fighters](../the-ordnance-phase.md#fighters) and [assault
 boats](../the-ordnance-phase.md#assault-boats), or rather their biological equivalents
 in the form of giant hull-boring worms,
 ether-swimming brood carriers, protazoid
@@ -677,7 +677,7 @@ The creature maintains an unbroken link with
 the Vanguard drone ships and hive ships of
 the swarm. When within 15 cm of a Vanguard
 drone ship, all pyro-acid batteries benefit from
-a left shift on the [Gunnery table](../the-shooting-phase.md#the-gunnery-table) (before all other
+a left shift on the [Gunnery table](../the-shooting-phase.md#gunnery-table) (before all other
 modifiers).
 
 **11: Tenacity ..........................................+20 pts**
