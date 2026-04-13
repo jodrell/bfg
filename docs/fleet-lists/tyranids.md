@@ -1,7 +1,5 @@
 # Tyranids
 
-*This page is a work in progress!*
-
 ## Attack Rating
 Tyranids have a starting attack or initiative
 rating of 3.
