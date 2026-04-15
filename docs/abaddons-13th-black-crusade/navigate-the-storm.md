@@ -1,4 +1,4 @@
-# Scenario six: Navigate the Storm
+# Scenario Six: Navigate the Storm
 
 _**Warp Storms have ravaged several sectors, making travel through them
 difficult at best, and in many cases impossible. Many warp rifts have opened
