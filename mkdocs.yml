@@ -6,12 +6,12 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: blue grey
+      primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch
     - scheme: slate
-      primary: blue grey
+      primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
@@ -40,92 +40,59 @@ validation:
   absolute_links: ignore
 
 nav:
-  - Home:
-    - Home: index.md
-    - Introduction: the-rules.md
-    - The Turn: the-turn.md
-    - The Movement Phase: the-movement-phase.md
-    - The Shooting Phase: the-shooting-phase.md
-    - The Ordnance Phase: the-ordnance-phase.md
-    - The End Phase: the-end-phase.md
-    - Squadrons: squadrons.md
-    - Planetary Defences: planetary-defences.md
-    - The Battlefield: the-battlefield.md
-    - Scenarios: scenarios.md
-    - Campaign Rules: campaign-rules.md
-    - The Third Armageddon War: the-third-armageddon-war.md
-    - "Abaddon's 13th Black Crusade": abaddons-13th-black-crusade.md
-    - "Andy Chambers' Notes": andy-chambers-notes.md
-    - Fleet Lists: fleet-lists.md
-    - Colophon: colophon.md
-  - Introduction:
-    - Introduction: the-rules.md
-  - The Turn:
-    - The Turn: the-turn.md
-  - The Movement Phase:
-    - The Movement Phase: the-movement-phase.md
-  - The Shooting Phase:
-    - The Shooting Phase: the-shooting-phase.md
-  - The Ordnance Phase:
-    - The Ordnance Phase: the-ordnance-phase.md
-  - The End Phase:
-    - The End Phase: the-end-phase.md
-  - Squadrons:
-    - Squadrons: squadrons.md
-  - Planetary Defences:
-    - Planetary Defences: planetary-defences.md
-  - The Battlefield:
-    - The Battlefield: the-battlefield.md
+  - Home: index.md
+  - the-rules.md
+  - the-turn.md
+  - the-movement-phase.md
+  - the-shooting-phase.md
+  - the-ordnance-phase.md
+  - the-end-phase.md
+  - squadrons.md
+  - planetary-defences.md
+  - the-battlefield.md
   - Scenarios:
-    - Scenarios: scenarios.md
-    - "Scenario One: Cruiser Clash": scenarios/cruiser-clash.md
-    - "Scenario Two: The Bait": scenarios/the-bait.md
-    - "Scenario Three: The Raiders": scenarios/the-raiders.md
-    - "Scenario Four: Surprise Attack": scenarios/surprise-attack.md
-    - "Scenario Five: Blockade Run": scenarios/blockade-run.md
-    - "Scenario Six: Convoy": scenarios/convoy.md
-    - "Scenario Seven: Planetary Assault": scenarios/planetary-assault.md
-    - "Scenario Eight: Escalating Engagement": scenarios/escalating-engagement.md
-    - "Scenario Nine: Exterminatus": scenarios/exterminatus.md
-    - "Scenario Ten: Fleet Engagement": scenarios/fleet-engagement.md
-  - Campaign Rules:
-    - Campaign Rules: campaign-rules.md
+    - scenarios.md
+    - scenarios/cruiser-clash.md
+    - scenarios/the-bait.md
+    - scenarios/the-raiders.md
+    - scenarios/surprise-attack.md
+    - scenarios/blockade-run.md
+    - scenarios/convoy.md
+    - scenarios/planetary-assault.md
+    - scenarios/escalating-engagement.md
+    - scenarios/exterminatus.md
+    - scenarios/fleet-engagement.md
+  - campaign-rules.md
   - The Third Armageddon War:
-    - The Third Armageddon War: the-third-armageddon-war.md
-    - "Scenario One: The Gauntlet": the-third-armageddon-war/the-gauntlet.md
-    - "Scenario Two: Parol’s Bait": the-third-armageddon-war/parols-bait.md
-    - "Scenario Three: Pelucidar": the-third-armageddon-war/pelucidar.md
-
+    - the-third-armageddon-war.md
+    - the-third-armageddon-war/the-gauntlet.md
+    - the-third-armageddon-war/parols-bait.md
+    - the-third-armageddon-war/pelucidar.md
   - "Abaddon's 13th Black Crusade":
-    - "Abaddon's 13th Black Crusade": abaddons-13th-black-crusade.md
-    - "Scenario One: Chance Encounter": abaddons-13th-black-crusade/chance-encounter.md
-    - "Scenario Two: Rearguard Attack": abaddons-13th-black-crusade/rearguard-attack.md
-    - "Scenario Three: Alien Intervention": abaddons-13th-black-crusade/alien-intervention.md
-    - "Scenario Four: Above Belis Corona": abaddons-13th-black-crusade/above-belis-corona.md
-    - "Scenario Five: Daemon Blockade": abaddons-13th-black-crusade/daemon-blockade.md
-    - "Scenario Six: Navigate the Storm": abaddons-13th-black-crusade/navigate-the-storm.md
-    - "Scenario Seven: Macharia's End": abaddons-13th-black-crusade/macharias-end.md
-
-  - "Andy Chambers' Notes":
-    - "Andy Chambers' Notes": andy-chambers-notes.md
-
+    - abaddons-13th-black-crusade.md
+    - abaddons-13th-black-crusade/chance-encounter.md
+    - abaddons-13th-black-crusade/rearguard-attack.md
+    - abaddons-13th-black-crusade/alien-intervention.md
+    - abaddons-13th-black-crusade/above-belis-corona.md
+    - abaddons-13th-black-crusade/daemon-blockade.md
+    - abaddons-13th-black-crusade/navigate-the-storm.md
+    - abaddons-13th-black-crusade/macharias-end.md
+  - andy-chambers-notes.md
   - Fleet Lists:
-    - Fleet Lists: fleet-lists.md
-    - Refits: fleet-lists/refits.md
-    - Imperial Navy: fleet-lists/imperial-navy.md
-    - Space Marines: fleet-lists/space-marines.md
-    - Adeptus Mechanicus: fleet-lists/adeptus-mechanicus.md
-    - Inquisition: fleet-lists/inquisition.md
-    - Rogue Traders: fleet-lists/rogue-traders.md
-    - Chaos: fleet-lists/chaos.md
-    - Eldar: fleet-lists/eldar.md
-    - Dark Eldar: fleet-lists/dark-eldar.md
-    - Orks: fleet-lists/orks.md
-    - Necrons: fleet-lists/necrons.md
-    - Tyranids: fleet-lists/tyranids.md
-    - Tau: fleet-lists/tau.md
-    - Planetary Defences: fleet-lists/planetary-defences.md
-    - Additional Vessels: fleet-lists/additional-vessels.md
-
-  - Colophon:
-    - Colophon: colophon.md
+    - fleet-lists.md
+    - fleet-lists/refits.md
+    - fleet-lists/imperial-navy.md
+    - fleet-lists/space-marines.md
+    - fleet-lists/adeptus-mechanicus.md
+    - fleet-lists/inquisition.md
+    - fleet-lists/rogue-traders.md
+    - fleet-lists/chaos.md
+    - fleet-lists/eldar.md
+    - fleet-lists/dark-eldar.md
+    - fleet-lists/orks.md
+    - fleet-lists/necrons.md
+    - fleet-lists/tyranids.md
+    - fleet-lists/tau.md
+    - fleet-lists/planetary-defences.md
+    - fleet-lists/additional-vessels.md
+  - colophon.md
