@@ -8,7 +8,7 @@ While Orks approach space combat with
 the same gusto they reserve for all forms of
 violence, the technical nature of the fighting
 is often at odds with their ability. This means
-that all Ork ships reduce their [Leadership] by
+that all Ork ships reduce their [Leadership](../the-rules.md#leadership) by
 -1 from whatever they rolled, giving them a
 Leadership range of 5 to 8.
 
@@ -22,22 +22,22 @@ excessive) thrusters, boosters and extra drives
 button in the cockpit.
 
 Because of this, Orks do not need to pass a
-[Command check ]to use [*All Ahead Full*] special
+[Command check](../the-rules.md#taking-command-checks) to use [*All Ahead Full*] special
 orders. However, Ork drives are less efficient
 than those of other races and are often short
 on fuel, so they only travel an extra 2D6 cm on
 [*All Ahead Full*] orders instead of 4D6 cm.
 This special rule does not exempt it from
 the restrictions that occur when a ship or
-[squadron] fails a [special order command
-check]. If an Ork command check is failed Ork
+[squadron](../squadrons.md) fails a [special order command
+check](../the-rules.md#special-orders). If an Ork command check is failed Ork
 ships not already on [*All Ahead Full*] may not
 then be put on [*All Ahead Full*] special orders.
 
 ### Boarding
 
 Orks are ferocious close combat opponents and
-exceptionally good at [boarding actions], where
+exceptionally good at [boarding actions](../the-end-phase.md#boarding-actions), where
 their brute strength and hardiness is most
 useful. To represent this renowned savagery,
 they get a +1 bonus in boarding actions.
@@ -47,7 +47,7 @@ they get a +1 bonus in boarding actions.
 #### Boarding Torpedoes
 
 Any capital ship in the Ork fleet list armed
-with [torpedoes] can use [boarding torpedoes]
+with [torpedoes](../the-ordnance-phase.md#torpedoes) can use [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes)
 for +5 points. A Space Hulk may use boarding
 torpedoes for +15 points. Escorts cannot use
 boarding torpedoes.
@@ -57,7 +57,7 @@ boarding torpedoes.
 Some ships in an Ork fleet may possess a
 variable launch capacity (as is the case with
 many Ork capital ships). In the [Ordnance
-phase] of each Ork turn when Ork [attack craft]
+phase](../the-ordnance-phase.md) of each Ork turn when Ork [attack craft](../the-ordnance-phase.md#attack-craft)
 remain in play, an Ork fleet with variable
 launch bay Strength must roll to check its
 attack craft capacity. Roll the relevant dice for
@@ -67,24 +67,24 @@ any ship with fixed Strengths to find the total
 launch capacity for the fleet. Any excess attack
 craft above this total are removed at the end
 of the turn as they run out of fuel – use ’em
-or lose ’em. [Torpedoes] are not subject to this
-rule, as they have no [launch limits].
+or lose ’em. [Torpedoes](../the-ordnance-phase.md#torpedoes) are not subject to this
+rule, as they have no [launch limits](../the-ordnance-phase.md#fleet-ordnance-limits).
 
 #### Fighta-Bommas
 
-Ork [attack craft] are known as fighta-bommas
+Ork [attack craft](../the-ordnance-phase.md#attack-craft) are known as fighta-bommas
 and perform the roles of both interceptor and
 bomber. They carry heavy bombs and rockets
 for attacking at close range, but gladly pounce
 on other attack craft they encounter. This hybrid
-approach means that they function as [fighters]
+approach means that they function as [fighters](../the-ordnance-phase.md#fighters)
 with a speed of 25 cm normally but can attack
-ships as if they were [bombers]. However, when
+ships as if they were [bombers](../the-ordnance-phase.md#bombers). However, when
 attacking a ship, each squadron only rolls a D3
 not a D6 for the number of attacks they inflict.
 
 As they behave as both fighters and bombers,
-they apply a bonus to [turret] suppression by
+they apply a bonus to [turret](../the-ordnance-phase.md#turrets) suppression by
 adding +1 attack for each marker in the wave
 after attacks are modified by turrets – meaning
 each ordnance marker that survives against
@@ -185,7 +185,7 @@ improved during combat.
 
 #### Gunz
 
-Standard Ork [weapons batteries] are referred
+Standard Ork [weapons batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) are referred
 to as 'gunz'. These often have a random
 firepower which is rolled each time they
 are fired. The dice roll and modifier for
@@ -202,7 +202,7 @@ from these weapons has spelled the doom of
 many ships.
 
 Heavy gunz roll to hit like ordinary [weapons
-batteries] but do not count gunnery modifiers
+batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) but do not count gunnery modifiers
 for range. Each hit scored by heavy gunz causes
 double damage, i.e, two hits instead of one.
 
@@ -218,15 +218,15 @@ not combine torpedoes into larger salvoes.
 
 ### Ork Planetary Defences
 
-Ork Roks can be taken as [planetary defences]
+Ork Roks can be taken as [planetary defences](planetary-defences.md)
 and purchased using planetary defence
 point allowances in scenarios that allow the
 use of planetary defences and the Orks are
 the defender. When used in this manner,
 they follow all rules for planetary defences,
 meaning they automatically pass all [leadership
-checks] they are required to make but cannot
-undergo any [Special Orders] except [*Reload
+checks](../the-rules.md#taking-command-checks) they are required to make but cannot
+undergo any [Special Orders](../the-rules.md#special-orders) except [*Reload
 Ordnance*] and [*Brace For Impact*], for which
 they are Leadership 7 (Yes, 7 and not 6!).
 
@@ -234,15 +234,15 @@ Ork Roks cannot move and count as
 stationary in all effects when purchased as
 defences, including all rules concerning
 [removal of blast markers from planetary
-defences]. When used in this manner, roll a
+defences](../planetary-defences.md#removal-of-blast-markers). When used in this manner, roll a
 2D6 after setting up each Rok. On a roll of
 12, the Rok falls 2D6 cm toward the [celestial
-phenomena] it is orbiting near. If the Rok
-makes contact with an [asteroid field] or the
-[planet] edge in this manner, it is destroyed!
+phenomena](../the-battlefield.md#celestial-phenomena) it is orbiting near. If the Rok
+makes contact with an [asteroid field](../the-battlefield.md#asteroid-fields) or the
+[planet](../the-battlefield.md#planets) edge in this manner, it is destroyed!
 
-When playing the defender in [scenarios] that
-call for [planetary defences], Orks have access
+When playing the defender in [scenarios](../scenarios.md) that
+call for [planetary defences](planetary-defences.md), Orks have access
 to all the defences listed on [???] pp.141-146
 in the rulebook. These can be represented
 as captured Imperial or Chaos defences, or
@@ -279,7 +279,7 @@ One extra re-roll........................................+20 pts<br>
 Two extra re-rolls ......................................+40 pts
 
 A vessel carrying a Warlord doubles its [boarding
-value] and may include up to one of the upgrades
+value](../the-end-phase.md#boarding-value) and may include up to one of the upgrades
 shown below at the additional cost indicated.
 
 **Maniac Gunners.................................. +35 pts**
@@ -293,7 +293,7 @@ The ship may re-roll the dice for damage control.
 
 **Extra Power Fields .............................. +25 pts**
 
-The ship’s [shield] value is increased by +1. If this
+The ship’s [shield](../the-shooting-phase.md#shields) value is increased by +1. If this
 would take it to 3 or more shields, don’t forget
 to mount it on a 60 mm base!
 
@@ -326,7 +326,7 @@ Brute ramship (pg. 369) .................................. 25 pts
 
 ### Dakka Dakka
 
-Ork capital ships can add +2 [turrets] to their
+Ork capital ships can add +2 [turrets](../the-ordnance-phase.md#turrets) to their
 ships for +20 points (this is not the same thing
 as saying “up to two turrets at +10 points
 each”).
@@ -377,7 +377,7 @@ The ship may re-roll the dice for damage control.
 
 **Extra Power Fields ......................................................... +25 pts**
 
-The ship’s [shield] value is increased by +1. If this would take it
+The ship’s [shield](../the-shooting-phase.md#shields) value is increased by +1. If this would take it
 to 3 or more shields, don’t forget to mount it on a 60 mm base!
 
 **Mega-armoured Boarding Parties ............................... +15 pts**
@@ -446,8 +446,8 @@ fleet.*
 Rok (pg. 374) ..................................................... 80 pts
 
 Ork Roks may also be purchased with points for
-[planetary defences], in [scenarios] where these are
-used. Ork Roks may be [squadroned] with up to
+[planetary defences](planetary-defences.md), in [scenarios](../scenarios.md) where these are
+used. Ork Roks may be [squadroned](../squadrons.md) with up to
 three other Roks (total squadron size of four),
 but not with any other vessels.
 
@@ -460,7 +460,7 @@ with torpedo tubes at no extra cost.
 
 ### Dakka Dakka
 
-Ork capital ships can add +2 [turrets] to their
+Ork capital ships can add +2 [turrets](../the-ordnance-phase.md#turrets) to their
 ships for +20 points (this is not the same thing
 as saying “up to two turrets at +10 points
 each”).
@@ -500,7 +500,7 @@ matter which tribe he belongs to.
 
 ### Clan Upgrades
 
-A Warlord and his [skwadrons] may only be from
+A Warlord and his [skwadrons](#skwadrons) may only be from
 one clan, but as many different clans as desired
 can be in a single fleet. In fact, it is perfectly
 legal for every single Warlord in the fleet to be
@@ -552,8 +552,8 @@ fighting. Goffs like it up close and personal, and
 consider the other clans wimps for hanging back
 and shooting. All Goff ships (including tiddla
 skwadrons) gain a +1 bonus to the dice roll
-during [boarding actions] and a +1 [Leadership]
-bonus when attempting to [ram].
+during [boarding actions](../the-end-phase.md#boarding-actions) and a +1 [Leadership](../the-rules.md#leadership)
+bonus when attempting to [ram](../the-movement-phase.md#all-ahead-full-ramming-speed).
 
 **Evil Sunz ...................................... +20 pts/Red**
 
@@ -593,7 +593,7 @@ Axes are disliked for their dealings with humies
 and other non-Orks, from whom the Blood Axes
 proudly ‘acquire’ various practices and even bits
 of equipment. The Warlord’s ship may take one
-refit from the [Imperial Navy refit table] (rolled
+refit from the Imperial Navy refit table (rolled
 randomly) for +20 points. A Blood Axe tiddla
 skwadron of at least six escorts may include up
 to three Imperial Navy and/or Chaos escorts
@@ -620,7 +620,7 @@ checks when attempting to Brace for Impact.
 
 Big groups of Ork escorts are surprisingly
 coordinated. Ork escort skwadrons gain a +1
-bonus to their [Leadership] while they contain
+bonus to their [Leadership](../the-rules.md#leadership) while they contain
 more than five models (or ‘lotz’ as the Orks
 call it – Orks aren’t very good at counting).
 Note: the maximum number of escorts in an
@@ -634,7 +634,7 @@ of young Orks, eager to prove themselves
 to their elder and larger peers often pack
 themselves aboard rickety old escort vessels
 and tag along to any battle they can find. Any
-Ork escort skwadron with a [Leadership] of 5
+Ork escort skwadron with a [Leadership](../the-rules.md#leadership) of 5
 or 6 gets a bonus escort ship added for free,
 demonstrating quantity has a quality all of its
 own. This includes if the leadership is a result of
@@ -692,25 +692,25 @@ when on [*All Ahead Full*] special orders.
 
 **Extra Power Fields ............................. +25 pts**
 
-(Not for escorts) The ship’s [shield] value is
+(Not for escorts) The ship’s [shield](../the-shooting-phase.md#shields) value is
 increased by +1. If this would take it to 3 or more
 shields, don’t forget to mount it on a 60 mm base!
 
 **Extra Turrets .......................................+20 pts**
 
-The ship gains +2 [Turrets] (Escorts get +1 Turret).
+The ship gains +2 [Turrets](../the-ordnance-phase.md#turrets) (Escorts get +1 Turret).
 This cannot be combined with Maniac Turrets.
 
 **Maniac Turrets .................................... +10 pts**
 
-(Not for escorts.) The ship’s [turret] value is
+(Not for escorts.) The ship’s [turret](../the-ordnance-phase.md#turrets) value is
 replaced by D3 turrets. This cannot be combined
 with Extra Turrets.
 
 **Looted Lances......................................+30 pts**
 
-Any heavy [gunz batterie]s on the ship can be
-replaced with a Strength-2 [lance] battery. Range
+Any heavy [gunz batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) on the ship can be
+replaced with a Strength-2 [lance](../the-shooting-phase.md#direct-firing-lances) battery. Range
 is 15 cm for escorts, 30 cm for capital ships.
 
 **Looted Torpedoes ...............................+20 pts**
@@ -721,7 +721,7 @@ torpedo salvoes when it fires.
 **Mad Meks ............................................ +25 pts**
 
 (Not for escorts.) The ship may re-roll the dice
-when [repairing critical damage].
+when [repairing critical damage](../the-end-phase.md#damage-control).
 
 **Maniac Gunners..................................+30 pts**
 
@@ -731,18 +731,18 @@ of its gunz when it fires.
 **Mega-Armoured Boarding Parties .... +15 pts**
 
 (Not for escorts.) The ship has an additional +1
-modifier when rolling for [boarding actions] and
+modifier when rolling for [boarding actions](../the-end-phase.md#boarding-actions) and
 hit-and-run attacks of any type.
 
 Prow Ram ............................................ +10 pts
 
 (Not for escorts.) This adds +1 bonus when
-rolling a [leadership check to ram] and causes
+rolling a [leadership check to ram](../the-movement-phase.md#all-ahead-full-ramming-speed) and causes
 1Hp before rolling to inf lict damage.
 
 **Tellyporta ............................................+30 pts**
 
-(Not for escorts.) [Hit-and-run teleport attacks]
+(Not for escorts.) [Hit-and-run teleport attacks](../the-end-phase.md#teleport-attacks)
 can be made to 30 cm.
 
 ### More Gubbins
@@ -756,11 +756,11 @@ added to capital ships.
 **Klaws ................................................... +10 pts**
 
 (Not for escorts except the Grunt at +5 points per
-escort.) Klaws are unaffected by [special orders]
+escort.) Klaws are unaffected by [special orders](../the-rules.md#special-orders)
 of any kind but cannot be used by capital ships
-if they are [crippled]. Any time the ship moves in
+if they are [crippled](../the-shooting-phase.md#crippled-ships). Any time the ship moves in
 base contact with any one enemy ship during [the
-movement phase], immediately roll two D6. Each
+movement phase](../the-movement-phase.md), immediately roll two D6. Each
 roll of a 4+ inflicts one hit on the target, ignoring
 shields but not holofields. [*Brace for Impact*] works
 normally against attacks by Klaws.
@@ -778,8 +778,8 @@ has latched on! Neither vessel can move if they
 are of the same class or smaller (such as cruiser
 to cruiser), but a larger class vessel may still move
 but only at half rate. Both ships may shoot at half
-effectiveness ([nova cannon] and similar special
-weapons cannot fire). In every [End phase] roll to
+effectiveness ([nova cannon](../the-shooting-phase.md#nova-cannon) and similar special
+weapons cannot fire). In every [End phase](../the-end-phase.md) roll to
 attack again (two dice needing 4+ to hit). If both
 attacks hit when a vessel is already grappled then
 it takes a third additional hit. Either ship may
@@ -789,20 +789,20 @@ caused by Klaws cause critical hits as normal.
 **Shokk-Attack Lance .................................Free**
 
 (Not for escorts.) A ship’s prow heavy [gunz
-batteries] can be replaced with this weapon,
-which cannot be used if the ship is [crippled] or
-[braced]. It is only effective against ships with
-[shields] down in the same manner as [teleporters].
+batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) can be replaced with this weapon,
+which cannot be used if the ship is [crippled](../the-shooting-phase.md#crippled-ships) or
+[braced](../the-rules.md#brace-for-impact). It is only effective against ships with
+[shields](../the-shooting-phase.md#shields) down in the same manner as [teleporters](../the-end-phase.md#teleport-attacks).
 When used, the ship rolls to hit on a 4+, range:
-30 cm. Holofields and being [braced] both save
+30 cm. Holofields and being [braced](../the-rules.md#brace-for-impact) both save
 normally against this. If a hit is rolled, D3+1
 snotling hordes are teleported onto the enemy
-ship! If a miss is rolled, place a[ blast marker]
+ship! If a miss is rolled, place a [blast marker](../the-shooting-phase.md#blast-markers)
 in base contact with the vessel (even if shields
 are already down) for the hordes of vacuum-frozen snotlings bashing against the exterior
 of the hull. Each hit does not cause damage.
-Instead, the next [leadership check] or [special
-order] made by the ship must be with an extra
+Instead, the next [leadership check](../the-rules.md#taking-command-checks) or [special
+order](../the-rules.md#special-orders) made by the ship must be with an extra
 D6 (such as 3D6, or even more when already
 using 3D6, such as when [*All Ahead Full*] through
 an asteroid field)! Additional “hits” from this
@@ -823,7 +823,7 @@ system that in the end overwhelms the vessel, it
 is just as likely they will miss vital spaces entirely.
 When fired at escorts, the defending squadron
 rolls a D6. On a 4+, the closest escort gets an
-additional [blast marker] placed in contact with
+additional [blast marker](../the-shooting-phase.md#blast-markers) placed in contact with
 it as the hordes have no effect. On a roll of 3 or
 less, the nearest escort in range with no shields
 is destroyed (being braced works normally).
@@ -831,11 +831,11 @@ is destroyed (being braced works normally).
 **Assault Karrier.........................................Free**
 
 (Not for escorts.) Any ship that takes both
-[attack craft] and [torpedoes] can be optimized
-for [hit-and-run attacks] and [boarding actions]
+[attack craft](../the-ordnance-phase.md#attack-craft) and [torpedoes](../the-ordnance-phase.md#torpedoes) can be optimized
+for [hit-and-run attacks](../the-end-phase.md#hit-and-run-attacks) and [boarding actions](../the-end-phase.md#boarding-actions)
 by particularly zealous Orks. It takes [boarding
-torpedoes] for free, but it may only use [assault
-boats]. It may launch +1 assault boat marker each
+torpedoes](../the-ordnance-phase.md#boarding-torpedoes) for free, but it may only use [assault
+boats](../the-ordnance-phase.md#assault-boats). It may launch +1 assault boat marker each
 time it launches attack craft normally (even if
 crippled or braced, but not both).
 
@@ -849,8 +849,8 @@ more, no less.*
 
 Ork Warlord ................................................... Free
 
-A Warlord adds +2 to one [boarding] dice roll
-per game. A Warlord has one [re-roll], and may
+A Warlord adds +2 to one [boarding](../the-end-phase.md#boarding-actions) dice roll
+per game. A Warlord has one [re-roll](../the-rules.md#re-rolls), and may
 purchase one or two more for the points cost
 shown below.
 
@@ -926,11 +926,11 @@ its boarding value or speed may not be taken.
 Ork hulk (pg. 371) .........................................600 pts
 
 ### Ordnance
-Ork [attack craft] carriers use fighta-bommas
-and [assault boats]. They may take torpedo-bommas for +10 points per launch bay (counting
+Ork [attack craft](../the-ordnance-phase.md#attack-craft) carriers use fighta-bommas
+and [assault boats](../the-ordnance-phase.md#assault-boats). They may take torpedo-bommas for +10 points per launch bay (counting
 maximum number of launch bays). Ork capital
-ships that use [torpedoes] may use [boarding
-torpedoes] for +5 points.
+ships that use [torpedoes](../the-ordnance-phase.md#torpedoes) may use [boarding
+torpedoes](../the-ordnance-phase.md#boarding-torpedoes) for +5 points.
 
 ### Using Skwadrons
 
@@ -989,3 +989,4 @@ his or her own skwadrons. The fleet commander
 cannot earn more re-rolls than would be allowed
 by p.153 of the Rulebook, even if a second re-roll
 was purchased at the start of the campaign.
+
