@@ -844,7 +844,7 @@ Cargo Vessel (pg. 186) .................................... 20 pts
 ### Ordnance
 
 Demiurg ships utilize highly automated versions
-of [torpedoes](../the-ordnance-phase.md#torpedoes), [fighters](../the-ordnance-phase.md#fighers), [bombers](../the-ordnance-phase.md#bombers) and [assault boats](../the-ordnance-phase.md#assault-boats).
+of [torpedoes](../the-ordnance-phase.md#torpedoes), [fighters](../the-ordnance-phase.md#fighters), [bombers](../the-ordnance-phase.md#bombers) and [assault boats](../the-ordnance-phase.md#assault-boats).
 They do not have access to [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes)
 but may use [torpedo bombers](../the-ordnance-phase.md#torpedo-bombers) for +10 points per
 launch bay.
