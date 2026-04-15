@@ -106,7 +106,7 @@ and run attack](../the-end-phase.md#hit-and-run-attacks)s if they hit an enemy s
 ### Thunderhawk Gunships
 
 Thunderhawk gunships combine the abilities
-of [assault boats](../the-ordnance-phase.md#assault-boats) and [fighters](../the-ordnance-phase.md#fighers), and move like
+of [assault boats](../the-ordnance-phase.md#assault-boats) and [fighters](../the-ordnance-phase.md#fighters), and move like
 any other [attack craft](../the-ordnance-phase.md#attack-craft), with a speed of 20 cm.
 A Thunderhawk counter that is intercepted
 by enemy fighters or moves onto an enemy
@@ -160,7 +160,7 @@ of the Imperial Navy or the Battle Titans of the
 Adeptus Mechanicus.
 
 Thunderhawk Annihilators combine the
-abilities of [bombers](../the-ordnance-phase.md#bombers) and [fighters](../the-ordnance-phase.md#fighers), and they move
+abilities of [bombers](../the-ordnance-phase.md#bombers) and [fighters](../the-ordnance-phase.md#fighters), and they move
 like any other attack craft with a speed of 20 cm.
 They can no longer be used as [assault boats](../the-ordnance-phase.md#assault-boats).
 
@@ -248,7 +248,7 @@ addition to a normal teleport attack that turn.
 ## Space Marines in Campaigns
 
 In a campaign, the Space Marine fleet has
-access to the same [refits and crew skills](imperial-navy.md#general-upgrades)
+access to the same [refits and crew skills](../campaign-rules.md#general-upgrades)
 as Imperial fleets on [???] of the rulebook.
 Space Marines may roll [appeals](../campaign-rules.md#6-appeals) against the
 Space Marines table on [???] if desired. Ships
@@ -452,7 +452,7 @@ with a billion tons of fortress monastery in tow!
 A Space Marine Crusade fleet will not take
 ships from or provide ships to any other fleet
 list as reserves or allies, including [Imperial Navy](imperial-navy.md),
-[Rogue Trader](rogue-traders) or [Adeptus Mechanicus](adeptus-mechanicus) fleet lists.
+[Rogue Trader](rogue-traders.md) or [Adeptus Mechanicus](adeptus-mechanicus.md) fleet lists.
 
 ### Scenarios
 
