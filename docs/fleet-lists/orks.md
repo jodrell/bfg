@@ -1,16 +1,18 @@
-*This page is a work in progress!*
+# Orks
 
-ORK SPECIAL RULES
-LEADERSHIP
+## Special Rules
+
+### Leadership
+
 While Orks approach space combat with
 the same gusto they reserve for all forms of
 violence, the technical nature of the fighting
 is often at odds with their ability. This means
-that all Ork ships reduce their Leadership by
+that all Ork ships reduce their [Leadership] by
 -1 from whatever they rolled, giving them a
 Leadership range of 5 to 8.
 
-All Ahead Full Special Orders
+#### All Ahead Full Special Orders
 
 One thing Orks need very little
 encouragement to do is go fast. Their ships
@@ -18,45 +20,44 @@ commonly mount a plethora of excess (and
 excessive) thrusters, boosters and extra drives
 – usually all wired up to a prominent red
 button in the cockpit.
+
 Because of this, Orks do not need to pass a
-Command check to use All Ahead Full special
-
-!""
-
+[Command check ]to use [*All Ahead Full*] special
 orders. However, Ork drives are less efficient
 than those of other races and are often short
 on fuel, so they only travel an extra 2D6 cm on
-All Ahead Full orders instead of 4D6 cm.
+[*All Ahead Full*] orders instead of 4D6 cm.
 This special rule does not exempt it from
 the restrictions that occur when a ship or
-squadron fails a special order command
-check. If an Ork command check is failed Ork
-ships not already on All Ahead Full may not
-then be put on All Ahead Full special orders.
+[squadron] fails a [special order command
+check]. If an Ork command check is failed Ork
+ships not already on [*All Ahead Full*] may not
+then be put on [*All Ahead Full*] special orders.
 
-BOARDING
+### Boarding
+
 Orks are ferocious close combat opponents and
-exceptionally good at boarding actions, where
+exceptionally good at [boarding actions], where
 their brute strength and hardiness is most
 useful. To represent this renowned savagery,
 they get a +1 bonus in boarding actions.
 
-ORDNANCE
+### Ordnance
 
-Boarding Torpedoes
+#### Boarding Torpedoes
 
 Any capital ship in the Ork fleet list armed
-with torpedoes can use boarding torpedoes
+with [torpedoes] can use [boarding torpedoes]
 for +5 points. A Space Hulk may use boarding
 torpedoes for +15 points. Escorts cannot use
 boarding torpedoes.
 
-Launch capacity
+#### Launch capacity
 
 Some ships in an Ork fleet may possess a
 variable launch capacity (as is the case with
-many Ork capital ships). In the Ordnance
-phase of each Ork turn when Ork attack craft
+many Ork capital ships). In the [Ordnance
+phase] of each Ork turn when Ork [attack craft]
 remain in play, an Ork fleet with variable
 launch bay Strength must roll to check its
 attack craft capacity. Roll the relevant dice for
@@ -66,28 +67,30 @@ any ship with fixed Strengths to find the total
 launch capacity for the fleet. Any excess attack
 craft above this total are removed at the end
 of the turn as they run out of fuel – use ’em
-or lose ’em. Torpedoes are not subject to this
-rule, as they have no launch limits.
+or lose ’em. [Torpedoes] are not subject to this
+rule, as they have no [launch limits].
 
-Fighta-Bommas
+#### Fighta-Bommas
 
-Ork attack craft are known as fighta-bommas
+Ork [attack craft] are known as fighta-bommas
 and perform the roles of both interceptor and
 bomber. They carry heavy bombs and rockets
 for attacking at close range, but gladly pounce
 on other attack craft they encounter. This hybrid
-approach means that they function as fighters
+approach means that they function as [fighters]
 with a speed of 25 cm normally but can attack
-ships as if they were bombers. However, when
+ships as if they were [bombers]. However, when
 attacking a ship, each squadron only rolls a D3
 not a D6 for the number of attacks they inflict.
+
 As they behave as both fighters and bombers,
-they apply a bonus to turret suppression by
+they apply a bonus to [turret] suppression by
 adding +1 attack for each marker in the wave
 after attacks are modified by turrets – meaning
 each ordnance marker that survives against
 turrets will be able to conduct at least one attack
 and will not have a minimum of zero attacks.
+
 When a wave of fighta-bommas attacks a
 ship, you must decide beforehand if any of
 the markers will forgo their attack runs in
@@ -98,13 +101,14 @@ surviving fighta-bommas when rolling their
 attacks. Fighta-bommas used in this manner
 cannot contribute more bonus attacks than
 the defending ship actually has turrets or
-
 the number of surviving fighta-bommas,
 whichever number is lower.
+
 NOTE: In either case, at least one fighta-bomma
 has to survive against turrets for the wave to
 attack in this manner.
-Example: A Terror Ship launches a single wave
+
+*Example: A Terror Ship launches a single wave
 of four fighta-bommas against a Devastation
 cruiser with three turrets and no CAP, declaring
 two markers are not attacking and will only be
@@ -117,9 +121,9 @@ because each marker also counts as a fighter, it
 adds +1 attack for each marker. It then adds +2
 attacks for the two markers used only to suppress
 turrets (even though one was removed), for a
-single total addition of +4 attacks.
+single total addition of +4 attacks.*
 
-Torpedo-Bommas
+#### Torpedo-Bommas
 
 Orks will sometimes strip out all point-defence
 weapons from their fighta-bommas to sling
@@ -129,16 +133,19 @@ them more shooty. Such converted attack
 craft are torpedo-bommas, which lose all
 their manoeuvrability and are slowed down
 considerably to carry such enormous weapons.
+
 Torpedo-bommas only move 20 cm and do
 NOT retain the ability to behave as fighters
 and cannot intercept other ordnance or
 provide a bonus attack for turret suppression.
+
 In the beginning of any turn after the turn they
 are launched, each torpedo-bomma marker may
 be converted into a Strength-2 torpedo salvo.
 Torpedo-bommas in a wave may combine their
 salvoes into a single salvo, or any number of
 markers may launch their salvoes separately.
+
 Torpedo-bommas may be taken by any ship
 equipped with launch bays for +10 points per
 launch bay strength. For ships with variable
@@ -147,24 +154,26 @@ maximum number of launch bays available.
 This means a Terror Ship must pay +40 points
 and a Space Hulk must pay +160 points to use
 Torpedo Bommas.
+
 When taken, torpedo-bommas are an
 additional ordnance choice available to the
 carrier and do not replace fighta-bommas.
 
-!"#
-
-Ork Orbital Mines
+#### Ork Orbital Mines
 
 Orks may buy orbital mines like other fleets at
 +5 pts per (maximal) launch bay strength and
 minefields for the normal point cost.
+
 Note: Ork Space Hulks cannot take orbital
 mines.
+
 Regardless of how the Orks refer to the four
 named Ork battleships, they are battleships
 nonetheless and cannot take orbital mines.
 
-ORK WEAPONS
+### Ork Weapons
+
 Ork weapons are mostly limited to fairly
 crude but efficient slug-throwers and missiles,
 mixed with other captured weaponry
@@ -174,16 +183,16 @@ wildly from moment to moment as different
 weapons break down or are repaired, or even
 improved during combat.
 
-Gunz
+#### Gunz
 
-Standard Ork weapons batteries are referred
+Standard Ork [weapons batteries] are referred
 to as 'gunz'. These often have a random
 firepower which is rolled each time they
 are fired. The dice roll and modifier for
 different gunz is indicated on the Ork ship's
 characteristics.
 
-Heavy Gunz
+#### Heavy Gunz
 
 The Orks commonly mount massed batteries
 of very powerful but short ranged weapons on
@@ -191,12 +200,13 @@ their ships, as well as more standard weapons
 batteries. At close ranges, the barrage of fire
 from these weapons has spelled the doom of
 many ships.
-Heavy gunz roll to hit like ordinary weapons
-batteries but do not count gunnery modifiers
+
+Heavy gunz roll to hit like ordinary [weapons
+batteries] but do not count gunnery modifiers
 for range. Each hit scored by heavy gunz causes
 double damage, i.e, two hits instead of one.
 
-Torpedo Launchas
+#### Torpedo Launchas
 
 As with their gunz, Ork torpedoes can
 vary wildly in their effectiveness. The
@@ -206,32 +216,33 @@ is fired by rolling the dice indicated on its
 characteristics. Ork ships in skwadrons may
 not combine torpedoes into larger salvoes.
 
-!"$
+### Ork Planetary Defences
 
-ORK PLANETARY DEFENCES
-Ork Roks can be taken as planetary defences
+Ork Roks can be taken as [planetary defences]
 and purchased using planetary defence
 point allowances in scenarios that allow the
 use of planetary defences and the Orks are
 the defender. When used in this manner,
 they follow all rules for planetary defences,
-meaning they automatically pass all leadership
-checks they are required to make but cannot
-undergo any Special Orders except Reload
-Ordnance and Brace For Impact, for which
+meaning they automatically pass all [leadership
+checks] they are required to make but cannot
+undergo any [Special Orders] except [*Reload
+Ordnance*] and [*Brace For Impact*], for which
 they are Leadership 7 (Yes, 7 and not 6!).
+
 Ork Roks cannot move and count as
 stationary in all effects when purchased as
 defences, including all rules concerning
-removal of blast markers from planetary
-defences. When used in this manner, roll a
+[removal of blast markers from planetary
+defences]. When used in this manner, roll a
 2D6 after setting up each Rok. On a roll of
-12, the Rok falls 2D6 cm toward the celestial
-phenomena it is orbiting near. If the Rok
-makes contact with an asteroid field or the
-planet edge in this manner, it is destroyed!
-When playing the defender in scenarios that
-call for planetary defences, Orks have access
+12, the Rok falls 2D6 cm toward the [celestial
+phenomena] it is orbiting near. If the Rok
+makes contact with an [asteroid field] or the
+[planet] edge in this manner, it is destroyed!
+
+When playing the defender in [scenarios] that
+call for [planetary defences], Orks have access
 to all the defences listed on [???] pp.141-146
 in the rulebook. These can be represented
 as captured Imperial or Chaos defences, or
@@ -245,14 +256,11 @@ a non-moving Space Hulk using the same
 (unchanged) profile and point cost listed on
 [???] p.145.
 
-ORK PIRATES
+## Ork Pirates: Cyclops Cluster Fleet List
 
-CYCLOPS CLUSTER FLEET LIST
-WARLORD
+### Warlord
 
-KROOZERS
-
-You may include 1 or more Warlord in your
+*You may include 1 or more Warlord in your
 fleet, each of whom must be assigned to a ship
 or squadron. If the fleet is worth 500 points or
 more it must include at least 1 Warlord to lead it.
@@ -260,60 +268,76 @@ An Ork fleet can include a max. of one Warlord
 per 500 points. ie, if the fleet is worth up to 500
 points, it may have one Warlord. If it is worth
 500–1,000 points two Warlords may be included,
-etc.
-Ork Warlord ................................................ 40 pts
+etc.*
 
-You may include up to six kroozers in your fleet.
-Terror ship (pg. 362) ...................................... 185 pts
-Kill kroozer (pg. 364) .................................... 155 pts
+Ork Warlord ................................................ 40 pts
 
 Warlords get one re-roll. They can have up to two
 more re-rolls for the additional cost noted below.
-One extra re-roll........................................+20 pts
+
+One extra re-roll........................................+20 pts<br>
 Two extra re-rolls ......................................+40 pts
-A vessel carrying a Warlord doubles its boarding
-value and may include up to one of the upgrades
+
+A vessel carrying a Warlord doubles its [boarding
+value] and may include up to one of the upgrades
 shown below at the additional cost indicated.
-Maniac Gunners.................................. +35 pts
+
+**Maniac Gunners.................................. +35 pts**
+
 The ship may re-roll the dice for the firepower
 of its gunz when it fires.
-Mad Meks ........................................... +25 pts
+
+**Mad Meks ........................................... +25 pts**
+
 The ship may re-roll the dice for damage control.
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Ravager attack ship (pg. 368) ......................... 40 pts
-Onslaught attack ship (pg. 366) ..................... 35 pts
-Grunt assault ship (pg. 370)............................ 30 pts
-Savage gunship (pg. 367)................................. 30 pts
+**Extra Power Fields .............................. +25 pts**
+
+The ship’s [shield] value is increased by +1. If this
+would take it to 3 or more shields, don’t forget
+to mount it on a 60 mm base!
+
+**Mega-armoured Boarding Parties .... +15 pts**
+
++1 modifier on boarding.
+
+**Looted Torpedoes ...............................+20 pts**
+
+The ship may re-roll the dice for the strength of
+torpedo salvoes when it fires.
+
+### Kroozers
+
+*You may include up to six kroozers in your fleet.*
+
+Terror ship (pg. 362) ...................................... 185 pts<br>
+Kill kroozer (pg. 364) .................................... 155 pts
+
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Ravager attack ship (pg. 368) ......................... 40 pts<br>
+Onslaught attack ship (pg. 366) ..................... 35 pts<br>
+Grunt assault ship (pg. 370)............................ 30 pts<br>
+Savage gunship (pg. 367)................................. 30 pts<br>
 Brute ramship (pg. 369) .................................. 25 pts
 
-DAKKA DAKKA
-Ork capital ships can add +2 turrets to their
+### Dakka Dakka
+
+Ork capital ships can add +2 [turrets] to their
 ships for +20 points (this is not the same thing
 as saying “up to two turrets at +10 points
 each”).
+
 Ork escorts may add +1 turret for +5 points
 per escort. If this option is taken, every escort
 in a given squadron must take the refit, not
 just individual escorts in a squadron.
 
-Extra Power Fields .............................. +25 pts
-The ship’s shield value is increased by +1. If this
-would take it to 3 or more shields, don’t forget
-to mount it on a 60 mm base!
-Mega-armoured Boarding Parties .... +15 pts
-+1 modifier on boarding.
-Looted Torpedoes ...............................+20 pts
-The ship may re-roll the dice for the strength of
-torpedo salvoes when it fires.
+## Third Armageddon war: Ork Waaagh! Fleet List
 
-!"%
-
-THIRD ARMAGEDDON WAR
-
-ORK WAAAGH! FLEET LIST
 This fleet list represents an Ork fleet either conducting, or
 preparing for, an Ork Waaagh! and may be used instead of
 the Ork pirate fleet list. The Waaagh! Fleet list is particularly
@@ -321,52 +345,56 @@ appropriate for using with Ork fleets which are fighting battle
 scenarios, especially planetary assaults and fleet actions, such
 as those conducted throughout the Third Armageddon War.
 
-WARLORD
-You may include 1 or more Warlord in your fleet, each of whom
+### Warlord
+
+*You may include 1 or more Warlord in your fleet, each of whom
 must be assigned to a ship or squadron. If the fleet is worth 500
 points or more it must include at least 1 Warlord to lead it.
 An Ork fleet can include a max. of one Warlord per 500 points.
 ie, if the fleet is worth up to 500 points, it may have one Warlord.
-If it is worth 500–1,000 points two Warlords may be included, etc.
+If it is worth 500–1,000 points two Warlords may be included, etc.*
+
 Ork Warlord ..............................................................................40 pts
+
 Warlords get one re-roll. They can have up to two more re-rolls
 for the additional cost noted below.
-One extra re-roll......................................................................+20 pts
+
+One extra re-roll......................................................................+20 pts<br>
 Two extra re-rolls ................................................................... +40 pts
+
 A vessel carrying a Warlord doubles its boarding value and may
 include up to one of the upgrades shown below at the additional
 cost indicated.
-Maniac Gunners............................................................. +35 pts
+
+**Maniac Gunners............................................................. +35 pts**
+
 The ship may re-roll the dice for the firepower of its gunz when
 it fires.
-Mad Meks ...................................................................... +25 pts
+
+**Mad Meks ...................................................................... +25 pts**
+
 The ship may re-roll the dice for damage control.
-Extra Power Fields ......................................................... +25 pts
-The ship’s shield value is increased by +1. If this would take it
+
+**Extra Power Fields ......................................................... +25 pts**
+
+The ship’s [shield] value is increased by +1. If this would take it
 to 3 or more shields, don’t forget to mount it on a 60 mm base!
-Mega-armoured Boarding Parties ............................... +15 pts
+
+**Mega-armoured Boarding Parties ............................... +15 pts**
+
 +1 modifier on boarding.
+
 Looted Torpedoes .......................................................... +20 pts
+
 The ship may re-roll the dice for the strength of torpedo salvoes
 when it fires.
 
-!"&
+### Space Hulks
 
-SPACE HULKS
+*You may include up to one Ork Space Hulk in
+your fleet per 1,500 points.*
 
-ESCORTS
-
-You may include up to one Ork Space Hulk in
-your fleet per 1,500 points.
 Ork hulk (pg. 371) .........................................600 pts
-
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Ravager attack ship (pg. 368) ......................... 40 pts
-Onslaught attack ship (pg. 366) ..................... 35 pts
-Grunt assault ship (pg. 370)............................ 30 pts
-Savage gunship (pg. 367)................................. 30 pts
-Brute ramship (pg. 369) .................................. 25 pts
 
 An Ork fleet can include a maximum of one
 space hulk per 1,500 points. So if the fleet is
@@ -375,89 +403,83 @@ Space hulk. If it is worth 1,500-3,000 points, two
 space hulks may be included, etc. Each Ork hulk
 must be assigned an Ork Warlord to command it.
 
-BATTLESHIPS & BATTLEKROOZERS
-During the Third Armageddon War, four
+### Battleships & Battlekroozers
+
+*During the Third Armageddon War, four
 particularly monstrous Ork vessels earned the
 appellation ‘ battleship’ even if such distinct
 classes are unknown to the Orks themselves, who
 refer to these four, and most similar vessels, as
 battlekroozers. For every two kroozers included
 in your fleet, you may pick one vessel from the
-list below.
-(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts
-(0–1) Slamblasta (pg. 360) ............................ 295 pts
-(0–1) Dethdeala (pg. 358) .............................. 275 pts
-(0–1) Kroolboy (pg. 361) ................................ 270 pts
+list below.*
+
+(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts<br>
+(0–1) Slamblasta (pg. 360) ............................ 295 pts<br>
+(0–1) Dethdeala (pg. 358) .............................. 275 pts<br>
+(0–1) Kroolboy (pg. 361) ................................ 270 pts<br>
 Hammer class battlekroozer (pg. 356)........ 245 pts
 
-KROOZERS
-You may include up to six kroozers in your fleet.
-Terror ship (pg. 362) ...................................... 185 pts
+### Kroozers
+
+*You may include up to six kroozers in your fleet.*
+
+Terror ship (pg. 362) ...................................... 185 pts<br>
 Kill kroozer (pg. 364) .................................... 155 pts
 
-ORK ROKS
-You can include any number of Ork Roks in your
-fleet.
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Ravager attack ship (pg. 368) ......................... 40 pts<br>
+Onslaught attack ship (pg. 366) ..................... 35 pts<br>
+Grunt assault ship (pg. 370)............................ 30 pts<br>
+Savage gunship (pg. 367)................................. 30 pts<br>
+Brute ramship (pg. 369) .................................. 25 pts
+
+### Ork Roks
+
+*You can include any number of Ork Roks in your
+fleet.*
+
 Rok (pg. 374) ..................................................... 80 pts
+
 Ork Roks may also be purchased with points for
-planetary defences, in scenarios where these are
-used. Ork Roks may be squadroned with up to
+[planetary defences], in [scenarios] where these are
+used. Ork Roks may be [squadroned] with up to
 three other Roks (total squadron size of four),
 but not with any other vessels.
 
-ORDNANCE
+### Ordnance
+
 Ships with launch bays can have a mixture of
 fighta-bommerz or assault boats. Kill kroozers
 and Terror ships can replace their prow batteries
 with torpedo tubes at no extra cost.
 
-DAKKA DAKKA
-Ork capital ships can add +2 turrets to their
+### Dakka Dakka
+
+Ork capital ships can add +2 [turrets] to their
 ships for +20 points (this is not the same thing
 as saying “up to two turrets at +10 points
 each”).
+
 Ork escorts may add +1 turret for +5 points
 per escort. If this option is taken, every escort
 in a given squadron must take the refit, not
 just individual escorts in a squadron.
 
-!"'
+## Ork Clanz: 'Ere we go! 'Ere we go! 'Ere we Go!
 
-ORK CLANZ
-'ERE WE GO! 'ERE WE GO! 'ERE WE GO!
+### Using Ork Clanz
 
-Orks gather into various levels of organization.
-The first is the mob, a squad-level unit of
-Orks with similar ideas of how to act on the
-battlefield, generally led by a nob (short for
-"noble," but pronounced "knob"). A number of
-mobs will gather together into a warband, which
-is roughly equivalent to an Imperial Guard
-company (although with a greater variation in
-size and strength), led by a warboss. The largest
-Ork organizational unit is the tribe, a group of
-numerous warbands all under the command of
-a warboss. Different tribes can be united by a
-powerful warlord when he raises a Waaagh!
-As opposed to the warbands and tribes that
-Orks naturally organize in, Ork clanz are
-not communities but rather philosophical
-delineations of the different varieties of Ork.
-Each has its own colours, markings, and ways
-of waging war. Orks tend to form warbands
-with others who follow the same clan, but
-different groups or even so-minded entire
-warbands will tend to conglomerate together
-after suffering casualties during a Waaagh!
-
-!#(
-
-USING ORK CLANZ
 The Ork Clanz rules can be used in addition
 to the normal Ork rules, but only with its
 dedicated Clanz fleet list.
 
-MUSTERIN' DA CLANZ
+### Musterin' da Clanz
+
 Orks live in tribes, individual armies each led
 by a Warlord. However, Orks are also divided
 into clans, ancient allegiances to which the
@@ -476,8 +498,9 @@ can. Each clan has its own distinctive character
 and abilities, and an Ork will retain these no
 matter which tribe he belongs to.
 
-CLAN UPGRADES
-A Warlord and his skwadrons may only be from
+### Clan Upgrades
+
+A Warlord and his [skwadrons] may only be from
 one clan, but as many different clans as desired
 can be in a single fleet. In fact, it is perfectly
 legal for every single Warlord in the fleet to be
@@ -491,6 +514,7 @@ clan colours if the majority of the ships in the
 skwadron have their clan colour covering more
 than half of the model. The colours for each clan
 is shown after the points cost for the upgrade.
+
 Note that although these rules refer to
 skwadrons, this also applies to single vessels
 (since battleships, battlekroozers and kroozers
@@ -504,6 +528,7 @@ limited to only these paint schemes. It’s not
 uncommon for Ork freebooters to incorporate
 several colour schemes in their ships, when
 they bother to paint their rust-buckets at all!
+
 Clan upgrades are different from Gubbins
 and may be taken (and paid for) in addition
 to Gubbins by individual skwadrons. If taken,
@@ -518,22 +543,27 @@ for the clan upgrade if the tiddla skwadron
 is wiped out. If a single escort survives the
 battle, the enemy does not get additional
 victory points for the clan upgrade.
-Goffs ......................................... +20 pts/Black
+
+**Goffs ......................................... +20 pts/Black**
+
 The Goffs are the most aggressive of the Ork
 clans, born fighters amongst a race born for
 fighting. Goffs like it up close and personal, and
 consider the other clans wimps for hanging back
 and shooting. All Goff ships (including tiddla
 skwadrons) gain a +1 bonus to the dice roll
-during boarding actions and a +1 Leadership
-bonus when attempting to ram.
+during [boarding actions] and a +1 [Leadership]
+bonus when attempting to [ram].
 
-Evil Sunz ...................................... +20 pts/Red
+**Evil Sunz ...................................... +20 pts/Red**
+
 Evil Sunz are obsessed with speed, endlessly
 tinkering with the engines of all their vehicles
 and ships, trying to get as much speed out of them
 as possible. All Evil Sunz ships gain +5 cm speed.
-Bad Moonz ............................. +30 pts/Yellow
+
+**Bad Moonz ............................. +30 pts/Yellow**
+
 Bad Moonz are the richest of the clans, using their
 own fast-growing teeth as currency. This also has
 the effect of making them a valuable target for other
@@ -542,15 +572,19 @@ proudly display their wealth through a combination
 of gaudy colours and all the best gizmos that money
 can buy. All ships in a Bad Moonz skwadron gain
 the Maniac Gunners upgrade.
-Deathskullz ................................ +30 pts/Blue
+
+**Deathskullz ................................ +30 pts/Blue**
+
 The Deathskulls are the masters of salvage. After
 a good old scrap it will always be the Deathskullz
 who are whizzing about scrounging what they
-can from any wrecks left f loating across the
+can from any wrecks left floating across the
 battlefield. Deathskullz capital ships and/
 or tiddla skwadrons have ‘looted’ upgrades
 (torpedoes and/or lances) for no additional cost.
-Blood Axes.................................... Free/Green
+
+**Blood Axes.................................... Free/Green**
+
 Most Orks distrust the Blood Axes, who they
 consider to be treacherous gits and cowards
 who sneak around in poncey clothes to make
@@ -559,7 +593,7 @@ Axes are disliked for their dealings with humies
 and other non-Orks, from whom the Blood Axes
 proudly ‘acquire’ various practices and even bits
 of equipment. The Warlord’s ship may take one
-refit from the Imperial Navy refit table (rolled
+refit from the [Imperial Navy refit table] (rolled
 randomly) for +20 points. A Blood Axe tiddla
 skwadron of at least six escorts may include up
 to three Imperial Navy and/or Chaos escorts
@@ -567,7 +601,9 @@ from any fleet list at their listed cost. These
 commandeered vessels must have an Orky colour
 scheme and kustom-job – you can’t just borrow
 the ships from your Imperial or Chaos fleet!
-Snakebites .................................... Free/Brown
+
+**Snakebites .................................... Free/Brown**
+
 The Snakebites are a primitive clan (even by Ork
 standards) and use technology only reluctantly.
 Snakebites will indulge in space travel if it’s likely
@@ -580,25 +616,25 @@ are permitted to bear the clan colours. Snakebite
 skwadrons gain a special +1 bonus to Command
 checks when attempting to Brace for Impact.
 
-!#)
+### Mob Rule
 
-MOB RULE
 Big groups of Ork escorts are surprisingly
 coordinated. Ork escort skwadrons gain a +1
-bonus to their Leadership while they contain
+bonus to their [Leadership] while they contain
 more than five models (or ‘lotz’ as the Orks
 call it – Orks aren’t very good at counting).
 Note: the maximum number of escorts in an
 Ork squadron can be up to ten.
 
-YOUNG GUNZ
+### Young Gunz
+
 While not technically skilled, Orks do possess
 boundless enthusiasm for fighting, and mobs
 of young Orks, eager to prove themselves
 to their elder and larger peers often pack
 themselves aboard rickety old escort vessels
 and tag along to any battle they can find. Any
-Ork escort skwadron with a Leadership of 5
+Ork escort skwadron with a [Leadership] of 5
 or 6 gets a bonus escort ship added for free,
 demonstrating quantity has a quality all of its
 own. This includes if the leadership is a result of
@@ -611,7 +647,8 @@ be applied before Mob Rule: a tiddla skwadron
 with five escorts that rolls Ld 5 may have a sixth
 escort for free, increasing its Ld to 6!
 
-GUBBINS
+### Gubbins
+
 Orks are always trying to improve their
 ships in some fashion and will do whatever
 they have to for either more parts or the
@@ -636,8 +673,6 @@ twice over the course of a campaign may
 have their first normally earned refit for free
 instead of paying the normal +10% cost.
 
-!#*
-
 For tiddla skwadrons, the point cost for
 Gubbins count for the whole skwadron
 (regardless of how large it is!), not individual
@@ -649,62 +684,87 @@ get additional victory points for the Gubbins.
 Not all Gubbins apply to escorts or are taken
 the same way as capital ships, as indicated by
 their notes.
-Soopa Boostas ..................................... +25 pts
+
+**Soopa Boostas ..................................... +25 pts**
+
 The ship gains +5 cm speed, and it rolls 4D6 cm
-when on All Ahead Full special orders.
-Extra Power Fields ............................. +25 pts
-(Not for escorts) The ship’s shield value is
+when on [*All Ahead Full*] special orders.
+
+**Extra Power Fields ............................. +25 pts**
+
+(Not for escorts) The ship’s [shield] value is
 increased by +1. If this would take it to 3 or more
 shields, don’t forget to mount it on a 60 mm base!
-Extra Turrets .......................................+20 pts
-The ship gains +2 Turrets (Escorts get +1 Turret).
+
+**Extra Turrets .......................................+20 pts**
+
+The ship gains +2 [Turrets] (Escorts get +1 Turret).
 This cannot be combined with Maniac Turrets.
-Maniac Turrets .................................... +10 pts
-(Not for escorts.) The ship’s turret value is
+
+**Maniac Turrets .................................... +10 pts**
+
+(Not for escorts.) The ship’s [turret] value is
 replaced by D3 turrets. This cannot be combined
 with Extra Turrets.
-Looted Lances......................................+30 pts
-Any heavy gunz batteries on the ship can be
-replaced with a Strength-2 lance battery. Range
+
+**Looted Lances......................................+30 pts**
+
+Any heavy [gunz batterie]s on the ship can be
+replaced with a Strength-2 [lance] battery. Range
 is 15 cm for escorts, 30 cm for capital ships.
-Looted Torpedoes ...............................+20 pts
+
+**Looted Torpedoes ...............................+20 pts**
+
 The ship may re-roll the dice for the Strength of
 torpedo salvoes when it fires.
-Mad Meks ............................................ +25 pts
+
+**Mad Meks ............................................ +25 pts**
+
 (Not for escorts.) The ship may re-roll the dice
-when repairing critical damage.
-Maniac Gunners..................................+30 pts
+when [repairing critical damage].
+
+**Maniac Gunners..................................+30 pts**
+
 The ship may re-roll the dice for the firepower
 of its gunz when it fires.
-Mega-Armoured Boarding Parties .... +15 pts
-(Not for escorts.) The ship has an additional +1
-modifier when rolling for boarding actions and
-hit-and-run attacks of any type.
-Prow Ram ............................................ +10 pts
-(Not for escorts.) This adds +1 bonus when
-rolling a leadership check to ram and causes
 
-1Hp before rolling to inf lict damage.
-Tellyporta ............................................+30 pts
-(Not for escorts.) Hit-and-run teleport attacks
+**Mega-Armoured Boarding Parties .... +15 pts**
+
+(Not for escorts.) The ship has an additional +1
+modifier when rolling for [boarding actions] and
+hit-and-run attacks of any type.
+
+Prow Ram ............................................ +10 pts
+
+(Not for escorts.) This adds +1 bonus when
+rolling a [leadership check to ram] and causes
+1Hp before rolling to inf lict damage.
+
+**Tellyporta ............................................+30 pts**
+
+(Not for escorts.) [Hit-and-run teleport attacks]
 can be made to 30 cm.
 
-MORE GUBBINS
+### More Gubbins
+
 The following gubbins can be taken by any
-number of capital ships in the fleet. More
-Gubbins are not available for escorts (except
+number of capital ships in the fleet. **More
+Gubbins** are not available for escorts (except
 the Grunt where indicated) and can only be
 added to capital ships.
-Klaws ................................................... +10 pts
+
+**Klaws ................................................... +10 pts**
+
 (Not for escorts except the Grunt at +5 points per
-escort.) Klaws are unaffected by special orders
+escort.) Klaws are unaffected by [special orders]
 of any kind but cannot be used by capital ships
-if they are crippled. Any time the ship moves in
-base contact with any one enemy ship during the
-movement phase, immediately roll two D6. Each
+if they are [crippled]. Any time the ship moves in
+base contact with any one enemy ship during [the
+movement phase], immediately roll two D6. Each
 roll of a 4+ inflicts one hit on the target, ignoring
-shields but not holofields. Brace for Impact works
+shields but not holofields. [*Brace for Impact*] works
 normally against attacks by Klaws.
+
 Each ship with Klaws may only use it once per
 turn, regardless of how many vessels it contacts
 during the Ork player’s movement phase, though
@@ -718,23 +778,33 @@ has latched on! Neither vessel can move if they
 are of the same class or smaller (such as cruiser
 to cruiser), but a larger class vessel may still move
 but only at half rate. Both ships may shoot at half
-effectiveness (nova cannon and similar special
-weapons cannot fire). In every End phase roll to
+effectiveness ([nova cannon] and similar special
+weapons cannot fire). In every [End phase] roll to
 attack again (two dice needing 4+ to hit). If both
 attacks hit when a vessel is already grappled then
 it takes a third additional hit. Either ship may
 conduct boarding actions as normal. Damage
 caused by Klaws cause critical hits as normal.
 
+**Shokk-Attack Lance .................................Free**
+
+(Not for escorts.) A ship’s prow heavy [gunz
+batteries] can be replaced with this weapon,
+which cannot be used if the ship is [crippled] or
+[braced]. It is only effective against ships with
+[shields] down in the same manner as [teleporters].
+When used, the ship rolls to hit on a 4+, range:
+30 cm. Holofields and being [braced] both save
+normally against this. If a hit is rolled, D3+1
 snotling hordes are teleported onto the enemy
-ship! If a miss is rolled, place a blast marker
+ship! If a miss is rolled, place a[ blast marker]
 in base contact with the vessel (even if shields
-are already down) for the hordes of vacuumfrozen snotlings bashing against the exterior
+are already down) for the hordes of vacuum-frozen snotlings bashing against the exterior
 of the hull. Each hit does not cause damage.
-Instead, the next leadership check or special
-order made by the ship must be with an extra
+Instead, the next [leadership check] or [special
+order] made by the ship must be with an extra
 D6 (such as 3D6, or even more when already
-using 3D6, such as when All Ahead Full through
+using 3D6, such as when [*All Ahead Full*] through
 an asteroid field)! Additional “hits” from this
 weapon only add to the number of hordes that
 must be eradicated before the ship can return to
@@ -745,6 +815,7 @@ furiously to shove thousands of snotlings out the
 nearest airlock! These can also each be repaired
 in the end phase normally when rolling to repair
 critical damage.
+
 Escorts have fewer complex systems than capital
 ships and are smaller overall. While multiple
 snotling hordes can possibly get into some vital
@@ -752,53 +823,42 @@ system that in the end overwhelms the vessel, it
 is just as likely they will miss vital spaces entirely.
 When fired at escorts, the defending squadron
 rolls a D6. On a 4+, the closest escort gets an
-additional blast marker placed in contact with
+additional [blast marker] placed in contact with
 it as the hordes have no effect. On a roll of 3 or
 less, the nearest escort in range with no shields
 is destroyed (being braced works normally).
-Assault Karrier.........................................Free
+
+**Assault Karrier.........................................Free**
+
 (Not for escorts.) Any ship that takes both
-attack craft and torpedoes can be optimized
-for hit-and-run attacks and boarding actions
-by particularly zealous Orks. It takes boarding
-torpedoes for free, but it may only use assault
-boats. It may launch +1 assault boat marker each
+[attack craft] and [torpedoes] can be optimized
+for [hit-and-run attacks] and [boarding actions]
+by particularly zealous Orks. It takes [boarding
+torpedoes] for free, but it may only use [assault
+boats]. It may launch +1 assault boat marker each
 time it launches attack craft normally (even if
 crippled or braced, but not both).
 
-Shokk-Attack Lance .................................Free
-(Not for escorts.) A ship’s prow heavy gunz
-batteries can be replaced with this weapon,
-which cannot be used if the ship is crippled or
-braced. It is only effective against ships with
-shields down in the same manner as teleporters.
-When used, the ship rolls to hit on a 4+, range:
-30 cm. Holofields and being braced both save
-normally against this. If a hit is rolled, D3+1
+## Choozin’ yer Fleet: Da Ork Clanz Fleet List
 
-!#!
+### Warlord
 
-CHOOZIN’ YER FLEET
+*Ork fleets always include one Warlord for every
+500 points, or part, that the fleet is worth – no
+more, no less.*
 
-DA ORK CLANZ FLEET LIST
-WARLORD
+Ork Warlord ................................................... Free
 
-1-2 Kroozers, chosen from the following list:
-Terror ship (pg. 362) ...................................... 185 pts
-Kill kroozer (pg. 364) .................................... 155 pts
-Lite kroozer (pg. 362) ..................................... 90 pts
-
-A Warlord adds +2 to one boarding dice roll
-per game. A Warlord has one re-roll, and may
+A Warlord adds +2 to one [boarding] dice roll
+per game. A Warlord has one [re-roll], and may
 purchase one or two more for the points cost
 shown below.
 
-Tiddla skwadron
-
-One extra re-roll........................................+20 pts
+One extra re-roll........................................+20 pts<br>
 Two extra re-rolls ......................................+40 pts
+
 A Warlord may choose for his own ship or escort
-skwadron one upgrade from the Gubbins list for
+skwadron one upgrade from the [Gubbins](#gubbins) list for
 every re-roll he has at its listed cost. He must be
 embarked on the most expensive ship under his
 own command (as opposed to the whole fleet),
@@ -806,47 +866,52 @@ even if it is an escort - annotate which one it is. A
 Warlord’s re-rolls only count for the skwadrons
 under his command and not for the whole fleet.
 
-SKWADRONS
-For every re-roll a Warlord has (including the first
+### Skwadrons
+
+*For every re-roll a Warlord has (including the first
 one for free), the Warlord must be in command
 of one tiddla skwadron of at least three escorts
 and one other skwadrons. He may also swap
 leadership with any one ship or escort squadron
-under his command.
+under his command.*
 
-‘Uge ship skwadron
+#### ‘Uge ship skwadron
 
-1 Battlekroozer/ship, chosen from the following
-list:
-(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts
-(0–1) Slamblasta (pg. 360) ............................ 295 pts
-(0–1) Dethdeala (pg. 358) .............................. 275 pts
-(0–1) Kroolboy (pg. 361) ................................ 270 pts
+*1 Battlekroozer/ship, chosen from the following
+list:*
+
+(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts<br>
+(0–1) Slamblasta (pg. 360) ............................ 295 pts<br>
+(0–1) Dethdeala (pg. 358) .............................. 275 pts<br>
+(0–1) Kroolboy (pg. 361) ................................ 270 pts<br>
 Hammer class battlekroozer (pg. 356)........ 245 pts
 
-!#"
+#### Big ship skwadron
 
-Big ship skwadron
+*1-2 Kroozers, chosen from the following list:*
 
-Ork fleets always include one Warlord for every
-500 points, or part, that the fleet is worth – no
-more, no less.
-Ork Warlord ................................................... Free
+Terror ship (pg. 362) ...................................... 185 pts<br>
+Kill kroozer (pg. 364) .................................... 155 pts<br>
+Lite kroozer (pg. 362) ..................................... 90 pts
 
-3-10 Escorts, chosen from the following list in any
-mix desired:
-Ravager attack ship (pg. 368) ......................... 40 pts
-Onslaught attack ship (pg. 366) ..................... 35 pts
-Grunt assault ship (pg. 370)............................ 30 pts
-Savage gunship (pg. 367)................................. 30 pts
+#### Tiddla skwadron
+
+*3-10 Escorts, chosen from the following list in any
+mix desired:*
+
+Ravager attack ship (pg. 368) ......................... 40 pts<br>
+Onslaught attack ship (pg. 366) ..................... 35 pts<br>
+Grunt assault ship (pg. 370)............................ 30 pts<br>
+Savage gunship (pg. 367)................................. 30 pts<br>
 Brute ramship (pg. 369) .................................. 25 pts
 
-Rok skwadron
+#### Rok skwadron
 
-1–4 Roks
+*1–4 Roks*
+
 Rok (pg. 374) ..................................................... 80 pts
 
-Space Hulks
+#### Space Hulks
 
 An Ork fleet with at least three Warlords may
 include one Space Hulk. One of your Warlords
@@ -857,16 +922,18 @@ many re-rolls the Warlord has. Space Hulks so
 led can take upgrades from the list of Gubbins
 for double the listed cost. Upgrades that increase
 its boarding value or speed may not be taken.
+
 Ork hulk (pg. 371) .........................................600 pts
 
-ORDNANCE
-Ork attack craft carriers use fighta-bommas
-and assault boats. They may take torpedobommas for +10 points per launch bay (counting
+### Ordnance
+Ork [attack craft] carriers use fighta-bommas
+and [assault boats]. They may take torpedo-bommas for +10 points per launch bay (counting
 maximum number of launch bays). Ork capital
-ships that use torpedoes may use boarding
-torpedoes for +5 points.
+ships that use [torpedoes] may use [boarding
+torpedoes] for +5 points.
 
-USING SKWADRONS
+### Using Skwadrons
+
 There is no restriction for what kinds or how
 many of what type of skwadrons are in the fleet
 as long as no Warlord may have more than one
@@ -895,7 +962,6 @@ size cannot be altered, how many points each
 Warlord is put in charge of can be mixed and
 matched in any way desired; it is perfectly legal
 for a Warlord with one re-roll to have one or two
-
 kroozers and a tiddla squadron of three escorts,
 or just a single Rok as a skwadron (if desired) and
 a tiddla squadron of nine escorts, etc. A Warlord
@@ -905,6 +971,7 @@ one extra re-roll to do so. A Warlord leading a
 Space Hulk may only lead it and no other ships,
 but he is not required to take any extra re-rolls
 to do so if it is not desired.
+
 In campaigns, nominate one Warlord to
 command the fleet. This is essentially “you” and
 must be on the most expensive ship in the fleet,
@@ -915,14 +982,10 @@ earning more (along with more skwadrons) over
 the course of the campaign. This means the fleet
 commander personally starts with no more than
 one tiddla squadron of up to ten escorts and
-one other skwadron (or two each if a second reroll is purchased at the start of the campaign),
+one other skwadron (or two each if a second re-roll is purchased at the start of the campaign),
 which may be taken in any manner desired.
 Fleet commander re-rolls can only be used by
 his or her own skwadrons. The fleet commander
 cannot earn more re-rolls than would be allowed
 by p.153 of the Rulebook, even if a second re-roll
 was purchased at the start of the campaign.
-
-!##
-
-
