@@ -234,7 +234,7 @@ Ork Roks cannot move and count as
 stationary in all effects when purchased as
 defences, including all rules concerning
 [removal of blast markers from planetary
-defences](../planetary-defences.md#removal-of-blast-markers). When used in this manner, roll a
+defences](../planetary-defences.md#blast-marker-removal). When used in this manner, roll a
 2D6 after setting up each Rok. On a roll of
 12, the Rok falls 2D6 cm toward the [celestial
 phenomena](../the-battlefield.md#celestial-phenomena) it is orbiting near. If the Rok
