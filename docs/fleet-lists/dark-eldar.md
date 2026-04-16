@@ -1,5 +1,7 @@
 # Dark Eldar
 
+*This page is a work in progress!*
+
 ## Special Rules
 
 The Dark Eldar use the following special

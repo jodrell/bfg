@@ -1,3 +1,6 @@
+
+*This page is a work in progress!*
+
 ## Introduction
 
 **In the [Rulebook](index.md), you learned how to play the basic
@@ -540,3 +543,5 @@ treated as a guide for what fleets may ally with
 each other, detailed as follows:
 
 ### Allies Matrix
+
+_(Editor's note: this page in the PDF is empty)_

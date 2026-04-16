@@ -1,5 +1,7 @@
 # Planetary Defences
 
+*This page is a work in progress!*
+
 As well as relying upon the intervention of
 interstellar warships, a planetary system may
 also be protected by local defences. The first of

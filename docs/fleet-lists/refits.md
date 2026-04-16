@@ -1,5 +1,7 @@
 # Refits
 
+*This page is a work in progress!*
+
 _**Many of the vessels throughout this volume have their own selection of ship class
 refits available to them. Most of these are of course unique and restricted to a
 single class of vessel but there are a number of more common refits commonly
