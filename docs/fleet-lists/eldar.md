@@ -12,7 +12,7 @@ Leadership value between 7 and 10.
 ### Eldar Attack Rating
 
 An Eldar fleet containing any Craftworld Eldar
-vessels has an [attack (or initiative) rating] of 3.
+vessels has an [attack (or initiative) rating](../scenarios.md#using-an-attack-rating) of 3.
 
 An Eldar Corsair fleet containing no Craftworld
 Eldar vessels has an attack (or initiative) rating of 4.
@@ -141,12 +141,12 @@ no additional benefit at the start of its move).
 
 Due to their unique method of movement,
 the Eldar may not use the following [special
-orders](../the-rules.md#special-orders): [*All Ahead Full*], [*Burn Retros*] and [*Come
-To New Heading*]. Note: because Eldar ships
-cannot use [*All Ahead Full*] special orders, they
+orders](../the-rules.md#special-orders): [*All Ahead Full*](../the-rules.md#all-ahead-full), [*Burn Retros*](../the-rules.md#burn-retros) and [*Come
+To New Heading*](../the-rules.md#come-to-new-heading). Note: because Eldar ships
+cannot use [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders, they
 also may not [ram](../the-movement-phase.md#all-ahead-full-ramming-speed).
 
-If under [*Lock-On*] special orders, Eldar ships
+If under [*Lock-On*](../the-rules.md#lock-on) special orders, Eldar ships
 cannot turn for BOTH their movement
 phases. When locked-on, Eldar Pulsars re-roll
 EACH miss until either up to three hits is
@@ -412,9 +412,9 @@ fleet (until, of course, you fail a Command
 check with one of them as well).
 
 If the failed Command check is as a result of
-attempting to go onto [*Brace for Impact*] orders,
+attempting to go onto [*Brace for Impact*](../the-rules.md#brace-for-impact) orders,
 the Ghostship may still attempt to [*Brace for
-Impact*] but may do nothing except move
+Impact*](../the-rules.md#brace-for-impact) but may do nothing except move
 during its next turn instead.
 
 **Deathless:** Ghostships require none of the
@@ -476,7 +476,7 @@ from serving together in the crucible of war. Roll on the following table:*
 
 | D6 roll | Skill |
 | :-: | --- |
-| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock-On*] Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
+| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock-On*](../the-rules.md#lock-on) Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
 | 2 | **Warlock:** A renowned Seer accompanies the vessel, disclosing fragments of possibility to the ship's captain. This vessel may always attempt to go on [Special Orders](../the-rules.md#special-orders), even if another ship or squadron in the fleet has failed a [command check](../the-rules.md#taking-command-checks) this turn. |
 | 3 | **Excellent Pilots:** Even the [bomber](../the-ordnance-phase.md#bombers) pilots assigned to this ship number several ‘Aces’ amongst its crew. Bombers launched by this vessel may survive being intercepted by enemy fighters utilizing the ‘[Resilient Attack Craft](../the-ordnance-phase.md#resilient-attack-craft)’ 4+ save rule in the same manner as Eldar fighters. As they are not fighters themselves, they still ignore other types of [ordnance](../the-ordnance-phase.md) normally. Fighters from this vessel are always moved before enemy [attack craft](../the-ordnance-phase.md#attack-craft) in the [ordnance phase](../the-ordnance-phase.md). Re-roll this result if the ship does not carry attack craft. |
 | 4 | **Battle Stance:** [Aspect Warriors](#aspect-warrior-hosts) or even the dreaded Harlequins have been enticed to join your vessel. This ship may re-roll the dice in a [boarding action](../the-end-phase.md#boarding-actions). The second roll stands (even if less!). This benefit can be combined with having an embarked Aspect Warrior Host. |
@@ -492,7 +492,7 @@ the power generators and energy relays in some fashion. Roll on the following ta
 | :-: | --- |
 | 1 | **Celestial Dragon Engine:** The standard manoeuvring thrusters have been augmented, allowing breathtaking turns. The vessel may choose to turn up to 90º at the end of its movement instead of turning normally at the beginning of its movement. |
 | 2 | **Polarization Field:** A low-level energy bubble surrounds the ship, channelling the debris of space around the vessel. The ship does not suffer a hit for moving through [blast markers](../the-shooting-phase.md#blast-markers) and ignores all effects of [solar flares](../the-battlefield.md#solar-flares). |
-| 3 | **Drunken Weave:** An intricate system of particle flow rudders and graviton impellers are fitted to the vessel, allowing for drastic evasive manoeuvres. The ship gains a 6+ save on a D6 against any damage it takes without requiring a Command Check. This does not count as being [braced](../the-rules.md#brace-for-impact), but the ship may not use this save when on [*Brace For Impact*] Special Orders or attempt to go on [*Brace For Impact*] special orders against any round of shooting or event of taking damage if this save fails. |
+| 3 | **Drunken Weave:** An intricate system of particle flow rudders and graviton impellers are fitted to the vessel, allowing for drastic evasive manoeuvres. The ship gains a 6+ save on a D6 against any damage it takes without requiring a Command Check. This does not count as being [braced](../the-rules.md#brace-for-impact), but the ship may not use this save when on [*Brace For Impact*](../the-rules.md#brace-for-impact) Special Orders or attempt to go on [*Brace For Impact*](../the-rules.md#brace-for-impact) special orders against any round of shooting or event of taking damage if this save fails. |
 | 4 | **Phoenix Sails:** Hyper-efficient materials of exceeding purity are used to replace the mainsails, squeezing extra energy from the solar wind, adding +5 cm to all speed bands. |
 | 5 | **Moon Gossamer Rigging:** A Bonesinger has spent many hours re-splicing the ship’s control mechanisms. Instead of turning to any facing at the start of its movement, it may choose to make a single 45º turn at any point along its movement. |
 | 6 | **Stream Flow Enhancers:** A dramatic re-rig of the ship’s sails and control surfaces give the captain much greater control over his or her vessel. When the ship is facing the sun, it counts as having the [sunward edge](../the-battlefield.md#fighting-sunward) in its rear. If the sun is in the rear arc, it counts as on its side. |
@@ -712,7 +712,7 @@ fortresses, one dice must be rolled during
 each [End Phase](../the-end-phase.md) for each Assault Point already
 scored on the craftworld. If any of these score
 a ‘6’ the Spear of Light is damaged, and a
-[*Reload Ordnance*] special order must be passed
+[*Reload Ordnance*](../the-rules.md#reload-ordnance) special order must be passed
 each time the weapon is used again. If a ‘6’ is
 rolled again in a subsequent [End Phase](../the-end-phase.md), the
 Spear of Light is considered destroyed for the
@@ -744,7 +744,7 @@ damage for every roll of 6 not used to [repair
 critical damage](../the-end-phase.md#damage-control) (all critical damage must be
 repaired before this benefit can be taken).
 Additionally, it counts as passing a [*Reload
-Ordnance*] special order for free. However,
+Ordnance*](../the-rules.md#reload-ordnance) special order for free. However,
 it may not [move](../the-movement-phase.md), [shoot](../the-shooting-phase.md) or [launch ordnance](../the-ordnance-phase.md#launching-ordnance)
 while docked, critical damage that cannot
 normally be repaired during a battle (such as
