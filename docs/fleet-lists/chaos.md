@@ -2,18 +2,15 @@
 
 *This page is a work in progress!*
 
-SPECIAL RULES
-ATTACK RATING
+## Special Rules
 
-ORDNANCE
+### Attack Rating
 
 Chaos fleets have a starting attack or initiative
 rating of 2.
 
-During the Gothic War, Chaos forces
-employed a variety of attack craft.
+### Chaos Commanders
 
-CHAOS COMMANDERS
 A Chaos Warmaster (as opposed to a Lord)
 must always be used as a fleet commander in
 any Chaos fleet list that requires the use of a
@@ -21,14 +18,15 @@ fleet commander. Under no circumstance can
 a Chaos Lord be placed on the same ship as a
 Warmaster.
 
-BOARDING ACTIONS
-Chaos has a +1 boarding modifier. The Chaos
+### Boarding Actions
+Chaos has a +1 [boarding] modifier. The Chaos
 Space Marine upgrade replaces this, providing
 them with a total +2 boarding modifier (before
 all other modifiers are applied normally).
 
-RENEGADE IMPERIAL VESSELS
-The Imperial Navy has taken great pains
+### Renegade Imperial Vessels
+
+The [Imperial Navy] has taken great pains
 after the 12th Black Crusade to ensure that
 its warships do not fall into the foul hands
 of Chaos. While only the most seasoned
@@ -39,7 +37,7 @@ and second-line warships. For every 1,500
 points in a Chaos fleet, one cruiser from any
 Imperial Navy fleet list up to 185 points and/
 or up to six Imperial Navy escorts may be
-taken. Special weapon rules, Nova Cannon,
+taken. Special weapon rules, [Nova Cannon],
 Chaos Lords, Chaos Space Marines, Chaos
 ordnance or Daemonship upgrades may
 not be taken for Imperial Navy vessels used
@@ -51,16 +49,21 @@ squadrons if desired. These vessels do not
 count as reserves; they count as Chaos vessels
 in all respects.
 
-!"#
+### Ordnance
+
+During the Gothic War, Chaos forces
+employed a variety of attack craft.
 
 The most common were the fighters codenamed Swiftdeaths. These proved invaluable in
 picking off torpedoes, given the preponderance
 of torpedoes in the Imperial Navy.
+
 The deadly Doomfire bombers were the plague
 of many Imperial escorts and even capital ships,
 and it was a wave of Doomfires that delivered
-the killing blow to the battlecruiser Cypra
-Probatii during the Battle of Gethsemane.
+the killing blow to the battlecruiser *Cypra
+Probatii* during the Battle of Gethsemane.
+
 The Dreadclaw assault craft were also much
 feared, carrying contingents of fanatical and
 crazed Chaos devotees, or even renegade
@@ -70,28 +73,19 @@ the Dreadclaws were able to burn through
 the thickest hull in minutes, deploying their
 raiding parties before any organised defence
 could be mustered.
-ATTACK CRAFT
 
-SPEED
-
-Swiftdeath Figther
-
-30 cm
-
-Doomfire Bomber
-
-20 cm
-
-Dreadclaw Assault Boat
-
-30 cm
+| ATTACK CRAFT | SPEED |
+| :-: | :-: |
+| Swiftdeath Figther | 30 cm |
+| Doomfire Bomber | 20 cm |
+| Dreadclaw Assault Boat | 30 cm |
 
 Note that attack craft are always carried into
 battle by larger ships and therefore have no
 separate points value.
 
-CHAOS SPACE MARINES IN
-BATTLEFLEET GOTHIC
+## Chaos Space Marines in Battlefleet Gothic
+
 The Chaos Space Marine Legions have never
 needed to build specialist battle barges and
 strike cruisers. To them any capital ship with
@@ -110,7 +104,8 @@ to use a Chaos fleet without including members
 of the Traitor Legions, which you can do using a
 fleet selected from the Chaos Incursion fleet list.
 
-USING CHAOS FLEET LISTS
+### Using Chaos Fleet Lists
+
 The Chaos Incursion fleet list covers
 Abaddon’s fleets in the Gothic Sector War.
 This war was primarily fought in space and
@@ -120,7 +115,8 @@ Crusade fleet list represents where the object
 is to transport Chaos Space Marines to
 conquer and destroy Imperial worlds.
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+
 Any capital ship can be designated as having
 a Chaos Space Marine crew at the points cost
 indicated in the army list. The ship will be
@@ -130,38 +126,36 @@ a Lord then you can assume that he is also a
 Chaos Space Marine (this is for narrative only
 and has no impact on any rules).
 
-!"$
-
-Leadership
+### Leadership
 
 A vessel with a Chaos Space Marine crew
-will have +1 Leadership (in addition to any
+will have +1 [Leadership] (in addition to any
 other bonuses due to there being a Chaos
 Warmaster or Chaos Lord on board).
 Furthermore the maximum Leadership of the
 vessel is increased to 10.
 
-Boarding & Hit-&-run
+### Boarding & Hit-&-run
 
 The superior fighting skills of the Chaos
 Space Marines are most apparent in boarding
 actions. A ship with a Chaos Space Marine
 crew adds +2 to its roll when performing
-boarding actions and enemy conducting hit
-& run attacks against them subtract -1 from
+[boarding actions] and enemy conducting [hit
+& run attacks ]against them subtract -1 from
 their hit & run result. Hit and run attacks
-launched by boarding torpedoes, Dreadclaws,
-Thunderhawks or teleportation originating
+launched by [boarding torpedoes], Dreadclaws,
+Thunderhawks or [teleportation] originating
 from such a ship add +1 to their result.
 
-Planetary Assault
+### Planetary Assault
 
 Ships with Chaos Space Marine crews in a
 Planetary Assault mission score two Assault
 Points for every turn they spend landing
 troops.
 
-Terminator Teleport Assault
+### Terminator Teleport Assault
 
 For an extra 10 points battleships and
 grand cruisers with Chaos Space Marine
@@ -172,7 +166,8 @@ will add one as normal. This represents them
 unleashing their Chosen Terminators in a
 teleport assault.
 
-MARKS OF CHAOS
+### Marks of Chaos
+
 A ship with a Chaos Space Marine crew may
 have a Mark of Chaos, even if a Warmaster
 or Lord does not captain it. However there
@@ -183,34 +178,17 @@ or Lord captains a ship, if it has a Chaos Space
 Marine crew the choice of Mark of Chaos is
 limited as well. The options are shown in the
 table below.
-OWNING LEGION
 
-MARKS
+| OWNING LEGION | MARKS |
+| :-: | :-: |
+| World Eaters | May have Mark of Khorne only |
+| Emperor’s Children | May have Mark of Slaanesh only |
+| Death Guard | May have Mark of Nurgle only |
+| Thousand Sons | May have Mark of Tzeentch only |
+| Black Legion | May have any one Mark |
+| Others | May not have any Mark |
 
-World Eaters
-
-May have Mark of Khorne only
-
-Emperor’s
-Children
-
-May have Mark of
-Slaanesh only
-
-Death Guard
-
-May have Mark of Nurgle only
-
-Thousand Sons May have Mark of Tzeentch only
-Black Legion
-
-May have any one Mark
-
-Others
-
-May not have any Mark
-
-Legion Fleets
+### Legion Fleets
 
 If the Warmaster’s ship has a Chaos Space
 Marine crew then all other ships in the fleet
@@ -218,7 +196,7 @@ that have Chaos Space Marine crew must be of
 the same legion, unless a Chaos Lord captains
 them.
 
-Rivalry
+### Rivalry
 
 Members of the Emperor’s Children and the
 World Eaters cannot be combined in the same
@@ -226,14 +204,15 @@ fleet. Similarly members of the Death Guard
 and Thousand Sons may not be combined in
 the same fleet.
 
-Capital ship squadrons
+### Capital ship squadrons
 
 If capital ships are grouped as squadrons
 then each squadron may only contain a single
 Warmaster or Lord and that ship must lead
 the squadron. Similarly a squadron may not
 include ships with different Marks of Chaos.
-Example: A fleet Warmaster’s ship has a Chaos
+
+*Example: A fleet Warmaster’s ship has a Chaos
 Space Marine crew of the Death Guard. His
 ship has the Mark of Nurgle. His fleet contains
 six other cruisers, three ships have Chaos Space
@@ -249,27 +228,59 @@ of the Death Guard the Lord’s ship may not
 be crewed by the Thousand Sons but may be
 represent any other legion. Let’s assume it is the
 Emperor’s Children and therefore has the Mark
-of Slaanesh.
-When organising these ships into squadrons
+of Slaanesh.*
+
+*When organising these ships into squadrons
 the Warmaster and Lord’s ships may not be in
 the same squadron and each must command
 any squadron they do join. The Chaos Lord’s
 squadron may not contain any ships with a
 Mark other than that of Slaanesh and the
 Warmaster’s squadron may not include any
-ships with a Mark other than that of Nurgle.
+ships with a Mark other than that of Nurgle.*
 
-!"%
-
-USING DAEMON SHIPS
-
-WARP TRANSLATION
+## Using Daemon Ships
 
 The basic profile of a ship, which is upgraded
 to a Daemon ship remains unchanged. It
 does not matter what broadside weapons you
 replace with Daemon ship components the
 ship’s profile is not changed.
+
+The points cost to upgrade a capital ship to a
+Daemon ship is as follows:
+
+Battleship ...................................................+50 pts<br>
+Grand cruiser ............................................+30 pts<br>
+Heavy cruiser.............................................+25 pts<br>
+Cruiser ........................................................+20 pts
+
+A Daemon ship may not be commanded by
+a Warmaster or a Chaos Lord even if it is the
+largest ship in the fleet. This is an exception
+to the normal rule. A Daemon ship may not
+have a Chaos Space Marine crew. Any number
+of capital ships can be upgraded to Daemon
+ships subject to these limitations.
+
+Daemon ships cannot carry Exterminatus
+weapons and do not score any points for landing
+troops in a planetary assault (the Daemons are
+bound within the hull of their vessel, whilst able
+to board enemy ships normally in the context of a
+BFG game they would become unstable if holding
+a planetary objective for any length of time).
+
+Daemonships cannot be used in squadrons.
+
+Any Daemon ship may have a single [Mark of
+Chaos] with the same effects and cost in points
+as described on pg. 226.
+
+Daemon ship Leadership is rolled as normal
+(ie, 1=6, 2,3=7, 4,5=8, 6=9).
+
+### Warp Translation
 
 A Daemonship may be kept off table at the start
 of a game. The rest of the fleet is deployed as
@@ -279,34 +290,7 @@ Warp waiting to either be summoned by one of
 the on-table Chaos ships or drawn to the ripe
 souls aboard an enemy ship.
 
-The points cost to upgrade a capital ship to a
-Daemon ship is as follows:
-Battleship ...................................................+50 pts
-Grand cruiser ............................................+30 pts
-Heavy cruiser.............................................+25 pts
-Cruiser ........................................................+20 pts
-A Daemon ship may not be commanded by
-a Warmaster or a Chaos Lord even if it is the
-largest ship in the fleet. This is an exception
-to the normal rule. A Daemon ship may not
-have a Chaos Space Marine crew. Any number
-of capital ships can be upgraded to Daemon
-ships subject to these limitations.
-Daemon ships cannot carry Exterminatus
-weapons and do not score any points for landing
-troops in a planetary assault (the Daemons are
-bound within the hull of their vessel, whilst able
-to board enemy ships normally in the context of a
-BFG game they would become unstable if holding
-a planetary objective for any length of time).
-Daemonships cannot be used in squadrons.
-Any Daemon ship may have a single Mark of
-Chaos with the same effects and cost in points
-as described on pg. 226.
-Daemon ship Leadership is rolled as normal
-(ie, 1=6, 2,3=7, 4,5=8, 6=9).
-
-In the End phase of any Chaos turn, after the
+In the [End phase] of any Chaos turn, after the
 first, they may enter play from the Warp as
 follows: Select a friendly or enemy Capital
 ship; only a Capital ship contains enough
@@ -318,6 +302,7 @@ player controlling it. Next, roll 4D6 and a
 Scatter dice and reposition the Daemonship
 accordingly, keeping the ship on the same
 heading.
+
 A Daemonship cannot be forced to disengage
 by a scatter roll that places it off the table.
 If a Daemonship scatters off the table when
@@ -325,8 +310,10 @@ deploying, place the Daemonship so that its base
 is completely on the table on the point of the
 table edge indicated by the scatter dice, facing
 any direction desired by the Chaos player.
+
 If a ‘Hit’ is rolled on the Scatter dice, then the
 Daemonship arrives on target.
+
 The arriving Daemonship is unaffected by
 celestial phenomena and does not trigger
 attack by ordnance markers it may happen to
@@ -334,9 +321,8 @@ land on. If it would appear in contact with an
 enemy vessel, reposition it by up to 1 cm so
 that it is out of contact.
 
-!!"
+### Spectral Daemonships
 
-SPECTRAL DAEMONSHIPS
 The Daemonship has now pierced the fabric
 of real space and has started to manifest
 itself. It is not entirely present in real space,
@@ -352,7 +338,8 @@ way, though any Marks it may have still take
 effect immediately. It also may not be shot at,
 boarded, rammed or have any action done to
 it while spectral.
-At the end of any subsequent Chaos End phase
+
+At the end of any subsequent Chaos [End phase]
 it may complete the translation to real space.
 It does not have to and may remain a spectral,
 haunting presence as long as the Chaos player
@@ -366,6 +353,7 @@ final translation occurs (no sneaky teleport
 boarding attacks or suchlike). From this point
 on the Daemonship is solid and fights like a
 normal ship.
+
 If a Daemon ship fully materializes in contact
 with celestial phenomena, it suffers any
 effects of those celestial phenomena, such
@@ -375,53 +363,49 @@ it materializes in an asteroid field, it may
 then attempt to avoid damage by making a
 leadership check normally.
 
-HAUNTING
+### Haunting
+
 A Daemonship may disengage at the end of
-any Chaos Movement phase without having to
+any Chaos [Movement phase] without having to
 make any dice roll. It simply drops back into
 the Warp leaving no trace.
+
 A disengaged Daemonship may re-enter play
 on any Chaos turn following the one in which
-
-!!!
-
 it disengages. This is done following the
 translation rules detailed above.
+
 When a Daemonship is ‘haunting’ or is
 spectral it can still suffer damage from fire
 critical hits.
+
 If it was damaged when it disengaged it may
 be repaired when it returns, roll a D6:
-D6 ROLL
 
-RESULT
-
-1, 2, 3
-
-No change
-
-4, 5
-
-+1 hull point
-
-6
-
-+2 hull points
+| D6 ROLL | RESULT |
+| :-: | --- |
+| 1, 2, 3 | No change |
+| 4, 5 | +1 hull point |
+| 6 | +2 hull points |
 
 Add +1 to the roll if it is a battleship.
+
 Add +1 for each full turn the Daemonship
 spent in the Warp.
+
 In addition to repairing damage, they may
 repair critical hits while in the warp rolling
 normally, repairing critical damage on a 4+ as
 opposed to a 6. However, Daemonships may
 not make repair rolls in the end phase they are
 first deployed when returning into play.
+
 If Daemonships repair enough hits while
 “haunting” to no longer be crippled, they
 will still count as disengaged for purposes
 of victory points but will no longer count as
 crippled.
+
 A returning Daemonship cannot come
 back with more hits than it could normally
 have. At the end of the game a Daemonship
@@ -430,143 +414,47 @@ as having disengaged for Victory points
 purposes, unless of course it is destroyed or
 crippled when the normal rules apply.
 
-DAEMONSHIPS IN CAMPAIGNS
+### Daemonships in Campaigns
+
 Daemonships do not automatically regain hits
 after each battle. They have to be regained
 either in a game by warp translation or by
 expending repair points, or they can be
 withdrawn normally.
 
-CHAOS IN CAMPAIGNS
-CHAOS PROMOTIONS
-Renown
+## Chaos in Campaigns
 
-Title
+### Chaos Promotions
 
-Ld Notes
+| Renown | Title | Ld | Notes |
+| :-: | --- | :-: | --- |
+| 1-5 | Chaos Champion | 8 | 1 re-roll |
+| 6-10 | Exalted Chaos Champion | 8 | 1 re-roll, 1 Mark of Chaos |
+| 11-20 | Tyrant | 9 | 1 re-roll, 1 Mark of Chaos |
+| 21-30 | Chaos Lord | 9 | 1 re-roll, 2 Mark of Chaos |
+| 31-50 | Overlord | 10 | 1 re-roll, 2 Mark of Chaos |
+| 51+ | Warmaster | 10 | 1 re-roll, 3 Mark of Chaos |
 
-1-5
+### Forces of Chaos (Other Appeals)
 
-Chaos Champion
+*The forces of Chaos constantly assail the Imperium and attack the servants of the Emperor.
+If your request for aid is heard, roll on this table to see what is put at your disposal.*
 
-8
+| 2D6 roll | Result |
+| :-: | --- |
+| 2 | You implore the Chaos gods for their unholy gifts, but the dark powers smite you for your impudence. At the start of the next battle, roll once on the [Critical Damage] table and apply the result to your Warmaster’s ship! |
+| 3 | The Chaos gods show you a glimpse of the future. You may [re-roll] the dice when deciding who has the initiative in the next campaign turn. The second roll stands. |
+| 4 | The Chaos gods send a force of Daemonic entities that swirl about one of your ships and attack nearby vessels. Nominate one capital ship in the next battle. A single enemy ship within 15 cm during your [end phase] is attacked. Roll a D6: this is the number of dice you can roll to hit against the target’s Armour (shields have no effect). |
+| 5 | A mighty Champion of the Dark Gods agrees to join your retinue of followers. You may add a Chaos Lord (with a Mark of Chaos if you wish) to your Fleet Registry. |
+| 6 | A Chaos Space Marine battle force will act as your personal bodyguard. Your flagship may add +1 to all [boarding actions] it is involved in. |
+| 7 | The Chaos Legions gather to your side. Your flagship and any ship with a Chaos Lord aboard may add +1 to all boarding actions it is involved in for the rest of the campaign. |
+| 8 | The Legions of Chaos grow strong and your fleet is aided by many deadly warriors such as Berzerkers of Khorne, Noise Marines and the dreaded Chaos Terminators. Any one ship in your fleet may add +2 to all boarding actions it is involved in for the rest of the campaign. |
+| 9 | Piratical renegades flock to your cause. One ship in your fleet may be equipped with [boarding torpedoes] and/or Dreadclaw [assault boats]. |
+| 10  | With their cabalistic rites and blood sacrifices to the ancient gods, your Sorcerers bestow the gifts of Chaos onto one of your ships. In your next battle, one ship in your fleet may be given a Chaos Reward for free, as if the Warmaster or a Chaos Lord was on board (this can be combined with the Chaos Rewards of a Warmaster or Chaos Lord). |
+| 11 | The Chaos gods use their foul magicks to create a ward of Chaos about your fleet. Nominate one of your capital ships in the next game. Any enemy shooting at this ships suffers a right column shift on the [Gunnery table] (before any other shifts for range or [Blast markers]). |
+| 12 | The Chaos gods use their fiendish powers to create a swirling vortex of Chaos about one of your ships. Nominate one capital ship in your fleet. In the next battle, any enemy ship within 15 cm of this vessel counts as having one [Blast marker] in contact with its base. |
 
-1 re-roll
-
-6-10
-
-Exalted Chaos Champion
-
-8
-
-1 re-roll, 1 Mark of Chaos
-
-11-20
-
-Tyrant
-
-9
-
-1 re-roll, 1 Mark of Chaos
-
-21-30
-
-Chaos Lord
-
-9
-
-1 re-roll, 2 Mark of Chaos
-
-31-50
-
-Overlord
-
-10
-
-1 re-roll, 2 Mark of Chaos
-
-51+
-
-Warmaster
-
-10
-
-1 re-roll, 3 Mark of Chaos
-
-FORCES OF CHAOS (OTHER APPEALS)
-The forces of Chaos constantly assail the Imperium and attack the servants of the Emperor.
-If your request for aid is heard, roll on this table to see what is put at your disposal.
-2D6 roll
-
-Result
-
-2
-
-You implore the Chaos gods for their unholy gifts, but the dark powers smite
-you for your impudence. At the start of the next battle, roll once on the
-Critical Damage table and apply the result to your Warmaster’s ship!
-
-3
-
-The Chaos gods show you a glimpse of the future. You may re-roll the dice when
-deciding who has the initiative in the next campaign turn. The second roll stands.
-
-4
-
-The Chaos gods send a force of Daemonic entities that swirl about one of your ships
-and attack nearby vessels. Nominate one capital ship in the next battle. A single enemy
-ship within 15 cm during your end phase is attacked. Roll a D6: this is the number
-of dice you can roll to hit against the target’s Armour (shields have no effect).
-
-5
-
-A mighty Champion of the Dark Gods agrees to join your retinue of followers. You
-may add a Chaos Lord (with a Mark of Chaos if you wish) to your Fleet Registry.
-
-6
-
-A Chaos Space Marine battle force will act as your personal bodyguard.
-Your flagship may add +1 to all boarding actions it is involved in.
-
-7
-
-The Chaos Legions gather to your side. Your flagship and any ship with a Chaos Lord
-aboard may add +1 to all boarding actions it is involved in for the rest of the campaign.
-
-8
-
-The Legions of Chaos grow strong and your fleet is aided by many deadly warriors such as
-Berzerkers of Khorne, Noise Marines and the dreaded Chaos Terminators. Any one ship in
-your fleet may add +2 to all boarding actions it is involved in for the rest of the campaign.
-
-9
-
-Piratical renegades flock to your cause. One ship in your fleet may be
-equipped with boarding torpedoes and/or Dreadclaw assault boats.
-
-10
-
-With their cabalistic rites and blood sacrifices to the ancient gods, your Sorcerers bestow
-the gifts of Chaos onto one of your ships. In your next battle, one ship in your fleet may
-be given a Chaos Reward for free, as if the Warmaster or a Chaos Lord was on board
-(this can be combined with the Chaos Rewards of a Warmaster or Chaos Lord).
-
-11
-
-The Chaos gods use their foul magicks to create a ward of Chaos about your fleet. Nominate
-one of your capital ships in the next game. Any enemy shooting at this ships suffers a right
-column shift on the Gunnery table (before any other shifts for range or Blast markers).
-
-12
-
-The Chaos gods use their fiendish powers to create a swirling vortex of Chaos about one
-of your ships. Nominate one capital ship in your fleet. In the next battle, any enemy ship
-within 15 cm of this vessel counts as having one Blast marker in contact with its base.
-
-!!&
-
-ABADDON THE DESPOILER
-SCOURGE OF THE GOTHIC SECTOR
+## Abaddon The Despoiler: Scourge of the Gothic Sector
 
 Abaddon is known to be the driving force
 behind the Black Crusade which ravaged the
@@ -583,15 +471,13 @@ small part due to the awesome power of the
 Planet Killer at his command, to say nothing
 of the Blackstone Fortresses he succeeded in
 corrupting to the service of the Dark Gods.
+
 Abaddon was once a Space Marine, a captain
 of the Lunar Wolves’ 1st Company during
 the Great Crusade, over 10,000 years ago,
 conquering distant stars in the name of the
 Emperor. The Lunar Wolves battled across
 uncounted worlds to free them from alien
-
-!!'
-
 tyranny or the taint of Chaos, and Abaddon
 was ever at the fore. But at the time of the
 Great Heresy, Abaddon chose to betray the
@@ -602,6 +488,7 @@ rallied the remnants of the hordes which had
 fought on Earth and fled to the Eye of Terror,
 where the powers of Chaos welcomed him as
 their champion.
+
 For ten millennia Abaddon has continued
 to harry the Imperium at every opportunity,
 raining fire and destruction on the empire
@@ -614,59 +501,61 @@ personal command of the Planet Killer in
 many engagements, although he escaped its
 destruction at Kharlos II.
 
-ABADDON AS FLEET COMMANDER
-Abaddon can be chosen to act as fleet commander in any game in which the Chaos fleet is
-worth 1,000 points or more. You may not place a Chaos Lord on the same ship as Abaddon
-(you don’t get to be a Chaos Lord by spending lots of time near a bloody-tempered
-maniac!). He has the following characteristics:
+> ### Abaddon as Fleet Commander
+> 
+> Abaddon can be chosen to act as fleet commander in any game in which the Chaos fleet is
+> worth 1,000 points or more. You may not place a Chaos Lord on the same ship as Abaddon
+> (you don’t get to be a Chaos Lord by spending lots of time near a bloody-tempered
+> maniac!). He has the following characteristics:
+> 
+> **Leadership: 10**
+> 
+> Abaddon is an exceptional commander in all respects. His crew and fleet live in mortal
+> terror of arousing his anger and perform at peak efficiency when he is aboard. He is also
+> aided by the prophecies of the Sorcerer Zaraphiston.
+> 
+> **Re-rolls: 1 per turn.**
+> 
+> Abaddon’s awesome reputation and dogged determination ensure there are seldom any
+> failures in the chain of command. When there are, the consequences are likely to be dire.
+> Abaddon’s fleet is allowed to re-roll a single Command check or Leadership test each turn.
 
-Leadership: 10
+### Special Rules
 
-Abaddon is an exceptional commander in all respects. His crew and fleet live in mortal
-terror of arousing his anger and perform at peak efficiency when he is aboard. He is also
-aided by the prophecies of the Sorcerer Zaraphiston.
-
-Re-rolls: 1 per turn.
-
-Abaddon’s awesome reputation and dogged determination ensure there are seldom any
-failures in the chain of command. When there are, the consequences are likely to be dire.
-Abaddon’s fleet is allowed to re-roll a single Command check or Leadership test each turn.
-
-SPECIAL RULES
 The following special rules apply to Abaddon:
 
-Boarding Actions
+#### Boarding Actions
 
 Abaddon is accompanied by his company of
 Black Legion Traitor Marines aboard the ship
 he is commanding. This, combined with his
 own abilities, means the ship doubles its value
-in boarding actions and gains an extra +1
+in [boarding actions] and gains an extra +1
 Boarding modifier.
 
-Hit-&-Run Attacks
+#### Hit-&-Run Attacks
 
 Abaddon will have his own ship sealed tight
 against hit-&-run raiders (he knows every
-trick in the book). Therefore, hit-&-run
-raids deduct -1 from their dice roll against
+trick in the book). Therefore, [hit-&-run
+raids] deduct -1 from their dice roll against
 Abaddon’s ship. If Abaddon’s vessel makes
-any hit-&-run teleport attacks, add +1 to the
+any hit-&-run [teleport attack]s, add +1 to the
 dice roll for the attack as it will be undertaken
-by elite Black Legion Terminators. Boarding
-torpedoes and assault boats from Abaddon’s
+by elite Black Legion Terminators. [Boarding
+torpedoes] and [assault boats] from Abaddon’s
 ship will be manned by more mundane
 minions and do not receive this modifier.
 
-“You have failed me for the last time…”
+#### “You have failed me for the last time…”
 
 Abaddon the Despoiler does not tolerate
 failure, as many of his followers have
-discovered to their cost. If Abaddon’s re-roll
-is used for a Command check or Leadership
+discovered to their cost. If Abaddon’s [re-roll]
+is used for a [Command check] or [Leadership]
 test on another ship or squadron and the test
 is failed a second time, he will become angry –
-very, very angry! In the Chaos Shooting phase
+very, very angry! In the Chaos [Shooting phase]
 Abaddon will direct at least half the available
 firepower and lance strength of the ship he is
 commanding against the weaklings who have
@@ -674,9 +563,10 @@ failed him (assuming the worthless scum are
 within range and fire arc). Resolve the attack
 as normal, just as if Abaddon’s vessel were an
 enemy.
+
 The victims of his wrath (assuming they
 survive) will be suitably chastised and gain a
-+1 Leadership increase for the remainder of
++1 [Leadership] increase for the remainder of
 the game. The Leadership bonus will only take
 effect once (after that the crews are working as
 hard as they can!). If the object of Abaddon’s
@@ -686,18 +576,17 @@ may no longer be used on it. This means that
 no further Commander re-rolls may be used
 on the ship or squadron unless it is carrying
 its own Chaos Lord with a Mark of Tzeentch.
+
 Should this dreadful failure occur on
 Abaddon’s own ship, it will lose one Damage
 Point as the Black Legion massacre those who
 failed him. No Leadership increase is gained.
 
-!!(
+## Gothic Sector: Chaos Incursion Fleet List
 
-GOTHIC SECTOR
+### Fleet Commander
 
-CHAOS INCURSION FLEET LIST
-FLEET COMMANDER
-1 Chaos Warmaster
+#### 1 Chaos Warmaster
 
 0-3 Chaos Lords
 

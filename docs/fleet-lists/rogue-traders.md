@@ -92,14 +92,14 @@ they have something to gain by forming a
 temporary alliance. Whether their own goals
 actually benefit their erstwhile comrades is
 usually debatable. Any game that includes a
-Rogue Trader cruiser must include a [sub-plot] from [???] p.82-84 in the Rulebook.
+Rogue Trader cruiser must include a [sub-plot](../scenarios.md#sub-plots) from [???] p.82-84 in the Rulebook.
 This can be imagined as representing the
 Rogue Trader’s own vested interest. As such,
 if the owning player fails the sub-plot, the
-enemy earns [victory points] as if the Rogue
+enemy earns [victory points](../scenarios.md#victory-points) as if the Rogue
 Trader cruiser was crippled (in addition
-to any [renown] gained or lost normally). If
-the Rogue Trader was actually [crippled] in
+to any [renown](../campaign-rules.md#renown) gained or lost normally). If
+the Rogue Trader was actually [crippled](../the-shooting-phase.md#crippled-ships) in
 addition to failing the sub-plot, it counts
 as if being destroyed. The enemy gains no
 additional bonus for actually destroying the
@@ -111,9 +111,9 @@ crippled) and the owning player succeeds
 in the sub-plot, the owning player gains +1
 renown in addition to any gained normally.
 
-If the Rogue Trader [disengages] and you
+If the Rogue Trader [disengages](../the-movement-phase.md#disengaging-from-combat) and you
 complete the sub-plot, the enemy gains no
-[victory points] for the Rogue Trader cruiser,
+[victory points](../scenarios.md#victory-points) for the Rogue Trader cruiser,
 regardless of its condition. However, if it
 disengages and the owning player fails the
 sub-plot, it counts as being destroyed for
@@ -124,7 +124,7 @@ in a campaign.
 ## The Best Money Can Buy
 
 Rogue Trader capital ships and escorts
-commonly bear [refits] of uncertain origin. Even
+commonly bear [refits](refits.md) of uncertain origin. Even
 the vessel’s crew are unlikely to be anything as
 straightforward as regular spacers, since Rogue
 Traders have a knack for acquiring crowds of
@@ -136,7 +136,7 @@ space, and successful Rogue Traders tend to
 be as experienced as the most veteran Naval
 captains. To represent this each Rogue Trader
 cruiser and escort squadron may roll one
-random [crew skill] on [???] in the Remastered
+random [crew skill](../campaign-rules.md#crew-skills) on [???] in the Remastered
 Rulebook for +10% point value. In addition,
 each Rogue Trader vessel may roll randomly
 against the Xenotech System table below for
@@ -150,10 +150,10 @@ includes at least three Rogue Trader escorts.
 
 | D6 ROLL | XENOTECH SYSTEMS |
 | :-: | --- |
-| 1 | **Long Range Sensors:** The vessel adds +1 to its base [leadership] (max. of Ld 10). |
-| 2 | **Targeting Matrix:** The vessel counts all targets as closing when using the [gunnery table] within 30cm and ignores right-shift modifiers for shooting greater than 30 cm. |
-| 3 | **Advanced Shielding**: The vessel increases the strength of its [shields] by +1. |
-| 4 | **Ship Defense Grid:** The vessel increases the strength of its [turrets] by +1. |
+| 1 | **Long Range Sensors:** The vessel adds +1 to its base [leadership](../the-rules.md#leadership) (max. of Ld 10). |
+| 2 | **Targeting Matrix:** The vessel counts all targets as closing when using the [gunnery table](../the-shooting-phase.md#gunnery-table) within 30cm and ignores right-shift modifiers for shooting greater than 30 cm. |
+| 3 | **Advanced Shielding**: The vessel increases the strength of its [shields](../the-shooting-phase.md#shields) by +1. |
+| 4 | **Ship Defense Grid:** The vessel increases the strength of its [turrets](../the-ordnance-phase.md#turrets) by +1. |
 | 5 | **Advanced Drive Technology:** The vessel adds +5 cm to its speed as well as +1D6 when undergoing [*All Ahead Full*] special orders. |
 | 6 | **Gravitic Thrusters:** The vessel can double the maximum rate of its normal turn. |
 
@@ -179,7 +179,7 @@ A Rogue Trader fleet more often than not
 operates in wilderness space far from support
 or assistance should the need arise. Any game
 using the Rogue Trader fleet list must include
-a [sub-plot] from [???]-[???] of the Remastered
+a [sub-plot](../scenarios.md#sub-plots) from [???]-[???] of the Remastered
 Rulebook.
 
 #### The Best Money Can Buy
@@ -352,13 +352,13 @@ leadership ability just trying to keep his or
 her grip on the bands of criminals, mutineers
 and other such unsavory characters that
 make up a pirate fleet. All pirate vessels
-suffer a -1 [leadership] modifier, meaning their
+suffer a -1 [leadership](../the-rules.md#leadership) modifier, meaning their
 unmodified starting leadership will be from
 5 to 8.
 
 ### Attack rating
 
-Pirate fleets have an [attack or initiative rating]
+Pirate fleets have an [attack or initiative rating](../scenarios.md#using-an-attack-rating)
 of 3.
 
 ### Pirates in scenarios
@@ -367,12 +367,12 @@ When selecting scenarios, Pirates always roll
 against the Raid table on [???] of the Rulebook.
 However, if the Pirate fleet is the attacker and
 has a fleet of 1,500 points or greater, they may
-elect to play a [Planetary Assault] on a D6 roll
+elect to play a [Planetary Assault](../scenarios/planetary-assault.md) on a D6 roll
 of 6.
 
 ### Pirates in campaigns
 
-For [campaigns], pirate fleets operate from
+For [campaigns](../campaign-rules.md), pirate fleets operate from
 a pirate base as described on [???] of the
 Rulebook. They have very limited access
 to formal shipyards and cannot earn refits
@@ -684,9 +684,9 @@ into squadrons.
 
 ### Battlezone
 
-The convoy can be attacked near a [planet]
-or out in [deep space] so set up [celestial
-phenomena] in any mutually agreed-upon
+The convoy can be attacked near a [planet](../the-battlefield.md#planets)
+or out in [deep space](../the-battlefield.md#6-deep-space-generator) so set up [celestial
+phenomena](../the-battlefield.md#celestial-phenomena) in any mutually agreed-upon
 fashion.
 
 ### Set-up
@@ -730,7 +730,7 @@ must be taken for that turn.
 | 9 | The convoy maintains formation discipline and follows your commands. |
 | 10 | A fast clipper panics, and uses [*Comes to new Heading*] to turn directly away from the nearest enemy contact and travels full distance. |
 | 11 | A fast clipper panics and immediately goes [*All Ahead Full*]. |
-| 12 | PANIC! All transport ships test for [*All Ahead Full*] special orders, even if some ships fail. Roll [leadership checks] for each ship separately with no re-rolls allowed. |
+| 12 | PANIC! All transport ships test for [*All Ahead Full*] special orders, even if some ships fail. Roll [leadership checks](../the-rules.md#taking-command-checks) for each ship separately with no re-rolls allowed. |
 
 ### Game Length
 
@@ -796,15 +796,15 @@ Rulebook.
 
 ### Battlezone
 This scenario takes place near a pirate haven
-in the vicinity of two small [planets] or [moons]
+in the vicinity of two small [planets](../the-battlefield.md#planets) or [moons](../the-battlefield.md#moons)
 in close proximity to each other. Randomly
-determine the [sunward edge] on one of the
+determine the [sunward edge](../the-battlefield.md#fighting-sunward) on one of the
 two short table edges. Place two small planets
 closest to the opposite short table edge, no
 closer than 30 cm to any table edge or to each
-other. Place D3 [asteroid fields] on every table
+other. Place D3 [asteroid fields](../the-battlefield.md#asteroid-fields) on every table
 quadrant, no closer than 15 cm to either small
-planet. Additional [celestial phenomena] may
+planet. Additional [celestial phenomena](../the-battlefield.md#celestial-phenomena) may
 be placed if desired in any mutually agreed-upon fashion.
 
 ### Set-up
@@ -819,7 +819,7 @@ at least 30 cm apart and may not be within
 counters cannot fit on the table, counters may
 be stacked one on top of the other so that they
 are otherwise still at least 30 cm apart. The other
-force is on standby and is docked in [low orbit] at
+force is on standby and is docked in [low orbit](../the-battlefield.md#fighting-in-low-orbit) at
 one of the two small planets – the raiding player
 secretly notes which one contains the secret
 pirate base. The raiders orbital defences may
@@ -843,12 +843,12 @@ them. Turn the activated counter face-up
 immediately as soon as the hunter vessel
 moves within 30 cm and then completes
 its movement. Once the hunting player’s
-[movement phase] is complete, the raider
+[movement phase](../the-movement-phase.md) is complete, the raider
 deploys ships for any counters activated.
 Any turn after the first turn, the raider may
 voluntarily activate one counter at the start of
 its own movement phase, or two counters if
-the defender is on [special orders].
+the defender is on [special orders](../the-rules.md#special-orders).
 
 **Activated Escort Squadrons:** Place one ship
 from the squadron directly on top of the
@@ -867,7 +867,7 @@ in any direction the raider player chooses.
 **Raiders Docked in Low Orbit:** Vessels in low
 orbit are on standby and may not move out of
 low orbit until they pass a leadership test. This
-is not a [command check] such as for special
+is not a [command check](../the-rules.md#taking-command-checks) such as for special
 orders, and ships that fail do not prevent
 others from testing. Units moving out of low
 orbit cannot take special orders in the same
@@ -924,8 +924,8 @@ more if desired.
 This scenario takes place out in deep space
 near a point where ships typically jump into
 and out of the warp. Use the [deep space
-celestial phenomena generator], ignoring any
-result that produces a [planet].
+celestial phenomena generator](../the-battlefield.md#6-deep-space-generator), ignoring any
+result that produces a [planet](../the-battlefield.md#planets).
 
 ### Set-up
 
@@ -965,9 +965,9 @@ edge or are destroyed.
 
 ### Victory Conditions
 
-[Victory points] are calculated normally. In
+[Victory points](../scenarios.md#victory-points) are calculated normally. In
 addition, the defender earns a major victory
-(+1 [renown]) if the cruiser departs the opposite
+(+1 [renown](../campaign-rules.md#renown)) if the cruiser departs the opposite
 short table edge without being crippled. The
 attacker earns a major victory (+1 renown) if
 the cruiser is destroyed.
@@ -1010,10 +1010,10 @@ rolled for randomly.
 
 ### Battlezone
 
-This scenario takes place in the [outer reaches].
-In lieu of generating [celestial phenomena]
-normally, determine the [sunward edge]
-randomly, then place a single [asteroid field] no
+This scenario takes place in the [outer reaches](../the-battlefield.md#5-outer-reaches-generator).
+In lieu of generating [celestial phenomena](../the-battlefield.md#celestial-phenomena)
+normally, determine the [sunward edge](../the-battlefield.md#fighting-sunward)
+randomly, then place a single [asteroid field](../the-battlefield.md#asteroid-fields) no
 more than 30 cm wide down the full length of
 one long table edge.
 
@@ -1023,10 +1023,10 @@ Decide by initiative roll which fleet will set
 up first. Both fleets set up no more than
 15 cm from opposing short table corners on
 the other side of the table from the asteroid
-field. Additional [celestial phenomena] may be
+field. Additional [celestial phenomena](../the-battlefield.md#celestial-phenomena) may be
 placed if desired in any mutually agreed-upon
 fashion, ignoring any result that produces a
-[planet].
+[planet](../the-battlefield.md#planets).
 
 ### First Turn
 
@@ -1103,11 +1103,11 @@ destroyed.
 
 ### Victory Conditions
 
-[Victory points] are calculated normally.
+[Victory points](../scenarios.md#victory-points) are calculated normally.
 In addition, the player that captures the
 derelict ship and navigates it off the table
-earns a major victory (+2 [renown]), even if it
-is [crippled], along with victory points equal
+earns a major victory (+2 [renown](../campaign-rules.md#renown)), even if it
+is [crippled](../the-shooting-phase.md#crippled-ships), along with victory points equal
 to the starting value of the ship. Neither side
 earns any victory points for the derelict ship
 if it is destroyed, though its value as a capital
@@ -1132,7 +1132,7 @@ Space Hulk it recently captured and is still in
 the process of securing. The Space Hulk starts
 the game with Ld 6, 2D6 hits subtracted from
 its starting damage (40 HP) and has working
-[turrets] and [shields], but all weapon systems are
+[turrets](../the-ordnance-phase.md#turrets) and [shields](../the-shooting-phase.md#shields), but all weapon systems are
 off-line. It is being escorted by a Rogue Trader
 cruiser, an allied battleship, at least three allied
 cruisers, and escorts in any mix desired. The
@@ -1160,8 +1160,8 @@ the table below from the attacker’s fleet list.
 ### Battlezone
 
 The Space Hulk can be attacked near a
-[planet] or out in [deep space] so set up [celestial
-phenomena] in any mutually agreed-upon
+[planet](../the-battlefield.md#planets) or out in [deep space](../the-battlefield.md#6-deep-space-generator) so set up [celestial
+phenomena](../the-battlefield.md#celestial-phenomena) in any mutually agreed-upon
 fashion.
 
 ### Set-up
@@ -1217,10 +1217,10 @@ edges for any reason, it counts as destroyed.
 
 ### Victory Conditions
 
-[Victory points] are calculated normally. In
+[Victory points](../scenarios.md#victory-points) are calculated normally. In
 addition, if the Space Hulk is safely navigated
 off the opposite table edge, the defending
-player earns a major victory (+1 [renown])
+player earns a major victory (+1 [renown](../campaign-rules.md#renown))
 regardless of how many hits are remaining,
 along with victory points equal to the starting
 value of the ship (50% if crippled). If the
@@ -1262,7 +1262,7 @@ enemy of the other two fleets.
 The Foe Malevolent may have been hiding
 in the glare of a nearby sun, in low orbit of a
 planet or lost in the clutter of swirling asteroid
-fields. Set up [celestial phenomena] in any
+fields. Set up [celestial phenomena](../the-battlefield.md#celestial-phenomena) in any
 mutually agreed-upon fashion.
 
 ### Set-up
@@ -1320,7 +1320,7 @@ but one fleet disengages or is destroyed.
 
 ### Victory Conditions
 
-[Victory points] are calculated normally.
+[Victory points](../scenarios.md#victory-points) are calculated normally.
 Escorts count for victory points individually
 instead of per squadron. Capital ships count
 normally. However, their full value in victory
@@ -1339,3 +1339,4 @@ earn more victory points than they lose before
 the end of the battle. Player #3 only wins the
 battle if both other players lose more victory
 points than they earn.
+
