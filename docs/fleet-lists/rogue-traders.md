@@ -895,23 +895,39 @@ of the game (unless crippled).
 
 ## Scenario Three: The Gauntlet
 
-45 cm
+_**In wilderness space, just traversing from one star system to another can be a hazard
+in and of itself. It is not unheard of for a Rogue Trader cruiser and its attendant fleet
+to jump out of the warp and back into normal space just to find themselves in the
+midst of a firefight or at the wrong end of a hostile fleet. In such situations there is not
+enough time to fleet back into the warp, and Rogue Trader captains must rely on their
+wits, the skill of their crews and the aim of their guns to see their way through.**_
 
-ATTACKER'S
-DEPLOYMENT ZONE
+![](assets/the-gauntlet.png)
 
-45 cm
+### Forces
 
-ATTACKER'S
-DEPLOYMENT ZONE
-
-FORCES
-
-SET-UP
-
-Defending Forces: A single Rogue Trader
+**Defending Forces:** A single Rogue Trader
 cruiser and no more than three escorts are
 selected by the defending player.
+
+**Attacking Forces:** Forces are selected as
+desired by the attacking player, but the total
+point value must not exceed the total value of
+ships selected by the defender. These forces
+can only be made up of escort squadrons of at
+least two ships each. All attacking ships must
+be divided into at least two units, but can be
+more if desired.
+
+### Battlezone
+
+This scenario takes place out in deep space
+near a point where ships typically jump into
+and out of the warp. Use the [deep space
+celestial phenomena generator], ignoring any
+result that produces a [planet].
+
+### Set-up
 
 The attacking player divides his or her fleet
 into two or more units and represents each of
@@ -924,44 +940,14 @@ it will be entering from, then places his or her
 ships against one short table edge, no closer
 than 45 cm from any long table edge.
 
-Attacking Forces: Forces are selected as
-desired by the attacking player, but the total
-point value must not exceed the total value of
-ships selected by the defender. These forces
-can only be made up of escort squadrons of at
-least two ships each. All attacking ships must
-be divided into at least two units, but can be
-more if desired.
+### First Turn
 
-BATTLEZONE
-This scenario takes place out in deep space
-near a point where ships typically jump into
-and out of the warp. Use the deep space
-celestial phenomena generator, ignoring any
-result that produces a planet.
-
-!$#
-
-DEFENDER'S ESCAPE TABLE EDGE
-
-DEFENDER'S TABLE EDGE
-
-In wilderness space, just traversing from one star system to another can be a hazard
-in and of itself. It is not unheard of for a Rogue Trader cruiser and its attendant fleet
-to jump out of the warp and back into normal space just to find themselves in the
-midst of a firefight or at the wrong end of a hostile fleet. In such situations there is not
-enough time to fleet back into the warp, and Rogue Trader captains must rely on their
-wits, the skill of their crews and the aim of their guns to see their way through.
-
-FIRST TURN
 The defending player takes the first turn
 by moving off the defender’s table edge.
 All defending units move off the table edge
 during the first turn.
 
-SPECIAL RULES
-
-VICTORY CONDITIONS
+### Special Rules
 
 The attacker’s face-down contact markers
 are activated by any of the defender’s ships
@@ -971,19 +957,22 @@ activate one counter at the start of its own
 movement phase, or two counters if the
 defender is on special orders.
 
-Victory points are calculated normally. In
-addition, the defender earns a major victory
-(+1 renown) if the cruiser departs the opposite
-short table edge without being crippled. The
-attacker earns a major victory (+1 renown) if
-the cruiser is destroyed.
+### Game Length
 
-GAME LENGTH
 The battle continues until all of the defender’s
 ships either escape off the opposite short table
 edge or are destroyed.
 
-Note: This scenario is particularly well-suited
+### Victory Conditions
+
+[Victory points] are calculated normally. In
+addition, the defender earns a major victory
+(+1 [renown]) if the cruiser departs the opposite
+short table edge without being crippled. The
+attacker earns a major victory (+1 renown) if
+the cruiser is destroyed.
+
+*Note: This scenario is particularly well-suited
 for experimenting with new homebrew ship
 designs. If you are wondering what your new
 ship design and profile is worth in points, send
@@ -992,78 +981,60 @@ ideally against ships from several different fleet
 lists! If it handily defeats all arrayed against
 it, you guessed its point value too low. If it
 routinely gets destroyed in one or two turns,
-you guessed too high.
+you guessed too high.*
 
-!$$
+## Scenario Four: Explorer's Prize
 
-ROGUE TRADERS: SCENARIO FOUR
-
-EXPLORER'S PRIZE
-Every once in a while, a Rogue Trader occasions upon or ascertains the approximate
+_**Every once in a while, a Rogue Trader occasions upon or ascertains the approximate
 location of a relatively intact starship hulk, either through information dearly traded
 for, contacts developed through their many travels or just by sheer dumb luck! The
 Adeptus Mechanicus will pay handsomely for such a prize, particularly if it should be
 Xenos in origin or possess some manner of archaeotech. Unfortunately, finding it is
 only the beginning of the problem; Rogue Traders may find they aren’t the only souls
 seeking out such a valuable treasure, and just capturing and keeping the derelict
-vessel may result in having a fight on one’s hands!
+vessel may result in having a fight on one’s hands!**_
 
-30 cm
+![](assets/explorers-prize.png)
 
-15
-c
+### Forces
 
-FORCES
 Both sides have an equal point value as
 determined by the applicable fleet list. In
 addition, there is a derelict ship that at the
 start of the game does not belong to either
 player.
-Derelict Ship: This ship can be a cruisertype vessel from any fleet except Necrons
+
+**Derelict Ship:** This ship can be a cruiser-type vessel from any fleet except Necrons
 or Tyranids agreed upon by both players or
 rolled for randomly.
 
-BATTLEZONE
-This scenario takes place in the outer reaches.
-In lieu of generating celestial phenomena
-normally, determine the sunward edge
-randomly, then place a single asteroid field no
+### Battlezone
+
+This scenario takes place in the [outer reaches].
+In lieu of generating [celestial phenomena]
+normally, determine the [sunward edge]
+randomly, then place a single [asteroid field] no
 more than 30 cm wide down the full length of
-
-'&&
-
-OPPONENT'S
-DEPLOYMENT ZONE
-
-m
-
-OPPONENT'S
-DEPLOYMENT ZONE
-
-c
-15
-
-m
-
-ASTEROID FIELD
-
 one long table edge.
 
-SET-UP
+### Set-up
+
 Decide by initiative roll which fleet will set
 up first. Both fleets set up no more than
 15 cm from opposing short table corners on
 the other side of the table from the asteroid
-field. Additional celestial phenomena may be
+field. Additional [celestial phenomena] may be
 placed if desired in any mutually agreed-upon
 fashion, ignoring any result that produces a
-planet.
+[planet].
 
-FIRST TURN
+### First Turn
+
 First turn can be determined by initiative roll
 normally.
 
-SPECIAL RULES
+### Special Rules
+
 Besides the obvious objective of slugging it out
 with your opponent, the derelict ship must be
 located, boarded and escorted off the table. At
@@ -1087,6 +1058,7 @@ result that sends the derelict ship off the table
 edge or outside the asteroid field – it will end
 up no farther than just inside the asteroid field
 or just before the far table edge.
+
 The first capital ship or escort squadron of at
 least four vessels that makes base contact with
 the derelict ship is considered to board it for
@@ -1102,7 +1074,6 @@ for the boarding party. Normal boarding rules
 apply for any subsequent opposing boarding
 action, with the derelict ship taking -1 in
 addition to any other modifiers, though race
-
 modifiers for the crew that boarded it apply
 normally (such as Chaos or Space Marines).
 The ship begins on standby and must make
@@ -1115,6 +1086,7 @@ equivalent). This must be repaired normally
 before any weapon systems can be used, and it
 may not use any attack craft even if its launch
 bays are repaired.
+
 Once the ship is activated, the owning
 player may immediately begin navigating it
 out of the asteroid field. Because it is being
@@ -1123,34 +1095,33 @@ disengage normally and must make its way to
 the opposite long table edge to make good its
 escape!
 
-GAME LENGTH
+### Game Length
+
 The battle continues until the derelict ship
 leaves the opposite long table edge or is
 destroyed.
 
-VICTORY CONDITIONS
-Victory points are calculated normally.
+### Victory Conditions
+
+[Victory points] are calculated normally.
 In addition, the player that captures the
 derelict ship and navigates it off the table
-earns a major victory (+2 renown), even if it
-is crippled, along with victory points equal
+earns a major victory (+2 [renown]), even if it
+is [crippled], along with victory points equal
 to the starting value of the ship. Neither side
 earns any victory points for the derelict ship
 if it is destroyed, though its value as a capital
 ship hulk remains unchanged if one player
 holds the field at the end of the battle.
 
-'&!
+### Scenario Five: Space Hulk!
 
-ROGUE TRADERS: SCENARIO FIVE
-
-SPACE HULK!
-Every Rogue Trader dreams of discovering the holy grail of prizes – a space hulk!
+_**Every Rogue Trader dreams of discovering the holy grail of prizes – a space hulk!
 Riches beyond imagining and all manner of archeotech can be found among the
 conglomerated wrecks of derelict starship hulls, but the promise of untold wealth
 comes fraught with many dangers. Many such space hulks are almost inevitably
 infested with Orks or worse, and only a complete and utter fool would hazard his or
-her self and ship by exploring such a prize without help – a LOT of help…
+her self and ship by exploring such a prize without help – a LOT of help…**_
 
 ATTACKER'S
 DEPLOYMENT ZONE
