@@ -1114,7 +1114,7 @@ if it is destroyed, though its value as a capital
 ship hulk remains unchanged if one player
 holds the field at the end of the battle.
 
-### Scenario Five: Space Hulk!
+## Scenario Five: Space Hulk!
 
 _**Every Rogue Trader dreams of discovering the holy grail of prizes – a space hulk!
 Riches beyond imagining and all manner of archeotech can be found among the
@@ -1123,21 +1123,16 @@ comes fraught with many dangers. Many such space hulks are almost inevitably
 infested with Orks or worse, and only a complete and utter fool would hazard his or
 her self and ship by exploring such a prize without help – a LOT of help…**_
 
-ATTACKER'S
-DEPLOYMENT ZONE
+![](assets/space-hulk.png)
 
-45 cm
+### Forces
 
-ATTACKER'S
-DEPLOYMENT ZONE
-
-FORCES
-Defending Forces: The defending fleet has a
+**Defending Forces:** The defending fleet has a
 Space Hulk it recently captured and is still in
 the process of securing. The Space Hulk starts
 the game with Ld 6, 2D6 hits subtracted from
 its starting damage (40 HP) and has working
-turrets and shields, but all weapon systems are
+[turrets] and [shields], but all weapon systems are
 off-line. It is being escorted by a Rogue Trader
 cruiser, an allied battleship, at least three allied
 cruisers, and escorts in any mix desired. The
@@ -1145,64 +1140,31 @@ entire escorting fleet cannot exceed 1200 points
 (not including the Space Hulk). All escorting
 capital ships are at -1 Ld for the amount of crew
 and equipment they have aboard the Hulk.
-Attacking Forces: Attacking forces are
+
+**Attacking Forces:** Attacking forces are
 randomly generated. Do not use the alternate
 attacker threat tables on p.83 [???] for this
 scenario. To determine the total strength of
 the attacking forces, make D3+5 rolls against
 the table below from the attacker’s fleet list.
 
-'&'
+| D6 ROLL | RESULT |
+| :-: | --- |
+| 1 | Three attack craft or deadfall torpedo counters. |
+| 2 | A squadron of escort ships worth up to 100 points. |
+| 3 | A squadron of escort ships worth up to 150 points. |
+| 4 | A squadron of escort ships worth up to 200 points. |
+| 5 | One capital ship worth up to 210 points. |
+| 6 | One capital ship worth up to 250 points. |
 
-D6 ROLL
+### Battlezone
 
-SPACE HULK'S ESCAPE TABLE EDGE
-
-45 cm
-
-RESULT
-
-1
-
-Three attack craft or deadfall
-torpedo counters.
-
-2
-
-A squadron of escort ships
-worth up to 100 points.
-
-3
-
-A squadron of escort ships
-worth up to 150 points.
-
-4
-
-A squadron of escort ships
-worth up to 200 points.
-
-5
-
-One capital ship worth
-up to 210 points.
-
-6
-
-One capital ship worth
-up to 250 points.
-
-BATTLEZONE
 The Space Hulk can be attacked near a
-planet or out in deep space so set up celestial
-phenomena in any mutually agreed-upon
+[planet] or out in [deep space] so set up [celestial
+phenomena] in any mutually agreed-upon
 fashion.
 
-SET-UP
-
-2D6
-
-RESULT
+### Set-up
 
 The Space Hulk must be present on the table
 at the start of the game. Ships of the escorting
@@ -1213,80 +1175,8 @@ desired. The attacking player sets up in the
 same manner as described on p.75 [???] of the
 Battlefleet Gothic Rulebook.
 
-2
+### First Turn
 
-Chaos! The boarding teams run
-into a squad of Chaos renegades,
-and a firefight takes place aboard
-the Hulk, causing D3 damage.
-
-3
-
-No effect.
-
-4
-
-One dorsal lance battery
-strength is brought on-line
-(max. 4, then re-roll result).
-
-5
-
-Three weapons batteries are brought
-on-line (all four quadrants).
-
-6
-
-Two torpedo launchers are brought
-on-line (all three quadrants).
-
-7
-
-Orks! The boarding teams run into a
-mob of Orks, and a firefight takes place
-aboard the Hulk, causing D3 damage.
-
-8
-
-Two torpedo launchers are brought
-on-line (all three quadrants).
-
-9
-
-Three weapons batteries are brought
-on-line (all four quadrants).
-
-SPECIAL RULES
-
-10
-
-The Space Hulk must survive to travel off
-the opposite table edge. In addition, at the
-beginning of each defending player’s turn
-after the first turn, the defending player rolls
-2D6 against the following table. The roll result
-takes effect immediately.
-
-One dorsal lance battery
-strength is brought on-line
-(max. 4, then re-roll result).
-
-11
-
-No effect.
-
-12
-
-Tyranids! A brood of Genestealers are
-encountered aboard the Hulk, and that
-entire section must immediately be
-cleansed, causing D6 damage. Note how
-many times this result is rolled. If this
-result is rolled three times in the game,
-the Space Hulk is deemed too dangerous
-to be recovered and must be destroyed!
-
-FIRST TURN
 The defending player takes the first turn
 in the same manner as described on [???]
 p.74 of the Battlefleet Gothic Rulebook. The
@@ -1295,17 +1185,42 @@ start the first turn on his or her short table
 edge, and how many enter on the start of the
 second turn.
 
-GAME LENGTH
+### Special Rules
+
+The Space Hulk must survive to travel off
+the opposite table edge. In addition, at the
+beginning of each defending player’s turn
+after the first turn, the defending player rolls
+2D6 against the following table. The roll result
+takes effect immediately.
+
+| 2D6 | Result |
+| :-: | --- |
+| 2 | **Chaos!** The boarding teams run into a squad of Chaos renegades, and a firefight takes place aboard the Hulk, causing D3 damage. |
+| 3 | No effect. |
+| 4 | One dorsal lance battery strength is brought on-line (max. 4, then re-roll result). |
+| 5 | Three weapons batteries are brought on-line (all four quadrants). |
+| 6 | Two torpedo launchers are brought on-line (all three quadrants). |
+| 7 | **Orks!** The boarding teams run into a mob of Orks, and a firefight takes place aboard the Hulk, causing D3 damage. |
+| 8 | Two torpedo launchers are brought on-line (all three quadrants). |
+| 9 | Three weapons batteries are brought on-line (all four quadrants). |
+| 10 | One dorsal lance battery strength is brought on-line (max. 4, then re-roll result). |
+| 11 | No effect. |
+| 12 | **Tyranids!** A brood of Genestealers are encountered aboard the Hulk, and that entire section must immediately be cleansed, causing D6 damage. Note how many times this result is rolled. If this result is rolled three times in the game, the Space Hulk is deemed too dangerous to be recovered and must be destroyed! |
+
+### Game Length
+
 The battle continues until the Space Hulk
 leaves the opposite table edge or is destroyed.
 If the Space Hulk leaves one of the long table
 edges for any reason, it counts as destroyed.
 
-VICTORY CONDITIONS
-Victory points are calculated normally. In
+### Victory Conditions
+
+[Victory points] are calculated normally. In
 addition, if the Space Hulk is safely navigated
 off the opposite table edge, the defending
-player earns a major victory (+1 renown)
+player earns a major victory (+1 [renown])
 regardless of how many hits are remaining,
 along with victory points equal to the starting
 value of the ship (50% if crippled). If the
@@ -1316,41 +1231,41 @@ destroyed. If the Space Hulk is destroyed
 for any reason, it is a major victory for the
 attacker (+1 renown).
 
-'&(
+## Scenario six: The Void Malevolent
 
-ROGUE TRADERS: SCENARIO SIX
-
-THE VOID MALEVOLENT
-
-3RD PLAYER'S TABLE EDGE
-
-Rogue Traders rarely if ever are graced with a Warrant of Trade with the power and
+_**Rogue Traders rarely if ever are graced with a Warrant of Trade with the power and
 authority it bestows based solely on their wealth or social station. More often than
 not, a Warrant is granted on condition that a critical task or mission be performed,
 such as escorting a vital convoy through pirate-infested space or cleansing a given
 system or group of systems of some minor alien menace. However, ancient evils stalk
 the abyss, against whom all they encounter are little more than prey to be consumed
-or foes to be destroyed.
+or foes to be destroyed.**_
 
-1ST PLAYER'S
-DEPLOYMENT ZONE
-90 cm
+![](assets/the-void-malevolent.png)
 
-60 cm
-
-90 cm
-
-2ND PLAYER'S
-DEPLOYMENT ZONE
-
-FORCES
-
-SET-UP
+### Forces
 
 This is a three-player battle. Two sides have
 an equal point value as determined by their
 applicable fleet lists. In addition, there is a
 third fleet that plays the Foe Malevolent.
+
+**Foe Malevolent:** This fleet is 1.5 times larger
+than the point value of either one of the two
+primary opponents. Ideally this fleet would
+be Dark Eldar, Necrons or Tyranids, but it can
+be any fleet desired as long as it is played as an
+enemy of the other two fleets.
+
+### Battlezone
+
+The Foe Malevolent may have been hiding
+in the glare of a nearby sun, in low orbit of a
+planet or lost in the clutter of swirling asteroid
+fields. Set up [celestial phenomena] in any
+mutually agreed-upon fashion.
+
+### Set-up
 
 Both primary fleets set up on opposite long
 table edges in the same manner as the Cruiser
@@ -1359,23 +1274,8 @@ Gothic Rulebook. The third fleet does not set
 up for D3 turns. When it does set up, it does
 so anywhere along a random short table edge.
 
-Foe Malevolent: This fleet is 1.5 times larger
-than the point value of either one of the two
-primary opponents. Ideally this fleet would
-be Dark Eldar, Necrons or Tyranids, but it can
-be any fleet desired as long as it is played as an
-enemy of the other two fleets.
+### First Turn
 
-BATTLEZONE
-The Foe Malevolent may have been hiding
-in the glare of a nearby sun, in low orbit of a
-planet or lost in the clutter of swirling asteroid
-fields. Set up celestial phenomena in any
-mutually agreed-upon fashion.
-
-'&)
-
-FIRST TURN
 The two primary opponents determine first turn
 using initiative rolls or any other agreed-upon
 manner. After D3 turns, game play stops as the
@@ -1387,9 +1287,7 @@ set up at the beginning of the third player’s turn
 must enter the game along the same table edge at
 the beginning of the third player’s next turn.
 
-SPECIAL RULES
-
-GAME LENGTH
+### Special Rules
 
 The third player moves his or her ships in any
 desired fashion or order as prescribed by its
@@ -1402,42 +1300,27 @@ the closest targets, all normal and special rules
 available to the third fleet may be used as
 applicable.
 
-The battle continues for eight turns or until all
-but one fleet disengages or is destroyed.
-
 Because ordnance movement can be
 complicated by the introduction of a third
 player, the order of play after the third player
 sets up is outlined on the following table and
 continues on in the same order and sequence
 for all following turns.
-PLAYER
 
-SEQUENCE
+| PLAYER | SEQUENCE |
+| :-: | --- |
+| 3rd Player | Moves ships, conducts shooting, launches ordnance. 2nd Player then moves ordnance a second time. 1st Player ordnance remains in place. |
+| 2nd Player | Moves ships, conducts shooting, launches ordnance. 3rd Player then moves ordnance a second time. 2nd Player ordnance remains in place. |
+| 1st Player | Moves ships, conducts shooting, launches ordnance. 1st Player then moves ordnance a second time. 3rd Player ordnance remains in place. |
 
-3rd Player
+### Game Length
 
-Moves ships, conducts shooting,
-launches ordnance. 2nd Player then
-moves ordnance a second time. 1st
-Player ordnance remains in place.
+The battle continues for eight turns or until all
+but one fleet disengages or is destroyed.
 
-2nd Player
+### Victory Conditions
 
-Moves ships, conducts shooting,
-launches ordnance. 3rd Player then
-moves ordnance a second time. 2nd
-Player ordnance remains in place.
-
-1st Player
-
-Moves ships, conducts shooting,
-launches ordnance. 1st Player then
-moves ordnance a second time. 3rd
-Player ordnance remains in place.
-
-VICTORY CONDITIONS
-Victory points are calculated normally.
+[Victory points] are calculated normally.
 Escorts count for victory points individually
 instead of per squadron. Capital ships count
 normally. However, their full value in victory
@@ -1449,13 +1332,10 @@ damage upon a capital ship, then its victory
 points must be split equally between the two
 opponents that caused damage to or helped
 destroy the capital ship.
+
 Players #1 and #2 determine victory by
 gaining the most victory points, provided they
 earn more victory points than they lose before
 the end of the battle. Player #3 only wins the
 battle if both other players lose more victory
 points than they earn.
-
-'&*
-
-
