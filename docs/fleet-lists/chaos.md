@@ -19,14 +19,14 @@ a Chaos Lord be placed on the same ship as a
 Warmaster.
 
 ### Boarding Actions
-Chaos has a +1 [boarding] modifier. The Chaos
+Chaos has a +1 [boarding](../the-end-phase.md#boarding-actions) modifier. The Chaos
 Space Marine upgrade replaces this, providing
 them with a total +2 boarding modifier (before
 all other modifiers are applied normally).
 
 ### Renegade Imperial Vessels
 
-The [Imperial Navy] has taken great pains
+The [Imperial Navy](imperial-navy.md) has taken great pains
 after the 12th Black Crusade to ensure that
 its warships do not fall into the foul hands
 of Chaos. While only the most seasoned
@@ -37,7 +37,7 @@ and second-line warships. For every 1,500
 points in a Chaos fleet, one cruiser from any
 Imperial Navy fleet list up to 185 points and/
 or up to six Imperial Navy escorts may be
-taken. Special weapon rules, [Nova Cannon],
+taken. Special weapon rules, [Nova Cannon](../the-shooting-phase.md#nova-cannon),
 Chaos Lords, Chaos Space Marines, Chaos
 ordnance or Daemonship upgrades may
 not be taken for Imperial Navy vessels used
@@ -129,7 +129,7 @@ and has no impact on any rules).
 ### Leadership
 
 A vessel with a Chaos Space Marine crew
-will have +1 [Leadership] (in addition to any
+will have +1 [Leadership](../the-rules.md#leadership) (in addition to any
 other bonuses due to there being a Chaos
 Warmaster or Chaos Lord on board).
 Furthermore the maximum Leadership of the
@@ -141,11 +141,11 @@ The superior fighting skills of the Chaos
 Space Marines are most apparent in boarding
 actions. A ship with a Chaos Space Marine
 crew adds +2 to its roll when performing
-[boarding actions] and enemy conducting [hit
-& run attacks ]against them subtract -1 from
+[boarding actions](../the-end-phase.md#boarding-actions) and enemy conducting [hit
+& run attacks](../the-end-phase.md#hit-and-run-attacks) against them subtract -1 from
 their hit & run result. Hit and run attacks
-launched by [boarding torpedoes], Dreadclaws,
-Thunderhawks or [teleportation] originating
+launched by [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes), Dreadclaws,
+Thunderhawks or [teleportation](../the-end-phase.md#teleport-attacks) originating
 from such a ship add +1 to their result.
 
 ### Planetary Assault
@@ -274,7 +274,7 @@ a planetary objective for any length of time).
 Daemonships cannot be used in squadrons.
 
 Any Daemon ship may have a single [Mark of
-Chaos] with the same effects and cost in points
+Chaos](chaos.md#marks-of-chaos) with the same effects and cost in points
 as described on pg. 226.
 
 Daemon ship Leadership is rolled as normal
@@ -290,7 +290,7 @@ Warp waiting to either be summoned by one of
 the on-table Chaos ships or drawn to the ripe
 souls aboard an enemy ship.
 
-In the [End phase] of any Chaos turn, after the
+In the [End phase](../the-end-phase.md) of any Chaos turn, after the
 first, they may enter play from the Warp as
 follows: Select a friendly or enemy Capital
 ship; only a Capital ship contains enough
@@ -339,7 +339,7 @@ effect immediately. It also may not be shot at,
 boarded, rammed or have any action done to
 it while spectral.
 
-At the end of any subsequent Chaos [End phase]
+At the end of any subsequent Chaos [End phase](../the-end-phase.md)
 it may complete the translation to real space.
 It does not have to and may remain a spectral,
 haunting presence as long as the Chaos player
@@ -366,7 +366,7 @@ leadership check normally.
 ### Haunting
 
 A Daemonship may disengage at the end of
-any Chaos [Movement phase] without having to
+any Chaos [Movement phase](../the-movement-phase.md) without having to
 make any dice roll. It simply drops back into
 the Warp leaving no trace.
 
@@ -442,17 +442,17 @@ If your request for aid is heard, roll on this table to see what is put at your 
 
 | 2D6 roll | Result |
 | :-: | --- |
-| 2 | You implore the Chaos gods for their unholy gifts, but the dark powers smite you for your impudence. At the start of the next battle, roll once on the [Critical Damage] table and apply the result to your Warmaster’s ship! |
-| 3 | The Chaos gods show you a glimpse of the future. You may [re-roll] the dice when deciding who has the initiative in the next campaign turn. The second roll stands. |
-| 4 | The Chaos gods send a force of Daemonic entities that swirl about one of your ships and attack nearby vessels. Nominate one capital ship in the next battle. A single enemy ship within 15 cm during your [end phase] is attacked. Roll a D6: this is the number of dice you can roll to hit against the target’s Armour (shields have no effect). |
+| 2 | You implore the Chaos gods for their unholy gifts, but the dark powers smite you for your impudence. At the start of the next battle, roll once on the [Critical Damage](../the-shooting-phase.md#critical-hits) table and apply the result to your Warmaster’s ship! |
+| 3 | The Chaos gods show you a glimpse of the future. You may [re-roll](../the-rules.md#re-rolls) the dice when deciding who has the initiative in the next campaign turn. The second roll stands. |
+| 4 | The Chaos gods send a force of Daemonic entities that swirl about one of your ships and attack nearby vessels. Nominate one capital ship in the next battle. A single enemy ship within 15 cm during your [end phase](../the-end-phase.md) is attacked. Roll a D6: this is the number of dice you can roll to hit against the target’s Armour (shields have no effect). |
 | 5 | A mighty Champion of the Dark Gods agrees to join your retinue of followers. You may add a Chaos Lord (with a Mark of Chaos if you wish) to your Fleet Registry. |
-| 6 | A Chaos Space Marine battle force will act as your personal bodyguard. Your flagship may add +1 to all [boarding actions] it is involved in. |
+| 6 | A Chaos Space Marine battle force will act as your personal bodyguard. Your flagship may add +1 to all [boarding actions](../the-end-phase.md#boarding-actions) it is involved in. |
 | 7 | The Chaos Legions gather to your side. Your flagship and any ship with a Chaos Lord aboard may add +1 to all boarding actions it is involved in for the rest of the campaign. |
 | 8 | The Legions of Chaos grow strong and your fleet is aided by many deadly warriors such as Berzerkers of Khorne, Noise Marines and the dreaded Chaos Terminators. Any one ship in your fleet may add +2 to all boarding actions it is involved in for the rest of the campaign. |
-| 9 | Piratical renegades flock to your cause. One ship in your fleet may be equipped with [boarding torpedoes] and/or Dreadclaw [assault boats]. |
+| 9 | Piratical renegades flock to your cause. One ship in your fleet may be equipped with [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes) and/or Dreadclaw [assault boats](../the-ordnance-phase.md#assault-boats). |
 | 10  | With their cabalistic rites and blood sacrifices to the ancient gods, your Sorcerers bestow the gifts of Chaos onto one of your ships. In your next battle, one ship in your fleet may be given a Chaos Reward for free, as if the Warmaster or a Chaos Lord was on board (this can be combined with the Chaos Rewards of a Warmaster or Chaos Lord). |
-| 11 | The Chaos gods use their foul magicks to create a ward of Chaos about your fleet. Nominate one of your capital ships in the next game. Any enemy shooting at this ships suffers a right column shift on the [Gunnery table] (before any other shifts for range or [Blast markers]). |
-| 12 | The Chaos gods use their fiendish powers to create a swirling vortex of Chaos about one of your ships. Nominate one capital ship in your fleet. In the next battle, any enemy ship within 15 cm of this vessel counts as having one [Blast marker] in contact with its base. |
+| 11 | The Chaos gods use their foul magicks to create a ward of Chaos about your fleet. Nominate one of your capital ships in the next game. Any enemy shooting at this ships suffers a right column shift on the [Gunnery table](../the-shooting-phase.md#gunnery-table) (before any other shifts for range or [Blast markers](../the-shooting-phase.md#blast-markers)). |
+| 12 | The Chaos gods use their fiendish powers to create a swirling vortex of Chaos about one of your ships. Nominate one capital ship in your fleet. In the next battle, any enemy ship within 15 cm of this vessel counts as having one [Blast marker](../the-shooting-phase.md#blast-markers) in contact with its base. |
 
 ## Abaddon The Despoiler: Scourge of the Gothic Sector
 
@@ -530,7 +530,7 @@ Abaddon is accompanied by his company of
 Black Legion Traitor Marines aboard the ship
 he is commanding. This, combined with his
 own abilities, means the ship doubles its value
-in [boarding actions] and gains an extra +1
+in [boarding actions](../the-end-phase.md#boarding-actions) and gains an extra +1
 Boarding modifier.
 
 #### Hit-&-Run Attacks
@@ -538,12 +538,12 @@ Boarding modifier.
 Abaddon will have his own ship sealed tight
 against hit-&-run raiders (he knows every
 trick in the book). Therefore, [hit-&-run
-raids] deduct -1 from their dice roll against
+raids](../the-end-phase.md#hit-and-run-attacks) deduct -1 from their dice roll against
 Abaddon’s ship. If Abaddon’s vessel makes
-any hit-&-run [teleport attack]s, add +1 to the
+any hit-&-run [teleport attack](../the-end-phase.md#teleport-attacks)s, add +1 to the
 dice roll for the attack as it will be undertaken
 by elite Black Legion Terminators. [Boarding
-torpedoes] and [assault boats] from Abaddon’s
+torpedoes](../the-ordnance-phase.md#boarding-torpedoes) and [assault boats](../the-ordnance-phase.md#assault-boats) from Abaddon’s
 ship will be manned by more mundane
 minions and do not receive this modifier.
 
@@ -551,11 +551,11 @@ minions and do not receive this modifier.
 
 Abaddon the Despoiler does not tolerate
 failure, as many of his followers have
-discovered to their cost. If Abaddon’s [re-roll]
-is used for a [Command check] or [Leadership]
+discovered to their cost. If Abaddon’s [re-roll](../the-rules.md#re-rolls)
+is used for a [Command check](../the-rules.md#taking-command-checks) or [Leadership](../the-rules.md#leadership)
 test on another ship or squadron and the test
 is failed a second time, he will become angry –
-very, very angry! In the Chaos [Shooting phase]
+very, very angry! In the Chaos [Shooting phase](../the-shooting-phase.md)
 Abaddon will direct at least half the available
 firepower and lance strength of the ship he is
 commanding against the weaklings who have
@@ -566,7 +566,7 @@ enemy.
 
 The victims of his wrath (assuming they
 survive) will be suitably chastised and gain a
-+1 [Leadership] increase for the remainder of
++1 [Leadership](../the-rules.md#leadership) increase for the remainder of
 the game. The Leadership bonus will only take
 effect once (after that the crews are working as
 hard as they can!). If the object of Abaddon’s
@@ -588,24 +588,22 @@ failed him. No Leadership increase is gained.
 
 #### 1 Chaos Warmaster
 
-0-3 Chaos Lords
-
-Chaos Warmasters get one re-roll.
-
-A Chaos Lord may be given up to one of the
-following Marks of Chaos.
-
-You must include a Chaos Warmaster in your fleet,
+*You must include a Chaos Warmaster in your fleet,
 even if it is worth 750 points or less. He must be
 assigned to the biggest (ie, most expensive) ship and
-improves its Leadership to the value shown below.
-Chaos Warmaster (Ld 8)............................ 50 pts
+improves its Leadership to the value shown below.*
+
+Chaos Warmaster (Ld 8)............................ 50 pts<br>
 Chaos Warmaster (Ld 9).......................... 100 pts
+
+Chaos Warmasters get one re-roll.
 
 In addition they may be given up to four Marks
 of Chaos as shown below (no Mark may be taken
 more than once).
-The Mark of Slaanesh ......................... +25 pts
+
+**The Mark of Slaanesh ......................... +25 pts**
+
 The Chaos Warmaster is accompanied by the
 dissonant, siren cry of the Daemons of Slaanesh,
 the prince of pain and pleasure. Enemy ships
@@ -613,7 +611,9 @@ within 15 cm of any ship with a Mark of Slaanesh
 suffer -2 to their Leadership value. This is an
 area effect that is not affected by line of sight
 obstructions.
-The Mark of Khorne ...........................+20 pts
+
+**The Mark of Khorne ...........................+20 pts**
+
 The Chaos Warmaster and his followers chant
 their prayers to Khorne as they await the
 opportunity to spill blood in hand-to-hand
@@ -621,115 +621,161 @@ conflict. The Chaos Warmaster's ship doubles
 its value in boarding actions and adds +1 to any
 rolls for inflicting critical damage in a boarding
 action.
-The Mark of Tzeentch .........................+30 pts
+
+**The Mark of Tzeentch .........................+30 pts**
+
 The Chaos Warmaster benefits from the
 patronage of the Changer of Ways, his Daemonic
 prescience giving him command of the Fates.
 The Chaos Warmaster gains an extra re-roll.
-The Mark of Nurgle ............................ +35 pts
+
+**The Mark of Nurgle ............................ +35 pts**
+
 The Chaos Warmaster's ship is rank with
 putrescence and his followers bear the awful
 marks of morbidity and decay. The Chaos
 Warmaster's ship gains 1 damage point and may
 not be boarded.
 
-!!#
+#### 0-3 Chaos Lords
 
-You may include up to three Chaos Lords in your
+*You may include up to three Chaos Lords in your
 fleet. Each Chaos Lord must be assigned a ship
 and improves its Leadership rating to the value
-shown.
+shown.*
+
 Chaos Lord (Ld 8) ....................................... 50 pts
 
-The Mark of Slaanesh ......................... +25 pts
+A Chaos Lord may be given up to one of the
+following Marks of Chaos.
+
+**The Mark of Slaanesh ......................... +25 pts**
+
 Enemy ships within 15 cm of any ship with a
 Mark of Slaanesh suffer -2 to their Leadership
 value. This is an area effect that is not affected
 by line of sight obstructions.
-The Mark of Khorne ...........................+20 pts
+
+**The Mark of Khorne ...........................+20 pts**
+
 The Chaos Lord's ship doubles its value in
 boarding actions.
-The Mark of Tzeentch .........................+30 pts
+
+**The Mark of Tzeentch .........................+30 pts**
+
 The Chaos Lord gains a re-roll.
-The Mark of Nurgle ............................ +35 pts
+
+**The Mark of Nurgle ............................ +35 pts**
+
 The Chaos Lord's ship gains a damage point and
 may not be boarded.
 
-CAPITAL SHIPS
-0–1 Chaos Space Hulk
+### Capital Ships
 
-You may include up to one Space Hulk in the
+#### 0–1 Chaos Space Hulk
+
+*You may include up to one Space Hulk in the
 fleet. See it's profile for restrictions and how to
-include it.
+include it.*
+
 Chaos Space Hulk (pg. 272) .......................... 650 pts
 
-ORDNANCE
+#### Battleships
+
+*You may include up to one battleship in your fleet
+for every three cruisers or heavy cruisers.*
+
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
+Desolator class battleship (pg. 253) .............300 pts
+
+#### Grand Cruisers
+
+You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.
+
+Repulsive class grand cruiser (pg. 255) ...... 230 pts
+
+#### Heavy Cruisers
+
+*You may include up to one heavy cruiser in your
+fleet for every two cruisers.*
+
+Styx class heavy cruiser (pg. 254) ................ 260 pts<br>
+Hecate class heavy cruiser (pg. 259)............ 230 pts<br>
+Hades class heavy cruiser (pg. 260).............200 pts<br>
+Acheron class heavy cruiser (pg. 261)......... 190 pts
+
+#### 0-12 Cruisers
+
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
+Slaughter class cruiser (pg. 266) .................. 165 pts
+
+### Escorts
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
+Iconoclast class destroyer (pg. 269) ............... 30 pts
+
+### Ordnance
+
 Ships with launch bays can have a mixture
 of Swiftdeath fighters, Doomfire bombers or
 Dreadclaw assault craft. Ships with torpedo
 tubes are armed with normal and boarding
 torpedoes.
 
-Battleships
+## Abaddon's 13th Black Crusade: Black Crusade Fleet List
 
-You may include up to one battleship in your fleet
-for every three cruisers or heavy cruisers.
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
-Desolator class battleship (pg. 253) .............300 pts
+### Fleet Commander
 
-Grand Cruisers
+#### 0-1 Chaos Warmaster
 
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-
-Heavy Cruisers
-
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
-Acheron class heavy cruiser (pg. 261)......... 190 pts
-
-0-12 Cruisers
-
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
-Slaughter class cruiser (pg. 266) .................. 165 pts
-
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
-Iconoclast class destroyer (pg. 269) ............... 30 pts
-
-!!)
-
-ABADDON'S 13TH BLACK CRUSADE
-
-BLACK CRUSADE FLEET LIST
-FLEET COMMANDER
-
-0-1 Chaos Warmaster
-
-You can only include a Chaos Warmaster in your
+*You can only include a Chaos Warmaster in your
 fleet if it includes any capital ships. He must be
 assigned to the most expensive ship and improves
-its rolled Leadership by +2, to a maximum of 9.
+its rolled Leadership by +2, to a maximum of 9.*
+
 Chaos Warmaster (Ld +2) ....................... 100 pts
+
 Chaos Warmasters get one re-roll. In addition
 they may be given a single Mark of Chaos.
+
 The Warmaster may be given an extra re-roll at
 a cost of +25 points.
 
-Abaddon
+#### Abaddon
 
-The Mark of Slaanesh ......................... +25 pts
+*You may include Abaddon the Despoiler as the
+Warmaster in any Chaos Fleet worth more than
+1,000 points.*
+
+Abaddon (Ld 10) ....................................... 195 pts
+
+Abaddon receives one re-roll per turn, in
+addition see his special rules on pg. 72[??]
+
+#### Chaos Lords
+
+*Any capital ship, apart from that of the
+Warmaster, may be captained by a Chaos Lord. If
+so then add +1 to the Leadership rolled for the ship
+at the start of the game subject to a maximum of 9.*
+
+Chaos Lord (Ld +1) ..................................... 25 pts
+
+A Lord may be given a re-roll (which he can use
+for his own ship or squadron only) at +25 points.
+A ship commanded by a Lord may be given a
+single Mark of Chaos.
+
+**The Mark of Slaanesh ......................... +25 pts**
+
 The ship is full of the sensation-craving followers
 of Slaanesh and their siren cries extend into
 the minds of the crews of nearby enemy ships.
@@ -737,106 +783,110 @@ Enemy ships within 15 cm of any ship with a
 Mark of Slaanesh suffer –2 to their Leadership
 value. This is an area effect that is not affected
 by line of sight obstructions.
-The Mark of Khorne ...........................+20 pts
+
+**The Mark of Khorne ...........................+20 pts**
+
 Crewed by the homicidal followers of Khorne,
 the ship is extremely dangerous in boarding
 actions. It doubles its value in boarding actions.
 
-You may include Abaddon the Despoiler as the
-Warmaster in any Chaos Fleet worth more than
-1,000 points.
-Abaddon (Ld 10) ....................................... 195 pts
+**The Mark of Tzeentch ......................... +25 pts**
 
-The Mark of Tzeentch ......................... +25 pts
 The Captain can call upon the power of
 precognition as well as formidable magics to
 control his vessel. This ship has an extra re-roll.
 
-Abaddon receives one re-roll per turn, in
-addition see his special rules on pg. 72[??]
+**The Mark of Nurgle ............................ +35 pts**
 
-The Mark of Nurgle ............................ +35 pts
 The vessel is rank with putrescence and the
 many plagues of the Lord of Decay. It gains 1
 Damage Point and may not be boarded.
 
-Chaos Lords
+### Capital Ships
 
-Any capital ship, apart from that of the
-Warmaster, may be captained by a Chaos Lord. If
-so then add +1 to the Leadership rolled for the ship
-at the start of the game subject to a maximum of 9.
-Chaos Lord (Ld +1) ..................................... 25 pts
-A Lord may be given a re-roll (which he can use
-for his own ship or squadron only) at +25 points.
-A ship commanded by a Lord may be given a
-single Mark of Chaos.
+#### 0-1 Planet Killer
 
-CAPITAL SHIPS
-0-1 Planet Killer
-
-A fleet of 1,000 points or more may include the
+*A fleet of 1,000 points or more may include the
 Planet Killer. If you include the Planet Killer,
 Abaddon does not have to be present, but if he is he
 must be aboard the Planet Killer. The Planet Killer
 also counts as a battleship when working out how
-many heavy cruisers and cruisers the fleet requires.
+many heavy cruisers and cruisers the fleet requires.*
+
 Planet Killer (pg. 252) .................................... 505 pts
 
-0–1 Chaos Space Hulk
+#### 0–1 Chaos Space Hulk
 
-You may include up to one Space Hulk in the
+*You may include up to one Space Hulk in the
 fleet. See it's profile for restrictions and how to
-include it.
+include it.*
+
 Chaos Space Hulk (pg. 272) .......................... 650 pts
 
-Battleships
+#### Battleships
 
-You may include up to one battleship in your fleet
-for every three cruisers or heavy cruisers.
+*You may include up to one battleship in your fleet
+for every three cruisers or heavy cruisers.*
 
-!!$
-
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
 Desolator class battleship (pg. 253) .............300 pts
 
-Grand Cruisers
+#### Grand Cruisers
 
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Retaliator class grand cruiser (pg. 255) ...... 260 pts
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
+*You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.*
+
+Retaliator class grand cruiser (pg. 255) ...... 260 pts<br>
+Repulsive class grand cruiser (pg. 255) ...... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
 Executor class grand cruiser (pg. 255) ........ 210 pts
 
-Heavy Cruisers
+#### Heavy Cruisers
 
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
+*You may include up to one heavy cruiser in your
+fleet for every two cruisers.*
+
+Styx class heavy cruiser (pg. 254) ................ 260 pts<br>
+Hecate class heavy cruiser (pg. 259)............ 230 pts<br>
+Hades class heavy cruiser (pg. 260).............200 pts<br>
 Acheron class heavy cruiser (pg. 261)......... 190 pts
 
-0-12 Cruisers
+#### 0-12 Cruisers
 
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
 Slaughter class cruiser (pg. 266) .................. 165 pts
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+
 Any capital ship can be designated as having
 a Chaos Space Marine crew at +35 points. The
 ship will be subject to the Chaos Space Marine
 special rules on pgs. 218–219.
 
-Battleship ...................................................+50 pts
-Grand cruiser ............................................+30 pts
-Heavy cruiser.............................................+25 pts
+Remember, a ship with a Chaos Space Marine
+crew may have a Mark of Chaos, even if a
+Warmaster or Lord does not captain it, but is
+subject to the restriction on pg. 219.
+
+For +10 points, battleships and grand cruisers
+with Chaos Space Marine Warmasters, Lords or
+crews may include Chosen Terminators.
+
+### Daemon Ships
+
+*Any number of capital ships in your fleet may be
+upgraded to a Daemon ship at the additional points
+cost shown, based upon the type of vessel chosen.*
+
+Battleship ...................................................+50 pts<br>
+Grand cruiser ............................................+30 pts<br>
+Heavy cruiser.............................................+25 pts<br>
 Cruiser ........................................................+20 pts
+
 A Daemon ship may not be commanded by
 a Warmaster or a Chaos Lord even if it is the
 largest ship in the fleet. This is an exception to
@@ -844,15 +894,19 @@ the normal rule. A Daemon ship may not have a
 Chaos Space Marine crew. Any number of capital
 ships can be upgraded to Daemon ships subject
 to these limitations.
+
 Any Daemon ship may have a single Mark of
 Chaos with the same effects and points cost.
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
 Iconoclast class destroyer (pg. 269) ............... 30 pts
+
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos Space
 Marine crew, neither can they be given Marks.
@@ -860,21 +914,12 @@ You should feel free to paint and model them to
 be consistent with the rest of your fleet, it will
 not have any game effect however.
 
-ORDNANCE
-
-Remember, a ship with a Chaos Space Marine
-crew may have a Mark of Chaos, even if a
-Warmaster or Lord does not captain it, but is
-subject to the restriction on pg. 219.
+### Ordnance
 
 Ships with launch bays can have a mixture of
 Swiftdeath fighters, Doomfire bombers and
 Dreadclaw assault craft. Ships with torpedo tubes
 are armed with normal and boarding torpedoes.
-
-For +10 points, battleships and grand cruisers
-with Chaos Space Marine Warmasters, Lords or
-crews may include Chosen Terminators.
 
 A ship with a Chaos Space Marine crew may
 be equipped with Thunderhawk Gunships but
@@ -885,163 +930,178 @@ the launch capacity of the ship’s bays’ is halved
 have to be substantially rebuilt to deal with the
 larger Thunderhawks.
 
-DAEMON SHIPS
-Any number of capital ships in your fleet may be
-upgraded to a Daemon ship at the additional points
-cost shown, based upon the type of vessel chosen.
+## The Sorcerous Fleet of Tzeentch
 
-!!%
+### Fleet Commander
 
-THE SORCEROUS FLEET
-OF TZEENTCH
-FLEET COMMANDER
+#### 0-1 Chaos Warmaster of Tzeentch
 
-CAPITAL SHIPS
-
-You can only include a Chaos Warmaster in your
+*You can only include a Chaos Warmaster in your
 fleet if it includes any capital ships. He must be
 assigned to the most expensive ship and improves
-its rolled Leadership by +2, to a maximum of 10.
+its rolled Leadership by +2, to a maximum of 10.*
+
 Chaos Warmaster (Ld +2) ....................... 100 pts
-
-A fleet of 1,000 points or more may include the
-Planet Killer. If you include the Planet Killer,
-Abaddon does not have to be present, but if he is
-he must be aboard the Planet Killer. The Planet
-Killer also counts as a battleship when working
-out how many heavy cruisers and cruisers the
-fleet requires.
-Planet Killer (pg. 252) .................................... 505 pts
-
-0-1 Chaos Warmaster of Tzeentch
 
 Chaos Warmasters get one re-roll. The
 Warmaster may be given an extra re-roll at a
 cost of +25 points. The Warmaster must take
 the Mark of Tzeentch.
 
-Chaos Lords
+#### Chaos Lords
 
-Any capital ship apart from that of the Warmaster
+*Any capital ship apart from that of the Warmaster
 may be captained by a Chaos Lord. If so then add
 +1 to the Leadership rolled for the ship at the start
-of the game subject to a maximum of 9.
+of the game subject to a maximum of 9.*
+
 Chaos Lord (Ld +1) ..................................... 25 pts
+
 A Lord may be given a Mark of Tzeentch,
 providing a re-roll (which he can use for his
 own ship or squadron only) for +25 points. A
 ship commanded by a Lord may only be given
 a Mark of Tzeentch.
-The Mark of Tzeentch ......................... +25 pts
+
+**The Mark of Tzeentch ......................... +25 pts**
+
 The vessel is given command of the Fates by its
 patron god and gains +1 re-roll.
 
-0-1 Planet Killer
+### Capital Ships
 
-0–1 Chaos Space Hulk
+#### 0-1 Planet Killer
 
-You may include up to one Space Hulk in the
+*A fleet of 1,000 points or more may include the
+Planet Killer. If you include the Planet Killer,
+Abaddon does not have to be present, but if he is
+he must be aboard the Planet Killer. The Planet
+Killer also counts as a battleship when working
+out how many heavy cruisers and cruisers the
+fleet requires.*
+
+Planet Killer (pg. 252) .................................... 505 pts
+
+#### 0–1 Chaos Space Hulk
+
+*You may include up to one Space Hulk in the
 fleet. See it's profile for restrictions and how to
-include it.
+include it.*
+
 Chaos Space Hulk (pg. 272) .......................... 650 pts
 
-Battleships
+#### Battleships
 
-You may include up to one battleship in your
+*You may include up to one battleship in your
 fleet for every three cruisers or heavy cruisers. A
-fleet 1,000 points or more may include the Scion
-of Prospero as one of its battleships, subject to
-normal restrictions.
-0-1 Scion of Prospero (pg. 252) ..................... 450 pts
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
+fleet 1,000 points or more may include the *Scion
+of Prospero* as one of its battleships, subject to
+normal restrictions.*
+
+0-1 *Scion of Prospero* (pg. 252) ..................... 450 pts<br>
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
 Desolator class battleship (pg. 253) .............300 pts
 
-Grand Cruisers
+#### Grand Cruisers
 
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Retaliator class grand cruiser (pg. 255) ...... 260 pts
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
+*You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.*
+
+Retaliator class grand cruiser (pg. 255) ...... 260 pts<br>
+Repulsive class grand cruiser (pg. 255) ...... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
 Executor class grand cruiser (pg. 255) ........ 210 pts
 
-Heavy Cruisers
+#### Heavy Cruisers
 
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
+*You may include up to one heavy cruiser in your
+fleet for every two cruisers.*
+
+Styx class heavy cruiser (pg. 254) ................ 260 pts<br>
+Hecate class heavy cruiser (pg. 259)............ 230 pts<br>
+Hades class heavy cruiser (pg. 260).............200 pts<br>
 Acheron class heavy cruiser (pg. 261)......... 190 pts
 
-0-12 Cruisers
+#### 0-12 Cruisers
 
-!&*
-
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
 Slaughter class cruiser (pg. 266) .................. 165 pts
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+ 
 Any capital ship can be designated as having
 a Thousand Sons Chaos Space Marine crew at
 +35 points. The ship will be subject to the Chaos
 Space Marine special rules on pgs. 218–219.
 A ship with a Thousand Sons Chaos Space
 Marine crew may have a Mark of Tzeentch.
+
 For +10 points, battleships and grand cruisers
 with Chaos Space Marine Warmasters, Lords or
 crews may include Chosen Terminators.
 
+### Daemonships
+
+*Except for the flagship or the Scion of Prospero
+(if included), any number of the capital ships in a
+Sorcerous Fleet may be upgraded to Daemonships
+at the additional points cost shown, based upon
+the type of vessel chosen.*
+
+Battleship ...................................................+50 pts<br>
+Grand cruiser ............................................+30 pts<br>
+Heavy cruiser.............................................+25 pts<br>
+Cruiser ........................................................+20 pts
+
+A Daemonship may not be commanded by a
+Warmaster or a Chaos Lord, even if it is the
+largest ship in the fleet. This is an exception to
+the normal rule. A Daemonship may not have
+a Chaos Space Marine crew.
+
+Daemonships in a Sorcerous Fleet may only take
+the Mark of Tzeentch, paid for separately.
+
+### Forces of Chaos
+
+**Warp Beasts......................................... +25 pts**
+
+*The garish, terror-spawned leviathans of the
+warp are but playthings to Tzeentch, and he can
+bind these creatures to the hulls of vessels to be
+unleashed in a torrent of coruscating fire and
+nightmare colour.*
+
+Up to two capital ships (including the flagship)
+can have daemonic entities and warp beasts swirl
+about its hull, including daemonships. Once per
+battle, a single enemy ship within 15 cm takes
 D6 hits in the end phase (shields have no effect).
-Strand of Fortune................................ +25 pts
-Tzeentch may offer glimpses of the future to his
-servants, even those serving his chosen champion.
+
+**Strand of Fortune................................ +25 pts**
+
+*Tzeentch may offer glimpses of the future to his
+servants, even those serving his chosen champion.*
+
 Any ship led by a Lord of Tzeentch (and not
 the Warmaster!) may be granted a Strand of
 Fortune. Once per battle it automatically passes
 a command check or leadership test – no roll
 required.
 
-ESCORTS
-DAEMONSHIPS
-Except for the flagship or the Scion of Prospero
-(if included), any number of the capital ships in a
-Sorcerous Fleet may be upgraded to Daemonships
-at the additional points cost shown, based upon
-the type of vessel chosen.
-Battleship ...................................................+50 pts
-Grand cruiser ............................................+30 pts
-Heavy cruiser.............................................+25 pts
-Cruiser ........................................................+20 pts
-A Daemonship may not be commanded by a
-Warmaster or a Chaos Lord, even if it is the
-largest ship in the fleet. This is an exception to
-the normal rule. A Daemonship may not have
-a Chaos Space Marine crew.
-Daemonships in a Sorcerous Fleet may only take
-the Mark of Tzeentch, paid for separately.
+### Escorts
 
-FORCES OF CHAOS
-Warp Beasts......................................... +25 pts
-The garish, terror-spawned leviathans of the
-warp are but playthings to Tzeentch, and he can
-bind these creatures to the hulls of vessels to be
-unleashed in a torrent of coruscating fire and
-nightmare colour.
-Up to two capital ships (including the flagship)
-can have daemonic entities and warp beasts swirl
-about its hull, including daemonships. Once per
-battle, a single enemy ship within 15 cm takes
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
 
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
 Iconoclast class destroyer (pg. 269) ............... 30 pts
+
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos Space
 Marine crew, neither can they be given Marks.
@@ -1049,12 +1109,14 @@ You should feel free to paint and model them to
 be consistent with the rest of your fleet, it will
 not have any game effect however.
 
-ORDNANCE
+### Ordnance
+
 Ships with launch bays can have a mixture of
 Swiftdeath fighters, Doomfire bombers and
 Dreadclaw assault craft. Ships with torpedo
 tubes are armed with normal and boarding
 torpedoes.
+
 A ship with a Chaos Space Marine crew may be
 equipped with Thunderhawk Gunships but if so
 it may only carry Thunderhawks and may not
@@ -1064,131 +1126,164 @@ bays’ is halved (round down). This is because
 the launch bays have to be substantially rebuilt
 to deal with the larger Thunderhawks.
 
-!&"
+## The Plaguefleet of Nurgle
 
-THE PLAGUEFLEET
-OF NURGLE
-FLEET COMMANDER
+### Fleet Commander
 
-0-1 Chaos Warmaster of Nurgle
+#### 0-1 Chaos Warmaster of Nurgle
 
-You can only include a Chaos Warmaster in
+*You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
 and improves its rolled Leadership by +2, to a
-maximum of 10.
+maximum of 10.*
+
 Chaos Warmaster (Ld +2) ....................... 100 pts
+
 Chaos Warmasters get one re-roll. The
 Warmaster may be given an extra re-roll at a
 cost of +25 points. The Warmaster must take
 the Mark of Nurgle.
 
-Chaos Lords
+#### Chaos Lords
 
-Any capital ship apart from that of the
+*Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
 If so then add +1 to the Leadership rolled for
 the ship at the start of the game subject to a
-maximum of 9.
+maximum of 9.*
+
 Chaos Lord (Ld +1) ..................................... 25 pts
+
 A Lord may be given a re-roll (which he can
 use for his own ship or squadron only) for
 +25 points. A ship commanded by a Lord may
 only be given a Mark of Nurgle.
-The Mark of Nurgle ............................ +35 pts
+
+**The Mark of Nurgle ............................ +35 pts**
+
 The vessel is rank with putrescence and the
 many plagues of the Lord of Decay. It gains 1
 Damage Point and may not be boarded.
 
-CAPITAL SHIPS
+### Capital Ships
 
-0-1 Planet Killer
+#### 0-1 Planet Killer
 
-A fleet of 1,000 points or more may include the
+*A fleet of 1,000 points or more may include the
 Planet Killer. If you include the Planet Killer,
 Abaddon does not have to be present, but if he is
 he must be aboard the Planet Killer. The Planet
 Killer also counts as a battleship when working
 out how many heavy cruisers and cruisers the
-fleet requires.
+fleet requires.*
+
 Planet Killer (pg. 252) .................................... 505 pts
 
-!&!
+#### 0–1 Chaos Space Hulk
 
-0–1 Chaos Space Hulk
-
-You may include up to one Space Hulk in the
+*You may include up to one Space Hulk in the
 fleet. See it's profile for restrictions and how to
-include it.
+include it.*
+
 Chaos Space Hulk (pg. 272) .......................... 650 pts
 
-Battleships
+#### Battleships
 
-You may include up to one battleship in your fleet
+*You may include up to one battleship in your fleet
 for every three cruisers or heavy cruisers. A fleet
 1,000 points or more may include the Terminus
 Est as one of its battleships, subject to normal
-restrictions.
-0-1 Terminus Est (pg. 248) ............................ 430 pts
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
+restrictions.*
+
+0-1 *Terminus Est* (pg. 248) ............................ 430 pts<br>
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
 Desolator class battleship (pg. 253) .............300 pts
 
-Grand Cruisers
+#### Grand Cruisers
 
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Retaliator class grand cruiser (pg. 255) ...... 260 pts
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
+*You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.*
+
+Retaliator class grand cruiser (pg. 255) ...... 260 pts<br>
+Repulsive class grand cruiser (pg. 255) ...... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
 Executor class grand cruiser (pg. 255) ........ 210 pts
 
-Heavy Cruisers
+#### Heavy Cruisers
 
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
+*You may include up to one heavy cruiser in your
+fleet for every two cruisers.*
+
+Styx class heavy cruiser (pg. 254) ................ 260 pts<br>
+Hecate class heavy cruiser (pg. 259)............ 230 pts<br>
+Hades class heavy cruiser (pg. 260).............200 pts<br>
 Acheron class heavy cruiser (pg. 261)......... 190 pts
 
-0-12 Cruisers
+#### 0-12 Cruisers
 
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
 Slaughter class cruiser (pg. 266) .................. 165 pts
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+
 Any capital ship can be designated as having a
 Death Guard Chaos Space Marine crew at +35
 points. The ship will be subject to the Chaos
 Space Marine special rules on pgs. 218–219.
 
-A ship with a Death Guard Chaos Space
+A ship with a Death Guard Chaos Space
 Marine crew may have a Mark of Nurgle.
+
 For +10 points, battleships and grand cruisers
 with Chaos Space Marine Warmasters, Lords or
 crews may include Chosen Terminators.
 
-DAEMONSHIPS
-Up to a third of the capital ships (not the Terminus
+### Daemonships
+
+*Up to a third of the capital ships (not the Terminus
 Est or flagship) in a Plaguefleet may be upgraded
 to Daemonships at the additional points cost
-shown, based upon the type of vessel chosen.
-Battleship ...................................................+85 pts
-Grand cruiser ............................................+65 pts
-Heavy cruiser.............................................+60 pts
+shown, based upon the type of vessel chosen.*
+
+Battleship ...................................................+85 pts<br>
+Grand cruiser ............................................+65 pts<br>
+Heavy cruiser.............................................+60 pts<br>
 Cruiser ........................................................+55 pts
+
 A Daemonship may not be commanded by a
 Warmaster or a Chaos Lord, even if it is the
 largest ship in the fleet. This is an exception to
 the normal rule. A Daemonship may not have
 a Chaos Space Marine crew.
+
 All Daemonships in a Plaguefleet must take
 the Mark of Nurgle, which is already included
 in the cost to upgrade them to Daemonships.
+
+### Forces of Chaos
+
+**Hives of Nurgle ................................... +10 pts**
+
+*Pustules, hives, and sores fester upon the ship’s
+cankered hull, seeping an obscuring haze of
+corroded debris, waste and filth out into space.*
+
+Any capital ships with the Mark of Nurgle
+may also take Hives of Nurgle. The murky
+haze distorts the ship’s silhouette; vessels
+within 15 cm do not benefit from a left column
+shift when firing at it.
+
+**Ark of Pestilence ...................................+5 pts**
+
+During the Gothic War, hulks were found to be
+relatively intact but with their entire crews slain
+and their bodies rotted by horrific disease.
 
 Up to three capital ships with the Mark of
 Nurgle (including the flagship) may also
@@ -1200,12 +1295,15 @@ critical (repaired normally). Ships hulked in
 this manner do not remain “on fire” and roll
 normally on the catastrophic damage table.
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
 Iconoclast class destroyer (pg. 269) ............... 30 pts
+
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos
 Space Marine crew, neither can they be given
@@ -1214,27 +1312,14 @@ model them to be consistent with the rest of
 your fleet, it will not have any game effect
 however.
 
-ORDNANCE
-FORCES OF CHAOS
-Hives of Nurgle ................................... +10 pts
-Pustules, hives, and sores fester upon the ship’s
-cankered hull, seeping an obscuring haze of
-corroded debris, waste and filth out into space.
-Any capital ships with the Mark of Nurgle
-may also take Hives of Nurgle. The murky
-haze distorts the ship’s silhouette; vessels
-within 15 cm do not benefit from a left column
-shift when firing at it.
-Ark of Pestilence ...................................+5 pts
-During the Gothic War, hulks were found to be
-relatively intact but with their entire crews slain
-and their bodies rotted by horrific disease.
+### Ordnance
 
 Ships with launch bays can have a mixture of
 Swiftdeath fighters, Doomfire bombers and
 Dreadclaw assault craft. Ships with torpedo
 tubes are armed with normal and boarding
 torpedoes.
+
 A ship with a Chaos Space Marine crew may
 be equipped with Thunderhawk Gunships
 but if so it may only carry Thunderhawks and
@@ -1245,84 +1330,49 @@ This is because the launch bays have to be
 substantially rebuilt to deal with the larger
 Thunderhawks.
 
-!&&
+## The Berzerker Fleet of Khorne
 
-THE BERZERKER FLEET
-OF KHORNE
-FLEET COMMANDER
+### Fleet Commander
 
-0-1 Chaos Warmaster of Khorne
+#### 0-1 Chaos Warmaster of Khorne
 
-You can only include a Chaos Warmaster in
+*You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
 and improves its rolled Leadership by +2, to a
-maximum of 10.
+maximum of 10.*
+
 Chaos Warmaster (Ld +2) ....................... 100 pts
+
 Chaos Warmasters get one re-roll. The
 Warmaster may be given an extra re-roll at a
 cost of +25 points. The Warmaster must take
 the Mark of Khorne.
 
-Chaos Lords
+#### Chaos Lords
 
-Any capital ship apart from that of the
+*Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
 If so then add +1 to the Leadership rolled for
 the ship at the start of the game subject to a
-maximum of 9.
+maximum of 9.*
+
 Chaos Lord (Ld +1) ..................................... 25 pts
+
 A Lord may be given a re-roll (which he can
 use for his own ship or squadron only) for
 +25 points. A ship commanded by a Lord may
 only be given a Mark of Khorne.
-The Mark of Khorne ...........................+20 pts
+
+**The Mark of Khorne ...........................+20 pts**
+
 Crewed by homicidal, blood-crazed followers
 of Khorne, it doubles its value in boarding
 actions.
 
-You may include up to one Space Hulk in the fleet,
-which must be the flagship if chosen. Bezerker
-Fleets led by a Space Hulk may have more than
-two battleships, but other restrictions remain
-unchanged.
-Chaos Space Hulk (pg. 272) .......................... 650 pts
+### Capital Ships
 
-Battleships
-
-You may include up to one battleship in your
-fleet for every three cruisers or heavy cruisers.
-A fleet 1,000 points or more may include the
-Slaverer as one of its battleships, subject to normal
-restrictions.
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
-0-1 Slaverer (pg. 250) ..................................... 380 pts
-Desolator class battleship (pg. 253) .............300 pts
-
-Grand Cruisers
-
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Retaliator class grand cruiser (pg. 255) ...... 260 pts
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
-Executor class grand cruiser (pg. 255) ........ 210 pts
-
-Heavy Cruisers
-
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
-Acheron class heavy cruiser (pg. 261)......... 190 pts
-
-0-12 Cruisers
-
-CAPITAL SHIPS
-
-0-1 Planet Killer
+#### 0-1 Planet Killer
 
 A fleet of 1,000 points or more may include the
 Planet Killer. If you include the Planet Killer,
@@ -1331,76 +1381,124 @@ he must be aboard the Planet Killer. The Planet
 Killer also counts as a battleship when working
 out how many heavy cruisers and cruisers the
 fleet requires.
+
 Planet Killer (pg. 252) .................................... 505 pts
 
-0–1 Chaos Space Hulk
-!&'
+#### 0–1 Chaos Space Hulk
 
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
+*You may include up to one Space Hulk in the fleet,
+which must be the flagship if chosen. Bezerker
+Fleets led by a Space Hulk may have more than
+two battleships, but other restrictions remain
+unchanged.*
+
+Chaos Space Hulk (pg. 272) .......................... 650 pts
+
+### Battleships
+
+*You may include up to one battleship in your
+fleet for every three cruisers or heavy cruisers.
+A fleet 1,000 points or more may include the
+*Slaverer* as one of its battleships, subject to normal
+restrictions.*
+
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
+0-1 *Slaverer* (pg. 250) ..................................... 380 pts<br>
+Desolator class battleship (pg. 253) .............300 pts
+
+#### Grand Cruisers
+
+*You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.*
+
+Retaliator class grand cruiser (pg. 255) ...... 260 pts<br>
+Repulsive class grand cruiser (pg. 255) ...... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
+Executor class grand cruiser (pg. 255) ........ 210 pts
+
+#### Heavy Cruisers
+
+You may include up to one heavy cruiser in your
+fleet for every two cruisers.
+Styx class heavy cruiser (pg. 254) ................ 260 pts
+Hecate class heavy cruiser (pg. 259)............ 230 pts
+Hades class heavy cruiser (pg. 260).............200 pts
+Acheron class heavy cruiser (pg. 261)......... 190 pts
+
+#### 0-12 Cruisers
+
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
 Slaughter class cruiser (pg. 266) .................. 165 pts
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+
 Any capital ship can be designated as having a
 World Eaters Chaos Space Marine crew at +35
 points. The ship will be subject to the Chaos
 Space Marine special rules on pgs. 218–219.
 
-For +10 points, battleships and grand cruisers
+A ship with a World Eaters Chaos Space
+Marine crew may have a Mark of Khorne.
+
+For +10 points, battleships and grand cruisers
 with Chaos Space Marine Warmasters, Lords or
 crews may include Chosen Terminators.
 
-Brace for Impact) in the next turn. Carriers
-with this Mark may launch up to D3 more
-attack craft markers of any type if within less
-than 20 cm of their target. If they do so, they
-must Reload Ordnance and not launch in the
-next turn.
+### Daemonships
 
-DAEMONSHIPS
-
-ESCORTS
-
-Up to a quarter of the capital ships (not battleships
+*Up to a quarter of the capital ships (not battleships
 or the f lagship) in a Berzerker Fleet may be
 upgraded to Daemonships at the additional points
-cost shown, based upon the type of vessel chosen.
-Grand cruiser ............................................+50 pts
-Heavy cruiser.............................................+45 pts
+cost shown, based upon the type of vessel chosen.*
+
+Grand cruiser ............................................+50 pts<br>
+Heavy cruiser.............................................+45 pts<br>
 Cruiser ........................................................+40 pts
-
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
-Iconoclast class destroyer (pg. 269) ............... 30 pts
-
-A ship with a World Eaters Chaos Space
-Marine crew may have a Mark of Khorne.
 
 A Daemonship may not be commanded by a
 Warmaster or a Chaos Lord, even if it is the
 largest ship in the fleet. This is an exception to
 the normal rule. A Daemonship may not have
 a Chaos Space Marine crew.
+
 All Daemonships in a Berzerker Fleet must
 take the Mark of Khorne, which is already
 included in the cost to upgrade them to
 Daemonships.
 
-FORCES OF CHAOS
-Berzerker Tide..........................................Free
-Bloodlust drives a ship’s crew forward in a battle
+### Forces of Chaos
+
+**Berzerker Tide..........................................Free**
+
+*Bloodlust drives a ship’s crew forward in a battle
 frenzy, ignoring their own vessels’ defences.
 Carriers flush their bays of attack craft to meet
 their foe as crews leave their posts en-masse to
-board the enemy.
+board the enemy.*
+
 Any ships with the Mark of Khorne
 conducting a boarding action may roll D3
 extra critical damage rolls if desired, but then
 it may not take any special orders (including
+[*Brace for Impact*]) in the next turn. Carriers
+with this Mark may launch up to D3 more
+attack craft markers of any type if within less
+than 20 cm of their target. If they do so, they
+must [*Reload Ordnance*] and not launch in the
+next turn.
+
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
+Iconoclast class destroyer (pg. 269) ............... 30 pts
 
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos
@@ -1410,12 +1508,14 @@ model them to be consistent with the rest of
 your fleet, it will not have any game effect
 however.
 
-ORDNANCE
+### Ordnance
+
 Ships with launch bays can have a mixture of
 Swiftdeath fighters, Doomfire bombers and
 Dreadclaw assault craft. Ships with torpedo
 tubes are armed with normal and boarding
 torpedoes.
+
 A ship with a Chaos Space Marine crew may
 be equipped with Thunderhawk Gunships
 but if so it may only carry Thunderhawks and
@@ -1426,38 +1526,42 @@ This is because the launch bays have to be
 substantially rebuilt to deal with the larger
 Thunderhawks.
 
-!&(
+## The Pleasurefleet of Slaanesh
 
-THE PLEASUREFLEET
-OF SLAANESH
-FLEET COMMANDER
+### Fleet Commander
 
-0-1 Chaos Warmaster of Slaanesh
+#### 0-1 Chaos Warmaster of Slaanesh
 
-You can only include a Chaos Warmaster in
+*You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
 and improves its rolled Leadership by +2, to a
-maximum of 10.
+maximum of 10.*
+
 Chaos Warmaster (Ld +2) ....................... 100 pts
+
 Chaos Warmasters get one re-roll. The
 Warmaster may be given an extra re-roll at a
 cost of +25 points. The Warmaster must take
 the Mark of Slaanesh.
 
-Chaos Lords
+#### Chaos Lords
 
-Any capital ship apart from that of the
+*Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
 If so then add +1 to the Leadership rolled for
 the ship at the start of the game subject to a
-maximum of 9.
+maximum of 9.*
+
 Chaos Lord (Ld +1) ..................................... 25 pts
+
 A Lord may be given a re-roll (which he can
 use for his own ship or squadron only) for
 +25 points. A ship commanded by a Lord may
 only be given a Mark of Slaanesh.
-The Mark of Slaanesh ......................... +25 pts
+
+**The Mark of Slaanesh ......................... +25 pts**
+
 The ship is full of the sensation-craving
 followers of Slaanesh, and their siren cries
 extend into the minds of nearby enemy ships.
@@ -1465,111 +1569,125 @@ Enemy ships within 15 cm of any ship with a
 Mark of Slaanesh suffer -2 to their leadership
 value.
 
-CAPITAL SHIPS
-0-1 Planet Killer
+### Capital Ships
 
-A fleet of 1,000 points or more may include the
+#### 0-1 Planet Killer
+
+*A fleet of 1,000 points or more may include the
 Planet Killer. If you include the Planet Killer,
 Abaddon does not have to be present, but if he is
 he must be aboard the Planet Killer. The Planet
 Killer also counts as a battleship when working
 out how many heavy cruisers and cruisers the
+fleet requires.*
 
-!&#
-
-fleet requires.
 Planet Killer (pg. 252) .................................... 505 pts
 
-0–1 Chaos Space Hulk
+#### 0–1 Chaos Space Hulk
 
-You may include up to one Space Hulk in the
+*You may include up to one Space Hulk in the
 fleet. See it's profile for restrictions and how to
-include it.
+include it.*
+
 Chaos Space Hulk (pg. 272) .......................... 650 pts
 
-Battleships
+#### Battleships
 
-You may include up to one battleship in your fleet
+*You may include up to one battleship in your fleet
 for every three cruisers or heavy cruisers. A fleet
-1,000 points or more may include the Wage of
-Sin as one of its battleships, subject to normal
-restrictions.
-0-1 Wage of Sin (pg. 246) ............................... 430 pts
-Chaos battle barge (pg. 252) ......................... 410 pts
-Despoiler class battleship (pg. 252) .............400 pts
+1,000 points or more may include the *Wage of
+Sin* as one of its battleships, subject to normal
+restrictions.*
+
+0-1 *Wage of Sin* (pg. 246) ............................... 430 pts<br>
+Chaos battle barge (pg. 252) ......................... 410 pts<br>
+Despoiler class battleship (pg. 252) .............400 pts<br>
 Desolator class battleship (pg. 253) .............300 pts
 
-Grand Cruisers
+#### Grand Cruisers
 
-You may include up to one grand cruiser in your
-fleet for every three cruisers or heavy cruisers.
-Retaliator class grand cruiser (pg. 255) ...... 260 pts
-Repulsive class grand cruiser (pg. 255) ...... 230 pts
-Vengeance class grand cruiser (pg. 56) ...... 230 pts
+*You may include up to one grand cruiser in your
+fleet for every three cruisers or heavy cruisers.*
+
+Retaliator class grand cruiser (pg. 255) ...... 260 pts<br>
+Repulsive class grand cruiser (pg. 255) ...... 230 pts<br>
+Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
 Executor class grand cruiser (pg. 255) ........ 210 pts
 
-Heavy Cruisers
+#### Heavy Cruisers
 
-You may include up to one heavy cruiser in your
-fleet for every two cruisers.
-Styx class heavy cruiser (pg. 254) ................ 260 pts
-Hecate class heavy cruiser (pg. 259)............ 230 pts
-Hades class heavy cruiser (pg. 260).............200 pts
+*You may include up to one heavy cruiser in your
+fleet for every two cruisers.*
+
+Styx class heavy cruiser (pg. 254) ................ 260 pts<br>
+Hecate class heavy cruiser (pg. 259)............ 230 pts<br>
+Hades class heavy cruiser (pg. 260).............200 pts<br>
 Acheron class heavy cruiser (pg. 261)......... 190 pts
 
-0-12 Cruisers
+#### 0-12 Cruisers
 
-Devastation class cruiser (pg. 262) .............. 190 pts
-Carnage class cruiser (pg. 263) .................... 180 pts
-Inferno class cruiser (pg. 264) ...................... 180 pts
-Murder class cruiser (pg. 265)...................... 170 pts
+Devastation class cruiser (pg. 262) .............. 190 pts<br>
+Carnage class cruiser (pg. 263) .................... 180 pts<br>
+Inferno class cruiser (pg. 264) ...................... 180 pts<br>
+Murder class cruiser (pg. 265)...................... 170 pts<br>
 Slaughter class cruiser (pg. 266) .................. 165 pts
 
-CHAOS SPACE MARINE CREWS
+### Chaos Space Marine Crews
+
 Any capital ship can be designated as having a
 Emperor's Children Chaos Space Marine crew at
-
-+35 points. The ship will be subject to the Chaos
++35 points. The ship will be subject to the Chaos
 Space Marine special rules on pgs. 218–219.
+
 A ship with an Emperor's Children Chaos Space
 Marine crew may have a Mark of Slaanesh.
+
 For +10 points, battleships and grand cruisers
 with Chaos Space Marine Warmasters, Lords or
 crews may include Chosen Terminators.
 
-DAEMONSHIPS
-Up to half of the capital ships (not the Wage of
+### Daemonships
+
+*Up to half of the capital ships (not the Wage of
 Sin or the flagship) in a Pleasurefleet may be
 upgraded to Daemonships at the additional points
-cost shown, based upon the type of vessel chosen.
-Battleship ...................................................+75 pts
-Grand cruiser ............................................+55 pts
-Heavy cruiser.............................................+50 pts
+cost shown, based upon the type of vessel chosen.*
+
+Battleship ...................................................+75 pts<br>
+Grand cruiser ............................................+55 pts<br>
+Heavy cruiser.............................................+50 pts<br>
 Cruiser ........................................................+45 pts
+
 A Daemonship may not be commanded by a
 Warmaster or a Chaos Lord, even if it is the
 largest ship in the fleet. This is an exception to
 the normal rule. A Daemonship may not have
 a Chaos Space Marine crew.
+
 All Daemonships in a Pleasurefleet must
 take the Mark of Slaanesh, which is already
 included in the cost to upgrade them to
 Daemonships.
 
-FORCES OF CHAOS
-Veil of Lust...........................................+20 pts
-The dissonant noise becomes so palpable, even the
-sensors and auguries of enemy vessels are affected.
+### Forces of Chaos
+
+**Veil of Lust...........................................+20 pts**
+
+*The dissonant noise becomes so palpable, even the
+sensors and auguries of enemy vessels are affected.*
+
 Any ships with the Mark of Slaanesh may take
 and be obscured by a Veil of Lust. Ship firing
 on this vessel using the gunnery table suffers a
 right column shift before any other modifiers
 are applied.
-Siren’s Summon .................................. +25 pts
 
-Vivid sounds and images of unspeakably dark
+**Siren’s Summon .................................. +25 pts**
+
+*Vivid sounds and images of unspeakably dark
 pleasures permeate the hulls of enemy vessels and
-enrapt entire crews to inaction.
+enrapt entire crews to inaction.*
+
 Up to two capital ships with the Mark of
 Slaanesh (including the flagship) may take
 the Siren’s Summon. While within 15 cm of
@@ -1578,12 +1696,15 @@ cannot take special orders or make leadership
 checks of any type, including Brace For
 Impact.
 
-ESCORTS
-You may include any number of escorts in your
-fleet in squadrons of 2–6.
-Idolator class raider (pg. 267) ......................... 45 pts
-Infidel class raider (pg. 268) ........................... 40 pts
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+Idolator class raider (pg. 267) ......................... 45 pts<br>
+Infidel class raider (pg. 268) ........................... 40 pts<br>
 Iconoclast class destroyer (pg. 269) ............... 30 pts
+
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos
 Space Marine crew, neither can they be given
@@ -1592,12 +1713,14 @@ model them to be consistent with the rest of
 your fleet, it will not have any game effect
 however.
 
-ORDNANCE
+### Ordnance
+
 Ships with launch bays can have a mixture of
 Swiftdeath fighters, Doomfire bombers and
 Dreadclaw assault craft. Ships with torpedo
 tubes are armed with normal and boarding
 torpedoes.
+
 A ship with a Chaos Space Marine crew may
 be equipped with Thunderhawk Gunships
 but if so it may only carry Thunderhawks and
@@ -1608,6 +1731,3 @@ This is because the launch bays have to be
 substantially rebuilt to deal with the larger
 Thunderhawks.
 
-!&)
-
-
