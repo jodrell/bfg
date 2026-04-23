@@ -8,7 +8,7 @@
 
 All Eldar ships add + 1 to the [Leadership](../the-rules.md#leadership) score
 generated on the Leadership table on pg. [???]
-of the Remastered Rulebook, giving them a
+of the Remastered [Rulebook](the-rules.md), giving them a
 Leadership value between 7 and 10.
 
 ### Eldar Attack Rating
@@ -395,7 +395,7 @@ following special rules:
 [leadership](../the-rules.md#leadership).
 
 **Special Orders:** Ghostships are able to go onto
-[special orders](../the-rules.md#special-orders) and use [re-rolls](#pulsar-lance) in just the same
+[special orders](../the-rules.md#special-orders) and use [re-rolls](../the-rules.md/#re-rolls) in just the same
 manner as other vessels, however there is
 always a danger that the spectral and deathly
 manner in which these vessels interact with
