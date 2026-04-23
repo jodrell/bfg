@@ -12,7 +12,7 @@ speaking to me direct. Thank you!
 Anyway on to business. The first thing is the
 most important rule you’ll ever need to know.
 If (when) you come across a situation that
-doesn’t seem to be covered by the rulebook,
+doesn’t seem to be covered by the [rulebook](the-rules.md),
 roll a D6 for it. Let fate decide the outcome
 and then get on with the game. It’s more
 important to keep the game going than get
@@ -48,7 +48,7 @@ vessel. Commanders and the clever use of
 bad leadership, so I urge you to accept the
 vagarities of fate and the occasional untried
 crew as part of the challenge of the game. And
-if it still really bothers you, play a campaign!
+if it still really bothers you, play a [campaign](campaign-rules.md)!
 
 ## The Turn
 
@@ -56,7 +56,7 @@ The alternating [turn sequence](the-turn.md#turn-sequence) is clunky but
 useful for keeping things nice and forward.
 Players with a hankering for more complexity
 can always start by experimenting with the
-turn sequence. Options include: players
+[turn sequence](the-turn.md#turn-sequence). Options include: players
 alternate moving and shooting with one ship/squadron at a time, introducing an Initiative
 system based on speed for making moves,
 counters drawn at random to see which
@@ -81,11 +81,11 @@ the player can decide which he has the target
 in, but may not count it as being in both.
 
 **Halted Ships:** Sometimes a combination
-of critical damage and [Blast markers](the-shooting-phase.md#blast-markers) will
+of [critical damage](the-shooting-phase.md#critical-hits) and [Blast markers](the-shooting-phase.md#blast-markers) will
 bring a ship to a halt, or a ship may be
 using a gravity well to remain stationary.
 In either of these cases use the Defences
-column on the Gunnery table if they are
+column on the [Gunnery table](the-shooting-phase.md#gunnery-table) if they are
 fired at – a halted ship is just a sitting target.
 
 **Blast Markers:** These take effect as soon
@@ -105,7 +105,7 @@ the half speed distance the ship must travel.
 ## The Ordnance Phase
 
 **Moving Ordnance:** It’s important to
-appreciate that ordnance always moves
+appreciate that [ordnance](the-ordnance-phase.md) always moves
 in both players’ turns. Although attack
 craft can opt not to move in an [Ordnance
 Phase](the-ordnance-phase.md), [torpedoes](the-ordnance-phase.md#torpedoes) must move their
@@ -114,7 +114,7 @@ full speed each Ordnance Phase.
 **Ordnance vs Varying Armour Values:**
 [Bombers](the-ordnance-phase.md#bombers) attacking a ship with more than
 one armour value always roll against
-the lowest value. Torpedoes, however,
+the lowest value. [Torpedoes](the-ordnance-phase.md#torpedoes), however,
 attack the armour value of the ship on
 whichever facing they strike first.
 
@@ -125,6 +125,6 @@ whichever facing they strike first.
 This is how it’s intended to work so don’t be
 surprised that there are no separate rolls for
 repairing shields in the [End Phase](the-end-phase.md). If you want
-your shields back up keep moving! They’ll
+your [shields](the-shooting-phase.md#shields) back up keep moving! They’ll
 recover automatically once you’re out of the
 salvoes the enemy is plastering you with.

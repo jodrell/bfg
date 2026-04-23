@@ -8,7 +8,7 @@
 
 All Eldar ships add + 1 to the [Leadership](../the-rules.md#leadership) score
 generated on the Leadership table on pg. [???]
-of the Remastered [Rulebook](the-rules.md), giving them a
+of the Remastered [Rulebook](), giving them a
 Leadership value between 7 and 10.
 
 ### Eldar Attack Rating
