@@ -2,7 +2,9 @@
 
 ## What is this site?
 
-This website is a mobile-friendly, web-based version of the [*Battlefleet Gothic: Remastered*](https://wh40k.lexicanum.com/wiki/Battlefleet_Gothic_Remastered) v1.10 [Rulebook](the-rules.md) and [fleets book](fleet-lists.md).
+This website is a mobile-friendly, web-based version of the
+[*Battlefleet Gothic: Remastered*](https://wh40k.lexicanum.com/wiki/Battlefleet_Gothic_Remastered)
+v1.10 [Rulebook](the-rules.md) and [fleets book](fleet-lists.md).
 
 ## How was it created?
 
@@ -37,9 +39,11 @@ server](https://discord.gg/qUW4qMjdxc).
 If there is a problem with the markup or navigation, there are two ways to fix it:
 
 1. [report an issue](https://github.com/jodrell/bfg/issues/new), and I'll fix it when I get round to it.
-2. [fork the repository](https://github.com/jodrell/bfg/fork), fix it yourself in your copy of the site, and then [submit a pull request](https://github.com/jodrell/bfg/compare).
+2. [fork the repository](https://github.com/jodrell/bfg/fork), fix it yourself in your copy of the site, and
+then [submit a pull request](https://github.com/jodrell/bfg/compare).
 
-[Markdown](https://www.markdownguide.org/getting-started/), the markup language this site uses, is very user-friendly and requires little technical knowledge to work with.
+[Markdown](https://www.markdownguide.org/getting-started/), the markup language this site uses,
+is very user-friendly and requires little technical knowledge to work with.
 
 ## Acknowledgements
 

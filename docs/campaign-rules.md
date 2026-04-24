@@ -40,13 +40,13 @@ rules. The possibilities really are endless.
 ## Getting Started
 
 In order to run a campaign you’ll need
-at least one player with a Chaos fleet
-and one player with an Imperial fleet.
+at least one player with a [Chaos](fleet-lists/chaos.md) fleet
+and one player with an [Imperial](fleet-lists/imperial-navy.md) fleet.
 Any amount of extra players can join in,
-including players with Ork or Eldar fleets.
+including players with [Ork](fleet-lists/orks.md) or [Eldar](fleet-lists/eldar.md) fleets.
 
 Once you’ve got your players together you
-need to pick one of the sub-sectors we’ve
+need to pick one of the [sub-sectors](#the-sub-sector-maps) we’ve
 provided maps for as the location for your
 campaign (the maps can be found at the
 end of this section). For your first campaign
@@ -75,7 +75,7 @@ the whole it’s best to keep campaigns short –
 after all, you can always start another one!
 
 Once this has been decided, players can
-pick their starting systems and design their
+pick their [starting systems](#starting-systems) and design their
 fleets using the rules described below, then
 you can start fighting battles. However,
 it is usually a good idea to set a regular
@@ -107,7 +107,7 @@ way until reminded of their
 obligations, they are for all
 intents and purposes neutral._
 
-Imperial and Chaos players
+[Imperial](fleet-lists/imperial-navy.md) and [Chaos](fleet-lists/chaos.md) players
 start with one of the systems
 in the sub-sector under
 their control. Roll a D6 to
@@ -117,7 +117,7 @@ record who controls which
 system with coloured pins
 on the campaign map, or by
 keeping a written record.
-Eldar and Ork players start
+[Eldar](fleet-lists/eldar.md) and [Ork](fleet-lists/orks.md) players start
 with a hidden pirate base
 instead, and should write
 down secretly which system
@@ -127,10 +127,10 @@ Imperial or Chaos player).
 
 ## Starting Fleets & the Fleet Register
 
-Imperial and Chaos fleets
+[Imperial](fleet-lists/imperial-navy.md) and [Chaos](fleet-lists/chaos.md) fleets
 begin the campaign with
-2,000 points and Ork and
-Eldar fleets start with 1,500
+2,000 points and [Ork](fleet-lists/orks.md) and
+[Eldar](fleet-lists/eldar.md) fleets start with 1,500
 points. Important: you must
 have models to represent all
 of the ships in your fleet, in
@@ -147,7 +147,7 @@ models for your collection).
 Each player has his own
 fleet registry. He uses it
 to keep notes and dates of
-when a capital ship or escort
+when a [capital ship](the-rules.md#capital-ships) or [escort](the-rules.md#escorts)
 [squadron](squadrons.md) was commissioned
 (i.e. bought) along with
 class of ship etc., when it
@@ -177,7 +177,7 @@ from their own fleet register.
 ## The Commander
 
 Each player’s fleet has
-a commander (or an
+a [commander](fleet-lists.md#fleet-commander) (or an
 appropriately named leader
 for their race) who represents
 the player himself. Over
@@ -192,7 +192,7 @@ renown is the winner.
 Once you’ve filled in your
 fleet register, you need to
 fill in the details of your
-commander. He’ll need a
+[commander](fleet-lists.md#fleet-commander). He’ll need a
 name, and starts off with
 1 point of [renown](scenarios.md#renown) and one
 [re-roll](the-rules.md#re-rolls). In addition, you must
@@ -200,7 +200,7 @@ pick one ship in your fleet
 as his flagship. If this ship is
 involved in a battle then ‘you’
 are there, and you may use
-the commander’s re-roll or
+the commander’s [re-roll](the-rules.md#re-rolls) or
 any other special abilities he
 may have in the battle. If the
 flagship is not there then you
@@ -233,13 +233,13 @@ rules used for a normal game.
 The only problem with
 this is that it can lead to
 some odd situations where
-Imperial fleets attack other
+[Imperial](fleet-lists/imperial-navy.md) fleets attack other
 Imperial fleets to gain
 control of systems, and
 because of this, it’s best if
 the Imperial players are not
 allowed to attack each other
-and if the Chaos and Eldar
+and if the [Chaos](fleet-lists/chaos.md) and [Eldar](fleet-lists/eldar.md)
 players restrain themselves,
 if possible, from attacking players of their
 own race. If you have a lot of Imperial fleets
@@ -284,18 +284,18 @@ both get what is known as a campaign turn.
 The turn uses the following sequence of play:
 
 **1) Build-Up**<br>
-&emsp;&emsp;Determine Initiative<br>
-&emsp;&emsp;Roll for incoming Orders,<br>
-&emsp;&emsp;select target system if necessary<br>
-&emsp;&emsp;Select Forces from Fleet Registry<br>
+&emsp;&emsp;[Determine Initiative](campaign-rules.md#1-determine-initiative)<br>
+&emsp;&emsp;[Roll for incoming Orders](campaign-rules.md#2-receive-orders)<br>
+&emsp;&emsp;[select target system if necessary](#decide-location)<br>
+&emsp;&emsp;[Select Forces from Fleet Registry](#3-pick-fleets)<br>
 **2) Fight Battle<br>
 3) Aftermath**<br>
-&emsp;&emsp;Claim System<br>
-&emsp;&emsp;Adjust Renown<br>
-&emsp;&emsp;Promotions & Demotions<br>
-&emsp;&emsp;Ship Experience<br>
-&emsp;&emsp;Repairs & Withdrawals<br>
-&emsp;&emsp;Make Appeals
+&emsp;&emsp;[Claim System](#1-the-spoils-of-war)<br>
+&emsp;&emsp;[Adjust Renown](campaign-rules.md#2-adjust-renown)<br>
+&emsp;&emsp;[Promotions & Demotions](campaign-rules.md#3-promotions-and-demotions)<br>
+&emsp;&emsp;[Ship Experience](campaign-rules.md#4-ship-experience)<br>
+&emsp;&emsp;[Repairs & Withdrawals](campaign-rules.md#5-repairs-withdrawals)<br>
+&emsp;&emsp;[Make Appeals](campaign-rules.md#6-appeals)
 
 ## Build-up
 
@@ -307,9 +307,9 @@ to play, and what size of fleets to use. The
 stage has a number of steps that need to
 be carried out in the following order:
 
-1. Determine Initiative
-2. Receive Orders
-3. Pick Fleet
+1. [Determine Initiative](campaign-rules.md#1-determine-initiative)
+2. [Receive Orders](campaign-rules.md#2-receive-orders)
+3. [Pick Fleet](campaign-rules.md#3-pick-fleets)
 
 ### 1. Determine Initiative
 
@@ -319,13 +319,13 @@ If one player has more systems than the other
 his forces are stretched more thinly, so the
 player with fewer systems gains a +1 bonus to
 the dice roll. You may want to incorporate the
-attack ratings from the scenarios introduction,
+attack ratings from the [scenarios](scenarios.md) introduction,
 where you roll a number of dice, picking the
 highest one, to determine the initiative.
 
 ### 2. Receive Orders
 
-Although fleet commanders have a large
+Although [fleet commanders](fleet-lists.md#fleet-commander) have a large
 measure of autonomy, higher command still
 sends down the orders telling them what
 they must achieve next. In effect, the players
@@ -343,13 +343,13 @@ type and size of scenario is to be played.
 | 1-2 | Raid (500-750 points) |
 | 3-6 | Battle (750-1500 points) |
 
-If one player has 21 Renown points
+If one player has 21 [Renown](campaign-rules.md#renown) points
 or more he may choose whether to
 fight a battle or a raid (if both are this
 status then roll to see who decides).
 
 **Decide Scenario:** Roll on the tables below
-to determine which scenario is to be played,
+to determine which [scenario](scenarios.md) is to be played,
 or if both player agree you can pick one
 from those listed for the type of scenario.
 
@@ -361,7 +361,7 @@ from those listed for the type of scenario.
 | 2 |  [The Bait](scenarios/the-bait.md) |
 | 3 |  [The Raiders](scenarios/the-raiders.md) |
 | 4 |  [Blockade Run](scenarios/blockade-run.md) |
-| 5-6 | [Convoy](scenarios/convoy.md) |
+| 5-6 | [Convoy](scenarios/convoy.md) | 
 
 #### Battles
 
@@ -373,15 +373,15 @@ from those listed for the type of scenario.
 | 4 |  [Escalating Engagement](scenarios/escalating-engagement.md) |
 | 5-6 | [Fleet Engagement](scenarios/fleet-engagement.md) |
 
-**Decide Location:** The attacker must select
-the system in which the scenario will take
+<a name="decide-location"></a>**Decide Location:** The attacker must select
+the system in which the [scenario](scenarios.md) will take
 place. The system must be connected to one
 already controlled by the player via a warp
 route. If no systems are already held, any
 may be chosen. If an uninhabited system is
 chosen, the defender must reduce his points
 value by 100 pts. Other types of system can
-affect the number of planetary defences,
+affect the number of [planetary defences](fleet-lists/planetary-defences.md),
 as described elsewhere in the rules.
 
 **Decide Size of Battle:** Once a mission has
@@ -396,7 +396,7 @@ the least number of systems an advantage.
 Each extra system a player holds over his
 opponent reduces his fleet size by 10 points.
 
-**Ork & Eldar Scenarios:** Ork and Eldar fleets
+**Ork & Eldar Scenarios:** [Ork](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md) fleets
 only ever make [raids](#raids), they never take part in
 battles. If you roll up a battle on the [Incoming
 Orders](#incoming-orders) table, then it is treated as a major
@@ -407,10 +407,10 @@ the battle is increased to 750-1,500 points.
 ### 3. Pick Fleets
 
 Both players must now pick their fleets using
-ships from their fleet register. The total
+ships from their [fleet register](campaign-rules.md#starting-fleets-the-fleet-register). The total
 value of the ships you pick may not exceed
 the points total you and your opponent have
-decided for the scenario you are to play. Note
+decided for the [scenario](scenarios.md) you are to play. Note
 that you can’t change the details of ships on
 the register or adjust their points value at this
 stage – the ships you pick must come from
@@ -418,28 +418,28 @@ your register and not be changed in any way.
 
 **Fight the Battle:** With the build-up
 completed all you need do now is roll for a
-sub-plot and then get fighting (hurrah!).
+[sub-plot](scenarios.md#sub-plots) and then get fighting (hurrah!).
 
 > #### Attacking Pirate Bases
 > 
-> Orks and Eldar never get to capture
+> [Orks](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md) never get to capture
 > systems, but instead have a secret
 > pirate base. If an Ork or Eldar player’s
 > opponent with a rank of Admiral or
 > higher (or its equivalent for other races)
-> gains the initiative for a scenario,
+> gains the initiative for a [scenario](scenarios.md),
 > then he can attempt to attack the base
 > instead of playing a normal scenario.
 > 
 > The attacker must, however, first find
 > the base: roll a D6 and multiply the
 > score by 10. If you roll under the Ork
-> or Eldar side’s renown, then you’ve
+> or Eldar side’s [renown](campaign-rules.md#renown), then you’ve
 > tracked down the base and system that
 > it is hidden in must be revealed. If the
 > player fails to find the base (i.e. fails
 > to roll under the defender’s renown)
-> then play a normal scenario. Once you
+> then play a normal [scenario](scenarios.md). Once you
 > know the location of the base you don’t
 > have to find it again (you can reveal its
 > location to other players too if you want).
@@ -451,10 +451,10 @@ sub-plot and then get fighting (hurrah!).
 > scenario instead. Assuming you find
 > the base and it is in a location where
 > you can attack it, then play either the
-> Planetary Assault or the Exterminatus
+> [Planetary Assault](scenarios/planetary-assault.md) or the [Exterminatus](scenarios/exterminatus.md)
 > scenario. If the attacker wins then the
 > base is destroyed and can no longer
-> be used by the Ork or Eldar player.
+> be used by the [Ork](fleet-lists/orks.md) or [Eldar](fleet-lists/eldar.md) player.
 
 ## Aftermath
 
@@ -468,12 +468,12 @@ had on the ships and crew that took part.
 This stage has a number of steps, which need
 to be carried out in the following order:
 
-1. Spoils of War
-2. Adjust Renown
-3. Promotions & Demotions
-4. Ship Experience
-5. Repairs & Withdrawals
-6. Appeals
+1. [Spoils of War](campaign-rules.md#1-the-spoils-of-war)
+2. [Adjust Renown](campaign-rules.md#2-adjust-renown)
+3. [Promotions & Demotions](campaign-rules.md#3-promotions-and-demotions)
+4. [Ship Experience](campaign-rules.md#4-ship-experience)
+5. [Repairs & Withdrawals](campaign-rules.md#5-repairs-withdrawals)
+6. [Appeals](campaign-rules.md#6-appeals)
 
 ### 1. The Spoils of War
 
@@ -508,7 +508,7 @@ player that has earned the
 most renown is the winner!
 Note that you can gain or
 lose renown even if your
-commander was not present
+[commander](fleet-lists.md#fleet-commander) was not present
 during the scenario (i.e. his
 flagship did not take part).
 
@@ -542,11 +542,11 @@ shown on the tables below.
 It is possible to lose rank
 if you lose [renown](#renown) points.
 Your rank determines how
-many re-rolls or Marks of
-Chaos you receive in the
+many [re-rolls](the-rules.md#re-rolls) or [Marks of
+Chaos](fleet-lists/chaos.md#marks-of-chaos) you receive in the
 scenarios that you fight.
-Tau fleet commanders
-use the Imperial table
+[Tau](fleet-lists/tau.md) [fleet commanders](fleet-lists.md#fleet-commander)
+use the [Imperial table](campaign-rules.md#imperial-promotions-all-imperials-except-mechanicus-fleets)
 for their promotions.
 
 #### Imperial Promotions (all Imperials Except Mechanicus Fleets)
@@ -612,9 +612,9 @@ will gain experience.
 This is represented by
 increasing their [Leadership](the-rules.md#leadership)
 characteristic, and by giving
-them special ‘crew skills’.
+them special ‘[crew skills](campaign-rules.md#crew-skills)’.
 On the other hand a ship
-that is badly damaged is
+that is badly [damaged](the-shooting-phase.md#damage) is
 likely to have lost a sizable
 proportion of its experienced
 crewmen, which will reduce
@@ -626,15 +626,15 @@ very inexperienced crew.
 
 **Gaining Experience:** Ships
 which fought in a battle
-and were not crippled or
+and were not [crippled](the-shooting-phase.md#crippled-ships) or
 destroyed roll 2D6. If the
 roll is higher than their
 [Leadership](the-rules.md#leadership) rating, then
 either their Leadership may
 be improved by +1 point (up
 to a maximum of 10) or the
-ship may roll on the Crew
-Skills table. You may choose
+ship may roll on the [Crew
+Skills](campaign-rules.md#crew-skills) table. You may choose
 which option to take, unless
 the ship has a [Leadership](the-rules.md#leadership)
 of 6 or 7, in which case you
@@ -643,11 +643,11 @@ ship’s Leadership by +1 point
 instead of taking a skill.
 
 **Crippled Ships:** Ships which
-were crippled in a battle lose
+were [crippled](the-shooting-phase.md#crippled-ships) in a battle lose
 -1 **Leadership** (to a minimum
-of 6). Note that crew skills
+of 6). Note that [crew skills](campaign-rules.md#crew-skills)
 aren’t lost for being crippled,
-even if the ship’s Leadership
+even if the ship’s [Leadership](the-rules.md#leadership)
 is reduced to 6 or 7.
 
 **Destroyed Ships:** Ships
@@ -655,20 +655,20 @@ which are destroyed (i.e.
 reduced to 0 damage points)
 must be replaced with a new
 ship. Change their name
-on your fleet register. The
+on your [fleet register](campaign-rules.md#starting-fleets-the-fleet-register). The
 new ship has a [Leadership](the-rules.md#leadership)
 of 6, no crew skills, and
-any refits that have been
+any [refits](fleet-lists/refits.md) that have been
 taken are lost (the [rules
 for refits](#refits) follow later on).
 
-**Escort Squadrons:** Escort
+**Escort Squadrons:** [Escort](the-rules.md#escorts)
 [squadrons](squadrons.md) gain and lose
 [Leadership](the-rules.md#leadership) and skills in the
 same way as ships. Escort
 squadrons which suffer 50%
 or greater casualties are
-considered crippled for the
+considered [crippled](the-shooting-phase.md#crippled-ships) for the
 purpose of experience, while
 those that are wiped out
 are considered destroyed.
@@ -676,7 +676,7 @@ are considered destroyed.
 ### 5. Repairs & Withdrawals
 
 In a campaign, ships that have suffered
-damage must be repaired, and it is the
+[damage](the-shooting-phase.md#damage) must be repaired, and it is the
 number of systems a player controls that
 determines just how much [damage](the-shooting-phase.md#damage) can
 be fixed. Sometimes the systems under
@@ -694,14 +694,14 @@ different systems can repair is shown below.
 Renown is important because it helps with
 recruiting/press ganging extra crew, claiming
 resources and time in dock etc.. Note that all
-criticals are repaired automatically, including
+[criticals](the-shooting-phase.md#critical-hits) are repaired automatically, including
 ones which may not be repaired during
 a battle (i.e. Bridge Smashed and Shields
 Collapse). Also remember that if the attacker
 won a raid he may count the enemy system
 where the raid took place as his own for this
 turn. You can use Repair points to bring
-escort squadrons back up to strength, in which
+[escort](the-rules.md#escorts) squadrons back up to strength, in which
 case each escort ship is worth 1 damage point.
 
 ### Repair Points
@@ -717,14 +717,14 @@ case each escort ship is worth 1 damage point.
 
 > ### Repairing Vessels
 > 
-> An Imperial commander has just won
+> An [Imperial](fleet-lists/imperial-navy.md) commander has just won
 > a battle. He now controls a hive world,
 > two Agri-worlds and a penal colony
-> and has 28 renown points. During the
-> battle one of his cruisers took five points
-> of damage, another took three points of
+> and has 28 [renown](campaign-rules.md#renown) points. During the
+> battle one of his [cruisers](the-rules.md#cruisers) took five points
+> of [damage](the-shooting-phase.md#damage), another took three points of
 > damage and another lost four hits. He
-> also lost two frigates from a squadron
+> also lost two frigates from a [squadron](squadrons.md)
 > of four. With the systems he currently
 > has under his control, the Imperial
 > commander may repair nine points of
@@ -739,7 +739,7 @@ case each escort ship is worth 1 damage point.
 > battle with three hits less than normal.
 
 **Withdrawing ships:** A player may choose to withdraw ships to get them fully repaired at a
-major base. Mark the fact they have been withdrawn on the fleet register. Ships which are
+major base. Mark the fact they have been withdrawn on the [fleet register](campaign-rules.md#starting-fleets-the-fleet-register). Ships which are
 withdrawn are unavailable for the player’s next game, after which they return to the fleet with
 their full number of hits. Escort squadrons which are withdrawn may return at full strength.
 
@@ -750,7 +750,7 @@ players can appeal to higher authorities/
 the gods of Chaos for aid. The amount of
 help you can expect to receive depends on
 how well you’ve been doing, as measured
-by your renown. To reflect this, the number
+by your [renown](campaign-rules.md#renown). To reflect this, the number
 of appeals that may be made depend on the
 players’ renown as shown on the table below.
 
@@ -791,12 +791,12 @@ here and are not repeated in the fleet lists.
 
 ### Reinforcements
 
-If the appeal is granted, one new capital
-ship or a squadron of up to five escorts
-may be added to the player’s fleet registry.
+If the appeal is granted, one new [capital
+ship](the-rules.md#capital-ships) or a [squadron](squadrons.md) of up to five escorts
+may be added to the player’s [fleet registry](campaign-rules.md#starting-fleets-the-fleet-register).
 Note that you must have the models to
 represent the ships – if you don’t, then
-they can’t be added to the fleet register.
+they can’t be added to the [fleet register](campaign-rules.md#starting-fleets-the-fleet-register).
 
 ### Refits
 
@@ -808,12 +808,12 @@ and in a campaign, you’ll get a chance to refit
 the ships in your fleet in order to (hopefully)
 improve their performance in different areas.
 A player who is granted a refit must choose
-one of his capital ships to undergo the
+one of his [capital ships](the-rules.md#capital-ships) to undergo the
 refit, then roll a D6 to see what type of
 equipment system is upgraded. On a roll of
-1 or 2 you receive a ship refit, on a roll of 3
-or 4 an engine refit, and on a roll of 5 or 6
-a weapon refit Then roll on the appropriate
+1 or 2 you receive a [ship refit](campaign-rules.md#ship-refit), on a roll of 3
+or 4 an [engine refit](campaign-rules.md#engine-refit), and on a roll of 5 or 6
+a [weapon refit](campaign-rules.md#weapons-refit) Then roll on the appropriate
 Refit table given later to see exactly what
 you get. If you roll a result that the ship
 already has, roll again until you get a result
@@ -825,9 +825,9 @@ update your ship register appropriately.
 ### Other Appeals
 
 Other appeals allow you to request the aid
-of other allied forces. For example, Imperial
-players can call on the aid of a Space Marine
-Chapter, Chaos players may draw on the
+of other allied forces. For example, [Imperial](fleet-lists/imperial-navy.md)
+players can call on the aid of a [Space Marine](fleet-lists/space-marines.md)
+Chapter, [Chaos](fleet-lists/chaos.md) players may draw on the
 power of the warp to cast arcane spells, etc..
 The types of other appeal you can make
 are listed under [“Types of Appeal Allowed”](#type-of-appeals-allowed)
@@ -843,7 +843,7 @@ you should set a deadline
 for the campaign. When
 the deadline comes up the
 player that has built up
-the greatest renown is the
+the greatest [renown](campaign-rules.md#renown) is the
 winner. However, once you’ve
 got some experience running
 campaigns like this, you
@@ -853,11 +853,11 @@ example, you could say that
 the first player to gain control
 of five systems is the winner
 (though this will be tough
-on Ork and Eldar players),
+on [Ork](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md) players),
 or you could keep on playing
 until the entire sub-sector
 is entirely controlled by
-Chaos, in which case all of
+[Chaos](fleet-lists/chaos.md), in which case all of
 the Chaos and Ork players
 win, or is entirely controlled
 by the Imperium, in which
@@ -1017,8 +1017,8 @@ Fortresses is located. If you
 wish to (and you don’t have
 to if you don’t want to) you
 can include a Blackstone
-Fortress in the planetary
-defences of that system.
+Fortress in the [planetary
+defences](fleet-lists/planetary-defences.md) of that system.
 
 **Port Maw:** Port Maw is
 the largest naval base
