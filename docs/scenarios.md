@@ -4,8 +4,8 @@
 affairs, with two fleets engaging each other
 simply to destroy the enemy, it is just as likely
 that the fleets will have a more specific objective
-to achieve, such as escorting a convoy or
-supporting a planetary assault. This section
+to achieve, such as escorting a [convoy](scenarios/convoy.md) or
+supporting a [planetary assault](scenarios/planetary-assault.md). This section
 of Battlefleet Gothic provides the rules for
 fighting these different types of battle.**
 
@@ -77,7 +77,7 @@ the enemy’s actions. It also represents the
 fleet’s ability to navigate warp space, as well
 as the wild, aggressive and often random
 nature of their attacks (particularly for
-Orks!). This is called a fleet’s attack rating,
+[Orks](fleet-lists/orks.md)!). This is called a fleet’s attack rating,
 which represents how likely they are to
 initiate a raid or battle (as opposed to being
 attacked themselves). The chart that follows
@@ -87,16 +87,16 @@ shows the attack ratings of all fleets.
 
 | Fleet | Attack Rating |
 | ---   | :-: |
-| Imperial | 2 |
-| Chaos | 2 |
-| Tau | 2 |
-| Orks | 3 |
-| Craftworld Eldar | 3 |
-| Space Marines | 3 |
-| Tyranids | 3 |
-| Corsair Eldar | 4 |
-| Dark Eldar | 4 |
-| Necrons | 4 |
+| [Imperial](fleet-lists/imperial-navy.md) | 2 |
+| [Chaos](fleet-lists/chaos.md) | 2 |
+| [Tau](fleet-lists/tau.md) | 2 |
+| [Orks](fleet-lists/orks.md) | 3 |
+| [Craftworld Eldar](fleet-lists/eldar.md) | 3 |
+| [Space Marines](fleet-lists/space-marines.md) | 3 |
+| [Tyranids](fleet-lists/tyranids.md) | 3 |
+| [Corsair Eldar](fleet-lists/eldar.md#gothic-sector-eldar-corsairs-fleet-list) | 4 |
+| [Dark Eldar](fleet-lists/dark-eldar.md) | 4 |
+| [Necrons](fleet-lists/necrons.md) | 4 |
 
 You can use attack ratings to determine
 the scenario to be played by the following
@@ -131,23 +131,23 @@ presents the type of scenario
 being played, with a short
 description detailing the
 situation that faces the
-fleet commanders.
+[fleet commanders](fleet-lists.md#fleet-commander).
 
 **Forces** tells you how to
 pick your fleets, usually in
-conjunction with the Fleet
-Lists. In some scenarios, one
+conjunction with the [Fleet
+Lists](fleet-lists.md). In some scenarios, one
 side may have random forces,
 or additional resources
-such as planetary defences,
+such as [planetary defences](fleet-lists/planetary-defences.md),
 transport ships, etc.
 
 **Battlezone** shows what
 restrictions there are,
 if any, on choosing a
-battlezone, as well as
-any compulsory celestial
-phenomena that must be
+[battlezone](the-battlefield.md), as well as
+any compulsory [celestial
+phenomena](the-battlefield.md#celestial-phenomena) that must be
 placed on the tabletop.
 
 **Set-up** gives instructions for
@@ -168,8 +168,8 @@ to go first or second.
 **Special Rules** gives you
 details of any rules that are
 specific to that scenario,
-such as making a planetary
-assault, using special Contact
+such as making a [planetary
+assault](scenarios/planetary-assault.md), using special Contact
 markers, squadrons being on
 standby orders and so forth.
 
@@ -183,7 +183,7 @@ may end the battle.
 important bit! It is here
 that you’ll find what your
 fleet must do in order to
-win. Often victory points
+win. Often [victory points](scenarios.md#victory-points)
 are used to determine the
 winner, and the rules for
 these are as follows.
@@ -197,7 +197,7 @@ points. Victory points are
 a measure of how much
 damage a fleet has inflicted
 on its enemy and are won
-by crippling and destroying
+by [crippling](the-shooting-phase.md#crippled-ships) and destroying
 enemy ships. Additional
 victory points can also be
 scored by achieving certain
@@ -210,22 +210,22 @@ are earned as follows:
 
 ### Capital Ships
 
-If a capital ship is destroyed, the opposing
+If a [capital ship](the-rules.md#capital-ships) is destroyed, the opposing
 player earns a number of victory points equal
 to the ship’s points value. This should also
 include the points value of any Admiral,
 Warmaster or Chaos Lord on board and any
 points spent on other types of upgrades.
 
-If a capital ship is crippled, the opposing player
+If a capital ship is [crippled](the-shooting-phase.md#crippled-ships), the opposing player
 earns 25% of its total points value (rounding
 up) as victory points.
 
 At the end of the battle, the fleet that holds
 the field earns victory points for the number
-of hulks it can capture. Your fleet holds the
+of [hulks](the-shooting-phase.md#catastrophic-damage) it can capture. Your fleet holds the
 field if all enemy ships have been destroyed
-(or have disengaged) and your fleet has at least
+(or have [disengaged](the-movement-phase.md#disengaging-from-combat)) and your fleet has at least
 one operational ship on the table at the end of
 the battle. If one fleet holds the field the player
 earns victory points equal to half of the points
@@ -237,19 +237,19 @@ enemy hulks.
 
 ### Escort Ships, Orbital Defences and Other Vessels
 
-Each destroyed planetary defence installation
+Each destroyed [planetary defence](fleet-lists/planetary-defences.md) installation
 earns a player a number of victory points equal
 to the installation’s points value. Each destroyed
-escort earns its value in victory points provided
+[escort](the-rules.md#escorts) earns its value in victory points provided
 the entire escort squadron is destroyed.
 
 ### Disengaged Ships
 
-Ships and escort squadrons which have
-disengaged are worth 25% of their total
+Ships and [escort](the-rules.md#escorts) squadrons which have
+[disengaged](the-movement-phase.md#disengaging-from-combat) are worth 25% of their total
 points value (including refits and embarked
 commander) in victory points if they were
-crippled before they disengaged. If the ship
+[crippled](the-shooting-phase.md#crippled-ships) before they disengaged. If the ship
 or escort squadron disengaged before it was
 crippled it is worth victory points equal to 10%
 of its value. An escort squadron is considered
@@ -260,17 +260,17 @@ crippled if it loses half of its ships, rounding up.
 > **Each enemy ship destroyed**<br>
 > Victory points equal to its points value.
 > 
-> **Each enemy capital ship crippled**<br>
+> **Each enemy capital ship [crippled](the-shooting-phase.md#crippled-ships)**<br>
 > Victory points equal to 25% of its points value, (rounded up).
 > 
-> **Each enemy ship disengaged**<br>
+> **Each enemy ship [disengaged](the-movement-phase.md#disengaging-from-combat)**<br>
 > Victory points equal to 25% of the
 > enemy ship’s points value (rounded up)
 > if crippled, or 10% (rounded up) if not.
 > 
 > **Holding the field**<br>
 > Victory points equal to 50% of the
-> points value of each hulk (friend or foe)
+> points value of each [hulk](the-shooting-phase.md#catastrophic-damage) (friend or foe)
 > on the tabletop (rounded up).
 > 
 > **Scenario objectives**<br>
@@ -292,17 +292,17 @@ crippled if it loses half of its ships, rounding up.
 > 3. Choose Forces. Select your fleet following the
 > instructions in the selected scenario.
 > 
-> 4. Set up Celestial Phenomena. Determine
-> the type of battlezone the game is played in
+> 4. Set up [Celestial Phenomena](the-battlefield.md#celestial-phenomena). Determine
+> the type of [battlezone](the-battlefield.md) the game is played in
 > and place any celestial phenomena on the
 > tabletop (see pgs. 104–113 for details).
 > 
-> 5. Generate Leadership. Roll for the
+> 5. Generate [Leadership](the-rules.md#leadership). Roll for the
 > Leadership values of your ships and
 > squadrons.
 > 
-> 6. Declare any capital ship squadrons.
-> Assign the Fleet Commander(s) to their
+> 6. Declare any capital ship [squadrons](squadrons.md).
+> Assign the [Fleet Commander]\(s) to their
 > ship(s) if you haven't already.
 > 
 > 7. Deploy Fleets. Set up your ships on the
@@ -316,7 +316,7 @@ crippled if it loses half of its ships, rounding up.
 ## Sub-Plots
 
 Each player may generate a sub-plot if
-they wish (note that in a campaign you
+they wish (note that in a [campaign](campaign-rules.md) you
 must generate a sub-plot each). Roll a
 D6. On a roll of 1-2, roll on the [*Legacies
 of War*](#legacies-of-war-roll-of-1-2) table. On a roll of 3-4, roll on the
@@ -340,7 +340,7 @@ you complete your sub-plot objectives.
 
 > ## Renown
 > 
-> If you are playing in a [campaign](campaign-rules.md), you may gain or lose renown for achieving or
+> If you are playing in a [campaign](campaign-rules.md), you may gain or lose [renown](campaign-rules.md#renown) for achieving or
 > failing in your sub-plot objective. This is given in brackets after the objective
 > like this: (renown gained for completion/renown lost for failure). For example,
 > the Extended Duty sub-plot is (+1/0) which means you gain an extra point

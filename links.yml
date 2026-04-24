@@ -8,12 +8,15 @@
 '*lock-on*': the-rules.md#lock-on
 '*reload ordnance*': the-rules.md#reload-ordnance
 '*reload*': the-rules.md#reload-ordnance
+"tau kor’vattra": fleet-lists/tau.md#korvattra-merchant-fleet-list
 appeals: campaign-rules.md#6-appeals
 aspect warrior host: fleet-lists/eldar.md#aspect-warrior-hosts
 aspect warrior: fleet-lists/eldar.md#aspect-warrior-hosts
 aspect warriors: fleet-lists/eldar.md#aspect-warrior-hosts
 assault boat: the-ordnance-phase.md#assault-boats
 assault boats: the-ordnance-phase.md#assault-boats
+assault craft: the-ordnance-phase.md#assault-boats
+asteroid belt: the-battlefield.md#asteroid-fields
 asteroid field: the-battlefield.md#asteroid-fields
 asteroid fields: the-battlefield.md#asteroid-fields
 asteroids: the-battlefield.md#asteroid-fields
@@ -37,6 +40,7 @@ boarding strength: the-end-phase.md#boarding-value
 boarding torpedoes: the-ordnance-phase.md#boarding-torpedoes
 boarding value: the-end-phase.md#boarding-value
 boarding: the-end-phase.md#boarding-actions
+boards: the-end-phase.md#boarding-actions
 bomber squadron: the-ordnance-phase.md#bombers
 bomber squadrons: the-ordnance-phase.md#bombers
 bomber: the-ordnance-phase.md#bombers
@@ -45,16 +49,21 @@ brace: the-rules.md#brace-for-impact
 braced: the-rules.md#brace-for-impact
 campaign: campaign-rules.md
 campaigns: campaign-rules.md
+cap: the-ordnance-phase.md#combat-air-patrol-cap
 capital ship: the-rules.md#capital-ships
 capital ships: the-rules.md#capital-ships
 catastrophic damage table: the-shooting-phase.md#catastrophic-damage-table
 catastrophic damage: the-shooting-phase.md#catastrophic-damage
 catastrophic events: the-shooting-phase.md#catastrophic-damage
+catastrophic results: the-shooting-phase.md#catastrophic-damage
 celestial phenomena: the-battlefield.md#celestial-phenomena
 chaos marks: fleet-lists/chaos.md#marks-of-chaos
+chaos swiftdeath: fleet-lists/chaos.md#ordnance
 chaos: fleet-lists/chaos.md
+combat air patrol: the-ordnance-phase.md#combat-air-patrol-cap
 command check: the-rules.md#taking-command-checks
 command checks: the-rules.md#taking-command-checks
+convoy: scenarios/convoy.md
 crew skill: campaign-rules.md#crew-skills
 crew skills: campaign-rules.md#crew-skills
 crippled: the-shooting-phase.md#crippled-ships
@@ -70,13 +79,16 @@ cruisers: the-rules.md#cruisers
 damage control: the-end-phase.md#damage-control
 damage: the-shooting-phase.md#damage
 damaged: the-shooting-phase.md#damage
+dark eldar: fleet-lists/dark-eldar.md
 deep space celestial phenomena generator: the-battlefield.md#6-deep-space-generator
 deep space: the-battlefield.md#6-deep-space-generator
 defence: planetary-defences.md
 defences: planetary-defences.md
 destroyed: the-shooting-phase.md#catastrophic-damage
 disengage: the-movement-phase.md#disengaging-from-combat
+disengaged: the-movement-phase.md#disengaging-from-combat
 disengages: the-movement-phase.md#disengaging-from-combat
+dust clouds: the-battlefield.md#gas-and-dust-clouds
 eldar: fleet-lists/eldar.md
 end phase: the-end-phase.md
 escort ship: the-rules.md#escorts
@@ -84,14 +96,25 @@ escort ships: the-rules.md#escorts
 escort: the-rules.md#escorts
 escorts: the-rules.md#escorts
 fight: the-shooting-phase.md
+fighta-bommas: fleet-lists/orks.md#fighta-bommas
+fighter squadron: the-ordnance-phase.md#fighters
+fighter: the-ordnance-phase.md#fighters
 fighters: the-ordnance-phase.md#fighters
 fire arc: the-ordnance-phase.md#fighters
 fire arcs: the-shooting-phase.md#fire-arcs
+firing arcs: the-shooting-phase.md#fire-arcs
+firing: the-shooting-phase.md
+flare region: the-battlefield.md#1-flare-region-generator
+fleet commanders: fleet-lists.md#fleet-commander
+fleet list: fleet-lists.md
 fleet lists: fleet-lists.md
 gas and dust clouds: the-battlefield.md#gas-and-dust-clouds
 gas clouds: the-battlefield.md#gas-and-dust-clouds
-gravity wells: the-battlefield.md#typical-gravity-wells
+gravity well: the-battlefield.md#gravity-wells
+gravity wells: the-battlefield.md#gravity-wells
+guided torpedoes: fleet-lists/refits.md#guided-torpedoes
 guided: fleet-lists/refits.md#guided-torpedoes
+gunnery chart: the-shooting-phase.md#gunnery-table
 gunnery table: the-shooting-phase.md#gunnery-table
 gunnery:  the-shooting-phase.md#direct-firing-weapons-batteries
 gunz batteries: the-shooting-phase.md#direct-firing-weapons-batteries
@@ -105,12 +128,20 @@ hit-and run attack: the-end-phase.md#hit-and-run-attacks
 hit-and run attacks: the-end-phase.md#hit-and-run-attacks
 hit-and-run attack: the-end-phase.md#hit-and-run-attacks
 hit-and-run attacks: the-end-phase.md#hit-and-run-attacks
+hit-and-run raid: the-end-phase.md#hit-and-run-attacks
 hit-and-run raids: the-end-phase.md#hit-and-run-attacks
 hit-and-run teleport attacks: the-end-phase.md#teleport-attacks
+hit: the-shooting-phase.md#damage
+hits: the-shooting-phase.md#damage
 holofields: fleet-lists/eldar.md#holofields
+hulk: the-shooting-phase.md#catastrophic-damage
+hulked vessels: the-shooting-phase.md#catastrophic-damage
 hulked: the-shooting-phase.md#catastrophic-damage
+hulks: the-shooting-phase.md#catastrophic-damage
 imperial navy: fleet-lists/imperial-navy.md
 imperial: fleet-lists/imperial-navy.md
+inner biosphere: the-battlefield.md#3-inner-biosphere-generator
+kroot: fleet-lists/tau.md#kroot-vessels
 lance: the-shooting-phase.md#direct-firing-lances
 lances: the-shooting-phase.md#direct-firing-lances
 launch limits: the-ordnance-phase.md#fleet-ordnance-limits
@@ -123,8 +154,15 @@ leadership tests: the-rules.md#taking-command-checks
 leadership: the-rules.md#leadership
 low orbit table: the-battlefield.md#fighting-in-low-orbit
 low orbit: the-battlefield.md#fighting-in-low-orbit
+manta: fleet-lists/tau.md#mantas
+mantas: fleet-lists/tau.md#mantas
 mark of chaos: fleet-lists/chaos.md#marks-of-chaos
+mark of khorne: fleet-lists/chaos.md#1-chaos-warmaster
+mark of nurgle: fleet-lists/chaos.md#1-chaos-warmaster
+massing turrets: the-ordnance-phase.md#massing-turrets
+mercurial zone: the-battlefield.md#2-mercurial-zone-generator
 minefields: fleet-lists/planetary-defences.md#low-orbit-defences_1
+moon: the-battlefield.md#moons
 moons: the-battlefield.md#moons
 move: the-movement-phase.md
 movement phase: the-movement-phase.md
@@ -132,16 +170,19 @@ movement phases: the-movement-phase.md
 movement rules: the-movement-phase.md
 movement: the-movement-phase.md
 moving: the-movement-phase.md
+necron portals: fleet-lists/necrons.md#portal
 nova cannon: the-shooting-phase.md#nova-cannon
 nova cannons: the-shooting-phase.md#nova-cannon
 ordnance attacks: the-movement-phase.md
 ordnance phase: the-ordnance-phase.md
 ordnance: the-ordnance-phase.md
 ork: fleet-lists/orks.md
+orks: fleet-lists/orks.md
 outer reaches: the-battlefield.md#5-outer-reaches-generator
 particular directions: the-shooting-phase.md#fire-arcs
 planet: the-battlefield.md#planets
 planetary assault: scenarios/planetary-assault.md
+planetary defence: fleet-lists/planetary-defences.md
 planetary defences: fleet-lists/planetary-defences.md
 planetary defenses: fleet-lists/planetary-defences.md
 planets: the-battlefield.md#planets
@@ -151,23 +192,29 @@ radiation burst: the-battlefield.md#radiation-bursts
 radiation bursts: the-battlefield.md#radiation-bursts
 ram: the-movement-phase.md#all-ahead-full-ramming-speed
 ramming: the-movement-phase.md#all-ahead-full-ramming-speed
+rams: the-movement-phase.md#all-ahead-full-ramming-speed
 range: the-shooting-phase.md#range
 re-roll: the-rules.md#re-rolls
 re-rolls: the-rules.md#re-rolls
 refit: campaign-rules.md#refits
 refits: fleet-lists/refits.md
+reload: the-rules.md#reload-ordnance
 reloaded ordnance: the-rules.md#reload-ordnance
+reloaded: the-rules.md#reload-ordnance
 removal of blast markers from planetary defences: planetary-defences.md#removal-of-blast-markers
 renown: campaign-rules.md#renown
 repair critical damage: the-end-phase.md#damage-control
 repaired: the-end-phase.md#damage-control
 repairing critical damage: the-end-phase.md#damage-control
+repairing: the-end-phase.md#damage-control
 resilient attack craft: the-ordnance-phase.md#resilient-attack-craft
 resilient: the-ordnance-phase.md#resilient-attack-craft
 rings: the-battlefield.md#ringed-planets
 rulebook: the-rules.md
+scenario: scenarios.md
 scenarios: scenarios.md
 shield: the-shooting-phase.md#shields
+shielded: the-shooting-phase.md#shields
 shielding: the-shooting-phase.md#shields
 shields: the-shooting-phase.md#shields
 shoot: the-shooting-phase.md
@@ -187,6 +234,7 @@ sub-plots: scenarios.md#sub-plots
 subplots: scenarios.md#sub-plots
 sunward edge: the-battlefield.md#fighting-sunward
 sunward table edge: the-battlefield.md#fighting-sunward
+tau manta bombers: fleet-lists/tau.md#mantas
 teleport attack: the-end-phase.md#teleport-attacks
 teleport attacks: the-end-phase.md#teleport-attacks
 teleport hit and run attack: the-end-phase.md#teleport-attacks
@@ -195,8 +243,11 @@ teleport: the-end-phase.md#teleport-attacks
 teleportation: the-end-phase.md#teleport-attacks
 teleporter: the-end-phase.md#teleport-attacks
 teleporters: the-end-phase.md#teleport-attacks
+teleporting: the-end-phase.md#teleport-attacks
 the movement phase: the-movement-phase.md
 the shooting phase: the-shooting-phase.md
+thunderhawk: fleet-lists/space-marines.md#thunderhawk-gunships
+thunderhawks: fleet-lists/space-marines.md#thunderhawk-gunships
 torpedo bombers: the-ordnance-phase.md#torpedo-bombers
 torpedo: the-ordnance-phase.md#torpedoes
 torpedoes: the-ordnance-phase.md#torpedoes
@@ -204,9 +255,12 @@ turn sequence: the-turn.md#turn-sequence
 turn: the-movement-phase.md#turning
 turret: the-ordnance-phase.md#turrets
 turrets: the-ordnance-phase.md#turrets
+tyranid: fleet-lists/tyranids.md
+tyranids: fleet-lists/tyranids.md
 victory point: scenarios.md#victory-points
 victory points: scenarios.md#victory-points
 warp rift: the-battlefield.md#warp-rifts
 weapon batteries: the-shooting-phase.md#direct-firing-weapons-batteries
 weapons batteries: the-shooting-phase.md#direct-firing-weapons-batteries
 weapons battery: the-shooting-phase.md#direct-firing-weapons-batteries
+worlds: the-battlefield.md#planets

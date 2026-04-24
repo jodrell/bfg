@@ -12,30 +12,30 @@ marker it will make an attack.
 
 ## Launching Ordnance
 
-Ships armed with torpedoes and/or launch bays can use ordnance.
+Ships armed with [torpedoes](the-ordnance-phase.md#torpedoes) and/or launch bays can use ordnance.
 
 Ordnance is declared, placed on the table and
-launched at the end of the Shooting Phase (the
+launched at the end of the [Shooting Phase](the-shooting-phase.md) (the
 marker is put on the ship's base to show it has
-fired its ordnance) but the ordnance moves
-and attacks during the ordnance phase.
+fired its ordnance) but the ordnance [moves](#moving-ordnance)
+and [attacks](#ordnance-attacks) during the ordnance phase.
 
 Launching ordnance of any amount
 expends ordnance for that turn and must
-be reloaded to launch again. For example,
+be [reloaded](the-rules.md#reload-ordnance) to launch again. For example,
 a carrier with four launch bays that due to
 ordnance limits cannot launch more than
 two attack craft cannot “save” the other two
 markers and must [*Reload Ordnance*](the-rules.md#reload-ordnance) again
-before it can launch more attack craft. This
-same concept applies to torpedoes, though
+before it can launch more [attack craft](the-ordnance-phase.md#attack-craft). This
+same concept applies to [torpedoes](the-ordnance-phase.md#torpedoes), though
 there are no launch limits for torpedoes.
 Launching only torpedoes does not affect
 launching attack craft later, and vice versa.
 
 If a ship equipped with both torpedoes and attack
 craft launches only one or the other, it may still
-launch the other before having to reload again.
+launch the other before having to [reload](the-rules.md#reload-ordnance) again.
 
 *For example, if an Imperial Dictator launches its
 attack craft but not its torpedoes in a turn and
@@ -43,38 +43,39 @@ in the subsequent turn fails to [*Reload Ordnance*](the-rules.md#reload-ordnance
 it may still launch its torpedoes in that turn.*
 
 Any ship that has either never launched
-ordnance or has successfully reloaded
-ordnance is considered to have its ordnance
+ordnance or has successfully [reloaded
+ordnance](the-rules.md#reload-ordnance) is considered to have its ordnance
 reloaded for as many turns as it does not
-launch, regardless of what subsequent special
-orders it takes. Keep in mind that being
-crippled and/or braced still affect torpedo
+launch, regardless of what subsequent [special
+orders](the-rules.md#special-orders) it takes. Keep in mind that being
+[crippled](the-shooting-phase.md#crippled-ships) and/or [braced](the-rules.md#brace-for-impact) still affect torpedo
 launchers and attack craft bays normally.
 
 > #### Fleet Ordnance Limits
-> No more attack craft markers can
+>
+> No more [attack craft](the-ordnance-phase.md#attack-craft) markers can
 > be put in play than the number of
 > available launch bays, even if it has
-> successfully reloaded. Any model or
+> successfully [reloaded](the-rules.md#reload-ordnance). Any model or
 > fleet described as not able to run out
-> of ordnance (such as Ork Space Hulks,
-> the Tyranid fleet, etc.) may launch
+> of ordnance (such as [Ork](fleet-lists/orks.md) Space Hulks,
+> the [Tyranid](fleet-lists/tyranids.md) fleet, etc.) may launch
 > up to twice this number and provide
 > double their number of launch bays
 > to the total amount of markers the
 > fleet may have in play. This total limit
 > applies to the fleet as a whole and not
 > to individual ships in the fleet. Any
-> individual carrier may launch attack
-> craft if they have successfully reloaded
+> individual carrier may launch [attack
+> craft](#attack-craft) if they have successfully reloaded
 > (even a partial amount) as long as
 > the total amount of attack craft in
 > play does not exceed the number of
 > available launch bays. This total must
 > take into account reductions caused by
-> ships being crippled or lost in battle.
+> ships being [crippled](the-shooting-phase.md#crippled-ships) or lost in battle.
 > 
-> If more attack craft remain in play
+> If more [attack craft](the-ordnance-phase.md#attack-craft) remain in play
 > than there are available launch bays,
 > the owning player may not launch
 > any ordnance that turn. However,
@@ -82,7 +83,7 @@ launchers and attack craft bays normally.
 > immediately removing it from play
 > in order to launch new markers from
 > the ship’s stem, if it has successfully
-> reloaded ordnance. Attack craft recalled
+> [reloaded ordnance](the-rules.md#reload-ordnance). Attack craft recalled
 > in this manner must be removed
 > immediately and not expended on other
 > targets, including enemy ordnance.
@@ -90,7 +91,7 @@ launchers and attack craft bays normally.
 > target to expend its attack craft in play
 > and then launching a new attack craft
 > wave in a single turn. This rule does
-> not apply to torpedoes, which do not
+> not apply to [torpedoes](the-ordnance-phase.md#torpedoes), which do not
 > run out and do not have launch limits.
 
 <br>
@@ -100,16 +101,16 @@ launchers and attack craft bays normally.
 > Ordnance needs to be loaded and
 > armed in order to be launched. Ships
 > are considered to start the game
-> with torpedoes in tubes and attack
-> craft fuelled and ready to go.
+> with [torpedoes](the-ordnance-phase.md#torpedoes) in tubes and [attack
+> craft](#attack-craft) fuelled and ready to go.
 > 
 > However, once the ship has launched
-> its ordnance it must use the *Reload
-> Ordnance* special order before it
+> its ordnance it must use the [*Reload
+> Ordnance*](the-rules.md#reload-ordnance) special order before it
 > can launch ordnance again. If the
 > ordnance is successfully reloaded
 > and it may launch ordnance in the
-> Shooting Phase, or keep the ordnance
+> [Shooting Phase](the-shooting-phase.md), or keep the ordnance
 > ready for launch in a later turn. Use
 > the fleet roster to keep track of which
 > vessels have ordnance loaded.
@@ -165,7 +166,7 @@ wave or salvo if it is not the closest enemy
 ordnance marker in range.
 
 [Weapon batteries](the-shooting-phase.md#direct-firing-weapons-batteries) firing at ordnance use the
-Ordnance column on the Gunnery table. This
+Ordnance column on the [Gunnery table](the-shooting-phase.md#gunnery-table). This
 is because ordnance targets are relatively small
 and fast moving. Target aspects are not taken
 into account, but column shifts for range and
@@ -191,10 +192,10 @@ first ordnance or vessels they come in contact
 with (when applicable). They are not required
 to attack the closest target.
 
-*For example, a fighter squadron marker may
-not ignore a small torpedo salvo it is actually in
+*For example, a [fighter squadron](the-ordnance-phase.md#fighters) marker may
+not ignore a small [torpedo](the-ordnance-phase.md#torpedoes) salvo it is actually in
 contact with to attack a larger one nearby, or
-an attack craft wave may not ignore an escort it
+an [attack craft](the-ordnance-phase.md#attack-craft) wave may not ignore an [escort](the-rules.md#escorts) it
 is in contact with to attack a nearby cruiser.
 This also allows small torpedo salvoes from
 escorts to be used to clear the way of enemy
@@ -307,7 +308,7 @@ for every point of Strength
 in the torpedo salvo. Each
 dice which equals or beats
 the ship’s Armour value scores one point of
-damage. Torpedoes will pass through shields
+[damage](the-shooting-phase.md#damage). Torpedoes will pass through [shields](the-shooting-phase.md#shields)
 before they impact, so ignore any shields when
 applying damage. The torpedo salvo continues
 moving after the attack but its Strength
@@ -330,7 +331,7 @@ in its path they would also be attacked.*
 An entire salvo of torpedoes can be triggered
 prematurely by the following circumstances:
 
-* On a D6 roll of 6 if it moves through any Blast Markers.
+* On a D6 roll of 6 if it moves through any [Blast Markers](the-shooting-phase.md#blast-markers).
 * If the salvo is fired on by direct fire weapons and any hits are scored.
 * If it comes into contact with another Torpedo or Fighter marker.
 
@@ -341,7 +342,7 @@ more than once per full turn, even if they
 are already in contact with it at the start
 of the [Movement](the-movement-phase.md) or Ordnance Phase. For
 example, a torpedo marker is launched
-toward a battleship with a large base, ending
+toward a [battleship](the-rules.md#battleships) with a large base, ending
 its movement just inside base contact
 with the battleship. The attack is resolved
 immediately, with turrets rolled and hits
@@ -374,12 +375,12 @@ ignore any targets in front of them, including
 friendly units! However, a ship that is actually
 in base contact with another friendly vessel
 may “shoot through” the friendly ship’s base,
-even if they are not in a squadron. Ships
+even if they are not in a [squadron](squadrons.md). Ships
 not in a squadron cannot use this effect to
 combine torpedo salvoes in any way and
 must always launch torpedoes separately.
 
-Torpedoes that have an automatic re-roll to
+Torpedoes that have an automatic [re-roll](the-rules.md#re-rolls) to
 hit MUST use their re-roll to hit a target,
 even if that target was already destroyed by
 other hits generated in the same salvo.
@@ -394,13 +395,13 @@ two, representing them with two separate
 markers. If this option is taken, the salvoes
 must go in different directions (no double attacks on the same target or in the same
 direction), and no single salvo can contain
-less than three torpedoes. Squadrons of
-capital ships or escorts are not obligated
+less than three torpedoes. [Squadrons](squadrons.md) of
+[capital ships](the-rules.md#capital-ships) or [escorts](the-rules.md#escorts) are not obligated
 to fire their torpedoes in a single salvo.
-Torpedoes do not normally ignore hulks
-in their line of movement. Boarding
-torpedoes may do so if desired, and guided
-torpedoes may be steered away from them
+Torpedoes do not normally ignore [hulks](the-shooting-phase.md#catastrophic-damage)
+in their line of movement. [Boarding
+torpedoes](the-ordnance-phase.md#boarding-torpedoes) may do so if desired, and [guided
+torpedoes](fleet-lists/refits.md#guided-torpedoes) may be steered away from them
 but will still attack if they make contact.
 
 #### Turning Torpedoes
@@ -460,7 +461,7 @@ If boarding torpedoes move
 into contact with a ship’s
 base, they attack just like
 ordinary torpedoes (roll for
-turrets and to hit). Each one
+[turrets](the-ordnance-phase.md#turrets) and to hit). Each one
 that hits makes a [Hit-and-Run attack](the-end-phase.md#hit-and-run-attacks) in the Ordnance
 Phase rather than inflicting
 a point of damage. [Hit-and-Run attacks](the-end-phase.md#hit-and-run-attacks) are discussed
@@ -483,8 +484,8 @@ fighters in contact.
 ### Attack Craft
 
 Attack craft are launched from a ship’s launch
-bays and may include any mix of fighters,
-bombers or assault boats. In combat, they
+bays and may include any mix of [fighters](the-ordnance-phase.md#fighters),
+[bombers](the-ordnance-phase.md#bombers) or [assault boats](the-ordnance-phase.md#assault-boats). In combat, they
 are launched to assist their mother ship or
 make long range strikes against the enemy.
 
@@ -504,8 +505,8 @@ Attack craft are represented by
 #### Attack Craft Rules
 
 Attack craft are launched from a ship’s launch
-bays and may include fighters, bombers or
-assault boats. Launch bays are rated by the
+bays and may include [fighters](the-ordnance-phase.md#fighters), [bombers](the-ordnance-phase.md#bombers) or
+[assault boats](the-ordnance-phase.md#assault-boats). Launch bays are rated by the
 number of squadrons they can launch at once,
 for example a Dictator class cruiser with
 four bays can launch four squadrons. Each
@@ -518,7 +519,7 @@ fighters and bombers, or be made exclusively
 of one type. Each type is represented by a
 different marker.
 
-Unlike torpedoes, attack craft can turn freely
+Unlike [torpedoes](the-ordnance-phase.md#torpedoes), attack craft can turn freely
 and move in any direction, up to the distance
 indicated by their speed on the ship’s profile.
 
@@ -543,11 +544,11 @@ base as long as the attack craft actually have
 the range to reach the smaller base (this is the
 only manner in which attack craft may ignore
 the first ship’s base they come in contact with).
-Torpedoes still behave normally and cannot
+[Torpedoes](the-ordnance-phase.md#torpedoes) still behave normally and cannot
 select targets in this manner (this includes
 boarding torpedoes or any other “special”
 torpedo type). Ships with bases stacked in this
-manner may mass turrets against ordnance as
+manner may mass [turrets](the-ordnance-phase.md#turrets) against ordnance as
 described in the relevant section.
 
 When attacking ships, an assault boat or bomber
@@ -560,7 +561,7 @@ markers have not yet rolled their attacks.
 #### Ordnance Defences
 
 Most fighting ships mount numerous weapon systems and turrets for shooting
-down torpedoes and attack craft during their final attack run. A ship’s main
+down [torpedoes](the-ordnance-phase.md#torpedoes) and [attack craft](the-ordnance-phase.md#attack-craft) during their final attack run. A ship’s main
 armament is simply too huge and slow to track ordnance at such close ranges.
 However turrets will fire immediately when Ordnance touches the ship’s base.
 
@@ -570,34 +571,34 @@ scores a 4, 5 or 6 reduces the salvo’s strength by 1.
 **Vs Attack craft squadrons:** Roll a D6 for each turret: each
 dice that scores a 4, 5 or 6 destroys one squadron.
 
-A ship’s turrets can fire against every torpedo salvo that attacks it in an
-Ordnance Phase. Alternatively the turrets may fire at every attack craft
+A ship’s turrets can fire against every [torpedo](the-ordnance-phase.md#torpedoes) salvo that attacks it in an
+Ordnance Phase. Alternatively the turrets may fire at every [attack craft](the-ordnance-phase.md#attack-craft)
 wave that attacks it in an Ordnance Phase. Note that turrets can be used
 to defend against torpedoes or attack craft but not both in the same phase.
 This makes it possible to overwhelm a target with combined attacks.
 
 > #### Massing turrets
 > 
-> Ships in base contact may mass turrets together, each increasing the turret strength
+> Ships in base contact may mass [turrets](the-ordnance-phase.md#turrets) together, each increasing the turret strength
 > of a ship under attack by 1. Regardless of how many ships are in base contact
 > with each other, no single ship can mass turrets with more than three others,
 > providing a maximum of +3 dice when rolling turrets. The ships that mass turrets
 > with a ship under attack take on the same ordnance restrictions as the ship under
-> attack, such as using turrets to defend against either attack craft or torpedoes
+> attack, such as using turrets to defend against either [attack craft](the-ordnance-phase.md#attack-craft) or [torpedoes](the-ordnance-phase.md#torpedoes)
 > (not both) in a given Ordnance Phase. Only the ship actually being attacked can
-> apply its own turret value as a negative modifier to bomber attack dice rolls.
+> apply its own turret value as a negative modifier to [bomber](the-ordnance-phase.md#bombers) attack dice rolls.
 > Ships that are braced can mass turrets and have turrets from other
-> ships massed to defend it. Ships that are crippled cannot mass turrets
+> ships massed to defend it. Ships that are [crippled](the-shooting-phase.md#crippled-ships) cannot mass turrets
 > but can have turrets from other ships massed to defend it.
 > 
-> A ship with 0 turret strength (such as Eldar or hulked vessels) cannot offer
+> A ship with 0 turret strength (such as [Eldar](fleet-lists/eldar.md) or [hulked vessels](the-shooting-phase.md#catastrophic-damage)) cannot offer
 > a bonus to massed turrets, but may itself benefit from massed turrets from
 > a ship with turret strength 1 or more. This applies both to ships desiring
 > to defend a friendly hulk or a fleet defending an allied Eldar vessel.
 > 
 > No more than one ship can be moved at a time for any reason; ships will only be
-> able to benefit from massed turrets after or before the Movement Phase is complete
-> but not during. This does not affect how and in what order ships escorted by CAP
+> able to benefit from massed turrets after or before the [Movement Phase](the-movement-phase.md) is complete
+> but not during. This does not affect how and in what order ships escorted by [CAP](the-ordnance-phase.md#combat-air-patrol-cap)
 > are moved. An extremely unusual circumstance may occur where a ship extremely
 > near to but not actually touching an enemy ordnance marker has a friendly
 > ship move in base contact with it while it simultaneously contacts the ordnance
@@ -608,9 +609,9 @@ This makes it possible to overwhelm a target with combined attacks.
 Fighters are small, fast and extremely agile.
 They are only armed with weapons suitable
 for destroying ordnance, including other
-attack craft. In combat, the fighter’s job is
+[attack craft](the-ordnance-phase.md#attack-craft). In combat, the fighter’s job is
 to intercept enemy ordnance and protect
-the vulnerable bombers and assault craft
+the vulnerable [bombers](the-ordnance-phase.md#bombers) and [assault craft](the-ordnance-phase.md#assault-boats)
 on their way to and from their target.
 
 #### Fighter Rules
@@ -625,21 +626,21 @@ for rearming and refuelling. Remove both the
 defending and attacking markers from play.
 Fighters must always interact with ordnance
 they come in contact with for any reason. This
-includes attack craft that behave as fighters
+includes [attack craft](the-ordnance-phase.md#attack-craft) that behave as fighters
 but fulfil other roles, such as Space Marine
-Thunderhawks or Ork fighta-bommas.
+[Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships) or Ork [fighta-bommas](fleet-lists/orks.md#fighta-bommas).
 Fighters ignore friendly ordnance, but will
-destroy any torpedoes, unless otherwise
-noted (e.g. friendly boarding torpedoes).
+destroy any [torpedoes](the-ordnance-phase.md#torpedoes), unless otherwise
+noted (e.g. friendly [boarding torpedoes](the-ordnance-phase.md#boarding-torpedoes)).
 
 **Vs Ships.** The fighter squadron’s puny
 weapons make no impression on the ship
 at all, but they steer clear of the ship’s
-turret defences. Leave the Squadron
+[turret](the-ordnance-phase.md#turrets) defences. Leave the Squadron
 marker in play. Fighters in base contact
 with friendly ships may move with them
 to screen against enemy ordnance. If they
-do so, they go on Combat Air Patrol.
+do so, they go on [Combat Air Patrol](the-ordnance-phase.md#combat-air-patrol-cap).
 
 #### Combat air Patrol (CAP)
 
@@ -657,7 +658,7 @@ CAP then stay on CAP for that turn unless
 removed. If when doing so they move farther
 than the attack craft can move normally
 in a single Ordnance Phase (such as 20 cm
-Thunderhawks escorting a Cobra that
+[Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships) escorting a Cobra that
 moves 30 cm), they then cannot move in the
 opposing player’s Ordnance Phase as well,
 though they are still capable of defending the
@@ -681,36 +682,36 @@ markers that survive subsequently act as
 separate ordnance markers and may move
 again in the subsequent Ordnance Phase.
 
-Only fighters and ordnance markers that
+Only [fighters](the-ordnance-phase.md#fighters) and ordnance markers that
 behave as fighters can be used as CAP.
-Bombers and attack craft cannot be used as
+[Bombers](the-ordnance-phase.md#bombers) and [attack craft](the-ordnance-phase.md#attack-craft) cannot be used as
 CAP to protect against ramming or [Hit-and-Run attacks](the-end-phase.md#hit-and-run-attacks) by other ships the escorted ship
-encounters in its own Movement Phase. For
+encounters in its own [Movement Phase](the-movement-phase.md). For
 example, a bomber can’t be placed on CAP
-to escort a cruiser so that it immediately
+to escort a [cruiser](the-rules.md#cruisers) so that it immediately
 makes attacks upon an enemy ship the
 cruiser moves in base contact with. This
-includes resilient bombers such as Mantas.
+includes [resilient](the-ordnance-phase.md#resilient-attack-craft) bombers such as [Mantas](fleet-lists/tau.md#mantas).
 
 Multi-role ordnance markers that can
 still act as fighters on CAP are capable of
-attacking ships (such as Fighta-Bommas and
-Thunderhawks) can only attack ships during
+attacking ships (such as [Fighta-Bommas](fleet-lists/orks.md#fighta-bommas) and
+[Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships)) can only attack ships during
 the Ordnance Phase unless an attacking
 ship moves into contact with them during
 the enemy’s [Movement Phase](the-movement-phase.md). They may
 not otherwise attack a ship until they leave
 CAP first. See the following two examples:
 
-*An Ork Terror Ship with two fighta-bommas
-in base contact serving as CAP rams and/
-or boards an Imperial cruiser. The fightabommas it dragged along in the course of its
+*An Ork Terror Ship with two [fighta-bommas](fleet-lists/orks.md#fighta-bommas)
+in base contact serving as CAP [rams](the-movement-phase.md#all-ahead-full-ramming-speed) and/
+or [boards](the-end-phase.md#boarding-actions) an [Imperial](fleet-lists/imperial-navy.md) cruiser. The fighta-bommas it dragged along in the course of its
 movement do not automatically attack the
 Imperial cruiser as well but must wait until the
 Ordnance Phase, and even then may only do so
 if the attacking ship ends its movement in base
-contact with the target vessel because attack
-craft that escort a ship in the [Movement Phase](the-movement-phase.md)
+contact with the target vessel because [attack
+craft](the-ordnance-phase.md#attack-craft) that escort a ship in the [Movement Phase](the-movement-phase.md)
 cannot also move in the Ordnance Phase. If
 engaged in a boarding action and the Terror
 Ship ends its movement in base contact with
@@ -718,32 +719,32 @@ the Imperial cruiser, the fighta-bommas may
 attack it in the Ordnance Phase before the
 boarding action takes place in the [End Phase](the-end-phase.md).*
 
-*An Imperial cruiser rams and/or boards an
-Ork Terror Ship that has two fighta-bommas
+*An Imperial cruiser [rams](the-movement-phase.md#all-ahead-full-ramming-speed) and/or [boards](the-end-phase.md#boarding-actions) an
+Ork Terror Ship that has two [fighta-bommas](fleet-lists/orks.md#fighta-bommas)
 in base contact serving as CAP. In this case
 the Imperial cruiser must follow all rules
 for moving in contact with enemy ordnance.
 After resolving the ram attack (if successful),
 the fighta-bommas immediately attack the
 Imperial cruiser and are removed. If engaged
-in a boarding action and the Imperial cruiser
+in a [boarding action](the-end-phase.md#boarding-actions) and the Imperial cruiser
 ends its movement in base contact with the
 Terror Ship, the fighta-bommas still resolve
 their attack immediately, before the boarding
 action takes place in the [End Phase](the-end-phase.md).*
 
 **Note:** The same example would apply for other
-multi-role attack craft that behave as fighters
-on CAP, such as Thunderhawks. Note that
+multi-role [attack craft](the-ordnance-phase.md#attack-craft) that behave as fighters
+on CAP, such as [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships). Note that
 because the markers are not in a wave, if a ship
 is destroyed by markers in CAP, no further
 markers are lost to attacking the destroyed ship.
 
-Fighters and attack craft that behave as
+Fighters and [attack craft](the-ordnance-phase.md#attack-craft) that behave as
 fighters can, at any time in their normal
 movement, be placed on a friendly ship
 as CAP. However, only these types of
-attack craft can behave as CAP. Fightertype attack craft must be split from
+attack craft can behave as CAP. Fighter-type attack craft must be split from
 attack craft in a mixed wave of ordnance
 that don’t have the fighter rule before
 they can subsequently serve as CAP.
@@ -757,14 +758,14 @@ can leave CAP excluding their destruction.
 is resilient, it still moves with the ship even if it has made a save.
 
 **Fighters on CAP and Other Friendly Attack
-Craft:** It is possible to defend friendly attack
-craft by putting them within the perimeter
+Craft:** It is possible to defend friendly [attack
+craft](the-ordnance-phase.md#attack-craft) by putting them within the perimeter
 of a ship’s base that has fighters on CAP.
 Note: If enemy fighters intercept attack
 craft that are ‘hiding’ on a ship’s base in this
 manner, they will not be repelled by turrets.
 
-Fighters on CAP don’t attack torpedoes
+Fighters on CAP don’t attack [torpedoes](the-ordnance-phase.md#torpedoes)
 or mines being launched from a friendly
 ship it is protecting or from friendly
 ships in base contact including when
@@ -772,13 +773,13 @@ launching a massed torpedo salvo. However,
 they will defend against torpedoes and
 enemy mines in any other instance.
 
-Resilient attack craft such as Manta bombers
-and Thunderhawks that end their movement
+[Resilient](the-ordnance-phase.md#resilient-attack-craft) attack craft such as [Manta](fleet-lists/tau.md#mantas) bombers
+and [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships) that end their movement
 in base contact with a ship escorted by CAP
 (meaning they are already in base contact with
 a ship when stopped by the fighter), use their
 4+ save to survive the attack and subsequently
-survive against turrets may no longer move
+survive against [turrets](the-ordnance-phase.md#turrets) may no longer move
 or attack other ordnance markers. However,
 they may complete their attack run against the
 target vessel normally as long as they do not
@@ -787,11 +788,12 @@ two Mantas attack an Ork Terror Ship with a
 fighta-bomma in base contact serving as CAP.
 
 > #### Turret Suppression
-> Each fighter in a wave of bombers
+>
+> Each [fighter](the-ordnance-phase.md#fighters) in a wave of [bombers](the-ordnance-phase.md#bombers)
 > actually attacking a ship will add
 > +1 attack to the total attack run of
 > the wave, regardless of whether they
-> are shot down by turrets or not. The
+> are shot down by [turrets](the-ordnance-phase.md#turrets) or not. The
 > maximum number of bonus attacks
 > that can be added in this way cannot
 > exceed the number of surviving
@@ -807,9 +809,9 @@ fighta-bomma in base contact serving as CAP.
 > bonus. See the following examples:
 
 *An Emperor battleship (foolishly) launches a
-single wave of three bombers and five fighters
+single wave of three [bombers](the-ordnance-phase.md#bombers) and five [fighters](the-ordnance-phase.md#fighters)
 against a Devastation cruiser with three
-turrets and no CAP. The Devastation’s turrets
+[turrets](the-ordnance-phase.md#turrets) and no [CAP](the-ordnance-phase.md#combat-air-patrol-cap). The Devastation’s turrets
 roll 4, 5, 6 to knock down three fighters. The
 three bombers now each roll 1D6-3 (minimum
 zero) attacks regardless of whether or not any
@@ -820,9 +822,9 @@ because there are only three bombers in the
 wave, for a single total addition of +3 attacks.*
 
 *An Emperor battleship launches a single wave
-of four bombers and four fighters against a
-Devastation cruiser with three turrets and
-no CAP. The Devastation’s turrets roll 4,
+of four [bombers](the-ordnance-phase.md#bombers) and four [fighters](the-ordnance-phase.md#fighters) against a
+Devastation cruiser with three [turrets](the-ordnance-phase.md#turrets) and
+no [CAP](the-ordnance-phase.md#combat-air-patrol-cap). The Devastation’s turrets roll 4,
 5, 6 to knock down three fighters. The four
 bombers now each roll 1D6-3 (minimum
 zero) attacks regardless of whether or not
@@ -836,7 +838,7 @@ for a single total addition of +4 attacks.*
 
 Bombers are slower, heavier craft with
 destructive anti-ship weapons. Though
-vulnerable to enemy fighters, bombers can be
+vulnerable to enemy [fighters](the-ordnance-phase.md#fighters), bombers can be
 a serious threat to ships.
 
 #### Bomber Rules
@@ -844,7 +846,7 @@ a serious threat to ships.
 Bomber attacks have the following effects
 when they move into contact:
 
-**Vs Enemy Fighters:** The fighters quickly
+**Vs Enemy Fighters:** The [fighters](the-ordnance-phase.md#fighters) quickly
 eliminate the lumbering bombers before
 returning to their mother ship for rearming
 and refuelling. Remove the defending and
@@ -863,17 +865,17 @@ attacks the squadron makes reduces by one for
 each turret on the ship. Remove the Squadron
 markers once the attack has been made.
 
-Turrets always reduce bomber attack runs,
+[Turrets](the-ordnance-phase.md#turrets) always reduce bomber attack runs,
 even if they have been used to defend against
-torpedoes and thus cannot be used against
-attack craft.
+[torpedoes](the-ordnance-phase.md#torpedoes) and thus cannot be used against
+[attack craft](the-ordnance-phase.md#attack-craft).
 
-Ships massing turrets with the one under
+Ships [massing turrets](the-ordnance-phase.md#massing-turrets) with the one under
 attack do not affect this number.
 
 *For example, a wave of two bomber squadrons
 attack a Murder class cruiser that has two
-turrets. The cruiser gets two dice rolls to shoot
+[turrets](the-ordnance-phase.md#turrets). The cruiser gets two dice rolls to shoot
 at the incoming bombers with, and any that
 survive will make D6-2 attacks and then be
 removed from play.*
@@ -882,14 +884,14 @@ removed from play.*
 
 Torpedo bombers are ordinary bombers
 reconfigured to carry a payload of (relatively)
-small anti-ship torpedoes. This gives them
+small anti-ship [torpedoes](the-ordnance-phase.md#torpedoes). This gives them
 the ability to stand off from their target
 at greater range and launch an attack.
 
 #### Launching
 
 Torpedo bomber squadrons are launched
-just like other attack craft squadrons, they
+just like other [attack craft](the-ordnance-phase.md#attack-craft) squadrons, they
 are simply differently armed. Torpedo
 bombers have a speed of 20 cm and count
 as bombers for interception purposes.
@@ -897,7 +899,7 @@ as bombers for interception purposes.
 #### Attacks
 
 A torpedo bomber squadron can be
-replaced with a Strength 2 torpedo salvo
+replaced with a Strength 2 [torpedo](the-ordnance-phase.md#torpedoes) salvo
 at the beginning of any ordnance phase.
 The torpedoes function according to the
 standard torpedo rules once launched but
@@ -931,7 +933,7 @@ damage as possible before retreating.
 Assault boat attacks have the following
 effects when they move into contact:
 
-**Vs Enemy Fighters:** The fighters overwhelm
+**Vs Enemy Fighters:** The [fighters](the-ordnance-phase.md#fighters) overwhelm
 the assault boats and then return to
 their mother ship for rearming and
 refuelling. Remove both the defending
@@ -943,9 +945,9 @@ ordnance. Leave both markers in play.
 
 **Vs Enemy Ships:** The assault boats make an
 attack run on the ship. Immediately conduct
-a Hit-and-Run raid against the ship for each
+a [Hit-and-Run raid](the-end-phase.md#hit-and-run-attacks) against the ship for each
 assault boat squadron. Hit-and-Run raids
-are detailed in the End Phase section. After
+are detailed in the [End Phase](the-end-phase.md) section. After
 the attack the assault boats return to their
 ship to be reloaded with troops and refuelled.
 Remove the Squadron marker from play
@@ -957,7 +959,7 @@ When a ship launches its attack craft
 squadrons it can despatch them as
 individual squadrons or combine them
 into waves of squadrons. Regardless of
-the choice, attack craft interactions are
+the choice, [attack craft](the-ordnance-phase.md#attack-craft) interactions are
 always resolved marker to marker.
 
 To show a wave place the Attack Craft markers
@@ -973,13 +975,13 @@ etc. For example, a single wave of eight
 ordnance markers cannot be stretched out
 into a single-file line eight markers long.
 
-If enemy fighters/turrets attack a
-wave they must remove any fighter
+If enemy [fighters](the-ordnance-phase.md#fighters)/[turrets](the-ordnance-phase.md#turrets) attack a
+wave they must remove any [fighter](the-ordnance-phase.md#fighters)
 squadrons before moving onto the
 bigger ships. You can use this rule to put
 your wave together so that it contains
 fighters who will defend the vulnerable
-bombers or assault boats, sacrificing
+[bombers](the-ordnance-phase.md#bombers) or [assault boats](the-ordnance-phase.md#assault-boats), sacrificing
 themselves to save the bigger vessels.
 
 Waves of attack craft can split up during their
@@ -989,24 +991,24 @@ waves. A wave may only be formed when the
 craft are launched from their mother ship.
 
 The greatest benefit of attacking in a wave
-is that a defending ship’s turrets only fire
+is that a defending ship’s [turrets](the-ordnance-phase.md#turrets) only fire
 once at the whole wave, so there is a better
 chance of the ships in the wave surviving
 the defences than individual squadrons
 have. On the downside, if a wave of attack
 craft is hit by direct-fire weapons (such
-as gunnery, lances or Nova Cannons) the
+as [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries), [lances](the-shooting-phase.md#direct-firing-lances) or [Nova Cannons](the-shooting-phase.md#nova-cannon)) the
 whole wave is destroyed. Likewise, if the
-wave rolls a 6 while moving through Blast
-Markers, the entire wave is removed. An
+wave rolls a 6 while moving through [Blast
+Markers](the-shooting-phase.md#blast-markers), the entire wave is removed. An
 entire wave is removed after attacking a
 ship, even if the target is destroyed before all
 ordnance markers complete their attacks.
 
 ### Resilient Attack Craft
 
-Some attack craft such as Thunderhawks or
-Eldar fighters are “resilient”, meaning they
+Some attack craft such as [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships) or
+[Eldar](fleet-lists/eldar.md) fighters are “resilient”, meaning they
 have a 4+ save against other ordnance.
 
 They can only attempt this save once
@@ -1018,24 +1020,24 @@ have to stop movement where the ordnance
 interaction took place and cannot move
 further for that Ordnance Phase, and
 they lose their 4+ save for the rest of
-that phase as well (or Movement Phase if
-save is made while in CAP). In all cases,
+that phase as well (or [Movement Phase](the-movement-phase.md) if
+save is made while in [CAP](the-ordnance-phase.md#combat-air-patrol-cap)). In all cases,
 resilient attack craft that fail to make
 their save are immediately removed.
 
 Ordnance that use this save and end
 their movement in contact with an
 enemy vessel may attack it normally.
-Resilient attack craft that behave as fighters
+Resilient attack craft that behave as [fighters](the-ordnance-phase.md#fighters)
 must always do so when in contact with other
 ordnance, even if they may serve another
-function as well, such as Thunderhawks.
+function as well, such as [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships).
 
-Attack craft that do not function as fighters
+Attack craft that do not function as [fighters](the-ordnance-phase.md#fighters)
 but have a save against fighter attacks, such
-as Tau Manta bombers, ignore any other
+as [Tau Manta bombers](fleet-lists/tau.md#mantas), ignore any other
 type of ordnance except fighters in the same
-manner other bombers or assault boats do.
+manner other [bombers](the-ordnance-phase.md#bombers) or [assault boats](the-ordnance-phase.md#assault-boats) do.
 
 #### Multiple attacks
 
@@ -1043,12 +1045,12 @@ Any second interaction in the same Ordnance
 Phase such as attacking multiple markers
 in the same phase will cause the marker
 to be automatically removed, as normal
-fighters would be were they not resilient.
+[fighters](the-ordnance-phase.md#fighters) would be were they not resilient.
 The attacking player always decides the
 order of the ordnance interaction.
 
-*For example, if two Thunderhawks move in
-contact with two Chaos Swiftdeath fighters,
+*For example, if two [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships) move in
+contact with two [Chaos Swiftdeath](fleet-lists/chaos.md#ordnance) fighters,
 the Space Marine player decides in which
 order the ordnance interacts. He can decide
 Thunderhawk #1 removes one fighter,

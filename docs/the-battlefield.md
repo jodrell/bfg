@@ -1,4 +1,5 @@
 # The Battlefield
+
 In order to fight a battle you will need somewhere to set up
 your battlefield – any flat, stable area will do. Some people
 make do with a smooth bit of floor but most use a kitchen or
@@ -26,8 +27,8 @@ and combat, so, strategy
 being what it is, this means
 that battles will usually be
 fought around and over it.
-For example, dust clouds and
-asteroid fields are enough to
+For example, [dust clouds](the-battlefield.md#gas-and-dust-clouds) and
+[asteroid fields](the-battlefield.md#asteroid-fields) are enough to
 force a ship to slow down as
 it passes through the area,
 making it an ideal spot for an
@@ -36,7 +37,7 @@ or raiding worlds will always
 be an objective of enemy
 ships, ensuring that space
 combat will often happen in
-close proximity to planets.
+close proximity to [planets](the-battlefield.md#planets).
 
 Incidentally this section is
 called Celestial Phenomena
@@ -61,7 +62,7 @@ during a battle, blocking
 the enemy’s lines of fire,
 getting his heavy ships into
 good firing positions and
-concealing his escorts until
+concealing his [escorts](the-rules.md#escorts) until
 they are ready to strike.
 
 Building up a collection of
@@ -79,7 +80,7 @@ for making scenery easily
 and cheaply. With a little
 effort you will soon become
 an expert at constructing
-planets, moons and other
+[planets](the-battlefield.md#planets), [moons](the-battlefield.md#moons) and other
 phenomena out of the most
 mundane of household
 goods. You can find plenty
@@ -102,14 +103,14 @@ that the purpose of setting
 up celestial phenomena is
 to provide an entertaining
 and interesting battlefield,
-not to impede movement or
+not to impede [movement](the-movement-phase.md) or
 lines of fire so much that it
 becomes almost impossible
 to actually fight the enemy.
 If a piece of scenery is going
 to be a major feature of
 the battle, such as a wide
-asteroid belt spanning the
+[asteroid belt](the-battlefield.md#asteroid-fields) spanning the
 table, then you need to okay
 this with your opponent.
 This sort of battlefield is
@@ -129,7 +130,7 @@ all the celestial phenomena
 on the table. His opponent
 can then pick which table
 edge to deploy from. Many of
-the scenarios require you to
+the [scenarios](scenarios.md) require you to
 roll for choice of table edges,
 but if one player has set up
 the celestial phenomena
@@ -152,7 +153,7 @@ D6 for each area. On a 4
 or more the area contains
 celestial phenomena which
 is determined using the
-appropriate battlezone
+appropriate [battlezone](the-battlefield.md)
 generator. Roll a D6 to
 determine which of the
 generators to use for this
@@ -176,7 +177,7 @@ in your own collection.
 
 As a variant, you can use
 the fleets’ attack ratings to
-determine which battlezone
+determine which [battlezone](the-battlefield.md)
 the battle is fought in. This
 represents the two fleets
 trying to pick their ground
@@ -201,7 +202,7 @@ The flare region is closest to the system’s
 sun. It is an area scoured by incandescent
 flares of super­heated gas from the surface
 of the sun and fierce radioactive winds.
-Planets this close to the star are almost
+[Planets](the-battlefield.md#planets) this close to the star are almost
 always death worlds, places too ravaged
 by the sun’s heat to be habitable to life.
 
@@ -219,7 +220,7 @@ by the sun’s heat to be habitable to life.
 At the mercurial zone the sun’s ferocity is
 still awesome to behold, but solar flares less
 frequently reach out to burn everything
-in their path. Occasionally a planet can
+in their path. Occasionally a [planet](the-battlefield.md#planets) can
 be found in the mercurial zone which can
 sustain limited life deep underground
 or constantly moving around its dark
@@ -237,7 +238,7 @@ side to shelter from the sun’s rays.
 ### 3. Inner Biosphere generator
 
 As the inner biosphere is reached,
-planets become more hospitable, though
+[planets](the-battlefield.md#planets) become more hospitable, though
 often their atmospheres are a noxious
 soup of harmful gases. Nonetheless
 colonies and hive cities occur in the
@@ -256,9 +257,9 @@ inner biosphere of certain systems.
 
 In the primary biosphere a balance is struck
 between the burning heat of the sun and the
-icy cold of the void. Most inhabited worlds
+icy cold of the void. Most inhabited [worlds](the-battlefield.md#planets)
 lie within this biosphere and it’s here that
-the bulk of a system’s defences are built.
+the bulk of a system’s [defences](planetary-defences.md) are built.
 
 | D6 ROLL | RESULT |
 | :-: | :-: |
@@ -307,7 +308,7 @@ of catching an emerging foe unaware.
 | 5 | Warp Rift |
 | 6 | Small planet (a rogue planet in a highly eccentric orbit)* |
 
-*\*In all cases a maximum of one planet will
+*\*In all cases a maximum of one [planet](the-battlefield.md#planets) will
 be present on the tabletop: if a second planet
 is generated roll again. Remember to roll
 to see whether a planet has any moons.
@@ -317,7 +318,7 @@ rings around it on a D6 roll of 4 or more.*
 ## Tabletop Features
 
 The following features are
-celestial phenomena that
+[celestial phenomena](the-battlefield.md#celestial-phenomena) that
 are placed onto the tabletop.
 Remember to leave plenty of
 empty space between them.
@@ -342,8 +343,8 @@ Gothic. To do so roll a D6.
 
 Once you have established
 which way is sunward, you
-can start to place celestial
-phenomena. Each of the
+can start to place [celestial
+phenomena](the-battlefield.md#celestial-phenomena). Each of the
 types is listed as follows with
 suggested sizes and methods
 of placement. However, if
@@ -360,7 +361,7 @@ take some of the brain ache
 out of setting up the tabletop,
 not as definitive rules.
 
-Any celestial phenomena
+Any [celestial phenomena](the-battlefield.md#celestial-phenomena)
 affect a ship as soon as
 it contacts a ship’s base.
 However, it does not
@@ -371,12 +372,12 @@ the shooting ship to the
 stem of the target ship.
 
 As warp drive implosions
-are not affected by celestial
-phenomena for purposes of
+are not affected by [celestial
+phenomena](the-battlefield.md#celestial-phenomena) for purposes of
 line of sight, this includes
 when it takes place inside
 celestial phenomena such
-as asteroid fields. Being
+as [asteroid fields](the-battlefield.md#asteroid-fields). Being
 inside, outside or the other
 side of an asteroid field
 from an exploding ship
@@ -398,14 +399,14 @@ of nebulae or protostars, or
 even gasses ejected by solar
 flares. They represent a
 moderate navigational hazard
-to shipping: basic shielding
+to shipping: basic [shielding](the-shooting-phase.md#shields)
 is sufficient to prevent
 damage occurring but ships
 are slowed somewhat by
 passing through them. Gas
 and dust clouds impair
-targeting by weapon batteries
-and may destroy ordnance
+targeting by [weapon batteries](the-shooting-phase.md#direct-firing-weapons-batteries)
+and may destroy [ordnance](the-ordnance-phase.md)
 which passes through them,
 making them potentially
 useful areas to exploit in
@@ -415,14 +416,14 @@ ship-to-ship combat.
 
 Gas and dust clouds have
 the same effect as a single
-Blast Marker in all respects
-(i.e. on firing, movement,
-shields, Leadership and
-ordnance). Eldar and their
-kin can make a leadership
-check to ignore all effects of
-gas clouds, and their escorts
-may re-roll this result for
+[Blast Marker](the-shooting-phase.md#blast-markers) in all respects
+(i.e. on [firing](the-shooting-phase.md), [movement](the-movement-phase.md),
+shields, [Leadership](the-rules.md#leadership) and
+[ordnance](the-ordnance-phase.md)). [Eldar](fleet-lists/eldar.md) and their
+kin can make a [leadership
+check](the-rules.md#taking-command-checks) to ignore all effects of
+gas clouds, and their [escorts](the-rules.md#escorts)
+may [re-roll](the-rules.md#re-rolls) this result for
 free. If passed, it will take no
 damage nor suffer any effects
 of being in contact with it.
@@ -457,46 +458,46 @@ planets during the formation
 of a star system. Asteroid
 fields may also be left over
 after the destruction of a
-planet or moon, or represent
+[planet](the-battlefield.md#planets) or [moon](the-battlefield.md#moons), or represent
 an area of wreckage resulting
 from a space battle.
 
 #### Effects
 
 An asteroid field blocks line
-of fire and any torpedoes
+of fire and any [torpedoes](the-ordnance-phase.md#torpedoes)
 that strike it are detonated.
 
 Ships moving through an
 asteroid field, or coming
 into base contact with the
 edge of one, must pass a
-Leadership test on 2D6 to
+[Leadership test](the-rules.md#taking-command-checks) on 2D6 to
 navigate it successfully.
 
-Ships using *All Ahead
-Full* special orders make
+Ships using [*All Ahead
+Full*] special orders make
 the test on 3D6 instead.
 
-Escort ships may re-roll the
-Leadership test if they fail
+[Escort](the-rules.md#escorts) ships may re-roll the
+[Leadership test](the-rules.md#taking-command-checks) if they fail
 it, but the second roll stands
 whether it is successful or
 not. A ship that fails the
 Leadership test suffers
 D6 damage from asteroid
-impacts, but its shields will
+impacts, but its [shields](the-shooting-phase.md#shields) will
 block damage as normal.
 
-Escort and capital ship
-squadrons make this
-leadership test normally, once
+[Escort](the-rules.md#escorts) and [capital ship](the-rules.md#capital-ships)
+[squadrons](squadrons.md) make this
+[leadership test](the-rules.md#taking-command-checks) normally, once
 for the whole squadron. In the
 case of capital ship squadrons
 that fail this test, each ship
 that comes in base contact
 with the asteroid field in
-any way suffers D6 damage.
+any way suffers D6 [damage](the-shooting-phase.md#damage).
 Escort squadrons re-roll this
 leadership test for free. In
 the case of escort squadrons
@@ -506,21 +507,21 @@ the escorts that actually
 contacted the asteroid field,
 in the order that the ships
 were moved. In all cases,
-shields (but not holofields)
+[shields](the-shooting-phase.md#shields) (but not [holofields](fleet-lists/eldar.md#holofields))
 work normally against hits.
 
-Blast Markers are not
+[Blast Markers](the-shooting-phase.md#blast-markers) are not
 placed when asteroid
-impacts take shields down,
+impacts take [shields](the-shooting-phase.md#shields) down,
 however the ship will be
 slowed down 5 cm as if it
 has moved through Blast
 Markers that turn.
 
-Hulks which drift into an
+[Hulks](the-shooting-phase.md#catastrophic-damage) which drift into an
 asteroid field are destroyed.
 
-Attack craft squadrons
+[Attack craft](the-ordnance-phase.md#attack-craft) squadrons
 which move through an
 asteroid field are destroyed
 on a D6 roll of 6.
@@ -532,37 +533,37 @@ ships inside an asteroid field
 can take place only if both
 the shooting and target ships
 are both inside an asteroid
-field. Lances and weapons
-batteries have no more than
-10 cm range, nova cannons
-don’t work and torpedoes
+field. [Lances](the-shooting-phase.md#direct-firing-lances) and [weapons
+batteries](the-shooting-phase.md#direct-firing-weapons-batteries) have no more than
+10 cm range, [nova cannons](the-shooting-phase.md#nova-cannon)
+don’t work and [torpedoes](the-ordnance-phase.md#torpedoes)
 of any type cannot be used.
 Shooting at enemies within
 10 cm range does not impart
 a left column shift when
 inside an asteroid field.
 
-Attack Craft work normally
+[Attack Craft](the-ordnance-phase.md#attack-craft) work normally
 but must make a D6 roll
-every Ordnance Phase they
+every [Ordnance Phase](the-ordnance-phase.md) they
 remain in the field, with
 every wave or individual
 marker removed on a roll
-of 6. Ships that are braced
-or crippled may not shoot
+of 6. Ships that are [braced](the-rules.md#brace-for-impact)
+or [crippled](the-shooting-phase.md#crippled-ships) may not shoot
 inside an asteroid field.
 
 If you wish to shoot at an
 asteroid field, you must first
-pass a leadership test even if
+pass a [leadership test](the-rules.md#taking-command-checks) even if
 it is the only possible target.
-Treat it as an Ordnance
+Treat it as an [Ordnance](the-ordnance-phase.md)
 marker. For every roll of
-6, place a Blast Marker in
+6, place a [Blast Marker](the-shooting-phase.md#blast-markers) in
 contact with the asteroid
 field facing the direction
 the shooting came from. In
-each end phase, each asteroid
+each [end phase](the-end-phase.md), each asteroid
 field will lose D6 Blast
 Markers and these do not
 count towards the number
@@ -601,18 +602,18 @@ desperate or foolish captain.
 #### Effects
 
 A warp rift blocks line of fire
-and any torpedoes that strike
-it are detonated. Hulks which
+and any [torpedoes](the-ordnance-phase.md#torpedoes) that strike
+it are detonated. [Hulks](the-shooting-phase.md#catastrophic-damage) which
 drift into a rift disappear,
 never to be seen again, so
 they may not be salvaged
-after the battle. Attack craft
+after the battle. [Attack craft](the-ordnance-phase.md#attack-craft)
 squadrons which move
 into a rift are destroyed.
 
 Ships moving into a warp
-rift must pass a Leadership
-test on 3D6 to navigate it
+rift must pass a [Leadership
+test](the-rules.md#taking-command-checks) on 3D6 to navigate it
 successfully. If the ship
 passes the test, it may
 be repositioned up to
@@ -665,7 +666,6 @@ forward bases or extend
 their control throughout
 a contested system.
 
-
 #### Effects
 
 Planets are represented by
@@ -688,7 +688,7 @@ not merely if it is in base
 contact or if its base partially
 overlaps the template.
 
-Torpedoes are destroyed
+[Torpedoes](the-ordnance-phase.md#torpedoes) are destroyed
 when they come into contact
 with the template’s edge,
 either when launching them
@@ -700,13 +700,13 @@ while on a planetary template
 but they will be removed
 when they touch its edge.
 
-Hulks which drift into a
+[Hulks](the-shooting-phase.md#catastrophic-damage) which drift into a
 planet are also destroyed.
 Ships may move ‘through’
 a planet (by passing
 over or under it).
 
-Every planet is surrounded by an area of space
+<a name="gravity-wells"></a>Every planet is surrounded by an area of space
 where its gravitational pull is strong enough to
 affect shipping. This area is referred to as its
 gravity well. The gravity well extends out a set
@@ -750,14 +750,14 @@ well or toward a space hulk’s stem or no
 more than 45 degrees, whichever is less.
 
 A ship within a planet’s gravity well may
-elect to enter high or low orbit. A ship does
+elect to enter high or [low orbit](the-battlefield.md#fighting-in-low-orbit). A ship does
 not have to move whilst it is in high orbit,
 but such a stationary ship uses the defences
-column for gunnery purposes if it elects to
+column for [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries) purposes if it elects to
 remain stationary. A ship that enters low
 orbit, however, is removed from play and
 (where the scenario requires it) is placed
-on a separate low orbit table. Ships moving
+on a separate [low orbit table](the-battlefield.md#fighting-in-low-orbit). Ships moving
 up from low orbit are placed touching
 the outer edge of the planet template.
 
@@ -800,7 +800,7 @@ several thousand kilometres in diameter.
 
 Moons count as small planets in all respects,
 including when deciding the effects of
-their gravity wells on turning ships.
+their [gravity wells](#gravity-wells) on turning ships.
 
 #### Placement
 
@@ -833,11 +833,11 @@ image capture devices.
 
 #### Effects
 
-In the outer reaches, deep space and the
-primary biosphere the light from the distant
+In the [outer reaches](the-battlefield.md#5-outer-reaches-generator), [deep space](the-battlefield.md#6-deep-space-generator) and the
+[primary biosphere](the-battlefield.md#4-primary-biosphere-generator) the light from the distant
 star has no effect on combat. Fighting
-sunward is only of consequence in the Flare
-Region, Mercurial Zone and Inner Biosphere,
+sunward is only of consequence in the [Flare
+Region](the-battlefield.md#1-flare-region-generator), [Mercurial Zone](the-battlefield.md#2-mercurial-zone-generator) and [Inner Biosphere](the-battlefield.md#3-inner-biosphere-generator),
 and has the following effects:
 
 Any firing conducted towards the sunward
@@ -845,7 +845,7 @@ table edge doubles the column shifts for long
 and short range.
 
 To determine if you are shooting sunward
-place the bearing compass over the firing ship
+place the [bearing compass](the-rules.md#the-bearing-compass) over the firing ship
 with the arrows parallel with the sunward
 edge (see [pg. 109 for the sunward edge](#fighting-sunward)). If the
 target is within the arc facing the sunward
@@ -853,7 +853,7 @@ edge you are shooting sunward.
 
 At long range (over 30 cm) the powerful
 photosphere blinds long range sensors, so take
-two column shifts right on the Gunnery table
+two column shifts right on the [Gunnery table](the-shooting-phase.md#gunnery-table)
 instead of one. At short range (15 cm or under)
 targets are ‘silhouetted’ instead, so make two
 column shifts left instead of one.
@@ -867,31 +867,31 @@ means areas hundreds of millions of
 kilometres across! These huge flares of energy
 rush outward at tremendous speeds, flooding
 the vicinity with highly charged particles and
-magnetic shock waves. A shielded vessel can
+magnetic shock waves. A [shielded](the-shooting-phase.md#shields) vessel can
 find its protection virtually overwhelmed by
 these events and a vessel without shields is
-sure to suffer damage.
+sure to suffer [damage](the-shooting-phase.md#damage).
 
 #### Effects
 
 Roll a D6 at the start of each turn. If more
 than one flare was generated as part of the
-celestial phenomena roll a D6 per flare
+[celestial phenomena](the-battlefield.md#celestial-phenomena) roll a D6 per flare
 generated. On any roll of a 6 a flare occurs,
 but a flare will only manifest itself once per
 game. Once a flare occurs, this roll no longer
 needs to be rolled. Each ship on the tabletop
-has one Blast Marker placed sunward of
-them. Any ship without shields will suffer
-one hit and will take critical damage on
+has one [Blast Marker](the-shooting-phase.md#blast-markers) placed sunward of
+them. Any ship without [shields](the-shooting-phase.md#shields) will suffer
+one [hit](the-shooting-phase.md#damage) and will take [critical damage](the-shooting-phase.md#critical-hits) on
 a roll of 4 or more on a D6. Roll a D6 for
-each Ordnance marker – on a 4 or more it
-is removed from play. Eldar and their kin
-can make a leadership check to ignore all
-effects of solar flares, and their escorts may
-re-roll this result for free. If passed, it will
-take no damage but instead turn directly
-away from the solar flare and move 2D6 cm.
+each [Ordnance](the-ordnance-phase.md) marker – on a 4 or more it
+is removed from play. [Eldar](fleet-lists/eldar.md) and their [kin](fleet-lists/dark-eldar.md)
+can make a [leadership check](the-rules.md#taking-command-checks) to ignore all
+effects of solar flares, and their [escorts](the-rules.md#escorts) may
+[re-roll](the-rules.md#re-rolls) this result for free. If passed, it will
+take no [damage](the-shooting-phase.md#damage) but instead turn directly
+away from the solar flare and [move](the-movement-phase.md) 2D6 cm.
 
 ### Radiation Bursts
 
@@ -909,22 +909,22 @@ avoid the flare region of the local star.
 
 Roll a D6 at the start of each turn. If more
 than one radiation burst was generated as
-part of the celestial phenomena, roll a D6 for
+part of the [celestial phenomena](the-battlefield.md#celestial-phenomena), roll a D6 for
 each one generated. For each roll of 5 or 6 a
 radiation burst occurs. Only one radiation
 burst can happen per turn even if multiple
 radiation burst were rolled for. Roll a D6 to see
 what the interference level of the burst is and
-all ships on the table reduce their Leadership
+all ships on the table reduce their [Leadership](the-rules.md#leadership)
 value by the interference level for that turn. For
 example, if a radiation burst occurs and a 3 is
 rolled for the interference level, all ships suffer
 -3 to their Leadership for the rest of the turn.
 
 In addition to the reduced Leadership for the
-interference, Fleet Commanders may only use
-their re-rolls for Command checks for their
-own ship or squadron during radiation bursts.
+interference, [Fleet Commanders](fleet-lists.md#fleet-commander) may only use
+their [re-rolls](the-rules.md#re-rolls) for [Command checks](the-rules.md#taking-command-checks) for their
+own ship or [squadron](squadrons.md) during radiation bursts.
 
 ## Fighting in low Orbit
 
@@ -940,22 +940,22 @@ at one end of the main table) to represent
 low orbit. This doesn’t need to be very
 large – 45-60 cm wide × 90-135 cm long
 should be sufficient. One long table edge
-should be nominated as the planet edge and
+should be nominated as the [planet](the-battlefield.md#planets) edge and
 represents the planet itself. Ships within
-the gravity well of a planet may elect to
+the [gravity well](#gravity-wells) of a planet may elect to
 enter low orbit at the start of any of their
 turns – place the ship on the low orbit table,
 touching the edge furthest from the planet.
 
-Ships in low orbit do not have to move and
-capital ships do not have to move a minimum
-distance before they can turn. To represent
-interference from the planet’s gravity well
+Ships in low orbit do not have to [move](the-movement-phase.md) and
+[capital ships](the-rules.md#capital-ships) do not have to move a minimum
+distance before they can [turn](the-movement-phase.md#turning). To represent
+interference from the planet’s [gravity well](the-battlefield.md#gravity-wells)
 and the outermost edges of its atmosphere,
 all firepower shooting in low orbit suffers
-one column shift to the right, lances and
-nova cannons require a 4+ roll to fire and
-torpedoes may not be fired by ships at all.
+one column shift to the right, [lances](the-shooting-phase.md#direct-firing-lances) and
+[nova cannons](the-shooting-phase.md#nova-cannon) require a 4+ roll to fire and
+[torpedoes](the-ordnance-phase.md#torpedoes) may not be fired by ships at all.
 
 Ships which move within 45 cm of the
 planet edge will be gripped in the heart of
@@ -973,7 +973,7 @@ moves off of the planet table edge in this way
 is totally destroyed. Escorts and transports
 which voluntarily move off the planet edge
 are said to have landed and are removed from
-play; capital ships cannot land. If a ship in
+play; [capital ships](the-rules.md#capital-ships) cannot land. If a ship in
 low orbit moves off the table from any other
 edge, it is assumed to have left low orbit and
 is placed back on the main table, touching the

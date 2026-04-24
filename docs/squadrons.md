@@ -1,8 +1,8 @@
 # Squadrons
 
-Small ships, such as escorts, stand little chance of damaging larger ships on their own, so they
+Small ships, such as [escorts](the-rules.md#escorts), stand little chance of damaging larger ships on their own, so they
 are normally grouped into squadrons. A squadron will manoeuvre closely together and mass its
-weaponry to attack more effectively. Although cruisers and battleships normally operate alone,
+weaponry to attack more effectively. Although [cruisers](the-rules.md#cruisers) and [battleships](the-rules.md#battleships) normally operate alone,
 they can also be grouped into squadrons for a major battle, where their awesome firepower can
 be put to good effect.
 
@@ -17,22 +17,22 @@ at the same time, instead of having to relay
 orders to each ship in his fleet individually.
 In Battlefleet Gothic this translates into the
 highly desirable advantage of only having
-to make a single Leadership test to place a
-whole squadron on special orders. Also, if
-the squadron is made up of capital ships
+to make a single [Leadership](the-rules.md#leadership) test to place a
+whole squadron on [special orders](the-rules.md#special-orders). Also, if
+the squadron is made up of [capital ships](the-rules.md#capital-ships)
 with different Leadership values, the highest
 surviving Leadership value in the squadron is
 used for taking Command checks. Remember,
 in the case of escorts each squadron has a
 single Leadership value.
 
-Normal Command check modifiers for enemy
+Normal [Command check](the-rules.md#taking-command-checks) modifiers for enemy
 contacts and for being under fire apply to
 squadrons, even if only some of the ships in a
-squadron have Blast Markers in base contact.
+squadron have [Blast Markers](the-shooting-phase.md#blast-markers) in base contact.
 
 Vessels in a squadron are all equally affected
-by special orders taken by **any one ship** in the
+by [special orders](the-rules.md#special-orders) taken by **any one ship** in the
 squadron.
 
 For instance, when on [*All Ahead Full*](the-rules.md#all-ahead-full), only
@@ -42,14 +42,15 @@ As is true for individual ships, squadrons
 can only undergo one special order per turn
 (including [*Brace For Impact!*](the-rules.md#brace-for-impact), which replaces
 any special order currently in effect). All
-ships in a squadron are affected by *Brace For
-Impact!*, not merely the ship actually taking
-fire. This includes capital ship squadrons!
+ships in a squadron are affected by [*Brace For
+Impact!*], not merely the ship actually taking
+fire. This includes [capital ship](the-rules.md#capital-ships) squadrons!
 
 ## Squadron Composition
+
 Capital ship squadrons must be deployed
 and declared as such before the start of
-the game. Escort squadrons are selected
+the game. [Escort](the-rules.md#escorts) squadrons are selected
 as squadrons from the fleet list at the time
 you pick your forces. Unless described
 otherwise in its fleet list, an escort squadron
@@ -107,14 +108,14 @@ until it has done so.
 Individual ships within a
 squadron can manoeuvre
 freely within the standard
-movement rules, as long
+[movement rules](the-movement-phase.md), as long
 as they stay in formation.
 If any ship in an escort
 squadron moves off the table
 edge, the entire squadron
 must immediately and
 in subsequent turns only
-attempt to disengage.
+attempt to [disengage](the-movement-phase.md#disengaging-from-combat).
 
 ![](assets/image--226.png)
 
@@ -155,10 +156,10 @@ on the two closing ships.
 
 The only way to shoot at a
 more distant member of a
-squadron is with gunnery
+squadron is with [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries)
 weapons if the ship has
 more left modifiers on
-the gunnery table; or has
+the [gunnery table](the-shooting-phase.md#gunnery-table); or has
 weaker armour where only
 the hits that could not hurt
 the closest target hit it. If
@@ -169,7 +170,7 @@ cannot exploit this rule.
 ### Allocating Hits against Squadrons
 
 When a squadron is fired
-upon, any hits scored are
+upon, any [hits](the-shooting-phase.md#damage) scored are
 allocated to the nearest
 eligible ship in the squadron
 until it is destroyed, then
@@ -177,14 +178,14 @@ the next nearest eligible ship
 takes the remaining hits
 and so on. This only applies
 to shooting and does not
-apply to ordnance attacks,
-boarding actions, etc.
+apply to [ordnance attacks](the-movement-phase.md),
+[boarding actions](the-end-phase.md#boarding-actions), etc.
 
-A leadership test cannot
+A [leadership test](the-rules.md#taking-command-checks) cannot
 be taken to pick out
 individual ships within a
 squadron. This does not
-apply to ordnance attacks.
+apply to [ordnance attacks](the-movement-phase.md).
 
 Hits taken by a squadron are
 only distributed among the
@@ -198,7 +199,7 @@ arc. This also applies to hits
 taken by an escort squadron
 negotiating an [asteroid field](the-battlefield.md#asteroid-fields),
 as well as hits delivered by
-ordnance or [Nova Cannon](the-shooting-phase.md#nova-cannon),
+[ordnance](the-ordnance-phase.md) or [Nova Cannon](the-shooting-phase.md#nova-cannon),
 as those hits (regardless of
 how many) affect only the
 vessels directly contacted
@@ -206,7 +207,7 @@ by the [ordnance](the-ordnance-phase.md) markers or
 [Nova Cannon](the-shooting-phase.md#nova-cannon) blast template.
 For example, if an escort
 squadron takes a total of
-ten hits from gunnery fire
+ten hits from [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries) fire
 but only three escorts were
 actually in range and fire
 arc, no more than three
@@ -218,7 +219,7 @@ escorts can be destroyed.
 Chaos cruiser Unclean targets
 an Imperial frigate squadron
 and scores 3 hits. The first hit
-knocks down the shield of the
+knocks down the [shield](the-shooting-phase.md#shields) of the
 nearest frigate within the
 Unclean’s fire arc and the
 second hit destroys it. The
@@ -269,12 +270,12 @@ ship as it is a closer target.*
 
 ### Capital Ship Squadrons
 
-Capital ships in a squadron
+[Capital ships](the-rules.md#capital-ships) in a squadron
 that are being fired upon
 to the point that one of the
 capital ships is destroyed
 must roll for and apply
-all critical damage before
+all [critical damage](the-shooting-phase.md#critical-hits) before
 counting as destroyed.
 The easiest way to avoid
 confusion is to roll each
@@ -286,7 +287,7 @@ three Dauntless light cruisers
 is fired upon by a squadron
 of three Carnage cruisers and
 takes a total of 13 hits, all
-critical damage rolls must be
+[critical damage](the-shooting-phase.md#critical-hits) rolls must be
 made for the first Dauntless
 before declaring it destroyed.
 This means if while applying
@@ -299,12 +300,12 @@ destroyed, there remains a
 total eight remaining hits to
 be applied to the next closest
 Dauntless light cruiser, with
-shields, Blast Markers, etc.
+[shields](the-shooting-phase.md#shields), [Blast Markers](the-shooting-phase.md#blast-markers), etc.
 still taking effect normally, for
 a total of seven HP damage to
 the second Dauntless, against
 which it rolls a D6 to check for
-critical damage while applying
+[critical damage](the-shooting-phase.md#critical-hits) while applying
 hits one at a time (after the
 shield hit). This means at least
 one hit would pass to the third
@@ -313,17 +314,17 @@ rolled no critical damage.*
 
 This rule in particular
 applies to squadrons of ships
-that do not count critical
-damage normally and instead
+that do not count [critical
+damage](the-shooting-phase.md#critical-hits) normally and instead
 take an additional 1HP of
-damage, such as Ork Roks
-or Kroot Warspheres.
+damage, such as [Ork](fleet-lists/orks.md) Roks
+or [Kroot](fleet-lists/tau.md#kroot-vessels) Warspheres.
 
-If a capital ship squadron
-disengages in its entirety,
+If a [capital ship](the-rules.md#capital-ships) squadron
+[disengages](the-movement-phase.md#disengaging-from-combat) in its entirety,
 each capital ship calculates
 its percentage destroyed for
-victory points separately
+[victory points](scenarios.md#victory-points) separately
 and not in the same
 manner as escorts.
 
@@ -332,22 +333,22 @@ manner as escorts.
 As mentioned earlier, squadrons
 combine their firing together.
 
-Escort squadrons have their total firepower
+[Escort](the-rules.md#escorts) squadrons have their total firepower
 added up and halved (rounding up) when on
-special orders that affect weapons strength/
-firepower. Capital ships have their firepower/
+[special orders](the-rules.md#special-orders) that affect weapons strength/
+firepower. [Capital ships](the-rules.md#capital-ships) have their firepower/
 strength halved individually (rounding up),
 even if in a squadron. Escort squadrons
 do not have their weapon strength halved
-solely because the squadron is crippled
+solely because the squadron is [crippled](the-shooting-phase.md#crippled-ships)
 (reduced to half its starting number).
 
 When a squadron shoots, it is subject to
 the normal rules and restrictions for a
 single ship. So, for example, if a squadron
 wants to fire at a target other than its
-closest enemy it must pass a Leadership
-test to do so. Any ships in the squadron
+closest enemy it must pass a [Leadership
+test](the-rules.md#taking-command-checks) to do so. Any ships in the squadron
 out of range or fire arc of the squadron’s
 primary target may fire on another enemy.
 
@@ -355,9 +356,9 @@ primary target may fire on another enemy.
 
 Squadrons firing [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries) normally
 add their firepower together before working
-out how many dice they roll on the Gunnery
-chart. However, squadrons firing weapons
-batteries can throw up a few problems
+out how many dice they roll on the [Gunnery
+chart](the-shooting-phase.md#gunnery-table). However, squadrons firing [weapons
+batteries](the-shooting-phase.md#direct-firing-weapons-batteries) can throw up a few problems
 because ships may be in a position to fire
 at the target ship from different aspects,
 ranges, etc. Where this occurs calculate
@@ -384,21 +385,21 @@ individually unless they are in base-to-base
 contact. Any ships in base-to-base contact
 with other ships from the squadron can opt
 to combine their ordnance together into a
-bigger attack craft wave or torpedo salvo.
+bigger [attack craft](the-ordnance-phase.md#attack-craft) wave or [torpedo](the-ordnance-phase.md#torpedoes) salvo.
 
 When launching a combined salvo from
 a squadron the salvo must be in ALL of
-the ships appropriate firing arcs and its
+the ships appropriate [firing arcs](the-shooting-phase.md#fire-arcs) and its
 furthermost edge at the limit of its speed
 from the furthest ship’s stem. All the
 ships firing a combined salvo must be in
 base to base contact. Note that some ships
-(such as Ork Ravagers) cannot for any
+(such as [Ork](fleet-lists/orks.md) Ravagers) cannot for any
 reason combine salvoes in this manner.
 
 Measure the distance travelled by a
-combined ordnance attack from the ship
-furthest from the torpedo's final position, to
+combined [ordnance](the-ordnance-phase.md) attack from the ship
+furthest from the [torpedo](the-ordnance-phase.md#torpedoes)'s final position, to
 ensure that it doesn’t get a free speed boost
 due to being part of a combined force.
 

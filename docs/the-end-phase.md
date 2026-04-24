@@ -4,29 +4,29 @@ During the End Phase,
 players sort out any events
 which have been set into
 action during the turn, such
-as repairing any critical
-damage. Some of the Blast
-Markers are removed from
+as [repairing](the-end-phase.md#damage-control) any [critical
+damage](the-shooting-phase.md#critical-hits). Some of the [Blast
+Markers](the-shooting-phase.md#blast-markers) are removed from
 the table, as the energy
 and debris they represent
 is naturally dissipated.
 The End Phase is also a
 good opportunity to tidy
 up the table top, count
-victory points, check up on
-scenario victory conditions
+[victory points](scenarios.md#victory-points), check up on
+[scenario](scenarios.md) victory conditions
 and break out the biscuits.
 The End Phase works in
 the following order:
 
-1. Conduct Boarding Actions/Hit-and-Run attacks
-2. Attempt to repair critical damage.
-3. Remove D6 Blast Markers from the tabletop.
+1. Conduct [Boarding Actions](the-end-phase.md#boarding-actions)/[Hit-and-Run attacks](the-end-phase.md#hit-and-run-attacks)
+2. Attempt to [repair critical damage](the-end-phase.md#damage-control).
+3. Remove D6 [Blast Markers](the-shooting-phase.md#blast-markers) from the tabletop.
 
 ## Damage Control
 
 Both players can attempt to
-repair critical damage during
+repair [critical damage](the-shooting-phase.md#critical-hits) during
 the End Phase. Repair crews
 will be working continuously
 of course, welding up hull
@@ -34,14 +34,14 @@ breaches, re-routing power
 conduits, putting out fires
 and generally trying to keep
 the ship functioning. To
-represent this, capital ships
+represent this, [capital ships](the-rules.md#capital-ships)
 roll 1D6 per Damage point
 remaining in the End Phase.
 Each roll of a 6 enables the
 ship to repair one critically
 damaged system or put out
 one fire. If the ship has any
-Blast Markers in contact, the
+[Blast Markers](the-shooting-phase.md#blast-markers) in contact, the
 player only rolls half as many
 dice as usual (rounding up).
 
@@ -49,7 +49,7 @@ dice as usual (rounding up).
 
 With time, the debris and
 shock waves represented
-by Blast Markers will
+by [Blast Markers](the-shooting-phase.md#blast-markers) will
 dissipate sufficiently to be
 of no further impediment
 to ships or their weapons.
@@ -75,21 +75,21 @@ then blow breaches in the hull and swarm
 in to try to overcome the defending crew in
 vicious firefights and hand-to-hand combat.
 Boarding actions are dangerous for both
-sides: even a victorious ship may suffer critical
-damage in the fighting or a prospective victim
-may explode with catastrophic results.
+sides: even a victorious ship may suffer [critical
+damage](the-shooting-phase.md#critical-hits) in the fighting or a prospective victim
+may explode with [catastrophic results](the-shooting-phase.md#catastrophic-damage).
 
 #### Moving in for Boarding
 
 A ship may attempt a boarding action if
 it’s in base contact with an enemy vessel
-in the End Phase before damage control
-has been attempted or Blast Markers are
+in the End Phase before [damage control](the-end-phase.md#damage-control)
+has been attempted or [Blast Markers](the-shooting-phase.md#blast-markers) are
 removed. If a vessel is going to attempt a
 boarding action it must be declared in the
-Movement Phase when contact is made.
+[Movement Phase](the-movement-phase.md) when contact is made.
 Vessels attempting to board an enemy ship
-may not fire weapons or launch ordnance
+may not fire weapons or launch [ordnance](the-ordnance-phase.md)
 in the same turn because their crews are too
 busy participating in the boarding action.
 
@@ -103,12 +103,12 @@ an enemy boarding action normally.
 A ship’s boarding value is equal to the
 number of damage points it has remaining,
 modified by any special rules that apply to
-your ship or race, such as the Mark of Khorne
-doubling its boarding value, or Tau Kor’vattra
+your ship or race, such as the [Mark of Khorne](fleet-lists/chaos.md#1-chaos-warmaster)
+doubling its boarding value, or [Tau Kor’vattra](fleet-lists/tau.md#korvattra-merchant-fleet-list)
 vessels which have their value cut in half.
 
 The ship being boarded then adds its number of
-remaining turrets.
+remaining [turrets](the-ordnance-phase.md#turrets).
 
 This is the final boarding value which
 translates directly to the corresponding
@@ -142,21 +142,21 @@ modifiers from the following list.
 
 The player with the highest total score is the
 winner. The losing ship suffers 1 point of
-damage for each point it lost the combat by.
+[damage](the-shooting-phase.md#damage) for each point it lost the combat by.
 The total score is NOT limited to 6 and can
 potentially result in a roll of up to 12 or more.
 
 There is also a chance of each ship suffering
-a critical hit during the fighting as shown
+a [critical hit](the-shooting-phase.md#critical-hits) during the fighting as shown
 on the table below. If a ship is reduced
 to 0 damage by a boarding action do not
-roll on the Catastrophic Damage table,
+roll on the [Catastrophic Damage table](the-shooting-phase.md#catastrophic-damage-table),
 instead the ship automatically becomes
 a drifting hulk (exception: if a ship is
 reduced to 0 damage by a critical hit, roll
 for catastrophic damage as normal). Ships
 which survive being boarded may move off
-normally in their next Movement Phase.
+normally in their next [Movement Phase](the-movement-phase.md).
 
 ##### Results Table
 
@@ -184,8 +184,8 @@ If both players have the same score after
 modifiers the combat is a draw. In this case
 the ships grapple together and continue
 fighting in each subsequent End Phase.
-Neither ship may move, shoot or launch
-ordnance until the boarding action results in
+Neither ship may [move](the-movement-phase.md), [shoot](the-shooting-phase.md) or launch
+[ordnance](the-ordnance-phase.md) until the boarding action results in
 one of the ships being reduced to zero damage.
 The victorious (i.e. surviving) ship can then
 move off and continue to fight in its next turn.
@@ -201,10 +201,10 @@ values together and a single dice roll is
 made to work out the boarding results.
 
 Race and other modifiers are only counted
-once, so if both a Chaos Murder class cruiser
+once, so if both a [Chaos](fleet-lists/chaos.md) Murder class cruiser
 with a normal Chaos crew and a Devastation
 class cruiser with a Chaos Space Marine
-crew boarded an Imperial cruiser together
+crew boarded an [Imperial](fleet-lists/imperial-navy.md) cruiser together
 they would get a +2 race modifier, the +1
 from being Chaos being superseded by the
 +2 for having a ship with a Chaos Space
@@ -220,21 +220,21 @@ or not any of the ships have any other
 modifiers that must be added or subtracted
 into the total or effects that either halve or
 double their respective boarding values,
-whether or not ships are braced, crippled, etc.
+whether or not ships are [braced](the-rules.md#brace-for-impact), [crippled](the-shooting-phase.md#crippled-ships), etc.
 
 Any damage points inflicted
 are distributed amongst
 the attacking ships by the
 attacker himself, but the
-chance of critical damage
+chance of [critical damage](the-shooting-phase.md#critical-hits)
 being caused applies
 to each and every ship
 attempting to board.
 
 In the case of separate
 boarding, roll for each
-capital ship or escort
-squadron separately.
+[capital ship](the-rules.md#capital-ships) or [escort](the-rules.md#escorts)
+[squadron](squadrons.md) separately.
 
 In this case the defending
 ship must roll separately
@@ -250,17 +250,17 @@ combining with in the action.
 
 #### Escorts Ships Boarding
 
-Escort ships can attempt to
+[Escort](the-rules.md#escorts) ships can attempt to
 board other ships using the
 rules above. They can even
-attempt to board capital ships
+attempt to board [capital ships](the-rules.md#capital-ships)
 if they wish, although escorts
 will only stand a chance
 against a badly damaged
 vessel. Remember that when
 escorts are boarding or being
-boarded a successful critical
-hit will destroy them, so it is
+boarded a successful [critical
+hit](the-shooting-phase.md#critical-hits) will destroy them, so it is
 quite possible for an escort
 to win a boarding action but
 be destroyed in the process.
@@ -281,14 +281,14 @@ off with conventional
 gunnery at leisure.
 
 Hit-and-Run attacks can
-be made by assault craft
-and torpedoes, or by ships
-teleporting troops onto
+be made by [assault craft](the-ordnance-phase.md#assault-boats)
+and [torpedoes](the-ordnance-phase.md#torpedoes), or by ships
+[teleporting](the-end-phase.md#teleport-attacks) troops onto
 nearby enemy vessels.
 
 Ships that cannot be boarded
-(such as Chaos vessels with
-the Mark of Nurgle) are
+(such as [Chaos](fleet-lists/chaos.md) vessels with
+the [Mark of Nurgle](fleet-lists/chaos.md#1-chaos-warmaster)) are
 NOT automatically immune
 from Hit-and-Run attacks.
 
@@ -301,33 +301,33 @@ damage on their target.
 
 #### Assault Boats
 
-Assault boats attack by
+[Assault boats](the-ordnance-phase.md#assault-boats) attack by
 clamping onto the outer hull
 of an enemy ship and then
 cutting their way through
 to allow their crew to attack
 inside. Assault boats can
 be launched just like any
-other ordnance from flight
+other [ordnance](the-ordnance-phase.md) from flight
 decks and move 30 cm in any
-direction in every Ordnance
-Phase. The ships which may
+direction in every [Ordnance
+Phase](the-ordnance-phase.md). The ships which may
 be loaded with assault boats
 are noted in the fleet lists.
 
 If an assault boat marker
 comes into contact with
 a ship’s base, it can be
-shot at by turrets in the
-same way as bombers. If it
+shot at by [turrets](the-ordnance-phase.md#turrets) in the
+same way as [bombers](the-ordnance-phase.md#bombers). If it
 survives, it makes a single
 Hit-and-Run attack in the
-Ordnance Phase and is
+[Ordnance Phase](the-ordnance-phase.md) and is
 then removed from play.
 
 #### Boarding Torpedoes
 
-Boarding torpedoes carry
+[Boarding torpedoes](the-ordnance-phase.md#boarding-torpedoes) carry
 dedicated assault troops
 and can be partially guided
 while in flight. They punch
@@ -337,11 +337,11 @@ of warriors into the midst
 of the enemy. If boarding
 torpedoes move into contact
 with a ship’s base, they attack
-just like ordinary torpedoes
-(roll for turrets and to hit).
+just like ordinary [torpedoes](the-ordnance-phase.md#torpedoes)
+(roll for [turrets](the-ordnance-phase.md#turrets) and to hit).
 Each one that hits makes a
 Hit-and-Run attack in the
-Ordnance Phase rather than
+[Ordnance Phase](the-ordnance-phase.md) rather than
 inflicting a point of damage.
 
 #### Teleport Attacks
@@ -351,7 +351,7 @@ their enemies may attempt
 to initiate a small-scale
 boarding action using their
 teleporters. However, active
-shields interfere with the
+[shields](the-shooting-phase.md#shields) interfere with the
 teleport beams, so such
 attacks can only be made
 against an enemy whose
@@ -370,24 +370,24 @@ against an enemy ship, that
 has no shields, within 10 cm.
 
 Teleport attacks can be
-conducted by capital ships
+conducted by [capital ships](the-rules.md#capital-ships)
 that are on [*Lock On*](the-rules.md#lock-on) or [*Reload
 Ordnance*](the-rules.md#reload-ordnance) special orders.
 All other special orders
 preclude the use of teleport
-attacks. Necron Portals
+attacks. [Necron Portals](fleet-lists/necrons.md#portal)
 are not teleport attacks
 in the normal manner.
 
-Crippled ships may not
+[Crippled](the-shooting-phase.md#crippled-ships) ships may not
 make teleport attacks.
 
 As you can imagine, it takes
 a lot more manpower to
-disable the weapons batteries
-of a battleship than it does
+disable the [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries)
+of a [battleship](the-rules.md#battleships) than it does
 a destroyer’s. Therefore,
-escorts and defences with
+[escorts](the-rules.md#escorts) and [defences](planetary-defences.md) with
 only one damage point
 left cannot make teleport
 attacks. In addition, a ship
@@ -409,10 +409,10 @@ attack, simply roll a D6.
 On a score of a 1 the attack
 has failed, on a 2 or more
 look up the score on the
-Critical Hits table and apply
+[Critical Hits table](the-shooting-phase.md#critical-hits-table) and apply
 the result immediately.
 
-This critical damage can
+This [critical damage](the-shooting-phase.md#critical-hits) can
 be repaired as normal.
 
 Due to their much smaller
@@ -430,25 +430,25 @@ benefit from this bonus,
 needing a 3+ to succeed in
 Hit-and-Run attacks against
 escorts. Fleets that enjoy a
--1 modifier to enemy Hitand-Run attacks benefit in
+-1 modifier to enemy Hit-and-Run attacks benefit in
 this regard as well, meaning
 Hit-and-Run attacks require
 a 5+ to destroy their escorts.
 Anything that rolls 2D6
 and adds the result during
 a Hit-and-Run attack still
-do so, such as Dark Eldar
+do so, such as [Dark Eldar](fleet-lists/dark-eldar.md)
 Impalers, in which case the
 added result still normally
 (before any modifiers)
 destroys an escort on a roll
 of 4+, though they must
 roll 2D6 twice and take the
-lowest roll against Tyranids.
+lowest roll against [Tyranids](fleet-lists/tyranids.md).
 
 Remember that an escort
-which has suffered critical
-damage is automatically
+which has suffered [critical
+damage](the-shooting-phase.md#critical-hits) is automatically
 destroyed, though they can
 [*Brace For Impact!*](the-rules.md#brace-for-impact) to counter
 the effects of the attack.
