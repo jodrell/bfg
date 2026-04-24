@@ -753,7 +753,7 @@ damage taken normally.
 ### Area Effects And Special Weapons
 
 Some weapon systems such as
-the Necron Nightmare Field
+the [Necron Nightmare Field](fleet-lists/necrons.md#sepulchre)
 and [Star Pulse Generator](fleet-lists/necrons.md#star-pulse-generator)
 are area-effect weapons
 that do not aim nor are
