@@ -34,7 +34,7 @@ out more about fleets and
 [the battlefield](the-battlefield.md) later on.
 
 As well as players, ships
-and a battlefield there are
+and a [battlefield](the-battlefield.md) there are
 a few other things you will
 need. At least one measuring
 device marked in centimetres
@@ -103,17 +103,17 @@ more than a few thousand
 kilometres. At this distance
 all kinds of dangers can
 affect the ship itself such
-as torpedoes, deep space
-bomber squadrons, other
-ships exploding or asteroids
+as [torpedoes](the-ordnance-phase.md#torpedoes), deep space
+[bomber squadrons](the-ordnance-phase.md#bombers), other
+ships exploding or [asteroids](the-battlefield.md#asteroid-fields)
 striking. Hence, for the
 purposes of the game, if
 something affects an area
 of the battlefield, like the
 markers used to represent
 torpedo salvoes or the
-boundaries of an asteroid
-field, a ship is affected if
+boundaries of an [asteroid
+field](the-battlefield.md#asteroid-fields), a ship is affected if
 its base is touched, or if
 a ship moves so that its
 base comes into contact
@@ -163,8 +163,8 @@ the rules immensely.
 
 There are lots of occasions in a battle when
 you have to roll dice to see how a ship’s
-actions turn out – how effective shooting
-is, what damage is done to an enemy
+actions turn out – how effective [shooting](the-shooting-phase.md)
+is, what [damage](the-shooting-phase.md#damage) is done to an enemy
 ship, how well captains and their crews
 react to the stress of battle and so on.
 
@@ -230,7 +230,7 @@ compass, a circular card
 template with a hole
 punched through the
 middle. It is used for two purposes. Firstly
-to check the fire arcs of your own ships to
+to check the [fire arcs](the-shooting-phase.md#fire-arcs) of your own ships to
 see which weapons they can bring to bear
 against the enemy. Doing so is simple: place
 the template over your ship so that the hole
@@ -239,7 +239,7 @@ stand and the two arrows are pointing along
 the length of the ship: This places the 90°
 quadrants so that one is in front, one is
 behind and one is to each side of the ship.
-Fire arcs and ship’s gunnery are explained in
+Fire arcs and ship’s [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries) are explained in
 more detail in the [Shooting Phase](the-shooting-phase.md) section.
 
 Secondly, it is used to find out what aspect
@@ -263,18 +263,18 @@ not to. Note: To aid in pre-measuring, use a
 couple of empty flying bases with bearing
 compasses dropped over the stems.
 
-**Secrecy of Fleet Lists:** Fleet lists are not
+**Secrecy of Fleet Lists:** [Fleet lists](fleet-lists.md) are not
 normally secret. However, to add a degree
-of subtlety to a campaign, fleet lists may
+of subtlety to a [campaign](campaign-rules.md), fleet lists may
 be kept secret until the end of the game (or
 campaign) if both players agree. However,
 it must be written down, complete with
-all refits and point totals. If at any time
+all [refits](fleet-lists/refits.md) and point totals. If at any time
 your opponent wishes to see your fleet
 list, both players must then immediately
 reveal their fleet lists to each other.
 
-**Secrecy of Sub-plots:** Sub-plots are normally
+**Secrecy of Sub-plots:** [Sub-plots](scenarios.md#sub-plots) are normally
 rolled for in front of both players at the
 beginning of the game. However, sub-plots
 may be kept secret in the same manner
@@ -298,12 +298,12 @@ and unbridled destruction
 heralded by the ninth Black
 Crusade of Abaddon early
 in the 41st millennium.
-At this time Imperial,
-Chaos, Ork and Eldar
+At this time [Imperial](fleet-lists/imperial-navy.md),
+[Chaos](fleet-lists/chaos.md), [Ork](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md)
 ships of all sizes clashed in
 deadly conflict. Massive
 beweaponed battlecruisers
-joust with lances of fusion
+joust with [lances](the-shooting-phase.md#direct-firing-lances) of fusion
 fire, lumbering battleships
 duel with coruscating
 salvoes of destruction while
@@ -325,11 +325,11 @@ they are separated into the
 following types: battleships,
 cruisers and escorts.
 
-**Battleships** are the largest
+<a name="battleships"></a>**Battleships** are the largest
 fighting ships in space. They
 can absorb a tremendous
 amount of damage and
-mount weapon batteries
+mount [weapon batteries](the-shooting-phase.md#direct-firing-weapons-batteries)
 capable of laying waste to
 entire continents. These
 vessels are so huge that
@@ -339,21 +339,21 @@ manoeuvre, so they need
 support from other vessels
 to bring the enemy to battle.
 
-**Escort Ships** are the
+<a name="escorts"></a>**Escort Ships** are the
 commonest warships in
 any fleet. They are fast,
 lightly armed and capable of
 running rings around heavier
 ships, which they accompany
 to protect them against
-torpedo attacks and to fight
+[torpedo](the-ordnance-phase.md#torpedoes) attacks and to fight
 off enemy escorts. They are
 also used for independent
 actions such as scouting,
 raiding, protecting transport
 ships, and chasing pirates.
 
-**Cruisers** are the workhorses
+<a name="cruisers"></a>**Cruisers** are the workhorses
 of any fleet. They are
 manoeuvrable, well-armed
 ships, capable of operating
@@ -368,7 +368,7 @@ of the fleet in support of the
 escorts and form the gun
 line once battle begins.
 
-Note that for reasons of
+<a name="capital-ships"></a>Note that for reasons of
 brevity, battleships and
 cruisers are often grouped
 together under the general
@@ -417,7 +417,7 @@ bigger engines, more or less
 armour, etc. Ships may even
 be converted from one class
 to another in the course of
-a major refit. The two ships
+a major [refit](campaign-rules.md#refits). The two ships
 shown on the previous page
 are a Lunar class Imperial
 cruiser and a Murder class
@@ -450,7 +450,7 @@ is and how large a crew it
 has. In Battlefleet Gothic, a
 ship’s Hits represents how
 many times it can be hit and
-damaged before it is reduced
+[damaged](the-shooting-phase.md#damage) before it is reduced
 to a floating wreck (note
 that Hits are also referred to
 as damage points: don’t be
@@ -473,7 +473,7 @@ in terms of speed, which
 gives it an important
 advantage in combat.
 
-**Turns:** Ships can usually turn
+**Turns:** Ships can usually [turn](the-movement-phase.md#turning)
 just once during their move.
 This characteristic shows
 how sharply it can turn. In
@@ -485,7 +485,7 @@ about average for cruisers.
 are protected by powerful
 force field generators that
 can absorb or shunt aside
-incoming hits. Shields are
+incoming hits. [Shields](the-shooting-phase.md#shields) are
 rated according to how many
 hits they can absorb in a
 turn before they temporarily
@@ -496,7 +496,7 @@ of absorbing two hits.
 **Armour:** The ship’s Armour
 rating shows how well
 protected it is and/or how
-difficult it is to damage.
+difficult it is to [damage](the-shooting-phase.md#damage).
 When the ship is fired upon,
 the attacker needs to roll
 equal to or over its Armour
@@ -511,11 +511,11 @@ against shots from its front.
 **Turrets:** In addition to
 their main armament,
 most ships carry numerous
-small, quick-firing turrets.
+small, quick-firing [turrets](the-ordnance-phase.md#turrets).
 These are mounted over
 the length of their hull
 to shoot down incoming
-torpedoes and fighters. Both
+[torpedoes](the-ordnance-phase.md#torpedoes) and [fighters](the-ordnance-phase.md#fighters). Both
 cruisers mount enough of
 these lighter weapons to
 have a Turrets value of 2.
@@ -527,9 +527,9 @@ armament and its location.
 **Range/Speed:** The maximum
 range of weapons is shown
 in centimetres. In the case
-of ordnance weapons which
+of [ordnance](the-ordnance-phase.md) weapons which
 move towards their target,
-such as torpedoes or fighters,
+such as [torpedoes](the-ordnance-phase.md#torpedoes) or [fighters](the-ordnance-phase.md#fighters),
 the speed of the weapon
 is shown rather than its
 maximum range. As you can
@@ -544,7 +544,7 @@ effective a weapons system is
 when it shoots – the higher
 the number the better.
 Special weapons systems like
-torpedoes and lances have
+[torpedoes](the-ordnance-phase.md#torpedoes) and [lances](the-shooting-phase.md#direct-firing-lances) have
 a Strength rating instead of
 a Firepower value. In this
 case the greater firepower
@@ -554,8 +554,8 @@ the lances and torpedoes
 of the Imperial ship.
 
 **Fire Arc:** Weapon systems
-may only fire in particular
-directions depending on
+may only fire in [particular
+directions](the-shooting-phase.md#fire-arcs) depending on
 where they are mounted on
 the ship. Both the cruisers
 shown mount most of their
@@ -573,7 +573,7 @@ There are two base sizes:
 small (32 mm diameter) and
 large (60 mm diameter). Any
 ship or defence with either 3
-or more shields OR greater
+or more [shields](the-shooting-phase.md#shields) OR greater
 than 10 Hits must use a
 large size base. However, any
 capital ship can elect to use a
@@ -581,10 +581,10 @@ large base and is considered
 to have Tractor Fields for
 free. Tractor fields have no
 effect except making it easier
-for the ship to ram and/or
-board due to its larger base
+for the ship to [ram](the-movement-phase.md#all-ahead-full-ramming-speed) and/or
+[board](the-end-phase.md#boarding-actions) due to its larger base
 size, in exchange for being
-a larger ordnance target.
+a larger [ordnance](the-ordnance-phase.md) target.
 
 ## Leadership
 
@@ -619,10 +619,10 @@ you roll a D6 to determine each ship’s
 Leadership value before the start of the
 game. Look up the result of the dice roll
 on the table below to see what Leadership
-value the ship has. Escorts roll once per
-squadron, with the whole squadron sharing
-the leadership value rolled. Each capital
-ship rolls individually for leadership,
+value the ship has. [Escorts](#escorts) roll once per
+[squadron](squadrons.md), with the whole squadron sharing
+the leadership value rolled. Each [capital
+ship](#capital-ships) rolls individually for leadership,
 even if it is in a squadron. Squadrons
 are explained fully later in the rules.
 
@@ -638,7 +638,7 @@ are explained fully later in the rules.
 There are six different special orders and
 each one allows a vessel to perform better at
 something, such as gunnery or navigation,
-during its turn. A ship or squadron can only
+during its [turn](the-movement-phase.md#turning). A ship or [squadron](squadrons.md) can only
 ever be on one special order at a time.
 Special orders are declared during the
 [Movement Phase](the-movement-phase.md) by choosing a vessel
@@ -656,14 +656,14 @@ an extra burst of speed.
 
 **Effect:** Increased speed, but must
 move the full movement distance.
-Requirement for attempting to ram.
+Requirement for attempting to [ram](the-movement-phase.md#all-ahead-full-ramming-speed).
 
 **Speed:** Cruising speed +4D6 cm (make
 one roll for the whole squadron).
 
 **Turns:** None.
 
-**Armament:** Half effect. No Nova Cannon.
+**Armament:** Half effect. No [Nova Cannon](the-shooting-phase.md#nova-cannon).
 
 **Ordnance:** Full effect.
 
@@ -676,16 +676,17 @@ opportunities to fire
 its weapons in order to
 turn more sharply.
 
-**Effect:** Extra turn. All the normal
+**Effect:** Extra [turn](the-movement-phase.md#turning). All the normal
 restrictions for turning apply to the
-second turn. This means a cruiser that
+second turn. This means a [cruiser](#cruisers) that
 moves 10 cm before turning must move at
 least 10 cm more before turning again.
-Speed: Half to full cruising speed.
+
+**Speed:** Half to full cruising speed.
 
 **Turns:** Up to two.
 
-**Armament:** Half effect. No Nova Cannon.
+**Armament:** Half effect. No [Nova Cannon](the-shooting-phase.md#nova-cannon).
 
 **Ordnance:** Full effect.
 
@@ -700,13 +701,13 @@ its forward momentum
 and hold position.
 
 **Effect:** Decreased speed. Can make a single
-turn without having to move forward first.
+[turn](the-movement-phase.md#turning) without having to [move](the-movement-phase.md) forward first.
 
 **Speed:** Zero to half cruising speed.
 
 **Turns:** Up to one.
 
-**Armament:** Half effect. No Nova Cannon.
+**Armament:** Half effect. No [Nova Cannon](the-shooting-phase.md#nova-cannon).
 
 **Ordnance:** Full effect.
 
@@ -760,15 +761,15 @@ reload before it can use its ordnance again.
 The captain of the vessel
 orders his crew to brace for
 impact; power is redirected
-to the shields, blast doors
+to the [shields](the-shooting-phase.md#shields), blast doors
 are slammed shut and
 the crew hang onto something secure.
 
 *Brace For Impact!* special orders can be
 undertaken ANY time a ship faces taking
-damage before the actual to-hit result is rolled,
-including when ramming or being rammed
-or against damage from asteroid fields.
+[damage](the-shooting-phase.md#damage) before the actual to-hit result is rolled,
+including when [ramming](the-movement-phase.md#all-ahead-full-ramming-speed) or being rammed
+or against damage from [asteroid fields](the-battlefield.md#asteroid-fields).
 
 It may be used to protect against critical
 damage from any kind of [Hit & Run attack](the-end-phase.md#hit-and-run-attacks).
@@ -782,20 +783,20 @@ until the end of its next turn, replacing any
 other special orders it may be on currently.
 
 **Effect:** The ship gains a saving throw of
-4+ on a D6 against any damage. Can’t use
+4+ on a D6 against any [damage](the-shooting-phase.md#damage). Can’t use
 any special orders at all in its next turn.
 
 **Speed:** Half to full cruising speed.
 
 **Turns:** Up to one.
 
-**Armament:** Half effect. No Nova Cannon.
+**Armament:** Half effect. No [Nova Cannon](the-shooting-phase.md#nova-cannon).
 
 **Ordnance:** Half effect.
 
 If a ship fails to take *Brace For Impact!*
 orders, it cannot attempt to take them again
-until the ship, squadron or ordnance wave
+until the ship, [squadron](squadrons.md) or [ordnance](the-ordnance-phase.md) wave
 currently attacking has completed its attacks.
 
 ## Taking Command Checks
@@ -807,22 +808,22 @@ However, in order to do this the ship undertaking
 special orders must first pass a Command check.
 
 To make a Command check, roll 2D6 and
-compare it to the ship’s Leadership value (Ld).
+compare it to the ship’s [Leadership](#leadership) value (Ld).
 If the roll is equal to or under the ship’s Ld
 value it has passed the check and goes onto
 special orders. Then move the ship or squadron
 as appropriate before moving on to place your
 next special order. Place a special order dice
 next to the model with the appropriate symbol
-face uppermost as a reminder. A ship or defence
+face uppermost as a reminder. A ship or [defence](planetary-defences.md)
 can never be on more than one special order at
 a time unless specifically described otherwise
 in its special rules, such as a Ramilies Star Fort.
 
-With all of the orders except *Brace For
-Impact!* you must make the check in
+With all of the orders except [*Brace For
+Impact!*](#brace-for-impact) you must make the check in
 the [Movement Phase](the-movement-phase.md) before moving the
-ship. Each ship or squadron may make a
+ship. Each ship or [squadron](squadrons.md) may make a
 Special Order until all are under Special
 Orders or a Command Check fails.
 
@@ -839,15 +840,15 @@ for any further special orders to be issued.
 
 When rolling special orders, a decision to
 use free command checks (such as with an
-Elite Command Crew or when Orks use *All
-Ahead Full* special orders) must be taken
+Elite Command Crew or when Orks use [*All
+Ahead Full*](#all-ahead-full) special orders) must be taken
 before a special order is failed. Once special
 orders are failed, no more special orders
 can be declared except [*Brace For Impact!*](#brace-for-impact)
 
-Only one re-roll can be spent on a vessel
+Only one [re-roll](#re-rolls) can be spent on a vessel
 or squadron per leadership check. In other
-words, if a vessel or squadron fails a leadership
+words, if a vessel or [squadron](squadrons.md) fails a leadership
 check and then fails a re-roll, another reroll cannot be expended on it for the same
 leadership check or special orders on that
 vessel, even if more re-rolls are available.
@@ -859,7 +860,7 @@ harder for a vessel to use special orders.
 To represent this, there are two modifiers
 that can apply to Command checks,
 one positive and one negative. Under no
-circumstance can a ship’s Leadership be
+circumstance can a ship’s [Leadership](#leadership) be
 modified higher than Leadership 10. A
 leadership check roll of 11 or 12 always fails
 unless SPECIFICALLY stated otherwise.
@@ -868,7 +869,7 @@ unless SPECIFICALLY stated otherwise.
 
 If a ship has [Blast Markers](the-shooting-phase.md#blast-markers) in contact with
 its base, it is under fire and suffers a -1
-modifier to its Leadership. Blast Markers
+modifier to its Leadership. [Blast Markers](the-shooting-phase.md#blast-markers)
 are described more fully in the [Shooting](the-shooting-phase.md)
 section of the rules. For now it’s simply worth
 knowing that they represent weapon impacts,
@@ -881,11 +882,11 @@ Enemy ships on special orders create
 anomalous energy emissions which make
 it much easier for the ship to detect them
 and react quickly. For this reason the ship
-gains a +1 modifier to its Leadership value
+gains a +1 modifier to its [Leadership](#leadership) value
 if any enemy ships are on special orders.
 
 *For example, the Imperial cruiser Agrippa
-(Leadership 7) wants to use [*All Ahead Full*](#all-ahead-full)
+([Leadership](#leadership) 7) wants to use [*All Ahead Full*](#all-ahead-full)
 orders to catch up with the Chaos cruiser
 Unclean. The Chaos cruiser used [*Lock On*](#lock-on)
 orders last turn so the Agrippa gets a +1
@@ -897,7 +898,7 @@ equalling its modified Leadership value.*
 ### Other Leadership Tests
 
 Sometimes a ship will have
-to test against its Leadership
+to test against its [Leadership](#leadership)
 value for something other
 than using special orders.
 In these cases the test is for
@@ -906,10 +907,10 @@ to pull off a courageous or
 difficult undertaking.
 
 For example, a successful
-test against Leadership is
+test against [Leadership](#leadership) is
 required for a ship to [ram](the-movement-phase.md#all-ahead-full-ramming-speed)
 an enemy, safely navigate
-an asteroid field or target a
+an [asteroid field](the-battlefield.md#asteroid-fields) or target a
 specific vessel. These tests
 are taken like Command
 checks by rolling a number of

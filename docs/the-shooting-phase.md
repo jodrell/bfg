@@ -12,8 +12,8 @@ until they hit their target in a subsequent Ordnance Phase.**
 ## Direct Fire
 
 Direct firing uses a ship’s
-weapons batteries, lances
-and nova cannon. A player
+[weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries), [lances](the-shooting-phase.md#direct-firing-lances)
+and [nova cannon](the-shooting-phase.md#nova-cannon). A player
 can make direct fire
 attacks with each of his
 ships during his turn.
@@ -21,7 +21,7 @@ ships during his turn.
 In order to make direct fire
 attacks, the firing ship must
 have at least some weapons
-within range and fire arc of
+within [range](the-shooting-phase.md#range) and [fire arc](the-ordnance-phase.md#fighters) of
 the enemy. Once one ship
 has done all its firing, the
 player selects another and
@@ -113,11 +113,11 @@ pose a much greater threat
 than those thousands of
 kilometres away, so a ship will
 normally target the nearest
-enemy ship or squadron.
+enemy ship or [squadron](squadrons.md).
 However, a ship can always
 fire at whatever targets you
 like if it takes and passes a
-Leadership test on 2D6 first.
+[Leadership test](the-rules.md#taking-command-checks) on 2D6 first.
 
 #### Multiple Targets
 
@@ -148,7 +148,7 @@ weapons that are capable of
 burning straight through
 an armoured hull or cutting
 an escort ship in two. On
-Imperial and Chaos ships,
+[Imperial](fleet-lists/imperial-navy.md) and [Chaos](fleet-lists/chaos.md) ships,
 lances are usually mounted
 in huge turrets with quad or
 triple energy projectors that
@@ -166,10 +166,10 @@ or 6 hit the target regardless
 of the target’s Armour value
 and cause 1 damage point.
 Ships with multiple lances in
-a given fire arc may split their
+a given [fire arc](the-ordnance-phase.md#fighters) may split their
 weapon strength between
 targets but must still make
-a leadership check to fire on
+a [leadership check](the-rules.md#taking-command-checks) to fire on
 any target besides the closest.
 
 *For example, the Agrippa has
@@ -183,8 +183,8 @@ which rolled a 4 or more.*
 
 ![](assets/image--153.png)
 
-*A target’s orientation depends upon which fire
-arc the firing vessel is in, as shown in the
+*A target’s orientation depends upon which [fire
+arc](the-ordnance-phase.md#fighters) the firing vessel is in, as shown in the
 diagram. Match this with the target’s type to
 find out which column of the [Gunnery table](#gunnery-table) to
 use.*
@@ -229,17 +229,16 @@ look up the target’s type
 and orientation on the
 [Gunnery table](#gunnery-table) that follows.
 
-If a ship or squadron is firing
+If a ship or [squadron](squadrons.md) is firing
 multiple weapons that rely
 on the gunnery, they may
 be fired simultaneously.
 Calculate the dice on the
 [gunnery table](#gunnery-table) separately
-
 for each type of gunnery
 weapon. This means you do
 not suffer gunnery shifts
-due to Blast Markers caused
+due to [Blast Markers](the-shooting-phase.md#blast-markers) caused
 by other members of the
 same squadron in the same
 Shooting Phase. The order
@@ -282,7 +281,7 @@ out how many dice to roll
 to hit. Each dice roll which
 equals or beats the target’s
 Armour value scores a hit and
-inflicts 1 point of damage.
+inflicts 1 point of [damage](the-shooting-phase.md#damage).
 
 Any battery weapon that
 always counts targets as
@@ -293,7 +292,7 @@ defences, applying any
 modifiers as applicable.
 
 If a combination of ships in
-a squadron has a firepower
+a [squadron](squadrons.md) has a firepower
 value greater than 20, look
 up 20 and the remaining
 firepower values separately
@@ -310,7 +309,7 @@ a target is to hit. Ships at very long range
 will be hard to hit and at close range they
 will be easy to hit. Debris, radiation, etc.,
 can obscure a target and are represented by
-Blast Markers. These are described in more
+[Blast Markers](the-shooting-phase.md#blast-markers). These are described in more
 detail later, but for now it’s worth knowing
 that they can make a target harder to hit.
 Even weapon batteries that always count as
@@ -335,8 +334,8 @@ Target within 15 cm – shift one column left
 Target more than 30 cm away
 – shift one column right
 
-Target behind intervening Blast
-Markers – shift one column right
+Target behind intervening [Blast
+Markers](the-shooting-phase.md#blast-markers) – shift one column right
 
 For example, as shown earlier, the *Unclean*
 firing at the *Agrippa* rolls 7D6. If the *Agrippa*
@@ -548,21 +547,21 @@ would mean the *Unclean* rolled 5D6 instead.
   </tbody>
 </table>
 
-*<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as capital ships on the [Gunnery table](#gunnery-table).
-If a squadron has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
+*<strong>Notes:</strong> To save space, both cruisers and battleships are referred to as [capital ships](the-rules.md#capital-ships) on the [Gunnery table](#gunnery-table).
+If a [squadron](squadrons.md) has a firepower value greater than 20, look up 20 and the remaining value separately and add them together. For example, a squadron of two Carnage cruisers can have up to firepower 32 in one broadside, or firepower (20+12).*
 
-*\*Defences (for example ground based defences and satellites) and ordnance targets are not affected by orientation. A ship must move at least 5 cm to not be targeted as defences.*
+*\*[Defences](planetary-defences.md) (for example ground based defences and satellites) and ordnance targets are not affected by orientation. A ship must move at least 5 cm to not be targeted as defences.*
 
 #### Splitting Fire
 
 A ship can elect to split the
-firepower of its weapon
-batteries or lances between
+firepower of its [weapon
+batteries ](the-shooting-phase.md#direct-firing-weapons-batteries)or [lances](the-shooting-phase.md#direct-firing-lances) between
 several enemy vessels, but
 only after halving the effect
 of the weaponry as a result
-of special orders, crippling
-damage and so on.
+of [special orders](the-rules.md#special-orders), [crippling
+damage](the-shooting-phase.md#crippled-ships) and so on.
 
 You cannot split weapons
 battery or lance fire of any
@@ -573,7 +572,7 @@ in a given fire arc may
 split their weapon strength
 between two or more
 targets but must still make
-a leadership check to fire on
+a [leadership check](the-rules.md#taking-command-checks) to fire on
 any target besides the closest.
 
 > #### Special Order: [*Lock On*](the-rules.md#lock-on)
@@ -582,10 +581,10 @@ any target besides the closest.
 > the accuracy of its
 > firing by using the
 > [*Lock On*](the-rules.md#lock-on) special order.
-> The ship may re-roll
+> The ship may [re-roll](the-rules.md#re-rolls)
 > any dice to hit for
-> lances and weapons
-> batteries, during the
+> [lances](the-shooting-phase.md#direct-firing-lances) and [weapons
+> batteries](#direct-firing-weapons-batteries), during the
 > [Shooting Phase](the-shooting-phase.md). Any
 > dice which missed
 > are simply picked up
@@ -597,8 +596,8 @@ any target besides the closest.
 > maintain a steady
 > course and direct
 > additional power to its
-> weapon systems. Lock
-> On orders are really
+> weapon systems. *Lock
+> On* orders are really
 > useful when an enemy
 > vessel is within range
 > and no course changes
@@ -670,7 +669,7 @@ designates which target
 is being fired on, the
 defending player must
 decide whether or not to
-brace ships or squadrons
+[brace](the-rules.md#brace-for-impact) ships or [squadrons](squadrons.md)
 BEFORE the weapon is
 fired. This includes targets
 the weapon may hit due to
@@ -682,11 +681,11 @@ it is moved takes one hit. Any
 target in base contact of the
 centre hole of the template
 takes D6 hits, regardless of its
-Armour value. Any ordnance
+Armour value. Any [ordnance](the-ordnance-phase.md)
 touching the template is
 automatically removed.
 Replace the template with a
-single Blast Marker if it does
+single [Blast Marker](the-shooting-phase.md#blast-markers) if it does
 not contact a target after
 being moved.
 
@@ -709,15 +708,15 @@ suffers one automatic hit.*
 The Nova Cannon is a line
 of sight weapon and cannot
 fire through obstacles or
-celestial phenomena that
+[celestial phenomena](the-battlefield.md#celestial-phenomena) that
 act as normal line of sight
-obstructions, such as planets,
-moons, asteroid fields, etc. If
+obstructions, such as [planets](the-battlefield.md#planets),
+[moons](the-battlefield.md#moons), [asteroid fields](the-battlefield.md#asteroid-fields), etc. If
 desired however, these can
 nonetheless be fired upon. If
 a direct hit is scored on the
-scatter dice, place D6 Blast
-Markers in contact with the
+scatter dice, place D6 [Blast
+Markers](the-shooting-phase.md#blast-markers) in contact with the
 planet or asteroid field edge.
 
 Nova Cannon are unaffected in
@@ -726,10 +725,10 @@ Ordnance*](the-rules.md#reload-ordnance) special orders.
 
 #### Nova Cannon vs. Holofield
 
-Holofields and similar systems
+[Holofields](fleet-lists/eldar.md#holofields) and similar systems
 save against the shell hit,
 not the subsequent damage
-rolls. For example, if an Eldar
+rolls. For example, if an [Eldar](fleet-lists/eldar.md)
 vessel is hit by a Nova Cannon
 round and fails to save, it
 must immediately take as
@@ -746,7 +745,7 @@ hit for coming in base contact
 with the blast template. If this
 save is successful the effect of
 the Nova Cannon is negated,
-and a Blast Marker is placed
+and a [Blast Marker](the-shooting-phase.md#blast-markers) is placed
 normally for the save. Being
 braced saves against any
 damage taken normally.
@@ -755,27 +754,27 @@ damage taken normally.
 
 Some weapon systems such as
 the Necron Nightmare Field
-and Star Pulse Generator
+and [Star Pulse Generator](fleet-lists/necrons.md#star-pulse-generator)
 are area-effect weapons
 that do not aim nor are
 directed at a particular
 target. Such weapons or
 effects are not blocked by
 line of sight obstructions
-such as hulks, minefields
-or celestial phenomena, nor
+such as hulks, [minefields](fleet-lists/planetary-defences.md#low-orbit-defences_1)
+or [celestial phenomena](the-battlefield.md#celestial-phenomena), nor
 can they be saved against
-by holofields. See [pg. 70](#catastrophic-damage) for
+by [holofields](fleet-lists/eldar.md#holofields). See [pg. 70](#catastrophic-damage) for
 more on [catastrophic damage](#catastrophic-damage)
 and exploding ships.
 
-Chaos Marks that affect
+[Chaos Marks](fleet-lists/chaos.md#marks-of-chaos) that affect
 nearby ships based on area
-as well as catastrophic
-events such as Warp Drive
-implosions, Solar Flares,
+as well as [catastrophic
+events](the-shooting-phase.md#catastrophic-damage) such as Warp Drive
+implosions, [Solar Flares](the-battlefield.md#solar-flares),
 etc. are also not affected by
-celestial phenomena and
+[celestial phenomena](the-battlefield.md#celestial-phenomena) and
 other such line-of-sight
 obstructions. See [pg. 110](the-battlefield.md#asteroid-fields)
 concerning [asteroid fields](the-battlefield.md#asteroid-fields).
@@ -792,7 +791,7 @@ cruisers) cannot be used
 as Exterminatus vessels.
 
 Armageddon Gun and
-Holofields: Holofield saves
+[Holofields](fleet-lists/eldar.md#holofields): Holofield saves
 are taken against a direct
 hit from the Armageddon
 Gun where the hole is over
@@ -802,9 +801,9 @@ coming in base contact with
 the blast template. If this save
 is successful the effect of the
 Armageddon Gun is negated,
-and a Blast Marker is placed
+and a [Blast Marker](the-shooting-phase.md#blast-markers) is placed
 normally for the save. Being
-braced saves against any
+[braced](the-rules.md#brace-for-impact) saves against any
 damage taken normally.
 
 > #### Special Order: [*All Ahead Full*](the-rules.md#all-ahead-full) / [*Burn Retros*](the-rules.md#burn-retros) / [*Come To New Heading*](the-rules.md#come-to-new-heading)
@@ -821,10 +820,10 @@ damage taken normally.
 > ships on these orders
 > halve their weapons
 > batteries’ Firepower
-> and lance Strength,
+> and [lance](the-shooting-phase.md#direct-firing-lances) Strength,
 > rounding up. Nova
 > cannon may not be
-> fired at all. Ordnance
+> fired at all. [Ordnance](the-ordnance-phase.md)
 > is unaffected.
 > See [pg. 46](the-rules.md#special-orders) for all effects
 
@@ -859,7 +858,7 @@ damage points it is crippled.
 When a ship has lost all its
 hits, it is out of action and
 a roll needs to be made on
-the Catastrophic Damage
+the [Catastrophic Damage](the-shooting-phase.md#catastrophic-damage)
 table to see if it explodes
 in a spectacular fashion or
 simply drifts helplessly.
@@ -869,19 +868,19 @@ simply drifts helplessly.
 A ship which loses half its
 damage points is crippled.
 Being crippled halves
-shields, turrets, ordnance,
+[shields](the-shooting-phase.md#shields), [turrets](the-ordnance-phase.md#turrets), [ordnance](the-ordnance-phase.md),
 all weapons and affects
-boarding. This effect is
+[boarding](the-end-phase.md#boarding-actions). This effect is
 cumulative if the ship is
-braced, meaning if a ship is
+[braced](the-rules.md#brace-for-impact), meaning if a ship is
 both braced and crippled, its
 weapons and ordnance are
 halved (rounding up) again!
 
 Crippled ships also reduce
-their move by 5 cm and
+their [move](the-movement-phase.md) by 5 cm and
 will not be able to fire
-their nova cannon.
+their [nova cannon](the-shooting-phase.md#nova-cannon).
 
 *For example, a standard
 Lunar class cruiser has
@@ -892,36 +891,36 @@ crippled when it has suffered
 > #### Special Order: [*Brace For Impact!*](the-rules.md#brace-for-impact)
 > 
 > [*Brace For Impact!*](the-rules.md#brace-for-impact) special orders can be undertaken ANY time a ship faces taking
-> damage before the actual to-hit result is rolled, including when ramming or being
-> rammed or against damage from asteroid fields. It may also be used to protect
-> against critical damage from any kind of Hit-and-Run attack. A decision to brace
+> damage before the actual to-hit result is rolled, including when [ramming](the-movement-phase.md#all-ahead-full-ramming-speed) or being
+> rammed or against damage from [asteroid fields](the-battlefield.md#asteroid-fields). It may also be used to protect
+> against [critical damage](the-shooting-phase.md#critical-hits) from any kind of [Hit-and-Run attack](the-end-phase.md#hit-and-run-attacks). A decision to brace
 > for impact must be made before any attempt to shoot (rolling dice) by the opponent
 > is made, including modifier rolls for variable weapons such as Ork Gunz. When
-> being attacked by ordnance, the decision must be made before rolling turrets.
+> being attacked by [ordnance](the-ordnance-phase.md), the decision must be made before rolling [turrets](the-ordnance-phase.md#turrets).
 > 
-> [*Brace For Impact!*](the-rules.md#brace-for-impact) DOES NOT protect against critical damage caused
+> [*Brace For Impact!*](the-rules.md#brace-for-impact) DOES NOT protect against [critical damage](the-shooting-phase.md#critical-hits) caused
 > by hits that were not saved against normally, nor any damage caused
-> during a boarding action (including critical damage).
+> during a [boarding action](the-end-phase.md#boarding-actions) (including critical damage).
 > 
 > A ship is placed on [*Brace For Impact!*](the-rules.md#brace-for-impact) orders until the end of its next turn,
-> replacing any other special order it may be on currently. However, the special
-> order previously in effect remains so, in that ships that reloaded ordnance are
-> still reloaded, a ship or squadron moving [*All Ahead Full*](the-rules.md#all-ahead-full) must continue to do so,
+> replacing any other [special order](the-rules.md#special-orders) it may be on currently. However, the special
+> order previously in effect remains so, in that ships that [reloaded ordnance](the-rules.md#reload-ordnance) are
+> still reloaded, a ship or [squadron](squadrons.md) moving [*All Ahead Full*](the-rules.md#all-ahead-full) must continue to do so,
 > etc. Ships and squadrons still cannot take special orders in the next turn.
 > 
 > A ship using [*Brace For Impact!*](the-rules.md#brace-for-impact) orders gains a saving throw of 4+
 > on a D6 against actual damage taken by the ship itself, NOT hits
-> absorbed by shields, reactive armour, holofields, etc.
+> absorbed by [shields](the-shooting-phase.md#shields), reactive armour, [holofields](fleet-lists/eldar.md#holofields), etc.
 > 
 > A ship which uses this special order may not use special orders at all in its next turn
-> and its Firepower, ordnance (this effect is cumulative if a capital ship is crippled) and
-> armament Strength is halved, while Nova Cannons may not be fired at all. Turrets and
-> shields are unaffected. [*Brace For Impact!*](the-rules.md#brace-for-impact) only comes into effect against attacks whose Hit
+> and its Firepower, [ordnance](the-ordnance-phase.md) (this effect is cumulative if a capital ship is crippled) and
+> armament Strength is halved, while [Nova Cannons](the-shooting-phase.md#nova-cannon) may not be fired at all. [Turrets](the-ordnance-phase.md#turrets) and
+> [shields](the-shooting-phase.md#shields) are unaffected. [*Brace For Impact!*](the-rules.md#brace-for-impact) only comes into effect against attacks whose Hit
 > rolls are made after the special order has been declared. In other words, you cannot wait
 > to see how accurate a salvo or Nova Cannon shot is before declaring [*Brace For Impact!*](the-rules.md#brace-for-impact)
 > 
 > A ship that fails an attempt to [*Brace For Impact!*](the-rules.md#brace-for-impact) cannot attempt to brace again
-> until the ship, squadron, ordnance wave or other event causing damage to it
+> until the ship, [squadron](squadrons.md), [ordnance](the-ordnance-phase.md) wave or other event causing damage to it
 > completes its attacks, finishes causing damage, resolves its effects, etc. It can
 > however again attempt to brace before the next ship, squadron or ordnance
 > wave attacks it, it faces another potentially damaging event, etc.
@@ -945,7 +944,7 @@ for any damage caused by a critical hit.
 
 #### Critical Hits on Escorts
 
-Escort ships which suffer a critical hit for
+[Escort ships](the-rules.md#escorts) which suffer a critical hit for
 any reason, such as during a boarding
 action, are automatically destroyed.
 
@@ -1020,7 +1019,7 @@ on the tabletop by placing
 counters where the event
 occurs. They remain in play
 until they are removed in a
-subsequent End Phase. Most
+subsequent [End Phase](the-end-phase.md). Most
 Blast Markers are placed
 to show the hits taken on a
 vessel’s shields as described
@@ -1036,13 +1035,13 @@ by a ship’s shields.
 * For ships which
 are reduced to 0
 damage as specified
-on the Catastrophic
-Damage table.
-* For each missed nova
-cannon attack.
+on the [Catastrophic
+Damage](the-shooting-phase.md#catastrophic-damage) table.
+* For each missed [nova
+cannon](the-shooting-phase.md#nova-cannon) attack.
 
 Blast Markers that are
-caused by shield impacts,
+caused by [shield](the-shooting-phase.md#shields) impacts,
 the first Blast Marker is
 placed directly in the line
 of fire from the shooting
@@ -1071,7 +1070,7 @@ shooting at (for two in total)
 except in the following cases:
 
 1. A ship with multiple
-shields (like a battleship)
+[shields](the-shooting-phase.md#shields) (like a [battleship](the-rules.md#battleships))
 takes three or four Blast
 Markers that when fanned
 out normally contact more
@@ -1108,9 +1107,9 @@ Blast Marker means the whole
 base is affected. It counts as
 being in contact all around it
 and in every arc for purposes
-of leadership, movement,
-shooting, ordnance attacks,
-being boarded, or every other
+of [leadership](the-rules.md#leadership), [movement](the-movement-phase.md),
+[shooting](the-shooting-phase.md), [ordnance](the-ordnance-phase.md) attacks,
+being [boarded](the-end-phase.md#boarding-actions), or every other
 respect where Blast Markers
 have an effect. This includes
 if it ended its movement in
@@ -1121,13 +1120,13 @@ through Blast Markers even
 if it is moving away from
 Blast Markers it is in contact
 with at the beginning of the
-Movement Phase, such as
+[Movement Phase](the-movement-phase.md), such as
 Blast Markers in its rear arc
 or in base contact due to a
 previous round of shooting.
 
-When ships have stacked or
-overlapping bases, there is no
+When ships have [stacked or
+overlapping bases](the-movement-phase.md#stacking-ships-and-escort-squadrons), there is no
 limitation to the number of
 ship’s shields a Blast Marker
 can take down if one of them is
@@ -1180,7 +1179,7 @@ do not move once they
 have been placed on the
 tabletop. They show an
 area of tumultuous, strifetorn space and temporarily
-become part of the battlefield
+become part of the [battlefield](the-battlefield.md)
 once they are in play.
 
 *In the example below, two
@@ -1202,7 +1201,7 @@ through Blast Markers even
 if it is moving away from
 Blast Markers it is in contact
 with at the beginning of
-the Movement Phase.
+the [Movement Phase](the-movement-phase.md).
 
 If a ship moves through any
 Blast Markers, it reduces
@@ -1211,11 +1210,11 @@ regardless of the number
 of markers actually moved
 through. This affects each
 separate Movement Phase for
-Eldar vessels.
+[Eldar](fleet-lists/eldar.md) vessels.
 
 If a ship cannot elect to slow
-down (such as when on *All
-Ahead Full* special orders) and
+down (such as when on [*All
+Ahead Full*] special orders) and
 comes into contact with a Blast
 Marker within the last 5 cm of
 its movement, it must instead
@@ -1223,10 +1222,10 @@ stop no farther than the point
 it comes in contact with the
 Blast Marker (and not before).
 
-A ship with a Shield strength
+A ship with a [Shield](the-shooting-phase.md#shields) strength
 of 0 (i.e. Eldar or ships
 suffering the Shields Collapse
-critical) which moves through
+[critical](the-shooting-phase.md#critical-hits)) which moves through
 any Blast Markers also suffers
 a point of damage on a D6 roll
 of 6. This test only needs to
@@ -1239,14 +1238,14 @@ by taking fire but are otherwise
 functional do not risk taking
 damage on a D6 roll of 6.
 
-An Ordnance marker such
-as a torpedo salvo or bomber
-squadron is removed on a
+An [Ordnance](the-ordnance-phase.md) marker such
+as a [torpedo](the-ordnance-phase.md#torpedoes) salvo or [bomber
+squadron](the-ordnance-phase.md#bombers) is removed on a
 D6 roll of 6 if it moves over a
 Blast Marker.
 
 **Shooting:** Blast Markers
-interfere with gunnery, as
+interfere with [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries), as
 mentioned earlier, disrupting
 firing and causing plenty
 of ‘ghost’ images on the
@@ -1258,8 +1257,8 @@ with a ship’s base) or it or its
 targets are in base contact
 with Blast Markers, it suffers
 a column shift to the right on
-the [Gunnery table](#gunnery-table). Lances and
-nova cannon are unaffected.
+the [Gunnery table](#gunnery-table). [Lances](the-shooting-phase.md#direct-firing-lances) and
+[nova cannon](the-shooting-phase.md#nova-cannon) are unaffected.
 Note that Blast Markers come
 into effect immediately and
 so can affect subsequent
@@ -1269,7 +1268,7 @@ in which they are placed.
 **Shields:** If a ship’s base
 is in contact with any
 Blast Markers when it
-is fired upon, its shield
+is fired upon, its [shield](the-shooting-phase.md#shields)
 Strength is reduced by
 1 per Blast Marker.
 
@@ -1296,23 +1295,23 @@ the shield generators vent
 off the excess energy.
 
 Each shield will block one
-point of damage from
+point of [damage](the-shooting-phase.md#damage) from
 hitting the ship in a single
-Shooting Phase. A Blast
-Marker is placed touching
+Shooting Phase. A [Blast
+Marker](the-shooting-phase.md#blast-markers) is placed touching
 the ship’s base for each hit
 blocked by the shields, to
 show how much energy
 has been absorbed.
 
-Once the number of Blast
-Markers in contact with
+Once the number of [Blast
+Markers](the-shooting-phase.md#blast-markers) in contact with
 a ship’s base is equal to
 its number of shields, no
 further damage may be
 absorbed by the shields that
 turn. Any further hits will
-inflict damage on the ship
+inflict [damage](the-shooting-phase.md#damage) on the ship
 itself. Once they have been
 overloaded the shields may
 not be raised again until
@@ -1323,13 +1322,13 @@ Blast Markers. The shields
 remain down until the ship
 moves away from the Blast
 Markers in a subsequent
-Movement Phase.
+[Movement Phase](the-movement-phase.md).
 
 Shields are only effective
-against lances, weapons
-batteries and nova cannon.
-Attacks made by ramming,
-bombers and torpedoes get
+against [lances](the-shooting-phase.md#direct-firing-lances), [weapons
+batteries](the-shooting-phase.md#direct-firing-weapons-batteries) and [nova cannon](the-shooting-phase.md#nova-cannon).
+Attacks made by [ramming](the-movement-phase.md#all-ahead-full-ramming-speed),
+[bombers](the-ordnance-phase.md#bombers) and [torpedoes](the-ordnance-phase.md#torpedoes) get
 inside a ship’s shields, so
 they provide no protection.
 
@@ -1361,58 +1360,58 @@ been breached yet, there may even be power
 available in some sections of the ship, but the
 ship can no longer fight.
 
-When an escort is destroyed, replace it with a Blast
-Marker placed as centrally as possible to where
+When an [escort](the-rules.md#escorts) is destroyed, replace it with a [Blast
+Marker](the-shooting-phase.md#blast-markers) placed as centrally as possible to where
 the escort was, to represent the expanding cloud
 of debris left by their passing. As a Blast Marker
 is smaller than a small flying base, the only way
-it is possible to take down a ship’s shield with this
+it is possible to take down a ship’s [shield](the-shooting-phase.md#shields) with this
 Blast Marker is if their bases actually overlapped.
 
-With a mighty capital ship, there is a chance
+With a mighty [capital ship](the-rules.md#capital-ships), there is a chance
 that the vessel will be destroyed by catastrophic
 damage as its plasma drive overloads or
 its warpdrive triggers. Roll 2D6 on the
-Catastrophic Damage table to see what happens.
+[Catastrophic Damage table](the-shooting-phase.md#catastrophic-damage-table) to see what happens.
 
 Blazing or drifting hulks will block lines of
 fire that pass over their base, due to the clouds
 of venting gasses and debris they produce.
 
 Ships that are reduced to zero hits and become
-hulks no longer have shields, holofields or any
-other similar mechanism. The turret value
-of a hulk is reduced to zero. Bombers do not
+hulks no longer have [shields](the-shooting-phase.md#shields), [holofields](fleet-lists/eldar.md#holofields) or any
+other similar mechanism. The [turret](the-ordnance-phase.md#turrets) value
+of a hulk is reduced to zero. [Bombers](the-ordnance-phase.md#bombers) do not
 subtract the hulk’s turret strength from their
 attack runs.
 
-Hulks cannot be fired upon or boarded by
-friendly vessels or ordnance in an attempt to deny
-victory points to the enemy or induce catastrophic
-damage. Torpedoes that hit a friendly hulk
+Hulks cannot be fired upon or [boarded](the-end-phase.md#boarding-actions) by
+friendly vessels or [ordnance](the-ordnance-phase.md) in an attempt to deny
+[victory points](scenarios.md#victory-points) to the enemy or induce [catastrophic
+damage](the-shooting-phase.md#catastrophic-damage). [Torpedoes](the-ordnance-phase.md#torpedoes) that hit a friendly hulk
 still inflict hits normally, but torpedoes cannot
 be deliberately aimed at friendly hulks.
 
 While enemy ships can choose to fire on a hulk,
-they do not have to pass a leadership check to
+they do not have to pass a [leadership check](the-rules.md#taking-command-checks) to
 ignore one if it is the closest target. A player can
 fire on an enemy hulk if it is not the closest target,
 but it must make a leadership check normally.
 
 When shooting at hulked ships, use the
 destroyed ship’s Armour value to roll for hits.
-Roll once on the catastrophic damage table each
-time hits are inflicted by shooting or ordnance
-from a given ship, squadron or ordnance wave
+Roll once on the [catastrophic damage table](the-shooting-phase.md#catastrophic-damage-table) each
+time hits are inflicted by [shooting](the-shooting-phase.md) or [ordnance](the-ordnance-phase.md)
+from a given ship, [squadron](squadrons.md) or ordnance wave
 (regardless of the number of hits inflicted),
 not once for each additional hit inflicted.
 
 Exploding ships count as an area effect
-and cannot be saved against by holofields,
-though shields still work normally.
+and cannot be saved against by [holofields](fleet-lists/eldar.md#holofields),
+though [shields](the-shooting-phase.md#shields) still work normally.
 
-When placing an exploding ship’s Blast
-Markers, place a single Blast Marker exactly
+When placing an exploding ship’s [Blast
+Markers](the-shooting-phase.md#blast-markers), place a single Blast Marker exactly
 where the ship was, and then place as many
 Blast Markers from the explosion as possible
 fanning around and in contact with it until
@@ -1423,7 +1422,7 @@ without overlapping any Blast Markers.
 
 | 2D6 Roll | Extra Blast Markers | Result |
 | :-: | :-: | --- |
-| 2-6 | 1 | **Drifting Hulk:** The ship is reduced to a shattered hulk drifting in space. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base after each move. |
-| 7-8 | 1 | **Blazing Hulk:** The ship is reduced to a burning wreck with uncontrolled fires blazing on every deck. In time the fires will either burn out or trigger a cataclysmic explosion. The wreck moves 4D6 cm forward in each of its subsequent Movement Phases. Place a Blast Marker in contact with the wreck’s base and roll on the Catastrophic Damage table again after its move. |
-| 9-11 | Special | **Plasma Drive Overload:** The ship’s plasma coils overload and explode in a blazing inferno of white hot plasma. Remove the ship from play, leaving behind a number of Blast Markers equal to half its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by lance shots with a Strength equal to half the ship’s starting Damage capacity. Roll to hit as normal. |
-| 12 | Special | **Warp Drive Implosion:** The ship’s warp drive implodes, ripping a hole in real space that tears at nearby vessels with horrific force. Remove the ship from play, leaving behind a number of Blast Markers equal to its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by lance shots with a Strength equal to the wreck’s starting Damage capacity. Roll to hit as normal. |
+| 2-6 | 1 | **Drifting Hulk:** The ship is reduced to a shattered hulk drifting in space. The wreck moves 4D6 cm forward in each of its subsequent [Movement Phases](the-movement-phase.md). Place a [Blast Marker](the-shooting-phase.md#blast-markers) in contact with the wreck’s base after each move. |
+| 7-8 | 1 | **Blazing Hulk:** The ship is reduced to a burning wreck with uncontrolled fires blazing on every deck. In time the fires will either burn out or trigger a cataclysmic explosion. The wreck moves 4D6 cm forward in each of its subsequent [Movement Phases](the-movement-phase.md). Place a [Blast Marker](the-shooting-phase.md#blast-markers) in contact with the wreck’s base and roll on the Catastrophic Damage table again after its move. |
+| 9-11 | Special | **Plasma Drive Overload:** The ship’s plasma coils overload and explode in a blazing inferno of white hot plasma. Remove the ship from play, leaving behind a number of [Blast Markers](the-shooting-phase.md#blast-markers) equal to half its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by [lance](the-shooting-phase.md#direct-firing-lances) shots with a Strength equal to half the ship’s starting Damage capacity. Roll to hit as normal. |
+| 12 | Special | **Warp Drive Implosion:** The ship’s warp drive implodes, ripping a hole in real space that tears at nearby vessels with horrific force. Remove the ship from play, leaving behind a number of [Blast Markers](the-shooting-phase.md#blast-markers) equal to its starting number of hits. Every ship within 3D6 cm of the imploding wreck is struck by [lance](the-shooting-phase.md#direct-firing-lances) shots with a Strength equal to the wreck’s starting Damage capacity. Roll to hit as normal. |

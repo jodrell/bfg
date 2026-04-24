@@ -34,7 +34,7 @@ use the [*Burn Retros*](the-rules.md#burn-retros) special
 order to remain stationary.
 A ship has to move at least
 5 cm to not count as defences
-against the Gunnery Table.
+against the [Gunnery Table](the-shooting-phase.md#gunnery-table).
 
 ### Move Distance
 
@@ -57,14 +57,13 @@ A ship’s normal move may
 be increased by using the
 [*All Ahead Full*](the-rules.md#all-ahead-full) special order
 that follows. A vessel’s move
-
 can also be decreased in
 some circumstances during
-a battle. Damage to the ship
+a battle. [Damage](the-shooting-phase.md#damage) to the ship
 may inhibit the efficiency
 of its engines and reduce its
 top speed, and a ship which
-moves through Blast Markers
+moves through [Blast Markers](the-shooting-phase.md#blast-markers)
 will be slowed slightly by the
 shockwaves and explosions.
 
@@ -87,7 +86,7 @@ use the [*Burn Retros*](the-rules.md#burn-retros) special
 order, detailed below. Ships
 who are unable to move
 half their speed (due to
-damage, Blast Markers, etc.)
+[damage](the-shooting-phase.md#damage), [Blast Markers](the-shooting-phase.md#blast-markers), etc.)
 must move the maximum
 possible distance instead.
 
@@ -98,7 +97,7 @@ possible distance instead.
 > speed by using the
 > [*All Ahead Full*](the-rules.md#all-ahead-full) special
 > order. Using * orders means that
-> a ship cannot turn and
+> a ship cannot [turn](the-movement-phase.md#turning) and
 > its firing ability is less
 > effective, as explained
 > in the [Shooting rules](the-shooting-phase.md).
@@ -120,7 +119,7 @@ possible distance instead.
 > special order, or even
 > remain stationary
 > (hold station). A ship
-> can make a single turn
+> can make a single [turn](the-movement-phase.md#turning)
 > without having to move
 > forward first but its
 > firing is less effective.
@@ -143,7 +142,7 @@ larger cruisers are ponderous
 beasts. The time lag between
 a cruiser applying thrust
 and turning is considerable.
-Battleships take even
+[Battleships](the-rules.md#battleships) take even
 longer to manoeuvre.
 
 When ships move they have
@@ -175,13 +174,13 @@ are allowed to make a turn.
 The distance they must travel
 depends on their type:
 
-* A battleship must
+* A [battleship](the-rules.md#battleships) must
 move 15 cm before it
 can execute a turn.
-* A cruiser must move
+* A [cruiser](the-rules.md#cruisers) must move
 10 cm before it can
 execute a turn.
-* An escort ship can
+* An [escort ship](the-rules.md#escorts) can
 execute a turn at any
 point in its move.
 
@@ -200,9 +199,9 @@ point in its move.
 > Using *Come To New
 > Heading* means that
 > a ship is less effective
-> in the [Shooting Phase](the-shooting-phase.md)
+> in the Shooting Phase
 > as explained in the
-> Shooting rules. *Come
+> [Shooting rules](the-shooting-phase.md). *Come
 > To New Heading* orders
 > are best used either
 > for turning to get a
@@ -223,10 +222,10 @@ cannot attempt to ram more than one ship
 per Movement Phase, even if multiple enemy
 vessels are in its range of movement.
 
-When the [*All Ahead Full*](the-rules.md#all-ahead-full) command check is
+When the [*All Ahead Full*](the-rules.md#all-ahead-full) [command check](the-rules.md#taking-command-checks) is
 passed, the owning player must declare which
 ship it is attempting to ram and make the
-appropriate leadership test to do so before rolling
+appropriate [leadership](the-rules.md#leadership) test to do so before rolling
 the number of additional D6 cm it will move
 [*All Ahead Full*](the-rules.md#all-ahead-full). This choice cannot be changed
 if the ramming ship ends its movement in base
@@ -281,14 +280,14 @@ Roll 1D6 for each point of its starting damage
 capacity (not the damage capacity it has
 left). Any dice that equal or beat the target’s
 armour value score a point of damage on it.
-Damage from rams is not deflected by [shields](the-shooting-phase.md#shields).
+[Damage](the-shooting-phase.md#damage) from rams is not deflected by [shields](the-shooting-phase.md#shields).
 
 The ramming ship may well suffer damage
 too, so the vessel being rammed rolls a
 number of D6 equal to half its starting
 damage. Any dice which equal or beat the
 ramming ship’s front armour rating score
-a point of damage. If the vessels are hitting
+a point of [damage](the-shooting-phase.md#damage). If the vessels are hitting
 head on (i.e. front to front) the rammed
 or defence vessel rolls a number of dice
 equal to its full starting damage capacity.
@@ -311,7 +310,7 @@ has armour 6 on the front thanks to its
 armoured prow) rolling 3, 3, 5, 6 and scoring 1
 point of damage.*
 
-If either ship is destroyed and explodes
+If either ship is [destroyed](the-shooting-phase.md#catastrophic-damage) and explodes
 due to ramming, the explosion (and any
 subsequent hits) is resolved at that moment.
 The ramming and rammed ship will both
@@ -319,11 +318,11 @@ always be in the explosion. If it was the
 rammed ship that exploded it is easier to
 finish the ramming ships movement as
 normal, but unless it has special rules to
-navigate Blast Markers it will be slowed
+navigate [Blast Markers](the-shooting-phase.md#blast-markers) it will be slowed
 by Blast Markers from the explosion.
 
 While a ramming vessel may later attempt
-to board or shoot, it may only attempt
+to [board](the-end-phase.md#boarding-actions) or [shoot](the-shooting-phase.md), it may only attempt
 to board a vessel if it ends up in base
 contact with one at the end of its full
 movement. This does not necessarily have
@@ -375,9 +374,9 @@ Phase with the following modifiers:
 | Each enemy ship or Ordnance | marker within 15 cm | -1 |
 
 *\*This is for a [tabletop feature](the-battlefield.md#tabletop-features) such as
-an asteroid field or planet. If a [tabletop
-effect](the-battlefield.md#tabletop-effects) such as a radiation burst or
-solar flare is taking place this bonus
+an [asteroid field](the-battlefield.md#asteroid-fields) or [planet](the-battlefield.md#planets). If a [tabletop
+effect](the-battlefield.md#tabletop-effects) such as a [radiation burst](the-battlefield.md#radiation-bursts) or
+[solar flare](the-battlefield.md#solar-flares) is taking place this bonus
 applies anywhere on the tabletop.*
 
 All positive and negative modifiers must
@@ -388,13 +387,13 @@ rolls of 11 or 12 still automatically fail.
 *For instance, a ship or escort
 squadron with Ld9 attempts
 to disengage after moving
-within 5 cm of three Blast
-Markers and an asteroid field
+within 5 cm of three [Blast
+Markers](the-shooting-phase.md#blast-markers) and an [asteroid field](the-battlefield.md#asteroid-fields)
 (+4Ld) with no enemy ships
-or ordnance markers within
+or [ordnance](the-ordnance-phase.md) markers within
 15 cm (no negative modifier).
 Even though the effective
-leadership to disengage is
+[leadership](the-rules.md#leadership) to disengage is
 now Ld13 because these
 must all be added together
 BEFORE the roll, the player
@@ -407,24 +406,24 @@ from the tabletop and may
 not return during the game.
 If the test is failed the ship
 remains in play but may
-not fire, launch ordnance
-or attempt to use special
-orders (except *Brace for
-Impact!*) during the turn.
+not fire, launch [ordnance](the-ordnance-phase.md)
+or attempt to use [special
+orders](the-rules.md#special-orders) (except [*Brace for
+Impact!*]) during the turn.
 
 Any ship or squadron that,
 through a combination
 of effects, is reduced to
-Leadership 1 or less must
+[Leadership](the-rules.md#leadership) 1 or less must
 attempt to disengage or move
 toward the closest table edge.
 
-A vessel not hulked that
+A vessel not [hulked](the-shooting-phase.md#catastrophic-damage) that
 moves off of the table edge
 during play for any reason
 counts as being disengaged.
 
-An escort squadron that
+An [escort](the-rules.md#escorts) [squadron](squadrons.md) that
 successfully disengages
 only counts as being 10%
 destroyed against the full
@@ -447,15 +446,15 @@ to disengage following
 normal rules. This prevents
 an escort squadron from
 disengaging one or two
-vessels to keep leadership or
-victory point benefits, then
+vessels to keep [leadership](the-rules.md#leadership) or
+[victory point](scenarios.md#victory-points) benefits, then
 pushing the rest of them in
 a suicide run at the enemy.
 
-Capital ships in a squadron
+[Capital ships](the-rules.md#capital-ships) in a [squadron](squadrons.md)
 may disengage separately,
 relying on their individual
-base leadership to do so, not
+base [leadership](the-rules.md#leadership) to do so, not
 the highest leadership in the
 squadron. If it attempts to
 disengage and fails, it falls
@@ -471,10 +470,10 @@ successfully counts as 10% of
 its point value for the enemy,
 or 25% if it is crippled before
 it disengages. This is NOT in
-addition to the 25% victory
-point value if it remains
+addition to the 25% [victory
+point](scenarios.md#victory-points) value if it remains
 on the table at the end of
-the game but is crippled.
+the game but is [crippled](the-shooting-phase.md#crippled-ships).
 
 ## Flying Bases Overlapping
 
@@ -493,7 +492,7 @@ edge to indicate direction. If
 desired, numbered contact
 markers can be used for
 this as well. The drastic
-weakening of their shield
+weakening of their [shield](the-shooting-phase.md#shields)
 strength usually discourages
 this as described in the
 section on [Blast Markers](the-shooting-phase.md#blast-markers),
@@ -501,9 +500,9 @@ but it is completely legal.
 
 ## Stacking Ships And Escort Squadrons
 
-Cruisers and escorts can
+[Cruisers](the-rules.md#cruisers) and [escorts](the-rules.md#escorts) can
 be stacked to follow the
-movement of battleships
+movement of [battleships](the-rules.md#battleships)
 and other models that use
 a large base. If the models
 do not physically fit where
@@ -514,20 +513,20 @@ As a rule, ships should only
 be stacked or overlap as an
 unavoidable consequence
 of movement or to attain a
-particular shooting solution
+particular [shooting](the-shooting-phase.md) solution
 and should not be used
 solely because it is allowed.
 
 When a ship is forced
 to stand still, it counts
 as being targeted as
-Defences. Minimum move
+[Defences](planetary-defences.md). Minimum move
 distance to not count as
 defences is at least 5 cm.
 
 At no time do ships count
 as moving simultaneously
-(even if in a squadron) and
+(even if in a [squadron](squadrons.md)) and
 must always be moved one at
 a time, in any order desired
 by the owning player.

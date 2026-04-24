@@ -4,8 +4,8 @@
 A game of Battlefleet Gothic is unlike many other games such
 as chess or draughts where you only move one piece at a time. A
 tremendous amount of action takes place in a real battle: ships
-manoeuvre and fire at each other, fighters and bombers are launched
-in vast waves and torpedoes scream towards their targets.
+manoeuvre and fire at each other, [fighters](the-ordnance-phase.md#fighters) and [bombers](the-ordnance-phase.md#bombers) are launched
+in vast waves and [torpedoes](the-ordnance-phase.md#torpedoes) scream towards their targets.
 
 In a real battle, this all happens
 at once amidst the chaos of
@@ -16,15 +16,15 @@ us to decide its outcome players
 alternate taking turns moving
 and fighting with their ships.
 So in a battle, player A will
-move and fight with his ships
+[move](the-movement-phase.md) and [fight](the-shooting-phase.md) with his ships
 first, then player B will move
 and fight and then player A
 will move and fight again, etc.
 
 In his turn a player can move
 and fight with all of his ships.
-For convenience, moving and
-shooting are dealt with one
+For convenience, [moving](the-movement-phase.md) and
+[shooting](the-shooting-phase.md) are dealt with one
 after the other. This means
 that you move all your ships
 first and then all your ships,
@@ -112,8 +112,8 @@ This is when a player
 moves his ships.
 
 The player begins by
-removing any special
-order dice he placed last
+removing any [special
+order](the-rules.md#special-orders) dice he placed last
 turn (except for ships on
 [*Brace For Impact!*](the-rules.md#brace-for-impact) orders.
 They are stuck with
@@ -123,10 +123,10 @@ Next, the player moves his
 ships and [squadrons](squadrons.md) one at
 a time. In this phase he may
 also take [Command checks](the-rules.md#taking-command-checks)
-to institute special orders
+to institute [special orders](the-rules.md#special-orders)
 before moving a ship or
-squadron. If any Command
-check is failed no further
+[squadron](squadrons.md). If any [Command
+check](the-rules.md#taking-command-checks) is failed no further
 checks may be made in the
 same turn. Note that ships
 must always move at least
