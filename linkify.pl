@@ -1,18 +1,24 @@
 #!/usr/bin/env perl
-use Cwd qw(abs_path getcwd);
+#
+# this script scans the supplied file, and adds relative path URLs to links that
+# don't have them, based on a manually-maintained mapping. So [rulebook] will be
+# converted [rulebook](the-rules.md).
+#
+# Note that the file is edited in place!
+#
+use Cwd qw(abs_path);
 use File::Basename qw(dirname);
 use File::Slurp;
-use List::Util qw(uniq);
+use File::Spec;
 use common::sense;
 
 my $file = abs_path($ARGV[0]);
+my $base = abs_path(dirname(__FILE__)).q{/docs};
 
 if (!-e $file) {
     printf(STDERR "File '%s' not found\n", $file);
     exit(1);
 }
-
-my $base = abs_path(dirname(__FILE__)).q{/docs};
 
 my $links = {
     '*all ahead full*'                          => q{the-rules.md#all-ahead-full},
@@ -178,30 +184,40 @@ my $links = {
     'weapons batteries'                         => q{the-shooting-phase.md#direct-firing-weapons-batteries},
     'weapons battery'                           => q{the-shooting-phase.md#direct-firing-weapons-batteries},
     'rulebook'                                  => q{the-rules.md},
+    'campaign'                                  => q{campaign-rules.md},
+    'turn sequence'                             => q{the-turn.md#turn-sequence},
 };
 
 my $text = join(q{}, read_file($file));
 
+my @missing;
+
 my @matches = ($text =~ /\[([^\]]+?)\][^\(]/sg);
 
-my @missing;
+my $changes = 0;
 
 foreach my $link (@matches) {
     my $key = lc($link);
     $key =~ s/[ \t\r\n]+/ /g;
 
+    # the source text has many [???] placeholders which must be ignored
     next if ($key =~ /^\?{2,3}/);
 
     if (!exists($links->{$key})) {
+        #
+        # no path available, so add to @missing for later reporting
+        #
         push(@missing, $key);
 
-    } else {
-        my $url_ref = resolve_url($links->{$key});
-
-        my $replacement = sprintf('[%s](%s)', $link, $url_ref);
-
-        $text =~ s/\[$link\]([^\(])/$replacement$1/g;
+        next;
     }
+
+    my $url_ref = resolve_url($links->{$key});
+
+    my $replacement = sprintf('[%s](%s)', $link, $url_ref);
+
+    $text =~ s/\[$link\]([^\(])/$replacement$1/g;
+    $changes++;
 }
 
 if (scalar(@missing) > 0) {
@@ -209,36 +225,28 @@ if (scalar(@missing) > 0) {
     exit(1);
 }
 
+if ($changes < 1) {
+    say STDERR q{No changes to make!};
+    exit(0);
+}
+
 write_file($file, $text);
 
 say STDERR qq{updated $file};
 
+#
+# returns a relative path between the supplied file and the link target,
+# preserving the anchor, if present
+#
 sub resolve_url {
     my ($path, $anchor) = split(/#/, shift, 2);
 
-    my $resolved = resolve_path($path);
-    $resolved .= q{#}.$anchor if ($anchor);
+    my $ctx = $file;
+    $ctx =~ s/^$base\///g;
 
-    return $resolved;
-}
+    my $rel = File::Spec->abs2rel($path, dirname($ctx));
 
-sub resolve_path {
-    my $path = shift;
+    $rel .= q{#}.$anchor if ($anchor);
 
-    my $cwd = getcwd();
-
-    chdir($base);
-
-    $path = abs_path($path);
-
-    chdir($cwd);
-
-    if (!-e $path) {
-        printf(STDERR "Resolved path '%s' doesn't exist\n", $path);
-        exit(1);
-    }
-
-    $path =~ s!^$base/!!g;
-
-    return $path;
+    return $rel;
 }
