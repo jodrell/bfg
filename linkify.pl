@@ -12,14 +12,6 @@ use File::Slurp;
 use File::Spec;
 use common::sense;
 
-my $file = abs_path($ARGV[0]);
-my $base = abs_path(dirname(__FILE__)).q{/docs};
-
-if (!-e $file) {
-    printf(STDERR "File '%s' not found\n", $file);
-    exit(1);
-}
-
 my $links = {
     '*all ahead full*'                          => q{the-rules.md#all-ahead-full},
     '*brace for impact*'                        => q{the-rules.md#brace-for-impact},
@@ -187,6 +179,14 @@ my $links = {
     'campaign'                                  => q{campaign-rules.md},
     'turn sequence'                             => q{the-turn.md#turn-sequence},
 };
+
+my $file = abs_path($ARGV[0]);
+my $base = abs_path(dirname(__FILE__)).q{/docs};
+
+if (!-e $file) {
+    printf(STDERR "File '%s' not found\n", $file);
+    exit(1);
+}
 
 my $text = join(q{}, read_file($file));
 
