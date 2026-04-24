@@ -199,6 +199,8 @@ my $changes = 0;
 foreach my $link (@matches) {
     my $key = lc($link);
     $key =~ s/[ \t\r\n]+/ /g;
+    $key =~ s/^ +//g;
+    $key =~ s/ +$//g;
 
     # the source text has many [???] placeholders which must be ignored
     next if ($key =~ /^\?{2,3}/);
