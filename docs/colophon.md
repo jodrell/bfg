@@ -2,7 +2,7 @@
 
 ## What is this site?
 
-This website is a mobile-friendly, web-based version of the *Battlefleet Gothic: Remastered* v1.10 Rulebook.
+This website is a mobile-friendly, web-based version of the [*Battlefleet Gothic: Remastered*](https://wh40k.lexicanum.com/wiki/Battlefleet_Gothic_Remastered) v1.10 Rulebook.
 
 ## How was it created?
 
@@ -10,7 +10,8 @@ This website is hosted on [GitHub Pages](https://pages.github.com/) and
 is generated from its [Markdown source code](https://github.com/jodrell/bfg)
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-The text and images were extracted from the original PDF using
+The text and images were extracted from the
+[original PDFs](https://github.com/jodrell/bfg/tree/main/src) using
 [pdftotext](https://linux.die.net/man/1/pdftotext) and
 [pdfimages](https://linux.die.net/man/1/pdfimages).
 
@@ -24,7 +25,7 @@ The maintainer of this site is [𝔍𝔬𝔡𝔯𝔢𝔩𝔩.𝔬𝔯𝔤](https
 ## Fixing mistakes in the text
 
 The maintainer of this site will not make any changes to the text, as it is intended to exactly mirror
-the original document. The only changes made are to add semantic hypertext markup to allow the
+the original documents. The only changes made are to add semantic hypertext markup to allow the
 user to navigate the site.
 
 If a change has been made to the text which should not have been made, you can report an error
