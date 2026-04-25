@@ -1,0 +1,26 @@
+{
+  "theme_color": "#14151A",
+  "background_color": "#1E2129",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "assets/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "assets/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-GB",
+  "name": " Battlefleet Gothic: Remastered",
+  "short_name": "BFG",
+  "description": "Online version of the Battlefleet Gothic: Remastered Rulebook (v1.10)",
+  "id": "https://battlefleet-game.org/"
+}
