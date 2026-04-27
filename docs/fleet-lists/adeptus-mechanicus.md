@@ -362,8 +362,10 @@ Mechanicus Archmagos must be included to lead it. A Mechanicus
 Archmagos must be embarked on an Ark Mechanicus if one is
 included in the fleet.*
 
-Archmagos Explorator (Ld 8) ................................................. 50 pts<br>
-Archmagos Veneratus (Ld 9) ................................................100 pts
+<table class=fleet-list><tbody>
+<tr><td>Archmagos Explorator (Ld 8)</td><td>50 pts</td></tr>
+<tr><td>Archmagos Veneratus (Ld 9)</td><td>100 pts</td></tr>
+</tbody></table>
 
 A Mechanicus Archmagos can elect up to any one desired item
 from the Adeptus Mechanicus refit table for their own ship as
@@ -377,8 +379,10 @@ never have more than two refits from the Mechanicus Gifts table.
 If you wish to give a Mechanicus Archmagos any fleet commander
 re-rolls, you'll have to pay for them.
 
-One re-roll ................................................................................+50 pts<br>
-Two re-rolls ............................................................................+125 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+50 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+125 pts</td></tr>
+</tbody></table>
 
 ### Capital Ships
 
@@ -387,7 +391,7 @@ warships from the following classes, applying
 all the rules described beforehand. The cost
 listed below replaces the original cost for these
 vessels when used as Adeptus Mechanicus
-ships. The Omnissiah’s Victory may not take
+ships. The _Omnissiah’s Victory_ may not take
 any Mechanicus Gifts refits, as its Mechanicus
 Gifts are already included in its point cost and
 special rules.
@@ -397,20 +401,24 @@ special rules.
 *You may include 1 battleship for every three
 cruisers in the fleet.*
 
-(0-1) Omnissiah’s Victory (pg. 124) ............ 415 pts<br>
-Emperor class battleship (pg. 51) ...............400 pts<br>
-Retribution class battleship (pg. 52) ........... 380 pts<br>
-Oberon class battleship (pg. 54) .................. 370 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) <em>Omnissiah's Victory</em> (pg. 124)</td><td>415 pts</td></tr>
+<tr><td>Emperor class battleship (pg. 51)</td><td>400 pts</td></tr>
+<tr><td>Retribution class battleship (pg. 52)</td><td>380 pts</td></tr>
+<tr><td>Oberon class battleship (pg. 54)</td><td>370 pts</td></tr>
+</tbody></table>
 
 #### Cruisers
 
-Dictator class cruiser (pg. 65) ...................... 255 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 220 pts<br>
-Gothic class cruiser (pg. 68) ........................ 215 pts<br>
-Lunar class cruiser (pg. 69) .......................... 215 pts<br>
-Endeavour class light cruiser (pg. 70) ........ 125 pts<br>
-Endurance class light cruiser (pg. 72) ........ 125 pts<br>
-Defiant class light cruiser (pg. 74) .............. 130 pts
+<table class=fleet-list><tbody>
+<tr><td>Dictator class cruiser (pg. 65)</td><td>255 pts</td></tr>
+<tr><td>Tyrant class cruiser (pg. 67)</td><td>220 pts</td></tr>
+<tr><td>Gothic class cruiser (pg. 68)</td><td>215 pts</td></tr>
+<tr><td>Lunar class cruiser (pg. 69)</td><td>215 pts</td></tr>
+<tr><td>Endeavour class light cruiser (pg. 70)</td><td>125 pts</td></tr>
+<tr><td>Endurance class light cruiser (pg. 72)</td><td>125 pts</td></tr>
+<tr><td>Defiant class light cruiser (pg. 74)</td><td>130 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
@@ -420,13 +428,15 @@ Imperial Navy and Space Marines f leet lists
 for the point costs listed below but otherwise
 unmodified from their normal profiles.*
 
-Nova Class Frigate (pg. 105) ........................... 45 pts<br>
-Firestorm Class Frigate (pg. 77) .................... 40 pts<br>
-Gladius Class Frigate (pg. 106)....................... 40 pts<br>
-Sword Class Frigate (pg. 80)........................... 35 pts<br>
-Falchion Class Frigate (pg. 78) ...................... 35 pts<br>
-Hunter Class Destroyer (pg. 107) .................. 35 pts<br>
-Cobra Class Destroyer (pg. 82)...................... 30 pts
+<table class=fleet-list><tbody>
+<tr><td>Nova Class Frigate (pg. 105)</td><td>45 pts</td></tr>
+<tr><td>Firestorm Class Frigate (pg. 77)</td><td>40 pts</td></tr>
+<tr><td>Gladius Class Frigate (pg. 106)</td><td>40 pts</td></tr>
+<tr><td>Sword Class Frigate (pg. 80)</td><td>35 pts</td></tr>
+<tr><td>Falchion Class Frigate (pg. 78)</td><td>35 pts</td></tr>
+<tr><td>Hunter Class Destroyer (pg. 107)</td><td>35 pts</td></tr>
+<tr><td>Cobra Class Destroyer (pg. 82)</td><td>30 pts</td></tr>
+</tbody></table>
 
 ### Ordnance
 

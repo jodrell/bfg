@@ -512,33 +512,47 @@ its Leadership, to a maximum of 10. 1f the fleet
 is worth over 750 points a Dread Archon must
 be included to lead it.*
 
-Dread Archon (+2 Ld) .............................. 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Dread Archon (+2 Ld)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls
 for your Dread Archon by paying the cost listed
 below.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
 
 ### Capital Ships
 
 #### 0-12 Cruisers
 
-Torture class cruiser (pg. 338) ...................... 210 pts
+<table class=fleet-list><tbody>
+<tr><td>Torture class cruiser (pg. 338)</td><td>210 pts</td></tr>
+</tbody></table>
+
 
 Torture class cruisers may choose one of the
 following for the points shown:
 
-Prow Torpedoes ........................................+20 pts<br>
-Phantom Lance .........................................+20 pts<br>
-1–2 Impaler Assault Modules ........ +20 /+40 pts<br>
-Launch Bays ...............................................+40 pts
+<table class=fleet-list><tbody>
+<tr><td>Prow Torpedoes</td><td>+20 pts</td></tr>
+<tr><td>Phantom Lance</td><td>+20 pts</td></tr>
+<tr><td>1&acirc;&#128;&#147;2 Impaler Assault Modules</td><td>+20 /+40 pts</td></tr>
+<tr><td>Launch Bays</td><td>+40 pts</td></tr>
+</tbody></table>
+
 
 Torture class cruisers may add Mimic Engines:
 
-Mimic Engines ..........................................+20 pts
+<table class=fleet-list><tbody>
+<tr><td>Mimic Engines</td><td>+20 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
@@ -547,11 +561,17 @@ fleet in squadrons of 2–6. However, Dark Eldar
 fleets must contain at least three escorts for every
 capital ship taken.*
 
-Corsair Class Escort (pg. 339) ........................ 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Corsair Class Escort (pg. 339)</td><td>50 pts</td></tr>
+</tbody></table>
+
 
 Corsair class escorts may add Mimic Engines:
 
-Mimic Engines ............................................+5 pts
+<table class=fleet-list><tbody>
+<tr><td>Mimic Engines</td><td>+5 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 

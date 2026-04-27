@@ -13,7 +13,9 @@ than one squadron of transports, a Veteran
 Rogue Trader must be assigned to a Rogue Trader
 cruiser.*
 
-Veteran Rogue Trader (Ld 9) .................... 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Veteran Rogue Trader (Ld 9)</td><td>50 pts</td></tr>
+</tbody></table>
 
 A Veteran Rogue Trader gets one re-roll, which
 may be used for his vessel or an accompanying
@@ -31,8 +33,7 @@ Rogue Trader escort squadron.
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> Siluria Class Light Cruiser (pg. 76) ..100 pts<br>
-> Havoc Class Frigate (pg. 79) ................35 pts
+> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (pg. 76)</td><td>100 pts</td></tr></tbody></table>
 
 ## Capital Ships
 
@@ -48,10 +49,12 @@ in any fleet list that has such restrictions. Heavy
 transports may not be in squadrons with other
 transport types.*
 
-Rogue Trader Cruiser (pg. 174).................... 185 pts<br>
-Dauntless Class Light Cruiser (pg. 75)....... 125 pts<br>
-Endeavour Class Light Cruiser (pg. 175).... 110 pts<br>
-Heavy Transport (pg. 176) .............................. 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Rogue Trader Cruiser (pg. 174)</td><td>185 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (pg. 75)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (pg. 175)</td><td>110 pts</td></tr>
+<tr><td>Heavy Transport (pg. 176)</td><td>40 pts</td></tr>
+</tbody></table>
 
 ## Escorts
 
@@ -67,11 +70,13 @@ against their full cost against the total points in
 the fleet. Xenos vessels cannot be used in fleets
 that include Space Marine ships.*
 
-Xenos Vessel (pg. 178) ..................................... 50 pts<br>
-Recommissioned Escort (pg. 183) ................. 30 pts<br>
-Iconoclast Destroyer (pg. 184) ...................... 30 pts<br>
-Cargo Vessel (pg. 186) .................................... 20 pts<br>
-Auxiliary vessels (pg. 185) .............................. varies
+<table class=fleet-list><tbody>
+<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Auxiliary vessels (pg. 185)</td><td>varies</td></tr>
+</tbody></table>
 
 ## Xenos Allies
 
@@ -206,7 +211,10 @@ two Rogue Trader cruisers in a fleet. At least
 one Veteran Rogue Trader must be assigned to
 a Rogue Trader cruiser in the fleet.*
 
-Veteran Rogue Trader (Ld 9) .................... 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Veteran Rogue Trader (Ld 9)</td><td>50 pts</td></tr>
+</tbody></table>
+
 
 A Veteran Rogue Trader gets one re-roll, which
 may be used for his vessel or an accompanying
@@ -219,13 +227,15 @@ capital ships, at least half of which must be Rogue
 Trader Cruisers and/or Endeavour light cruisers,
 following the basic profile for this ship.
 
-Lunar class cruiser (pg. 69) .......................... 195 pts<br>
-Carnage class cruiser (pg. 263) .................... 195 pts<br>
-Rogue Trader cruiser (pg. 174)..................... 185 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
-Murder class cruiser (pg. 265)...................... 185 pts<br>
-Dauntless class light cruiser (pg. 75) .......... 125 pts<br>
-Endeavour class light cruiser (pg. 175) ....... 110 pts
+<table class=fleet-list><tbody>
+<tr><td>Lunar class cruiser (pg. 69)</td><td>195 pts</td></tr>
+<tr><td>Carnage class cruiser (pg. 263)</td><td>195 pts</td></tr>
+<tr><td>Rogue Trader cruiser (pg. 174)</td><td>185 pts</td></tr>
+<tr><td>Tyrant class cruiser (pg. 67)</td><td>185 pts</td></tr>
+<tr><td>Murder class cruiser (pg. 265)</td><td>185 pts</td></tr>
+<tr><td>Dauntless class light cruiser (pg. 75)</td><td>125 pts</td></tr>
+<tr><td>Endeavour class light cruiser (pg. 175)</td><td>110 pts</td></tr>
+</tbody></table>
 
 > #### Notes from Nate Montes
 > 
@@ -239,8 +249,8 @@ Endeavour class light cruiser (pg. 175) ....... 110 pts
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> Siluria Class Light Cruiser (pg. 76) ..100 pts<br>
-> Havoc Class Frigate (pg. 79) ................35 pts
+> <table class=fleet-list><tbody>
+> <tr><td>Siluria Class Light Cruiser (pg. 76)</td><td>100 pts</td></tr></tbody></table>
 
 ### Escorts
 
@@ -254,11 +264,13 @@ auxiliary vessels except Orks, Dark Eldar, Necrons
 and Tyranids. Xenos vessels cannot be employed if
 Space Marine escorts are used as auxiliary vessels.*
 
-Xenos Vessel (pg. 178) ..................................... 50 pts<br>
-Recommissioned Escort (pg. 183) ................ 30 pts<br>
-Iconoclast Destroyer (pg. 184)....................... 30 pts<br>
-Cargo Vessel (pg. 186)..................................... 20 pts<br>
-Auxiliary vessels (pg. 185) .............................. varies
+<table class=fleet-list><tbody>
+<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Auxiliary vessels (pg. 185)</td><td>varies</td></tr>
+</tbody></table>
 
 ### Transports
 
@@ -275,12 +287,14 @@ in squadrons with other transport types. No more
 than 1/3 of the fleet’s total transport value can be
 made up of heavy transports.*
 
-Escort Carrier (pg. 501)................................... 60 pts
-Q-Ship (pg. 502)............................................... 60 pts
-Heavy Transport (pg. 176) ............................. 40 pts
-Cargo Vessel (pg. 186) .................................... 20 pts
-Armed Freighter (pg. 503) .............................. 20 pts
-Cargo Transport (pg. 83) ............................... 10 pts
+<table class=fleet-list><tbody>
+<tr><td>Escort Carrier (pg. 501)</td><td>60 pts</td></tr>
+<tr><td>Q-Ship (pg. 502)</td><td>60 pts</td></tr>
+<tr><td>Heavy Transport (pg. 176)</td><td>40 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Armed Freighter (pg. 503)</td><td>20 pts</td></tr>
+<tr><td>Cargo Transport (pg. 83)</td><td>10 pts</td></tr>
+</tbody></table>
 
 Transports taken for the fleet can be used for
 any scenario that actually requires transports.
@@ -315,9 +329,11 @@ taken. Demiurg vessels may not be employed if
 Space Marines are taken as reserves, allies or
 escort squadron auxiliary vessels.*
 
-Stronghold Commerce Vessel (pg. 468) ..... 350 pts<br>
-Bastion Commerce Vessel (pg. 469) ........... 255 pts<br>
-Citadel Commerce Vessel (pg. 470) ............ 185 pts
+<table class=fleet-list><tbody>
+<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+</tbody></table>
 
 #### The Kroot
 
@@ -329,7 +345,10 @@ Warsphere does not count against the twelve-cruiser limit. A Kroot Warsphere may
 employed if Space Marines are taken as reserves,
 allies or escort squadron auxiliary vessels.*
 
-Kroot Warsphere (pg. 474) ........................... 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 ## Pirates and Wolf Packs
 
@@ -390,7 +409,10 @@ for every 500 points or portion thereof in a fleet.
 If a pirate fleet has more than 750 points of ships,
 a Pirate Captain must lead it.*
 
-Pirate Captain (+1 Ld) ................................ 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Pirate Captain (+1 Ld)</td><td>50 pts</td></tr>
+</tbody></table>
+
 
 A Pirate Captain gets one re-roll, and may
 purchase up to two more re-rolls for +25 points
@@ -420,7 +442,10 @@ be used. Otherwise there are no restrictions on
 how many Chaos and/or Imperial cruisers are
 in a single pirate fleet.
 
-(0-2) Fra’al Battleship (pg. 188) .................... 250 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-2) Fra'al Battleship (pg. 188)</td><td>250 pts</td></tr>
+</tbody></table>
+
 
 These count as cruisers for fleet building.
 
@@ -438,20 +463,22 @@ or lance weaponry may not outnumber those that
 rely solely on weapon batteries. Xenos vessels of
 all types don’t count toward this total.*
 
-Escort Carrier (pg. 501)................................... 60 pts<br>
-Q-Ship (pg. 502)............................................... 60 pts<br>
-Xenos Vessel (pg. 178) ..................................... 50 pts<br>
-Idolator Raider (pg. 141) ................................. 45 pts<br>
-Infidel Raider (pg. 268) ................................... 40 pts<br>
-Firestorm Frigate (pg. 77)............................... 40 pts<br>
-Sword Frigate (pg. 80) ..................................... 35 pts<br>
-Falchion Frigate (pg. 78)................................. 35 pts<br>
-Cobra Destroyer (pg. 82) ................................ 30 pts<br>
-Recommissioned Escort (pg. 183) ................ 30 pts<br>
-Iconoclast Destroyer (pg. 184)....................... 30 pts<br>
-Cargo Vessel (pg. 186)..................................... 20 pts<br>
-Armed Freighter (pg. 503) .............................. 20 pts<br>
-Cargo Transport (pg. 83)................................ 10 pts
+<table class=fleet-list><tbody>
+<tr><td>Escort Carrier (pg. 501)</td><td>60 pts</td></tr>
+<tr><td>Q-Ship (pg. 502)</td><td>60 pts</td></tr>
+<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
+<tr><td>Idolator Raider (pg. 141)</td><td>45 pts</td></tr>
+<tr><td>Infidel Raider (pg. 268)</td><td>40 pts</td></tr>
+<tr><td>Firestorm Frigate (pg. 77)</td><td>40 pts</td></tr>
+<tr><td>Sword Frigate (pg. 80)</td><td>35 pts</td></tr>
+<tr><td>Falchion Frigate (pg. 78)</td><td>35 pts</td></tr>
+<tr><td>Cobra Destroyer (pg. 82)</td><td>30 pts</td></tr>
+<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Armed Freighter (pg. 503)</td><td>20 pts</td></tr>
+<tr><td>Cargo Transport (pg. 83)</td><td>10 pts</td></tr>
+</tbody></table>
 
 > ### Notes from Nate Montes
 > 
@@ -465,8 +492,7 @@ Cargo Transport (pg. 83)................................ 10 pts
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> Siluria Class Light Cruiser (pg. 76) ..100 pts<br>
-> Havoc Class Frigate (pg. 79) ................35 pts
+> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (pg. 76)</td><td>100 pts</td></tr></tbody></table>
 
 ### Xenos Freebooters, Corsairs and Brigands
 

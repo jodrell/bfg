@@ -62,7 +62,10 @@ Inquisition Blackship if one is included. If none
 of these ships is present, they have to be placed on
 the most expensive ship in the fleet.*
 
-Inquisitor Lord (Ld 9) ................................ 75 pts
+<table class=fleet-list><tbody>
+<tr><td>Inquisitor Lord (Ld 9)</td><td>75 pts</td></tr>
+</tbody></table>
+
 
 An Inquisitor Lord gets one re-roll, which may
 be used for any ship in the fleet. A second re-roll
@@ -70,26 +73,38 @@ can be purchased for +25 points.
 
 ## Capital Ships
 
-**(0-1) Inquisitorial Cruiser (pg. 144)........ 270 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>(0-1) Inquisitorial Cruiser (pg. 144)</strong></td><td><strong>270 pts</strong></td></tr>
+</tbody></table>
+
 
 Any Imperial or Space Marine fleet may include
 a single Inquisitorial Cruiser in the fleet, which
 takes the place of a battlecruiser or strike cruiser
 in the fleet.
 
-**(0-1) Inquisition Blackship (pg. 142) ...... 300 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>(0-1) Inquisition Blackship (pg. 142)</strong></td><td><strong>300 pts</strong></td></tr>
+</tbody></table>
+
 
 A fleet may include a single Blackship, which as
 a special vessel does not count toward or against
 other ship limits in the fleet.
 
-**Grey Knights Strike Cruiser (pg. 145) .... 165 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Grey Knights Strike Cruiser (pg. 145)</strong></td><td><strong>165 pts</strong></td></tr>
+</tbody></table>
+
 
 If an Inquisitor Lord is leading the fleet, up to
 one Grey Knights Strike Cruiser may be taken
 for every 500 points in the fleet.
 
-**(0-1) Grey Knights Battle barge (pg. 141).....440 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>(0-1) Grey Knights Battle barge (pg. 141)</strong></td><td><strong>440 pts</strong></td></tr>
+</tbody></table>
+
 
 A Space Marine fleet led by an Ordo Malleus
 Inquisitor including at least 1000 points of
@@ -201,7 +216,10 @@ By their nature, this Ordo tends to be made up
 the most conservative and Puritan members
 of the Inquisition.
 
-**Ordo Hereticus Inquisitor Lord ......... +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Ordo Hereticus Inquisitor Lord</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 A vessel embarking an Ordo Hereticus Inquisitor
 Lord is accompanied by a mission of Adepta
@@ -242,7 +260,10 @@ the Istvaanists and Xeno Hybrists actively
 cultivate accommodation with aliens and seek
 their technology for the Imperium’s benefit.
 
-**Ordo Xenos Inquisitor Lord ..............+30 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Ordo Xenos Inquisitor Lord</strong></td><td><strong>+30 pts</strong></td></tr>
+</tbody></table>
+
 
 A vessel embarking an Ordo Xenos Inquisitor
 Lord is accompanied by a Deathwatch kill-team
@@ -306,7 +327,9 @@ Ordo come to believe they can actually control
 this to an extent, turning Chaos against itself
 to humanity's benefit.
 
-**Ordo Malleus Inquisitor Lord ............ +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Ordo Malleus Inquisitor Lord</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
 
 A vessel embarking an Ordo Malleus Inquisitor
 Lord is accompanied by several squads of Grey

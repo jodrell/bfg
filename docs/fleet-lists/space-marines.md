@@ -277,19 +277,28 @@ to a battle barge in preference to a strike cruiser.
 If the fleet is worth over 750 points, the Master
 of the Fleet must be included to lead it.*
 
-Master of the Fleet (Ld 10) ........................ 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Master of the Fleet (Ld 10)</td><td>50 pts</td></tr>
+</tbody></table>
+
 
 You may buy Fleet Commander re-rolls for your
 Master of the Fleet.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls .............................................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+75 pts</td></tr>
+</tbody></table>
+
 
 In addition, the Master of the Fleet’s ship may
 carry a Terminator boarding party:
 
-Terminator boarding party .....................+50 pts
+<table class=fleet-list><tbody>
+<tr><td>Terminator boarding party</td><td>+50 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
@@ -304,24 +313,31 @@ battleship, grand cruiser, battlecruiser or heavy
 cruiser at the listed cost, plus an additional +35
 points for its Space Marine crew.*
 
-(0-1) Venerable battle barge (pg. 100) ........... varies<br>
-Battle barge (pg. 102) ..................................... 425 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Venerable battle barge (pg. 100)</td><td>varies</td></tr>
+<tr><td>Battle barge (pg. 102)</td><td>425 pts</td></tr>
+</tbody></table>
 
 #### 0-10 Cruisers
 
-Strike cruisers (pg. 103)................................. 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Strike cruisers (pg. 103)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Nova class Frigate (pg. 105) ............................ 50 pts<br>
-Gladius class Frigate (pg. 106)........................ 45 pts<br>
-Hunter class Destroyer (pg. 107) ................... 40 pts<br>
-Rapid strike vessel (Firestorm) (pg. 104) (pg. 77) . 45 pts<br>
-Rapid strike vessel (Sword) (pg. 104) (pg. 80) .. 40 pts<br>
-Rapid strike vessel (Cobra) (pg. 104) (pg. 82)... 35 pts
+<table class=fleet-list><tbody>
+<tr><td>Nova class Frigate (pg. 105)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (pg. 106)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (pg. 107)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Firestorm) (pg. 104) (pg. 77)</td><td>45 pts</td></tr>
+<tr><td>Rapid strike vessel (Sword) (pg. 104) (pg. 80)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Cobra) (pg. 104) (pg. 82)</td><td>35 pts</td></tr>
+</tbody></table>
 
 ### Ordnance
 
@@ -363,20 +379,29 @@ monastery if one is present, but does not have to
 be. If the fleet is worth over 750 points, the Master
 of the Fleet must be included to lead it.*
 
-Master of the Fleet (Ld 10) ........................ 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Master of the Fleet (Ld 10)</td><td>50 pts</td></tr>
+</tbody></table>
+
 
 You may buy Fleet Commander re-rolls for
 your Master of the Fleet, that can be used by
 the entire fleet.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls .............................................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+75 pts</td></tr>
+</tbody></table>
+
 
 In addition, the Master of the Fleet’s ship may
 carry a Terminator boarding party:
 
-Terminator boarding party .....................+50 pts
+<table class=fleet-list><tbody>
+<tr><td>Terminator boarding party</td><td>+50 pts</td></tr>
+</tbody></table>
+
 
 ### Fortress-monastery
 
@@ -385,7 +410,10 @@ Terminator boarding party .....................+50 pts
 *If your fleet is worth at least 2,000 points, it may
 include one Fortress-Monastery.*
 
-Fortress-Monastery (pg. 108) .....................1000 pts
+<table class=fleet-list><tbody>
+<tr><td>Fortress-Monastery (pg. 108)</td><td>1000 pts</td></tr>
+</tbody></table>
+
 
 As the base of operations for the entire Chapter,
 the fortress-monastery may purchase re-rolls,
@@ -395,9 +423,12 @@ fortress-monastery, its re-rolls are added to those
 of the Master of the Fleet and may be used by
 the entire fleet.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls .............................................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+75 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
@@ -413,21 +444,30 @@ cruiser, battlecruiser or heavy cruiser at the listed
 cost, plus an additional +35 points for its Space
 Marine crew.*
 
-(0-1) Venerable battle barge (pg. 100) ........... varies<br>
-Battle barge (pg. 102) ..................................... 425 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Venerable battle barge (pg. 100)</td><td>varies</td></tr>
+<tr><td>Battle barge (pg. 102)</td><td>425 pts</td></tr>
+</tbody></table>
+
 
 #### 0-10 Cruisers
 
-Strike cruisers (pg. 103)................................. 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Strike cruisers (pg. 103)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Nova class Frigate (pg. 105) ............................ 50 pts<br>
-Gladius class Frigate (pg. 106)........................ 45 pts<br>
-Hunter class Destroyer (pg. 107) ................... 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Nova class Frigate (pg. 105)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (pg. 106)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (pg. 107)</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 
@@ -503,19 +543,25 @@ be assigned to it. If the fleet is worth over 750
 points, a Master of the Fleet must be included
 to lead it.*
 
-Master of the Fleet (Ld 10) ........................ 50 pts
+<table class=fleet-list><tbody>
+<tr><td>Master of the Fleet (Ld 10)</td><td>50 pts</td></tr>
+</tbody></table>
 
 You may buy Fleet Commander re-rolls for your
 Master of the Fleet.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls .............................................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+75 pts</td></tr>
+</tbody></table>
 
 In addition, the Master of the Fleet’s ship may
 carry a Terminator boarding party:
 
-Terminator boarding party .....................+50 pts
+<table class=fleet-list><tbody>
+<tr><td>Terminator boarding party</td><td>+50 pts</td></tr>
+</tbody></table>
 
 ### Space Marine Captains
 
@@ -533,12 +579,18 @@ benefit from any of the Space Marines special
 rules concerning boarding, hit and run attacks,
 ordnance, etc.*
 
-Space Marine Captain ................................ 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Space Marine Captain</td><td>25 pts</td></tr>
+</tbody></table>
+
 
 In addition, a ship led by a Space Marine Captain
 may carry Honour Guard.
 
-Honour Guard ........................................... +10 pts
+<table class=fleet-list><tbody>
+<tr><td>Honour Guard</td><td>+10 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
@@ -554,25 +606,33 @@ cruiser, battlecruiser or heavy cruiser at the listed
 cost, plus an additional +35 points for its Space
 Marine crew.*
 
-(0-1) Venerable battle barge (pg. 100) ........... varies<br>
-Battle barge (pg. 102) ..................................... 425 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Venerable battle barge (pg. 100)</td><td>varies</td></tr>
+<tr><td>Battle barge (pg. 102)</td><td>425 pts</td></tr>
+</tbody></table>
+
 
 #### 0-10 Cruisers
 
-Strike cruiser (pg. 103) .................................. 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Strike cruiser (pg. 103)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Nova class Frigate (pg. 105) ............................ 50 pts<br>
-Gladius class Frigate (pg. 106)........................ 45 pts<br>
-Hunter class Destroyer (pg. 107) ................... 40 pts<br>
-Rapid strike vessel (Firestorm) (pg. 104) (pg. 77) . 45 pts<br>
-Rapid strike vessel (Falchion) (pg. 104) (pg. 78) .. 40 pts<br>
-Rapid strike vessel (Sword) (pg. 104) (pg. 80) ...... 40 pts<br>
-Rapid strike vessel (Cobra) (pg. 104) (pg. 82) ...... 35 pts
+<table class=fleet-list><tbody>
+<tr><td>Nova class Frigate (pg. 105)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (pg. 106)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (pg. 107)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Firestorm) (pg. 104) (pg. 77) . 45 pts</td><td></td></tr>
+<tr><td>Rapid strike vessel (Falchion) (pg. 104) (pg. 78)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Sword) (pg. 104) (pg. 80)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Cobra) (pg. 104) (pg. 82)</td><td>35 pts</td></tr>
+</tbody></table>
 
 ### Ordnance
 

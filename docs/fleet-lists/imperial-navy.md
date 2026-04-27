@@ -91,17 +91,39 @@ must be assigned to a ship and improves its
 over 750 points an Admiral must be included to
 lead it.*
 
-Fleet-Admiral (Ld 8) .................................. 50 pts<br>
-Admiral (Ld 9)........................................... 100 pts<br>
-Solar Admiral (Ld 10) .............................. 150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Fleet-Admiral (Ld 8)</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Admiral (Ld 9)</td>
+  <td>100 pts</td>
+</tr>
+<tr>
+  <td>Solar Admiral (Ld 10)</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
 Admirals get one Fleet Commander re-roll
 included in their points cost. If you want more
 you'll have to pay for them.
 
-One extra re-roll.......................................... 25 pts<br>
-Two extra re-rolls ........................................ 75 pts<br>
-Three extra re-rolls ................................... 150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>One extra re-roll</td>
+  <td>25 pts</td>
+</tr>
+<tr>
+  <td>Two extra re-rolls</td>
+  <td>75 pts</td>
+</tr>
+<tr>
+  <td>Three extra re-rolls</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
 ### Capital Ships
 
@@ -110,34 +132,81 @@ Three extra re-rolls ................................... 150 pts
 *You may include up to one battleship in your fleet
 for every three cruisers or battlecruisers.*
 
-Emperor class battleship (pg. 51) ................ 365 pts<br>
-Retribution class battleship (pg. 52) ........... 345 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Emperor class battleship (pg. 51)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Retribution class battleship (pg. 52)</td>
+  <td>345 pts</td>
+</tr>
+</tbody></table>
 
 #### Battlecruisers
 
 *You may include up to one battlecruiser in your
 fleet for every two cruisers.*
 
-Mars class battlecruiser (pg. 59) ................. 270 pts<br>
-Overlord class battlecruiser (pg. 64) .......... 220 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Mars class battlecruiser (pg. 59)</td>
+  <td>270 pts</td>
+</tr>
+<tr>
+  <td>Overlord class battlecruiser (pg. 64)</td>
+  <td>220 pts</td>
+</tr>
+</tbody></table>
 
 #### 0-12 Cruisers
 
-Dictator class cruiser (pg. 65) ...................... 220 pts<br>
-Dominator class cruiser (pg. 66) ................. 190 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
-Gothic class cruiser (pg. 68) ........................ 180 pts<br>
-Lunar class cruiser (pg. 69) .......................... 180 pts<br>
-Dauntless class light cruiser (pg. 75) .......... 110 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Dictator class cruiser (pg. 65)</td>
+  <td>220 pts</td>
+</tr>
+<tr>
+  <td>Dominator class cruiser (pg. 66)</td>
+  <td>190 pts</td>
+</tr>
+<tr>
+  <td>Tyrant class cruiser (pg. 67)</td>
+  <td>185 pts</td>
+</tr>
+<tr>
+  <td>Gothic class cruiser (pg. 68)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Lunar class cruiser (pg. 69)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Dauntless class light cruiser (pg. 75)</td>
+  <td>110 pts</td>
+</tr>
+</tbody></table>
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Firestorm class frigate (pg. 77) ...................... 40 pts<br>
-Sword class frigate (pg. 80)............................. 35 pts<br>
-Cobra class destroyer (pg. 82)........................ 30 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Firestorm class frigate (pg. 77)</td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td>Sword class frigate (pg. 80)</td>
+  <td>35 pts</td>
+</tr>
+<tr>
+  <td>Cobra class destroyer (pg. 82)</td>
+  <td>30 pts</td>
+</tr>
+</tbody></table>
 
 ### Ordnance
 
@@ -178,16 +247,38 @@ ready for action when the existing Navy are.
 a ship and improves its Leadership to the value shown. If the fleet
 is worth over 750 points an Admiral must be included to lead it.*
 
-Fleet-Admiral (Ld 8) ................................................................ 50 pts<br>
-Admiral (Ld 9).........................................................................100 pts<br>
-Solar Admiral (Ld 10) ............................................................150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Fleet-Admiral (Ld 8)</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Admiral (Ld 9)</td>
+  <td>100 pts</td>
+</tr>
+<tr>
+  <td>Solar Admiral (Ld 10)</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
 Admirals get one Fleet Commander re-roll included in their points
 cost. If you want more you'll have to pay for them.
 
-One extra re-roll........................................................................ 25 pts<br>
-Two extra re-rolls ...................................................................... 75 pts<br>
-Three extra re-rolls .................................................................150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>One extra re-roll</td>
+  <td>25 pts</td>
+</tr>
+<tr>
+  <td>Two extra re-rolls</td>
+  <td>75 pts</td>
+</tr>
+<tr>
+  <td>Three extra re-rolls</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
 ### Capital Ships
 
@@ -196,9 +287,20 @@ Three extra re-rolls ...........................................................
 *You may include up to one battleship in your fleet
 for every three cruisers or battlecruisers.*
 
-Apocalypse class battleship (pg. 50) ........... 365 pts<br>
-Emperor class battleship (pg. 51) ................ 365 pts<br>
-Retribution class battleship (pg. 52) ........... 345 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Apocalypse class battleship (pg. 50)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Emperor class battleship (pg. 51)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Retribution class battleship (pg. 52)</td>
+  <td>345 pts</td>
+</tr>
+</tbody></table>
 
 #### Battlecruisers & Grand Cruisers
 
@@ -207,32 +309,89 @@ cruiser in your fleet for every two cruisers. Grand
 Cruisers do not count as cruisers for purposes of
 fielding battleships.*
 
-Exorcist class grand cruiser (pg. 57)........... 230 pts<br>
-Vengeance class grand cruiser (pg. 56) ...... 230 pts<br>
-Avenger class grand cruiser (pg. 58)...........200 pts<br>
-Mars class battlecruiser (pg. 59) ................. 270 pts<br>
-Armageddon class battlecruiser (pg. 63) ... 235 pts<br>
-Overlord class battlecruiser (pg. 64) .......... 220 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Exorcist class grand cruiser (pg. 57)</td>
+  <td>230 pts</td>
+</tr>
+<tr>
+  <td>Vengeance class grand cruiser (pg. 56)</td>
+  <td>230 pts</td>
+</tr>
+<tr>
+  <td>Avenger class grand cruiser (pg. 58)</td>
+  <td>200 pts</td>
+</tr>
+<tr>
+  <td>Mars class battlecruiser (pg. 59)</td>
+  <td>270 pts</td>
+</tr>
+<tr>
+  <td>Armageddon class battlecruiser (pg. 63)</td>
+  <td>235 pts</td>
+</tr>
+<tr>
+  <td>Overlord class battlecruiser (pg. 64)</td>
+  <td>220 pts</td>
+</tr>
+</tbody></table>
 
 #### 0-12 Cruisers
 
-Dictator class cruiser (pg. 65) ...................... 220 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
-Gothic class cruiser (pg. 68) ........................ 180 pts<br>
-Lunar class cruiser (pg. 69) .......................... 180 pts<br>
-Dauntless class light cruiser (pg. 75) .......... 110 pts<br>
-Endeavour Class Light Cruiser (pg. 70) ..... 110 pts<br>
-Endurance Class Light Cruiser* (pg. 72) ... 110 pts<br>
-Defiant Class Light Cruiser\* (pg. 74) ......... 120 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Dictator class cruiser (pg. 65)</td>
+  <td>220 pts</td>
+</tr>
+<tr>
+  <td>Tyrant class cruiser (pg. 67)</td>
+  <td>185 pts</td>
+</tr>
+<tr>
+  <td>Gothic class cruiser (pg. 68)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Lunar class cruiser (pg. 69)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Dauntless class light cruiser (pg. 75)</td>
+  <td>110 pts</td>
+</tr>
+<tr>
+  <td>Endeavour Class Light Cruiser (pg. 70)</td>
+  <td>110 pts</td>
+</tr>
+<tr>
+  <td>Endurance Class Light Cruiser* (pg. 72)</td>
+  <td>110 pts</td>
+</tr>
+<tr>
+  <td>Defiant Class Light Cruiser* (pg. 74)</td>
+  <td>120 pts</td>
+</tr>
+</tbody></table>
 
 #### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Firestorm class frigate (pg. 77) ...................... 40 pts<br>
-Sword class frigate (pg. 80)............................. 35 pts<br>
-Cobra class destroyer (pg. 82)........................ 30 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Firestorm class frigate (pg. 77)</td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td>Sword class frigate (pg. 80)</td>
+  <td>35 pts</td>
+</tr>
+<tr>
+  <td>Cobra class destroyer (pg. 82)</td>
+  <td>30 pts</td>
+</tr>
+</tbody></table>
 
 #### Ordnance
 
@@ -248,7 +407,7 @@ combined numbers of Endurance and Defiant class vessels may not exceed the numbe
 Endeavour class light cruisers in the fleet._
 
 > #### Battlefleet Cadia
-> 
+>
 > The constant turmoil surrounding the Cadian gate requires Battlefleet Cadia to be far
 > more active than many other battlefleets. The whole sector exists in an almost perpetual
 > state of readiness, and as such the demands on manpower and resources are huge. Vast
@@ -256,32 +415,37 @@ Endeavour class light cruisers in the fleet._
 > in the constant fighting (many of them drawn from worlds within the Cadian system itself
 > such as Vigilatum and Macharia). Because of this, the ships and squadrons of Battlefleet
 > Cadia must roll two dice and pick the lowest score when determining [leadership](../the-rules.md#leadership).
-> 
+>
 > However, those that survive the harsh first years or military service around the Cadian
 > Gate rapidly mature to become some of the most capable leaders in the Imperium. To
 > represent this, Battlefleet Cadia uses the additional fleet list entry below.
-> 
+>
 > ##### 0-5 Veteran Captains
-> 
+>
 > You may include up to five Veteran Captains in your fleet. Each Veteran Captain must be
 > assigned to a particular ship and improves its [leadership](../the-rules.md#leadership) by +1.
-> 
-> Veteran Captain (Ld +1)........................................................................................................+50 pts
-> 
+>
+> <table class=fleet-list><tbody>
+> <tr>
+>   <td>Veteran Captain (Ld +1)</td>
+>   <td>+50 pts</td>
+> </tr>
+> </tbody></table>
+>
 > You may wait until after rolling for leadership before deciding which ships to assign
 > your veteran captains to. Ships assigned a Veteran Captain must be [squadroned](../squadrons.md) on the
 > tabletop (their skills are too precious to waste on lone ships). Even escort squadrons can
 > have a Veteran Captain assigned to them, in which case the entire squadron receives the
 > leadership bonus. You should still mark out one particular escort as bearing the captain,
 > and if this vessel is destroyed the bonus is lost.
-> 
+>
 > A Veteran Captain gets one [re-roll](../the-rules.md#re-rolls) which is included in their points cost and can only be
 > used on their own vessel or another vessel in their own squadron.
 
 <br>
 
 > #### The Reserve Fleets of Segmentum Obscurus
-> 
+>
 > As with all highly militarised zones, it is
 > important for the Imperial Navy to maintain
 > substantial reserves of vessels around the Eye
@@ -307,7 +471,7 @@ Endeavour class light cruisers in the fleet._
 > fleets and perhaps because of this, unusual
 > behaviour of both crew and vessel is rather
 > too commonplace.
-> 
+>
 > Reserve fleets are used only reluctantly by
 > the Imperial Navy, and only in the most
 > desperate of circumstances, but an invasion
@@ -315,7 +479,7 @@ Endeavour class light cruisers in the fleet._
 > Crusade without doubt qualifies as exactly
 > that – the most dire of circumstances, the
 > most desperate of times.
-> 
+>
 > If you wish, you may use a Battlefleet
 > Obscura Reserve Fleet, picked using the
 > fleet list opposite. In addition, you may of
@@ -325,13 +489,13 @@ Endeavour class light cruisers in the fleet._
 > on very old or scarce vessels, you may also
 > use your reserve choices to select any of the
 > following Chaos vessels if you so wish.
-> 
+>
 > * Repulsive class grand cruiser (pg. 255)
 > * Executor class grand cruiser (pg. 257)
 > * Hades class heavy cruiser (pg. 260)
 > * Murder class cruiser (pg. 265)
 > * Carnage class cruiser (pg. 263)
-> 
+>
 > These ‘reserve’ vessels are picked in the
 > normal manner, so for every three vessels
 > of a given type which you choose from the
@@ -339,7 +503,7 @@ Endeavour class light cruisers in the fleet._
 > that type from another Imperial list, or
 > from the above selection of Chaos vessels
 > (but not both).
-> 
+>
 > Reserve vessels use all their normal rules
 > and keep their particular ordnance types
 > (i.e. Chaos ordnance is used on Chaos ships
@@ -348,9 +512,9 @@ Endeavour class light cruisers in the fleet._
 > since these are described for vessels who
 > have already turned traitor and hence
 > obviously no longer in Imperial service!
-> 
+>
 > ##### Strange happenings
-> 
+>
 > In a reserve fleet, all vessels are prone to
 > certain unexpected events, such as mass
 > panic or even mutiny amongst the crew,
@@ -369,7 +533,7 @@ Endeavour class light cruisers in the fleet._
 > unreliable but it also may do absolutely
 > nothing during the current turn other than
 > make its minimum move directly ahead.
-> 
+>
 > Against Chaos fleets, where the followers
 > of the dark gods are able to exert their
 > influence to further unsettle their already
@@ -399,10 +563,24 @@ to a ship and improves its [Leadership](../the-rules.md#leadership) to the value
 fleet is worth over 750 points a fleet commander must be included
 to lead it.*
 
-Fleet-Admiral (Ld 8) ................................................................ 50 pts<br>
-Admiral (Ld 9).........................................................................100 pts<br>
-Solar Admiral (Ld 10) ............................................................150 pts<br>
-Master of the Fleet (Ld 10) .......................................................50pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Fleet-Admiral (Ld 8)</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Admiral (Ld 9)</td>
+  <td>100 pts</td>
+</tr>
+<tr>
+  <td>Solar Admiral (Ld 10)</td>
+  <td>150 pts</td>
+</tr>
+<tr>
+  <td>Master of the Fleet (Ld 10)</td>
+  <td>50pts</td>
+</tr>
+</tbody></table>
 
 Your fleet commander gets a single re-roll included in his points
 cost, and may buy more if you wish. The cost of your re-rolls
@@ -412,15 +590,37 @@ an Admiral).
 
 #### Admiral Re-rolls
 
-One extra re-roll........................................................................ 25 pts<br>
-Two extra re-rolls ...................................................................... 75 pts<br>
-Three extra re-rolls .................................................................150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>One extra re-roll</td>
+  <td>25 pts</td>
+</tr>
+<tr>
+  <td>Two extra re-rolls</td>
+  <td>75 pts</td>
+</tr>
+<tr>
+  <td>Three extra re-rolls</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
 #### Master of the Fleet Re-rolls
 
-One extra re-roll........................................................................ 25 pts<br>
-Two extra re-rolls ...................................................................... 50 pts<br>
-Three extra re-rolls ................................................................... 75 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>One extra re-roll</td>
+  <td>25 pts</td>
+</tr>
+<tr>
+  <td>Two extra re-rolls</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Three extra re-rolls</td>
+  <td>75 pts</td>
+</tr>
+</tbody></table>
 
 **Note:** Command duties were shared between officers of the
 Imperial Navy and their Space Marine counterparts throughout
@@ -439,43 +639,117 @@ vessel and cannot be a assigned to a Space Marine vessel.
 *You may include up to one battleship in your fleet
 for every three cruisers or battlecruisers.*
 
-Apocalypse class battleship (pg. 50) ........... 365 pts<br>
-Emperor class battleship (pg. 51) ................ 365 pts<br>
-Oberon class battleship (pg. 54) .................. 335 pts<br>
-Space Marine Battle barge\* (pg. 102) .......... 425 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Apocalypse class battleship (pg. 50)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Emperor class battleship (pg. 51)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Oberon class battleship (pg. 54)</td>
+  <td>335 pts</td>
+</tr>
+<tr>
+  <td>Space Marine Battle barge* (pg. 102)</td>
+  <td>425 pts</td>
+</tr>
+</tbody></table>
 
 #### Battlecruisers
 
 *You may include up to one battlecruiser in your
 fleet for every cruiser.*
 
-Mars class battlecruiser (pg. 59) ................. 270 pts<br>
-Armageddon class battlecruiser (pg. 63) ... 235 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Mars class battlecruiser (pg. 59)</td>
+  <td>270 pts</td>
+</tr>
+<tr>
+  <td>Armageddon class battlecruiser (pg. 63)</td>
+  <td>235 pts</td>
+</tr>
+</tbody></table>
 
 #### 0-12 Cruisers
 
-Dictator class cruiser (pg. 65) ...................... 220 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
-Gothic class cruiser (pg. 68) ........................ 180 pts<br>
-Lunar class cruiser (pg. 69) .......................... 180 pts<br>
-Space Marine Strike Cruiser\* (pg. 103) ...... 145 pts<br>
-Endeavour class light cruiser (pg. 70) ........ 110 pts<br>
-Endurance class light cruiser\*\* (pg. 72) .... 110 pts<br>
-Defiant class light cruiser\*\* (pg. 74)........... 120 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Dictator class cruiser (pg. 65)</td>
+  <td>220 pts</td>
+</tr>
+<tr>
+  <td>Tyrant class cruiser (pg. 67)</td>
+  <td>185 pts</td>
+</tr>
+<tr>
+  <td>Gothic class cruiser (pg. 68)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Lunar class cruiser (pg. 69)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Space Marine Strike Cruiser* (pg. 103)</td>
+  <td>145 pts</td>
+</tr>
+<tr>
+  <td>Endeavour class light cruiser (pg. 70)</td>
+  <td>110 pts</td>
+</tr>
+<tr>
+  <td>Endurance class light cruiser** (pg. 72)</td>
+  <td>110 pts</td>
+</tr>
+<tr>
+  <td>Defiant class light cruiser** (pg. 74)</td>
+  <td>120 pts</td>
+</tr>
+</tbody></table>
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Firestorm Class Frigate (pg. 77) .................... 40 pts<br>
-Falchion Class Frigate (pg. 78) ...................... 35 pts<br>
-Nova Class Frigate* (pg. 105) ......................... 50 pts<br>
-Rapid Strike Vessel (Firestorm)* (pg. 104) (pg. 77)45 pts<br>
-Gladius Class Frigate* (pg. 106) ..................... 45 pts<br>
-Hunter Class Destroyer* (pg. 107) ................ 40 pts<br>
-Rapid Strike Vessel (Sword)* (pg. 104) (pg. 80) ... 40 pts<br>
-Rapid Strike Vessel (Cobra)* (pg. 104) (pg. 82) ... 35 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Firestorm Class Frigate (pg. 77)</td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td>Falchion Class Frigate (pg. 78)</td>
+  <td>35 pts</td>
+</tr>
+<tr>
+  <td>Nova Class Frigate* (pg. 105)</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Rapid Strike Vessel (Firestorm)* (pg. 104) (pg. 77) ... 45 pts</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Gladius Class Frigate* (pg. 106)</td>
+  <td>45 pts</td>
+</tr>
+<tr>
+  <td>Hunter Class Destroyer* (pg. 107)</td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td>Rapid Strike Vessel (Sword)* (pg. 104) (pg. 80)</td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td>Rapid Strike Vessel (Cobra)* (pg. 104) (pg. 82)</td>
+  <td>35 pts</td>
+</tr>
+</tbody></table>
 
 ### Ordnance
 
@@ -518,10 +792,24 @@ Leadership to the value shown. If the fleet is worth
 over 750 points an Admiral must be included to
 lead it.*
 
-Fleet-Admiral (Ld 8) .................................. 50 pts<br>
-Admiral (Ld 9)........................................... 100 pts<br>
-Solar Admiral (Ld 10) .............................. 150 pts<br>
-Lord Admiral Rath (Ld10) ......................200 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Fleet-Admiral (Ld 8)</td>
+  <td>50 pts</td>
+</tr>
+<tr>
+  <td>Admiral (Ld 9)</td>
+  <td>100 pts</td>
+</tr>
+<tr>
+  <td>Solar Admiral (Ld 10)</td>
+  <td>150 pts</td>
+</tr>
+<tr>
+  <td>Lord Admiral Rath (Ld10)</td>
+  <td>200 pts</td>
+</tr>
+</tbody></table>
 
 Admirals get one Fleet Commander re-roll
 included in their points cost (Lord Admiral Rath
@@ -529,18 +817,36 @@ has two). Additional re-rolls may be purchased
 for the listed point costs (including for Admiral
 Rath).
 
-One extra re-roll.......................................... 25 pts<br>
-Two extra re-rolls ........................................ 75 pts<br>
-Three extra re-rolls ................................... 150 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>One extra re-roll</td>
+  <td>25 pts</td>
+</tr>
+<tr>
+  <td>Two extra re-rolls</td>
+  <td>75 pts</td>
+</tr>
+<tr>
+  <td>Three extra re-rolls</td>
+  <td>150 pts</td>
+</tr>
+</tbody></table>
 
-> #### Lord Admiral Rath.................... 200 pts
-> 
+> #### Lord Admiral Rath
+>
+> <table class=fleet-list><tbody>
+> <tr>
+>   <td>Lord Admiral Rath</td>
+>   <td>200 pts</td>
+> </tr>
+> </tbody></table>
+>
 > An Imperial Bakka Battlefleet with 1,500
 > points or greater may be led by Lord
 > Admiral Rath, who must always be placed
 > on a battleship, though it not necessarily
 > be the most expensive one present.
-> 
+>
 > Lord Admiral Rath is Ld 10 and comes
 > with two re-rolls as part of his point
 > cost. His crew is honoured and inspired
@@ -558,7 +864,7 @@ Three extra re-rolls ................................... 150 pts
 <br>
 
 > #### Emperor battleship *Dominus Astra*
-> 
+>
 > Emperor class battleships are among the oldest to serve in Imperial Fleets and are commonly
 > used as flagships. Only one member of this class, the venerable *Dominus Astra*, saw action
 > against Hive Fleet Behemoth while serving as Lord Admiral Rath's flagship. The *Dominus
@@ -571,10 +877,10 @@ Three extra re-rolls ................................... 150 pts
 > many others onto the rings around the gas giant. The *Dominus Astra* was never officially
 > seen again although rumours abound of a mysterious ghost ship that appears from the warp
 > in time of greatest peril to hurl itself on humanity’s most dangerous enemies.
-> 
+>
 > As a result of the fallout subsequent to the Gareox Prerogative, this class of vessel is
 > extremely rare in the fleets of Segmentum Tempestus. Bakka fleets may only field a single
-> Emperor battleship, and this only as reserves unless [Admiral Rath](#lord-admiral-rath-200-pts) leads the fleet, in which
+> Emperor battleship, and this only as reserves unless [Admiral Rath](#lord-admiral-rath) leads the fleet, in which
 > case it must be his flagship.
 
 ### Capital Ships
@@ -585,43 +891,103 @@ Three extra re-rolls ................................... 150 pts
 for every three cruisers or battlecruisers. If taken
 as reserves, grand cruisers do not count for this
 purpose. An Emperor class battleship can only
-be taken as reserves unless [Admiral Rath](#lord-admiral-rath-200-pts) leads
+be taken as reserves unless [Admiral Rath](#lord-admiral-rath) leads
 the fleet.*
 
-(0-1) Emperor class battleship (pg. 51)....... 365 pts<br>
-Retribution class battleship (pg. 52) ........... 345 pts<br>
-Victory class battleship (pg. 53) .................. 345 pts<br>
-Vanquisher class battleship (pg. 55) ...........300 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>(0-1) Emperor class battleship (pg. 51)</td>
+  <td>365 pts</td>
+</tr>
+<tr>
+  <td>Retribution class battleship (pg. 52)</td>
+  <td>345 pts</td>
+</tr>
+<tr>
+  <td>Victory class battleship (pg. 53)</td>
+  <td>345 pts</td>
+</tr>
+<tr>
+  <td>Vanquisher class battleship (pg. 55)</td>
+  <td>300 pts</td>
+</tr>
+</tbody></table>
 
 #### Battlecruisers
 
 *You may include up to one battlecruiser in your
 fleet for every two cruisers.*
 
-Dominion class battlecruiser (pg. 60) ........ 260 pts<br>
-Mercury class battlecruiser (pg. 62) ........... 255 pts<br>
-Armageddon class battlecruiser (pg. 63) ... 235 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Dominion class battlecruiser (pg. 60)</td>
+  <td>260 pts</td>
+</tr>
+<tr>
+  <td>Mercury class battlecruiser (pg. 62)</td>
+  <td>255 pts</td>
+</tr>
+<tr>
+  <td>Armageddon class battlecruiser (pg. 63)</td>
+  <td>235 pts</td>
+</tr>
+</tbody></table>
 
 #### 0-12 Cruisers
 
 *There is no restriction for the number of
 Endurance light cruisers taken in a Bakka fleet.*
 
-Dominator class cruiser (pg. 66) ................. 190 pts<br>
-Tyrant class cruiser (pg. 67) ......................... 185 pts<br>
-Gothic class cruiser (pg. 68) ........................ 180 pts<br>
-Lunar class cruiser (pg. 69) .......................... 180 pts<br>
-Endeavour Class Light Cruiser (pg. 71) ..... 115 pts<br>
-Endurance Class Light Cruiser (pg. 73) ..... 115 pts<br>
-Siluria Class Light Cruiser (pg. 76)............. 100 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Dominator class cruiser (pg. 66)</td>
+  <td>190 pts</td>
+</tr>
+<tr>
+  <td>Tyrant class cruiser (pg. 67)</td>
+  <td>185 pts</td>
+</tr>
+<tr>
+  <td>Gothic class cruiser (pg. 68)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Lunar class cruiser (pg. 69)</td>
+  <td>180 pts</td>
+</tr>
+<tr>
+  <td>Endeavour Class Light Cruiser (pg. 71)</td>
+  <td>115 pts</td>
+</tr>
+<tr>
+  <td>Endurance Class Light Cruiser (pg. 73)</td>
+  <td>115 pts</td>
+</tr>
+<tr>
+  <td>Siluria Class Light Cruiser (pg. 76)</td>
+  <td>100 pts</td>
+</tr>
+</tbody></table>
 
 ### Escorts
+
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Havoc class frigate (pg. 79) ............................ 35 pts<br>
-Sword class frigate (pg. 80)............................. 35 pts<br>
-Viper class destroyer (pg. 81)......................... 35 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>Havoc class frigate (pg. 79)</td>
+  <td>35 pts</td>
+</tr>
+<tr>
+  <td>Sword class frigate (pg. 80)</td>
+  <td>35 pts</td>
+</tr>
+<tr>
+  <td>Viper class destroyer (pg. 81)</td>
+  <td>35 pts</td>
+</tr>
+</tbody></table>
 
 ### Ordnance
 
@@ -666,7 +1032,12 @@ Bakka fleet list can be used as reserves by any
 other Imperial fleet list, along with their Bakkaspecific refits. Reserve cruisers (not battlecruisers
 or grand cruisers) always count toward the twelvecruiser fleet limit.*
 
-(0-1) Jovian class battlecruiser (pg. 61) ...... 260 pts
+<table class=fleet-list><tbody>
+<tr>
+  <td>(0-1) Jovian class battlecruiser (pg. 61)</td>
+  <td>260 pts</td>
+</tr>
+</tbody></table>
 
 One cannot take as reserves the reserves of
 another f leet list. As such, ships such as the
@@ -706,4 +1077,4 @@ the Imperium.
 
 | Adeptus Mechanicus | Imperial Navy |
 | --- | --- |
-| When used with Battlefleet Bakka, Adeptus Mechanicus capital ships may take the Fleet Defence Turrets refit instead of rolling randomly on the Mechanicus Gifts table.<br><br>Fleet Defence Turret .......................+5 points<br><br>*Two turrets on a ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each ordnance phase, adding +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). These otherwise work exactly as normal turrets do in all other respects.* | Battlefleet Bakka warships need to be well equipped with turrets because of the relative lack of fighter defences, but fleet defence turrets are too complex to be serviced by ratings of the Imperial Navy. A simpler solution was devised for the warships of Battlefleet Bakka.<br><br> +1 turret .............................................+5 points<br><br> *Any capital ship of Battlefleet Bakka can add this upgrade. It does not count against refits ships can take normally. Reserve vessels may not be given this upgrade, but any vessels from the Battlefleet Bakka fleet list used as reserves in other fleets may take it with them.* |
+| When used with Battlefleet Bakka, Adeptus Mechanicus capital ships may take the Fleet Defence Turrets refit instead of rolling randomly on the Mechanicus Gifts table.<br><br><table class=fleet-list><tbody><tr><td>Fleet Defence Turret</td><td>+5 points</td></tr></tbody></table><br>*Two turrets on a ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each ordnance phase, adding +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). These otherwise work exactly as normal turrets do in all other respects.* | Battlefleet Bakka warships need to be well equipped with turrets because of the relative lack of fighter defences, but fleet defence turrets are too complex to be serviced by ratings of the Imperial Navy. A simpler solution was devised for the warships of Battlefleet Bakka.<br><br><table class=fleet-list><tbody><tr><td>+1 turret</td><td>+5 points</td></tr></tbody></table><br>*Any capital ship of Battlefleet Bakka can add this upgrade. It does not count against refits ships can take normally. Reserve vessels may not be given this upgrade, but any vessels from the Battlefleet Bakka fleet list used as reserves in other fleets may take it with them.* |

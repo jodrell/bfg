@@ -260,8 +260,10 @@ to lead it if you wish. Your fleet must include
 a commander if it is greater than 750 pts. the
 commander may be either a Kor’O or Kor’el.*
 
-Tau Kor'el (Ld 8) .......................................... 50 pts<br>
-Tau Kor’O (Ld 9) ......................................... 80 pts
+<table class=fleet-list><tbody>
+<tr><td>Tau Kor'el (Ld 8)</td><td>50 pts</td></tr>
+<tr><td>Tau Kor'O (Ld 9)</td><td>80 pts</td></tr>
+</tbody></table>
 
 The commander has one re-roll included in his
 points cost. If you wish, the commander’s ship
@@ -269,8 +271,10 @@ may carry a member of the Ethereal caste and
 therefore purchase additional re-rolls at the cost
 shown.
 
-Aun’el (one extra re-roll) .........................+25 pts<br>
-Aun’O (two extra re-rolls) .......................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>Aun'el (one extra re-roll)</td><td>+25 pts</td></tr>
+<tr><td>Aun'O (two extra re-rolls)</td><td>+75 pts</td></tr>
+</tbody></table>
 
 ### Capital Ships
 
@@ -280,7 +284,10 @@ Aun’O (two extra re-rolls) .......................+75 pts
 If your fleets is worth more than 750 pts it must
 include at least one Explorer.*
 
-Explorer class starship (pg. 438) .................. 230 pts
+<table class=fleet-list><tbody>
+<tr><td>Explorer class starship (pg. 438)</td><td>230 pts</td></tr>
+</tbody></table>
+
 
 #### Cruisers
 
@@ -289,8 +296,10 @@ class starships. It may also include up to one Hero
 class starship for every Merchant or Explorer in
 the fleet.*
 
-Hero class starship (pg. 440) ........................ 180 pts<br>
-Merchant class starship (pg. 442) .................. 95 pts
+<table class=fleet-list><tbody>
+<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
+<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
@@ -307,10 +316,12 @@ parent ship. Any ship equipped with Wardens can
 only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
-Messenger class starship (pg. 445) ................ 50 pts<br>
-Defender class starship (pg. 444) ................... 45 pts<br>
-Warden class gunship (pg. 455) ..................... 30 pts<br>
-Orca class gunship (pg. 446) .......................... 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Messenger class starship (pg. 445)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+</tbody></table>
 
 ### Ordnance
 
@@ -354,16 +365,21 @@ the following, subject to the relevant restrictions.
 if the fleet is worth 1500 points, or up to two
 Warspheres in games larger than that.*
 
-Kroot Warsphere (pg. 474) ........................... 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 #### Demiurg Vessels
 
 *A Tau fleet can include up to one Demiurg vessel
 for every three Tau capital ships in the fleet.*
 
-Stronghold Commerce Vessel (pg. 468) ..... 350 pts<br>
-Bastion Commerce Vessel (pg. 469) ............ 255 pts<br>
-Citadel Commerce Vessel (pg. 470)............. 185 pts
+<table class=fleet-list><tbody>
+<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+</tbody></table>
 
 #### Nicassar Vessels
 
@@ -374,7 +390,10 @@ of the fleet. A ship may have either Orcas or
 Dhows, but not both so the gravitic hook capacity
 of the fleet is divided between Orcas and Dhows.*
 
-Nicassar Dhow (pg. 471) ................................. 45 pts
+<table class=fleet-list><tbody>
+<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+</tbody></table>
+
 
 The Dhows from each parent ship fight as a
 squadron with the same Leadership as the
@@ -403,8 +422,10 @@ commander may be either a Kor’O or Kor’el.
 If the fleet includes a Custodian, a Kor’O must
 lead it.*
 
-Tau Kor'el (Ld 8) .......................................... 50 pts
-Tau Kor’O (Ld 9) ......................................... 80 pts
+<table class=fleet-list><tbody>
+<tr><td>Tau Kor&#39;el (Ld 8)</td><td>50 pts</td></tr>
+<tr><td>Tau Kor&acirc;&#128;&#153;O (Ld 9)</td><td>80 pts</td></tr>
+</tbody></table>
 
 The commander has one re-roll included in his
 points cost. If you wish, the commander’s ship
@@ -412,8 +433,11 @@ may carry a member of the Ethereal caste and
 therefore purchase additional re-rolls at the cost
 shown.
 
-Aun’el (one extra re-roll) .........................+25 pts<br>
-Aun’O (two extra re-rolls) .......................+75 pts
+<table class=fleet-list><tbody>
+<tr><td>Aun&acirc;&#128;&#153;el (one extra re-roll)</td><td>+25 pts</td></tr>
+<tr><td>Aun&acirc;&#128;&#153;O (two extra re-rolls)</td><td>+75 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
@@ -428,8 +452,11 @@ Tau vessels in it may include a single Custodian.
 Fleets of at least 1,500 points may include two
 Custodians.*
 
-Custodian class starship (pg. 440) ............... 330 pts<br>
-Explorer class starship (pg. 438) .................. 230 pts
+<table class=fleet-list><tbody>
+<tr><td>Custodian class starship (pg. 440)</td><td>330 pts</td></tr>
+<tr><td>Explorer class starship (pg. 438)</td><td>230 pts</td></tr>
+</tbody></table>
+
 
 #### Cruisers
 
@@ -438,10 +465,13 @@ Emissary or Protector class starships. It may also
 include up to one Hero class starship for every
 other type of capital ship in the fleet.*
 
-Protector class starship (pg. 450)................. 185 pts<br>
-Hero class starship (pg. 440) ........................ 180 pts<br>
-Emissary class starship (pg. 452) ................. 110 pts<br>
-Merchant class starship (pg. 442) .................. 95 pts
+<table class=fleet-list><tbody>
+<tr><td>Protector class starship (pg. 450)</td><td>185 pts</td></tr>
+<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
+<tr><td>Emissary class starship (pg. 452)</td><td>110 pts</td></tr>
+<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
@@ -458,11 +488,14 @@ parent ship. Any ship equipped with Wardens can
 only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
-Castellan class starship (pg. 454)................... 50 pts<br>
-Messenger class starship (pg. 445) ................ 50 pts<br>
-Defender class starship (pg. 444) ................... 45 pts<br>
-Warden class gunship (pg. 455) ..................... 30 pts<br>
-Orca class gunship (pg. 446) .......................... 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Castellan class starship (pg. 454)</td><td>50 pts</td></tr>
+<tr><td>Messenger class starship (pg. 445)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 
@@ -508,7 +541,9 @@ Warspheres in games larger than that.
 Warspheres do not count against cruiser limits
 in a Kor’vattra Fleet.*
 
-Kroot Warsphere (pg. 474) ........................... 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+</tbody></table>
 
 #### Demiurg Vessels
 
@@ -517,9 +552,11 @@ for every three Tau capital ships in the fleet.
 There cannot be more Stronghold than Bastion
 vessels in the fleet.*
 
-Stronghold Commerce Vessel (pg. 468) ..... 350 pts<br>
-Bastion Commerce Vessel (pg. 469) ............ 255 pts<br>
-Citadel Commerce Vessel (pg. 470)............. 185 pts
+<table class=fleet-list><tbody>
+<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+</tbody></table>
 
 #### Nicassar Vessels
 
@@ -533,9 +570,11 @@ Dhows. Gravitic hooks on a Custodian battleship
 or Emissary starship cannot count toward this
 total.*
 
-Nicassar Caravan (pg. 472)...........................200 pts<br>
-Nicassar Rig (pg. 473) ...................................... 40 pts<br>
-Nicassar Dhow (pg. 471) ................................. 45 pts
+<table class=fleet-list><tbody>
+<tr><td>Nicassar Caravan (pg. 472)</td><td>200 pts</td></tr>
+<tr><td>Nicassar Rig (pg. 473)</td><td>40 pts</td></tr>
+<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+</tbody></table>
 
 The Dhows from each parent ship fight as a
 squadron with the same Leadership as the
@@ -559,13 +598,16 @@ points of Tau ships in the fleet. Additionally, a
 single squadron of up to six Xenos escorts can be
 taken as per the Rogue Trader rules and fleet list.*
 
-Rogue Trader Cruiser (pg. 174).................... 185 pts<br>
-Dauntless Class Light Cruiser (pg. 75)....... 125 pts<br>
-Endeavour Class Light Cruiser (pg. 175).... 110 pts<br>
-Xenos Vessel (pg. 178) ..................................... 50 pts<br>
-Recommissioned Escort (pg. 183) ................. 30 pts<br>
-Iconoclast Destroyer (pg. 184) ...................... 30 pts<br>
-Cargo Vessel (pg. 186) .................................... 20 pts
+<table class=fleet-list><tbody>
+<tr><td>Rogue Trader Cruiser (pg. 174)</td><td>185 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (pg. 75)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (pg. 175)</td><td>110 pts</td></tr>
+<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+</tbody></table>
+
 
 ## The Demiurg
 
@@ -746,8 +788,10 @@ fleet gets one re-roll and can purchase extra rerolls at the cost shown. These r
 be used for Demiurg vessels and not with other
 starships they may take as allies in their war host.
 
-One extra re-roll.......................................... 25 pts<br>
-Two extra re-rolls ........................................ 75 pts
+<table class=fleet-list><tbody>
+<tr><td>One extra re-roll</td><td>25 pts</td></tr>
+<tr><td>Two extra re-rolls</td><td>75 pts</td></tr>
+</tbody></table>
 
 #### Determination
 
@@ -775,7 +819,10 @@ the purpose of the closest target.
 *Your fleet may include one battleship for every
 two cruiser-class vessels in the fleet.*
 
-Stronghold Commerce Vessel (pg. 468) ..... 350 pts
+<table class=fleet-list><tbody>
+<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
+</tbody></table>
+
 
 #### Cruisers
 
@@ -783,15 +830,17 @@ Stronghold Commerce Vessel (pg. 468) ..... 350 pts
 cruisers. Demiurg Commerce Vessels must
 outnumber all non-Demiurg cruisers combined.*
 
-Bastion Commerce Vessel (pg. 469) ............ 255 pts<br>
-Citadel Commerce Vessel (pg. 470)............. 185 pts<br>
-Protector class starship (pg. 450)................. 185 pts<br>
-Rogue Trader Cruiser (pg. 174).................... 185 pts<br>
-Hero class starship (pg. 440) ........................ 180 pts<br>
-Emissary class starship (pg. 452) ................. 110 pts<br>
-Merchant class starship (pg. 442) .................. 95 pts<br>
-Dauntless Class Light Cruiser (pg. 75)....... 125 pts<br>
-Endeavour Class Light Cruiser (pg. 175).... 110 pts
+<table class=fleet-list><tbody>
+<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+<tr><td>Protector class starship (pg. 450)</td><td>185 pts</td></tr>
+<tr><td>Rogue Trader Cruiser (pg. 174)</td><td>185 pts</td></tr>
+<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
+<tr><td>Emissary class starship (pg. 452)</td><td>110 pts</td></tr>
+<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (pg. 75)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (pg. 175)</td><td>110 pts</td></tr>
+</tbody></table>
 
 #### Kroot Vessels (0–3)
 
@@ -805,7 +854,10 @@ fleet for every 750 points in the fleet or portion
 thereof. These do not count against the number
 of cruisers in the fleet.*
 
-Kroot Warsphere (pg. 474) ........................... 145 pts
+<table class=fleet-list><tbody>
+<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
@@ -827,21 +879,30 @@ be mixed in the same squadrons.*
 
 #### Tau Escorts
 
-Castellan class starship (pg. 454)................... 50 pts<br>
-Defender class starship (pg. 444) ................... 45 pts<br>
-Warden class gunship (pg. 455) ..................... 30 pts<br>
-Orca class gunship (pg. 446) .......................... 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Castellan class starship (pg. 454)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+</tbody></table>
+
 
 #### Nicassar Escorts
 
-Nicassar Dhow (pg. 471) ................................. 45 pts
+<table class=fleet-list><tbody>
+<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+</tbody></table>
+
 
 #### Rogue Trader Escorts
 
-Xenos Vessel (pg. 178) ..................................... 50 pts<br>
-Recommissioned Escort (pg. 183) ................. 30 pts<br>
-Iconoclast Destroyer (pg. 184) ...................... 30 pts<br>
-Cargo Vessel (pg. 186) .................................... 20 pts
+<table class=fleet-list><tbody>
+<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 

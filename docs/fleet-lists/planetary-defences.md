@@ -216,19 +216,24 @@ make Special Orders normally.
 
 ## High Orbit Defences
 
-Orbital defence laser platform (pg. 489) ....... 30 pts<br>
-Orbital torpedo launcher (pg. 490) ............... 30 pts<br>
-Orbital weapons platform (pg. 491) .............. 30 pts<br>
-Orbital mine (pg. 492) ....................................... 5 pts<br>
-0-2 Minefields (pg. 493).................................. 40 pts<br>
-0-6 Fire ships (pg. 496) .................................... 10 pts<br>
-System ship (pg. 495) ....................................... 20 pts<br>
-Defence monitor (pg. 494) .............................. 60 pts<br>
-Orbital dock (pg. 488) ..................................... 90 pts<br>
-Space station (pg. 487) ................................... 150 pts<br>
-Blackstone fortress (pg. 486) ........................400 pts
+<table class=fleet-list><tbody>
+<tr><td>Orbital defence laser platform (pg. 489)</td><td>30 pts</td></tr>
+<tr><td>Orbital torpedo launcher (pg. 490)</td><td>30 pts</td></tr>
+<tr><td>Orbital weapons platform (pg. 491)</td><td>30 pts</td></tr>
+<tr><td>Orbital mine (pg. 492)</td><td>5 pts</td></tr>
+<tr><td>0-2 Minefields (pg. 493)</td><td>40 pts</td></tr>
+<tr><td>0-6 Fire ships (pg. 496)</td><td>10 pts</td></tr>
+<tr><td>System ship (pg. 495)</td><td>20 pts</td></tr>
+<tr><td>Defence monitor (pg. 494)</td><td>60 pts</td></tr>
+<tr><td>Orbital dock (pg. 488)</td><td>90 pts</td></tr>
+<tr><td>Space station (pg. 487)</td><td>150 pts</td></tr>
+<tr><td>Blackstone fortress (pg. 486)</td><td>400 pts</td></tr>
+</tbody></table>
 
 ## Low Orbit Defences
-0-8 Defence laser silos (pg. 497)..................... 15 pts<br>
-0-8 Missile silos (pg. 497) ................................. 5 pts<br>
-0-4 Air bases (pg. 497)..................................... 20 pts
+
+<table class=fleet-list><tbody>
+<tr><td>0-8 Defence laser silos (pg. 497)</td><td>15 pts</td></tr>
+<tr><td>0-8 Missile silos (pg. 497)</td><td>5 pts</td></tr>
+<tr><td>0-4 Air bases (pg. 497)</td><td>20 pts</td></tr>
+</tbody></table>

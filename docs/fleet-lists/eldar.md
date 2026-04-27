@@ -845,15 +845,21 @@ its Leadership, to a maximum of 10. If the fleet
 is worth over 750 points a Pirate Prince must be
 included to lead it.*
 
-Pirate Prince (+2 Ld) ................................ 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Pirate Prince (+2 Ld)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls
 for your Pirate Prince by paying the cost listed
 below.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
+
 
 #### Eldar Hero
 
@@ -862,31 +868,43 @@ its normal fleet commander. Only a fleet led by an
 Eldar Hero may take reserves from the Craftworld
 Eldar fleet list.*
 
-Eldar Hero (Ld 10) .................................... 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Eldar Hero (Ld 10)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls for
 your Eldar Hero by paying the cost listed below.
 
-One re-roll ..................................................+50 pts<br>
-Two re-rolls ................................................+75 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+50 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+75 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
 #### 0-12 Cruisers
 
-Eclipse class cruiser (pg. 307)....................... 250 pts<br>
-Shadow class cruiser (pg. 308) .................... 210 pts
+<table class=fleet-list><tbody>
+<tr><td>Eclipse class cruiser (pg. 307)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (pg. 308)</td><td>210 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Hellebore class frigate (pg. 311) .................... 65 pts<br>
-Aconite class frigate (pg. 312) ........................ 55 pts<br>
-Hemlock class destroyer (pg. 313) ................. 40 pts<br>
-Nightshade class destroyer (pg. 314) ............. 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Hellebore class frigate (pg. 311)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (pg. 312)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (pg. 313)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (pg. 314)</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 
@@ -921,15 +939,20 @@ its Leadership, to a maximum of 10. If the fleet
 is worth over 750 points a Pirate Prince must be
 included to lead it.*
 
-Pirate Prince (+2 Ld) ................................ 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Pirate Prince (+2 Ld)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls
 for your Pirate Prince by paying the cost listed
 below.
 
-One re-roll ..................................................+25 pts<br>
-Two re-rolls ................................................+50 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+50 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
 
 #### Eldar Hero
 
@@ -938,14 +961,20 @@ its normal fleet commander. Only a fleet led by an
 Eldar Hero may take reserves from the Craftworld
 Eldar fleet list.*
 
-Eldar Hero (Ld 10) .................................... 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Eldar Hero (Ld 10)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls for
 your Eldar Hero by paying the cost listed below.
 
-One re-roll ..................................................+50 pts<br>
-Two re-rolls ................................................+75 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+50 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+75 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
+
 
 ### Capital Ships
 
@@ -957,24 +986,33 @@ you have between 0 to 999 points, you cannot field
 any battleships, while from 1000 to 1,999 points
 you can include one, and so on.*
 
-Void Stalker class battleship (pg. 306) ........ 380 pts
+<table class=fleet-list><tbody>
+<tr><td>Void Stalker class battleship (pg. 306)</td><td>380 pts</td></tr>
+</tbody></table>
+
 
 #### 0-12 Cruisers
 
-Eclipse class cruiser (pg. 307)....................... 250 pts<br>
-Shadow class cruiser (pg. 308) .................... 210 pts<br>
-Aurora class light cruiser (pg. 309) ............. 140 pts<br>
-Solaris class light cruiser (pg. 310) ............. 130 pts
+<table class=fleet-list><tbody>
+<tr><td>Eclipse class cruiser (pg. 307)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (pg. 308)</td><td>210 pts</td></tr>
+<tr><td>Aurora class light cruiser (pg. 309)</td><td>140 pts</td></tr>
+<tr><td>Solaris class light cruiser (pg. 310)</td><td>130 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Hellebore class frigate (pg. 311) .................... 65 pts<br>
-Aconite class frigate (pg. 312) ........................ 55 pts<br>
-Hemlock class destroyer (pg. 313) ................. 40 pts<br>
-Nightshade class destroyer (pg. 314) ............. 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Hellebore class frigate (pg. 311)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (pg. 312)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (pg. 313)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (pg. 314)</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 
@@ -1007,13 +1045,19 @@ who replaces the ship’s Leadership with his own.
 If the fleet is worth over 750 points, an Autarch
 must be included to lead it.*
 
-Eldar Autarch (Ld 9) .................................. 75 pts<br>
-Iyanden Bearer of the Flame (Ld 10) ..... 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Eldar Autarch (Ld 9)</td><td>75 pts</td></tr>
+<tr><td>Iyanden Bearer of the Flame (Ld 10)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 The fleet commander may purchase a re-roll, at
 the cost listed below:
 
-One re-roll ..................................................+25 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+25 pts</td></tr>
+</tbody></table>
+
 
 #### Eldar Hero
 
@@ -1022,14 +1066,20 @@ of its normal fleet commander. Only a fleet led by
 an Eldar Hero may take reserves from the Corsair
 Eldar fleet list.*
 
-Eldar Hero (Ld 10) .................................... 100 pts
+<table class=fleet-list><tbody>
+<tr><td>Eldar Hero (Ld 10)</td><td>100 pts</td></tr>
+</tbody></table>
+
 
 You may purchase Fleet Commander re-rolls for
 your Eldar Hero by paying the cost listed below.
 
-One re-roll ..................................................+50 pts<br>
-Two re-rolls ................................................+75 pts<br>
-Three re-rolls ...........................................+100 pts
+<table class=fleet-list><tbody>
+<tr><td>One re-roll</td><td>+50 pts</td></tr>
+<tr><td>Two re-rolls</td><td>+75 pts</td></tr>
+<tr><td>Three re-rolls</td><td>+100 pts</td></tr>
+</tbody></table>
+
 
 #### 0-3 Farseers
 
@@ -1040,7 +1090,10 @@ the vessel a re-roll which may be used on itself,
 another capital ship in the same squadron or an
 escort squadron within 15 cm.*
 
-0-3 Farseers ................................................+30 pts
+<table class=fleet-list><tbody>
+<tr><td>0-3 Farseers</td><td>+30 pts</td></tr>
+</tbody></table>
+
 
 > ### Prince Yriel, Bearer of the Flame, Autarch of Iyanden
 > 
@@ -1057,7 +1110,7 @@ escort squadron within 15 cm.*
 > was along the Path of the Mariner that
 > he found his true calling.
 > 
-> **Prince Yriel .................................150 pts**
+> <table class=fleet-list><tbody><tr><td><strong>Prince Yriel</strong></td><td><strong>150 pts</strong></td></tr></tbody></table>
 > 
 > Prince Yriel has at his disposal the
 > very finest weaponry and resources
@@ -1090,17 +1143,22 @@ every two Wraithships included in the fleet. If
 your fleet is led by an Autarch, you may include
 a single Dragonship as his flagship which does not
 count against this limitation. In order to take the
-Flame of Asuryan, an Eldar Hero must lead the
+_Flame of Asuryan_, an Eldar Hero must lead the
 fleet and be embarked aboard it.*
 
-(0-1) *Flame of Asuryan* (pg. 315) .................. 320 pts<br>
-Dragonship (pg. 316) ..................................... 260 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) <em>Flame of Asuryan</em> (pg. 315)</td><td>320 pts</td></tr>
+<tr><td>Dragonship (pg. 316)</td><td>260 pts</td></tr>
+</tbody></table>
 
 #### Wraithships
 
 *Your fleet may include any number of Wraithships.*
 
-Wraithship (pg. 317) ...................................... 160 pts
+<table class=fleet-list><tbody>
+<tr><td>Wraithship (pg. 317)</td><td>160 pts</td></tr>
+</tbody></table>
+
 
 #### Ghostships
 
@@ -1108,7 +1166,10 @@ Wraithship (pg. 317) ...................................... 160 pts
 a Ghostship. Such a vessel may not also include
 a Farseer or Aspect Warrior crew.*
 
-Ghostship (pg. 292) ............................................. Free
+<table class=fleet-list><tbody>
+<tr><td>Ghostship (pg. 292)</td><td>Free</td></tr>
+</tbody></table>
+
 
 ### Aspect Warrior Host
 
@@ -1116,14 +1177,20 @@ Ghostship (pg. 292) ............................................. Free
 Aspect Warriors, serving as the ship’s fighting
 crew.*
 
-Aspect Warrior Host (pg. 290) .....................+20 pts
+<table class=fleet-list><tbody>
+<tr><td>Aspect Warrior Host (pg. 290)</td><td>+20 pts</td></tr>
+</tbody></table>
+
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Shadowhunter (pg. 318)................................... 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Shadowhunter (pg. 318)</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 

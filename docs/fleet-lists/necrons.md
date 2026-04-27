@@ -284,8 +284,10 @@ are purchased by the fleet as a whole, rather than
 being considered Fleet Commander re-rolls. The
 fleet gets one re-roll and can purchase extra rerolls at the cost shown.
 
-One extra re-roll.......................................... 25 pts<br>
-Two extra re-rolls ........................................ 75 pts
+<table class=fleet-list><tbody>
+<tr><td>One extra re-roll</td><td>25 pts</td></tr>
+<tr><td>Two extra re-rolls</td><td>75 pts</td></tr>
+</tbody></table>
 
 ### Capital Ships
 
@@ -294,12 +296,18 @@ Two extra re-rolls ........................................ 75 pts
 *Your fleet may include up to one tombship for
 every Scythe class harvest ship it contains.*
 
-Cairn class tombship (pg. 387) ....................500 pts
+<table class=fleet-list><tbody>
+<tr><td>Cairn class tombship (pg. 387)</td><td>500 pts</td></tr>
+</tbody></table>
+
 
 *A single tombship may be upgraded to carry a
 [Sepulchre](#sepulchre).*
 
-Sepulchre ....................................................+50 pts
+<table class=fleet-list><tbody>
+<tr><td>Sepulchre</td><td>+50 pts</td></tr>
+</tbody></table>
+
 
 #### Cruisers
 
@@ -307,8 +315,10 @@ Sepulchre ....................................................+50 pts
 harvest ships and up to three Shroud class light
 cruisers.*
 
-0-6 Scythe class harvest ship (pg. 388) ....... 275 pts<br>
-0-3 Shroud class light cruiser (pg. 389) ...... 155 pts
+<table class=fleet-list><tbody>
+<tr><td>0-6 Scythe class harvest ship (pg. 388)</td><td>275 pts</td></tr>
+<tr><td>0-3 Shroud class light cruiser (pg. 389)</td><td>155 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
@@ -318,5 +328,7 @@ cruisers.*
 raiders, and up to twelve Dirge class raiders, in
 squadrons of 2–6.*
 
-0-12 Jackal class raiders (pg. 390) .................. 50 pts<br>
-0-12 Dirge class raiders (pg. 391) ................... 40 pts
+<table class=fleet-list><tbody>
+<tr><td>0-12 Jackal class raiders (pg. 390)</td><td>50 pts</td></tr>
+<tr><td>0-12 Dirge class raiders (pg. 391)</td><td>40 pts</td></tr>
+</tbody></table>

@@ -272,38 +272,58 @@ points, it may have one Warlord. If it is worth
 500–1,000 points two Warlords may be included,
 etc.*
 
-Ork Warlord ................................................ 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Ork Warlord</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 Warlords get one re-roll. They can have up to two
 more re-rolls for the additional cost noted below.
 
-One extra re-roll........................................+20 pts<br>
-Two extra re-rolls ......................................+40 pts
+<table class=fleet-list><tbody>
+<tr><td>One extra re-roll</td><td>+20 pts</td></tr>
+<tr><td>Two extra re-rolls</td><td>+40 pts</td></tr>
+</tbody></table>
 
 A vessel carrying a Warlord doubles its [boarding
 value](../the-end-phase.md#boarding-value) and may include up to one of the upgrades
 shown below at the additional cost indicated.
 
-**Maniac Gunners.................................. +35 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Maniac Gunners</strong></td><td><strong>+35 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the firepower
 of its gunz when it fires.
 
-**Mad Meks ........................................... +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mad Meks</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for damage control.
 
-**Extra Power Fields .............................. +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Extra Power Fields</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship’s [shield](../the-shooting-phase.md#shields) value is increased by +1. If this
 would take it to 3 or more shields, don’t forget
 to mount it on a 60 mm base!
 
-**Mega-armoured Boarding Parties .... +15 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mega-armoured Boarding Parties</strong></td><td><strong>+15 pts</strong></td></tr>
+</tbody></table>
+
 
 +1 modifier on boarding.
 
-**Looted Torpedoes ...............................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Looted Torpedoes</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the strength of
 torpedo salvoes when it fires.
@@ -312,19 +332,24 @@ torpedo salvoes when it fires.
 
 *You may include up to six kroozers in your fleet.*
 
-Terror ship (pg. 362) ...................................... 185 pts<br>
-Kill kroozer (pg. 364) .................................... 155 pts
+<table class=fleet-list><tbody>
+<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Ravager attack ship (pg. 368) ......................... 40 pts<br>
-Onslaught attack ship (pg. 366) ..................... 35 pts<br>
-Grunt assault ship (pg. 370)............................ 30 pts<br>
-Savage gunship (pg. 367)................................. 30 pts<br>
-Brute ramship (pg. 369) .................................. 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+</tbody></table>
+
 
 ### Dakka Dakka
 
@@ -356,37 +381,58 @@ An Ork fleet can include a max. of one Warlord per 500 points.
 ie, if the fleet is worth up to 500 points, it may have one Warlord.
 If it is worth 500–1,000 points two Warlords may be included, etc.*
 
-Ork Warlord ..............................................................................40 pts
+<table class=fleet-list><tbody>
+<tr><td>Ork Warlord</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 Warlords get one re-roll. They can have up to two more re-rolls
 for the additional cost noted below.
 
-One extra re-roll......................................................................+20 pts<br>
-Two extra re-rolls ................................................................... +40 pts
+<table class=fleet-list><tbody>
+<tr><td>One extra re-roll</td><td>+20 pts</td></tr>
+<tr><td>Two extra re-rolls</td><td>+40 pts</td></tr>
+</tbody></table>
+
 
 A vessel carrying a Warlord doubles its boarding value and may
 include up to one of the upgrades shown below at the additional
 cost indicated.
 
-**Maniac Gunners............................................................. +35 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Maniac Gunners</strong></td><td><strong>+35 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the firepower of its gunz when
 it fires.
 
-**Mad Meks ...................................................................... +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mad Meks</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for damage control.
 
-**Extra Power Fields ......................................................... +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Extra Power Fields</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship’s [shield](../the-shooting-phase.md#shields) value is increased by +1. If this would take it
 to 3 or more shields, don’t forget to mount it on a 60 mm base!
 
-**Mega-armoured Boarding Parties ............................... +15 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mega-armoured Boarding Parties</strong></td><td><strong>+15 pts</strong></td></tr>
+</tbody></table>
+
 
 +1 modifier on boarding.
 
-Looted Torpedoes .......................................................... +20 pts
+<table class=fleet-list><tbody>
+<tr><td>Looted Torpedoes</td><td>+20 pts</td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the strength of torpedo salvoes
 when it fires.
@@ -396,7 +442,10 @@ when it fires.
 *You may include up to one Ork Space Hulk in
 your fleet per 1,500 points.*
 
-Ork hulk (pg. 371) .........................................600 pts
+<table class=fleet-list><tbody>
+<tr><td>Ork hulk (pg. 371)</td><td>600 pts</td></tr>
+</tbody></table>
+
 
 An Ork fleet can include a maximum of one
 space hulk per 1,500 points. So if the fleet is
@@ -416,36 +465,46 @@ battlekroozers. For every two kroozers included
 in your fleet, you may pick one vessel from the
 list below.*
 
-(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts<br>
-(0–1) Slamblasta (pg. 360) ............................ 295 pts<br>
-(0–1) Dethdeala (pg. 358) .............................. 275 pts<br>
-(0–1) Kroolboy (pg. 361) ................................ 270 pts<br>
-Hammer class battlekroozer (pg. 356)........ 245 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) <em>Gorbag&#39;s Revenge</em> (pg. 359)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (pg. 360)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (pg. 358)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (pg. 361)</td><td>270 pts</td></tr>
+<tr><td>Hammer class battlekroozer (pg. 356)</td><td>245 pts</td></tr>
+</tbody></table>
 
 ### Kroozers
 
 *You may include up to six kroozers in your fleet.*
 
-Terror ship (pg. 362) ...................................... 185 pts<br>
-Kill kroozer (pg. 364) .................................... 155 pts
+<table class=fleet-list><tbody>
+<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6.*
 
-Ravager attack ship (pg. 368) ......................... 40 pts<br>
-Onslaught attack ship (pg. 366) ..................... 35 pts<br>
-Grunt assault ship (pg. 370)............................ 30 pts<br>
-Savage gunship (pg. 367)................................. 30 pts<br>
-Brute ramship (pg. 369) .................................. 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+</tbody></table>
+
 
 ### Ork Roks
 
 *You can include any number of Ork Roks in your
 fleet.*
 
-Rok (pg. 374) ..................................................... 80 pts
+<table class=fleet-list><tbody>
+<tr><td>Rok (pg. 374)</td><td>80 pts</td></tr>
+</tbody></table>
+
 
 Ork Roks may also be purchased with points for
 [planetary defences](planetary-defences.md), in [scenarios](../scenarios.md) where these are
@@ -546,7 +605,10 @@ is wiped out. If a single escort survives the
 battle, the enemy does not get additional
 victory points for the clan upgrade.
 
-**Goffs ......................................... +20 pts/Black**
+<table class=fleet-list><tbody>
+<tr><td><strong>Goffs</strong></td><td><strong>+20 pts/Black</strong></td></tr>
+</tbody></table>
+
 
 The Goffs are the most aggressive of the Ork
 clans, born fighters amongst a race born for
@@ -557,14 +619,20 @@ skwadrons) gain a +1 bonus to the dice roll
 during [boarding actions](../the-end-phase.md#boarding-actions) and a +1 [Leadership](../the-rules.md#leadership)
 bonus when attempting to [ram](../the-movement-phase.md#all-ahead-full-ramming-speed).
 
-**Evil Sunz ...................................... +20 pts/Red**
+<table class=fleet-list><tbody>
+<tr><td><strong>Evil Sunz</strong></td><td><strong>+20 pts/Red</strong></td></tr>
+</tbody></table>
+
 
 Evil Sunz are obsessed with speed, endlessly
 tinkering with the engines of all their vehicles
 and ships, trying to get as much speed out of them
 as possible. All Evil Sunz ships gain +5 cm speed.
 
-**Bad Moonz ............................. +30 pts/Yellow**
+<table class=fleet-list><tbody>
+<tr><td><strong>Bad Moonz</strong></td><td><strong>+30 pts/Yellow</strong></td></tr>
+</tbody></table>
+
 
 Bad Moonz are the richest of the clans, using their
 own fast-growing teeth as currency. This also has
@@ -575,7 +643,10 @@ of gaudy colours and all the best gizmos that money
 can buy. All ships in a Bad Moonz skwadron gain
 the Maniac Gunners upgrade.
 
-**Deathskullz ................................ +30 pts/Blue**
+<table class=fleet-list><tbody>
+<tr><td><strong>Deathskullz</strong></td><td><strong>+30 pts/Blue</strong></td></tr>
+</tbody></table>
+
 
 The Deathskulls are the masters of salvage. After
 a good old scrap it will always be the Deathskullz
@@ -585,7 +656,10 @@ battlefield. Deathskullz capital ships and/
 or tiddla skwadrons have ‘looted’ upgrades
 (torpedoes and/or lances) for no additional cost.
 
-**Blood Axes.................................... Free/Green**
+<table class=fleet-list><tbody>
+<tr><td><strong>Blood Axes</strong></td><td><strong>Free/Green</strong></td></tr>
+</tbody></table>
+
 
 Most Orks distrust the Blood Axes, who they
 consider to be treacherous gits and cowards
@@ -604,7 +678,10 @@ commandeered vessels must have an Orky colour
 scheme and kustom-job – you can’t just borrow
 the ships from your Imperial or Chaos fleet!
 
-**Snakebites .................................... Free/Brown**
+<table class=fleet-list><tbody>
+<tr><td><strong>Snakebites</strong></td><td><strong>Free/Brown</strong></td></tr>
+</tbody></table>
+
 
 The Snakebites are a primitive clan (even by Ork
 standards) and use technology only reluctantly.
@@ -687,62 +764,95 @@ Not all Gubbins apply to escorts or are taken
 the same way as capital ships, as indicated by
 their notes.
 
-**Soopa Boostas ..................................... +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Soopa Boostas</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship gains +5 cm speed, and it rolls 4D6 cm
 when on [*All Ahead Full*] special orders.
 
-**Extra Power Fields ............................. +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Extra Power Fields</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts) The ship’s [shield](../the-shooting-phase.md#shields) value is
 increased by +1. If this would take it to 3 or more
 shields, don’t forget to mount it on a 60 mm base!
 
-**Extra Turrets .......................................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Extra Turrets</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship gains +2 [Turrets](../the-ordnance-phase.md#turrets) (Escorts get +1 Turret).
 This cannot be combined with Maniac Turrets.
 
-**Maniac Turrets .................................... +10 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Maniac Turrets</strong></td><td><strong>+10 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) The ship’s [turret](../the-ordnance-phase.md#turrets) value is
 replaced by D3 turrets. This cannot be combined
 with Extra Turrets.
 
-**Looted Lances......................................+30 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Looted Lances</strong></td><td><strong>+30 pts</strong></td></tr>
+</tbody></table>
+
 
 Any heavy [gunz batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) on the ship can be
 replaced with a Strength-2 [lance](../the-shooting-phase.md#direct-firing-lances) battery. Range
 is 15 cm for escorts, 30 cm for capital ships.
 
-**Looted Torpedoes ...............................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Looted Torpedoes</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the Strength of
 torpedo salvoes when it fires.
 
-**Mad Meks ............................................ +25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mad Meks</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) The ship may re-roll the dice
 when [repairing critical damage](../the-end-phase.md#damage-control).
 
-**Maniac Gunners..................................+30 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Maniac Gunners</strong></td><td><strong>+30 pts</strong></td></tr>
+</tbody></table>
+
 
 The ship may re-roll the dice for the firepower
 of its gunz when it fires.
 
-**Mega-Armoured Boarding Parties .... +15 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Mega-Armoured Boarding Parties</strong></td><td><strong>+15 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) The ship has an additional +1
 modifier when rolling for [boarding actions](../the-end-phase.md#boarding-actions) and
 hit-and-run attacks of any type.
 
-Prow Ram ............................................ +10 pts
+<table class=fleet-list><tbody>
+<tr><td>Prow Ram</td><td>+10 pts</td></tr>
+</tbody></table>
+
 
 (Not for escorts.) This adds +1 bonus when
 rolling a [leadership check to ram](../the-movement-phase.md#all-ahead-full-ramming-speed) and causes
 1Hp before rolling to inf lict damage.
 
-**Tellyporta ............................................+30 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Tellyporta</strong></td><td><strong>+30 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) [Hit-and-run teleport attacks](../the-end-phase.md#teleport-attacks)
 can be made to 30 cm.
@@ -755,7 +865,10 @@ Gubbins** are not available for escorts (except
 the Grunt where indicated) and can only be
 added to capital ships.
 
-**Klaws ................................................... +10 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Klaws</strong></td><td><strong>+10 pts</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts except the Grunt at +5 points per
 escort.) Klaws are unaffected by [special orders](../the-rules.md#special-orders)
@@ -788,7 +901,10 @@ it takes a third additional hit. Either ship may
 conduct boarding actions as normal. Damage
 caused by Klaws cause critical hits as normal.
 
-**Shokk-Attack Lance .................................Free**
+<table class=fleet-list><tbody>
+<tr><td><strong>Shokk-Attack Lance</strong></td><td><strong>Free</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) A ship’s prow heavy [gunz
 batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) can be replaced with this weapon,
@@ -830,7 +946,10 @@ it as the hordes have no effect. On a roll of 3 or
 less, the nearest escort in range with no shields
 is destroyed (being braced works normally).
 
-**Assault Karrier.........................................Free**
+<table class=fleet-list><tbody>
+<tr><td><strong>Assault Karrier</strong></td><td><strong>Free</strong></td></tr>
+</tbody></table>
+
 
 (Not for escorts.) Any ship that takes both
 [attack craft](../the-ordnance-phase.md#attack-craft) and [torpedoes](../the-ordnance-phase.md#torpedoes) can be optimized
@@ -849,15 +968,20 @@ crippled or braced, but not both).
 500 points, or part, that the fleet is worth – no
 more, no less.*
 
-Ork Warlord ................................................... Free
+<table class=fleet-list><tbody>
+<tr><td>Ork Warlord</td><td>Free</td></tr>
+</tbody></table>
+
 
 A Warlord adds +2 to one [boarding](../the-end-phase.md#boarding-actions) dice roll
 per game. A Warlord has one [re-roll](../the-rules.md#re-rolls), and may
 purchase one or two more for the points cost
 shown below.
 
-One extra re-roll........................................+20 pts<br>
-Two extra re-rolls ......................................+40 pts
+<table class=fleet-list><tbody>
+<tr><td>One extra re-roll</td><td>+20 pts</td></tr>
+<tr><td>Two extra re-rolls</td><td>+40 pts</td></tr>
+</tbody></table>
 
 A Warlord may choose for his own ship or escort
 skwadron one upgrade from the [Gubbins](#gubbins) list for
@@ -882,36 +1006,44 @@ under his command.*
 *1 Battlekroozer/ship, chosen from the following
 list:*
 
-(0–1) Gorbag’s Revenge (pg. 359).................. 310 pts<br>
-(0–1) Slamblasta (pg. 360) ............................ 295 pts<br>
-(0–1) Dethdeala (pg. 358) .............................. 275 pts<br>
-(0–1) Kroolboy (pg. 361) ................................ 270 pts<br>
-Hammer class battlekroozer (pg. 356)........ 245 pts
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Gorbag&#39;s Revenge (pg. 359)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (pg. 360)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (pg. 358)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (pg. 361)</td><td>270 pts</td></tr>
+</tbody></table>
 
 #### Big ship skwadron
 
 *1-2 Kroozers, chosen from the following list:*
 
-Terror ship (pg. 362) ...................................... 185 pts<br>
-Kill kroozer (pg. 364) .................................... 155 pts<br>
-Lite kroozer (pg. 362) ..................................... 90 pts
+<table class=fleet-list><tbody>
+<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
+<tr><td>Lite kroozer (pg. 362)</td><td>90 pts</td></tr>
+</tbody></table>
 
 #### Tiddla skwadron
 
 *3-10 Escorts, chosen from the following list in any
 mix desired:*
 
-Ravager attack ship (pg. 368) ......................... 40 pts<br>
-Onslaught attack ship (pg. 366) ..................... 35 pts<br>
-Grunt assault ship (pg. 370)............................ 30 pts<br>
-Savage gunship (pg. 367)................................. 30 pts<br>
-Brute ramship (pg. 369) .................................. 25 pts
+<table class=fleet-list><tbody>
+<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+</tbody></table>
 
 #### Rok skwadron
 
 *1–4 Roks*
 
-Rok (pg. 374) ..................................................... 80 pts
+<table class=fleet-list><tbody>
+<tr><td>Rok (pg. 374)</td><td>80 pts</td></tr>
+</tbody></table>
+
 
 #### Space Hulks
 
@@ -925,7 +1057,10 @@ led can take upgrades from the list of Gubbins
 for double the listed cost. Upgrades that increase
 its boarding value or speed may not be taken.
 
-Ork hulk (pg. 371) .........................................600 pts
+<table class=fleet-list><tbody>
+<tr><td>Ork hulk (pg. 371)</td><td>600 pts</td></tr>
+</tbody></table>
+
 
 ### Ordnance
 Ork [attack craft](../the-ordnance-phase.md#attack-craft) carriers use fighta-bommas

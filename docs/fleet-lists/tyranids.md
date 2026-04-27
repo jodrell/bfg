@@ -599,21 +599,29 @@ If a degree of randomness is desired the
 following refits can be rolled against 2D6
 using the restrictions listed previously.
 
-**2: Solar Vanes ...................................... +15 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>2: Solar Vanes</strong></td><td><strong>+15 pts</strong></td></tr>
+</tbody></table>
 
 The ship has bio-engineered solar wings that
 spread to absorb the smallest amount of ambient
 radiated energy from surrounding space. The
 ship gains +5 cm speed.
 
-**3: Adrenaline Sacs ............................... +10 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>3: Adrenaline Sacs</strong></td><td><strong>+10 pts</strong></td></tr>
+</tbody></table>
+
 
 The primary propulsion valves and constrictor
 muscles at the rear of the bio-ship have grown
 in size and strength. The ship gains +1D6 when
 on [*All Ahead Full*] special orders.
 
-**4: Psychic Scream ................................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>4: Psychic Scream</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The bio-ship’s connection to the Hive Mind is so
 pervasive that an indelible psychic reverberation
@@ -623,14 +631,20 @@ and instilling visceral terror in any that
 approach. Any enemy vessels within 15 cm suffer
 -2 Ld. Intended solely for hive ships.
 
-**5: More Discharge Vents .................... +15 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>5: More Discharge Vents</strong></td><td><strong>+15 pts</strong></td></tr>
+</tbody></table>
+
 
 The number of discharge vents along the beast’s
 length has increased dramatically. The creature
 reduces the distance it needs to move before
 turning by 5 cm. Not intended for escorts.
 
-**6: Extra Spore Cysts ....................+10 pts each**
+<table class=fleet-list><tbody>
+<tr><td><strong>6: Extra Spore Cysts</strong></td><td><strong>+10 pts each</strong></td></tr>
+</tbody></table>
+
 
 The ship gains one spore cyst. No more than
 two spore cysts can be gained in this manner. As
@@ -638,7 +652,10 @@ Tyranid Kraken do not have spores, they cannot
 evolve the ability to use spores and thus cannot
 take this refit.
 
-**7: Reinforced Carapace ...............+10 pts each**
+<table class=fleet-list><tbody>
+<tr><td><strong>7: Reinforced Carapace</strong></td><td><strong>+10 pts each</strong></td></tr>
+</tbody></table>
+
 
 The creature has grown to an inordinate size
 with correspondingly reinforced internal
@@ -654,7 +671,10 @@ cannot have another hiveship, then the fourth
 reinforced carapace refit cannot be taken by a
 Tyranid cruiser. Not intended for escorts.
 
-**8 Mucous Membrane...........................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>8 Mucous Membrane</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The bio-ship is covered with a slimy coat
 of mucous making it difficult for relatively
@@ -665,7 +685,10 @@ when rolling their Attack roll, and all [torpedoes](../the-ordnance-phase.md#tor
 must roll +1 to hit (maximum of 6+). Ranged
 weapon hits remain unaffected.
 
-**9: Accelerated Healing ........................ +10 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>9: Accelerated Healing</strong></td><td><strong>+10 pts</strong></td></tr>
+</tbody></table>
+
 
 The bio-ship has enhanced its ability to heal
 critical wounds, enabling capital ships to roll
@@ -674,7 +697,10 @@ to repair [critical damage](../the-shooting-phase.md#critical-hits). They are ad
 the halving of the dice for having a [Blast Marker](../the-shooting-phase.md#blast-markers)
 in contact with a vessel. Not intended for escorts.
 
-**10: Drone Link ....................................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>10: Drone Link</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The creature maintains an unbroken link with
 the Vanguard drone ships and hive ships of
@@ -683,7 +709,10 @@ drone ship, all pyro-acid batteries benefit from
 a left shift on the [Gunnery table](../the-shooting-phase.md#gunnery-table) (before all other
 modifiers).
 
-**11: Tenacity ..........................................+20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>11: Tenacity</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
 
 The creature has evolved the capability of
 effectively bringing its weapons to bear on its
@@ -693,7 +722,10 @@ Retros*] or [*Come to New Heading*] special orders,
 its pyro-acid batteries and bio-plasma weapons
 are unaffected.
 
-**12: Mega-Spore Mines......+10 pts/launch bay**
+<table class=fleet-list><tbody>
+<tr><td><strong>12: Mega-Spore Mines</strong></td><td><strong>+10 pts/launch bay</strong></td></tr>
+</tbody></table>
+
 
 Ships equipped with assault boat launch bays can
 exchange all their launch bays for spore mine
@@ -800,28 +832,37 @@ a force for smaller games in campaigns.
 *Your fleet may include any number of Vanguard
 drone ships.*
 
-**Vanguard drone ship (pg. 416) .................. 20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Vanguard drone ship (pg. 416)</strong></td><td><strong>20 pts</strong></td></tr>
+</tbody></table>
+
 
 A Vanguard drone ship must be armed with one
 weapon chosen from the following list:
 
-Pyro-acid battery ........................................+5 pts<br>
-Feeder tentacles ...........................................+5 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+5 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+</tbody></table>
 
 ### Kraken
 
 *Your fleet may include any number of Kraken.*
 
-**Kraken (pg. 415)......................................... 25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Kraken (pg. 415)</strong></td><td><strong>25 pts</strong></td></tr>
+</tbody></table>
 
 A Kraken must be armed with one weapon
 chosen from the following list:
 
-Pyro-acid battery ...................................... +15 pts
-Feeder tentacles ...........................................+5 pts
-Massive claws............................................. +10 pts
-Bio-plasma discharge ............................... +10 pts
-Torpedoes ................................................... +15 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+15 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+<tr><td>Massive claws</td><td>+10 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+10 pts</td></tr>
+<tr><td>Torpedoes</td><td>+15 pts</td></tr>
+</tbody></table>
 
 ### Squadrons
 
@@ -871,12 +912,18 @@ Leadership test to be passed automatically. The
 decision to use a Hive Mind Imperative must be
 taken before the dice are rolled.*
 
-Hive Mind Influence re-roll...................... 30 pts
+<table class=fleet-list><tbody>
+<tr><td>Hive Mind Influence re-roll</td><td>30 pts</td></tr>
+</tbody></table>
+
 
 A maximum of one Hive Mind Influence re-roll
 can be purchased per hive ship in the fleet.
 
-Hive Mind Imperative................................ 40 pts
+<table class=fleet-list><tbody>
+<tr><td>Hive Mind Imperative</td><td>40 pts</td></tr>
+</tbody></table>
+
 
 A maximum of one Hive Mind Imperative can be
 purchased per two hive ships in the fleet, though
@@ -888,52 +935,75 @@ as long as the fleet contains at least one hive ship.
 *Each hive ship allows the Tyranid player to
 purchase 6–12 escort ships and 0–2 capital ships.*
 
-**Hive ship (Ld 8) (pg. 412).........................200 pts**<br>
-Increase to Ld 9 .........................................+40 pts
+<table class=fleet-list><tbody>
+<tr><td><strong>Hive ship (Ld 8) (pg. 412)</strong></td><td><strong>200 pts</strong></td></tr>
+<tr><td>Increase to Ld 9</td><td>+40 pts</td></tr>
+</tbody></table>
 
 A hive ship must be armed with weapons chosen
 from the following list:
 
-**One prow weapon**<br>
-Pyro-acid battery ......................................+30 pts<br>
-Feeder tentacles & massive claws ........... +15 pts<br>
-Bio-plasma spines .....................................+20 pts<br>
-Boarding torpedoes ..................................+25 pts
+**One prow weapon**
 
-**One thorax weapon**<br>
-Pyro-acid battery ......................................+30 pts<br>
-Bio-plasma discharge ...............................+20 pts<br>
-Launch bays ...............................................+20 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+30 pts</td></tr>
+<tr><td>Feeder tentacles &amp; massive claws</td><td>+15 pts</td></tr>
+<tr><td>Bio-plasma spines</td><td>+20 pts</td></tr>
+<tr><td>Boarding torpedoes</td><td>+25 pts</td></tr>
+</tbody></table>
 
-**Up to Three Port/Starboard Weapons**<br>
-Pyro-acid battery ...................................... +15 pts<br>
-Bio-plasma discharge ...............................+20 pts<br>
-Launch bays ...............................................+20 pts
+**One thorax weapon**
+
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+30 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+20 pts</td></tr>
+<tr><td>Launch bays</td><td>+20 pts</td></tr>
+</tbody></table>
+
+**Up to Three Port/Starboard Weapons**
+
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+15 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+20 pts</td></tr>
+<tr><td>Launch bays</td><td>+20 pts</td></tr>
+</tbody></table>
 
 ### Capital Ships
 
 *You may include up to 2 capital ships for each
 hive ship in the fleet.*
 
-**Cruiser (pg. 414) ........................................ 80 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Cruiser (pg. 414)</strong></td><td><strong>80 pts</strong></td></tr>
+</tbody></table>
+
 
 A Tyranid cruiser must be armed with weapons
 chosen from the following list:
 
-**One prow weapon**<br>
-Pyro-acid battery ......................................+20 pts<br>
-Feeder tentacles ......................................... +10 pts<br>
-Massive claws...............................................+5 pts<br>
-Boarding torpedoes .................................. +10 pts
+**One prow weapon**
 
-**One thorax weapon**<br>
-Feeder tentacles ......................................... +10 pts<br>
-Massive claws...............................................+5 pts<br>
-Boarding torpedoes .................................. +10 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+20 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+10 pts</td></tr>
+<tr><td>Massive claws</td><td>+5 pts</td></tr>
+<tr><td>Boarding torpedoes</td><td>+10 pts</td></tr>
+</tbody></table>
 
-**Up to two Port/Starboard Weapons**<br>
-Pyro-acid battery ...................................... +15 pts<br>
-Bio-plasma discharge ...............................+20 pts
+**One thorax weapon**
+
+<table class=fleet-list><tbody>
+<tr><td>Feeder tentacles</td><td>+10 pts</td></tr>
+<tr><td>Massive claws</td><td>+5 pts</td></tr>
+<tr><td>Boarding torpedoes</td><td>+10 pts</td></tr>
+</tbody></table>
+
+**Up to two Port/Starboard Weapons**
+
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+15 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+20 pts</td></tr>
+</tbody></table>
 
 ### Escorts
 
@@ -942,38 +1012,50 @@ ships for each hive ship. If no hive ships are chosen,
 only Kraken and Vanguard drone ships may be
 included in the fleet.*
 
-**Vanguard drone ship (pg. 416) .................. 20 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Vanguard drone ship (pg. 416)</strong></td><td><strong>20 pts</strong></td></tr>
+</tbody></table>
 
 A Vanguard drone ship must be armed with one
 weapon chosen from the following list:
 
-Pyro-acid battery ........................................+5 pts<br>
-Feeder tentacles ...........................................+5 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+5 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+</tbody></table>
 
 *The fleet must have at least six escort drones for
 every hive ship in the fleet. If desired, this may
 be in addition to the 6–12 escorts (of any type)
 that may be taken for every hive ship in the fleet.*
 
-**Escort drone (pg. 417) ................................ 10 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Escort drone (pg. 417)</strong></td><td><strong>10 pts</strong></td></tr>
+</tbody></table>
 
 A Tyranid escort drone must be armed with one
 weapon chosen from the following list:
 
-Pyro-acid battery ...................................... +10 pts<br>
-Feeder tentacles ...........................................+5 pts<br>
-Bio-plasma discharge .................................+5 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+10 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+5 pts</td></tr>
+</tbody></table>
 
-**Kraken (pg. 415)......................................... 25 pts**
+<table class=fleet-list><tbody>
+<tr><td><strong>Kraken (pg. 415)</strong></td><td><strong>25 pts</strong></td></tr>
+</tbody></table>
 
 A Kraken must be armed with one weapon
 chosen from the following list:
 
-Pyro-acid battery ...................................... +15 pts<br>
-Feeder tentacles ...........................................+5 pts<br>
-Massive claws............................................. +10 pts<br>
-Bio-plasma discharge ............................... +10 pts<br>
-Boarding torpedoes .................................. +15 pts
+<table class=fleet-list><tbody>
+<tr><td>Pyro-acid battery</td><td>+15 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+<tr><td>Massive claws</td><td>+10 pts</td></tr>
+<tr><td>Bio-plasma discharge</td><td>+10 pts</td></tr>
+<tr><td>Boarding torpedoes</td><td>+15 pts</td></tr>
+</tbody></table>
 
 ### Squadrons
 
@@ -989,9 +1071,11 @@ Up to 10 % of the fleet’s points allowance may
 be spent on Ordnance markers as long as at least
 one hive ship is chosen.
 
-Strength 4 boarding torpedo marker ...... 12 pts<br>
-Assault boat marker ..................................... 8 pts<br>
-Fighter marker ............................................... 7 pts
+<table class=fleet-list><tbody>
+<tr><td>Strength 4 boarding torpedo marker</td><td>12 pts</td></tr>
+<tr><td>Assault boat marker</td><td>8 pts</td></tr>
+<tr><td>Fighter marker</td><td>7 pts</td></tr>
+</tbody></table>
 
 Ordnance may be formed up into waves which
 are treated as squadrons for the purposes of

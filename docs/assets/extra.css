@@ -3,3 +3,19 @@ article img {
   margin: 0 auto 1em auto;
   width: 67%;
 }
+
+.fleet-list {
+    width:100%;
+}
+
+.fleet-list td {
+    border-bottom: 1px dashed #888;
+}
+
+.fleet-list tr td:first-child {
+    text-align:left;
+}
+
+.fleet-list tr td:last-child {
+    text-align:right;
+}
