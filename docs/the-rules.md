@@ -638,7 +638,7 @@ are explained fully later in the rules.
 There are six different special orders and
 each one allows a vessel to perform better at
 something, such as gunnery or navigation,
-during its [turn](the-movement-phase.md#turning). A ship or [squadron](squadrons.md) can only
+during its turn. A ship or [squadron](squadrons.md) can only
 ever be on one special order at a time.
 Special orders are declared during the
 [Movement Phase](the-movement-phase.md) by choosing a vessel
