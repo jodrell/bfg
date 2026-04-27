@@ -565,8 +565,8 @@ attacking fleet in a convoy run scenario.
 
 | D6 ROLL | RESULT |
 | :-: | --- |
-| 1 | Two attack craft or deadfall torpedo counters. |
-| 2 | Three attack craft or deadfall torpedo counters. |
+| 1 | Two attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
+| 2 | Three attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
 | 3 | A squadron of escort ships worth up to 150 points. |
 | 4 | One capital ship worth up to 185 points. |
 | 5 | One capital ship worth up to 210 points. |
@@ -627,7 +627,7 @@ when activated.
 | :-: | --- |
 | 1 | One orbital mine counter. |
 | 2 | Two orbital mine counters. |
-| 3 | One orbital mine counter and one attack craft or deadfall torpedo counter. |
+| 3 | One orbital mine counter and one attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counter. |
 | 4 | A squadron of escort ships worth up to 150 points. |
 | 5 | A squadron of escort ships worth up to 180 points. |
 | 6 | One capital ship worth up to 210 points. |
@@ -642,8 +642,8 @@ sides in the Gothic War.
 
 | D6 ROLL | RESULT |
 | :-: | --- |
-| 1 | One attack craft or deadfall torpedo counter. |
-| 2 | Two attack craft or deadfall torpedo counters. |
+| 1 | One attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counter. |
+| 2 | Two attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
 | 3 | A squadron of escort ships and/or Xenos vessels worth up to 100 points. |
 | 4 | A squadron of escort ships and/or Xenos vessels worth up to 150 points. |
 | 5 | A squadron of escort ships and/or Xenos vessels worth up to 200 points. |
@@ -668,9 +668,9 @@ alternate threat tables on [???]
 
 | D6 ROLL | RESULT |
 | :-: | --- |
-| 1 | One attack craft or deadfall torpedo counter. |
-| 2 | Two attack craft or deadfall torpedo counters. |
-| 3 | Three attack craft or deadfall torpedo counters. |
+| 1 | One attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counter. |
+| 2 | Two attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
+| 3 | Three attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
 | 4 | A squadron of escort ships worth up to 100 points. |
 | 5 | A squadron of escort ships worth up to 150 points. |
 | 6 | One capital ship worth up to 200 points. |
@@ -1176,7 +1176,7 @@ the table below from the attacker’s fleet list.
 
 | D6 ROLL | RESULT |
 | :-: | --- |
-| 1 | Three attack craft or deadfall torpedo counters. |
+| 1 | Three attack craft or [deadfall torpedo](../scenarios/convoy.md#deadfall-torpedoes) counters. |
 | 2 | A squadron of escort ships worth up to 100 points. |
 | 3 | A squadron of escort ships worth up to 150 points. |
 | 4 | A squadron of escort ships worth up to 200 points. |

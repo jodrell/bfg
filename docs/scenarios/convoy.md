@@ -41,14 +41,14 @@ phenomena](../the-battlefield.md#celestial-phenomena) in any mutually agreed fas
 If you wish, you can use [battlezone generators](../the-battlefield.md#battlezones)
 for the Convoy scenario. Roll to see which
 region of space the convoy is moving through
-and then generate celestial phenomena on
+and then generate [celestial phenomena](../the-battlefield.md#celestial-phenomena) on
 the appropriate battlezone generator.
 
 ## Set-up
 
 The attacking player sets up first. Place a
 face down Contact marker on the table for
-each capital ship, [squadron](../squadrons.md), deadfall missile
+each capital ship, [squadron](../squadrons.md), [deadfall missile](#deadfall-torpedoes)
 or [attack craft](../the-ordnance-phase.md#attack-craft) cluster. Markers must be
 placed at least 30 cm apart and may not be
 placed within 30 cm of a table edge. If all

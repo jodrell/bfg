@@ -807,13 +807,13 @@ roll for divisions to arrive on the tabletop.
 ### Exterminatus
 
 Tyranids will never be the attacking forces
-in an exterminatus scenario – substitute
-Planetary Assault instead if randomly
+in an [exterminatus scenario](../scenarios/exterminatus.md) – substitute
+[Planetary Assault](../scenarios/planetary-assault.md) instead if randomly
 generated. Worlds infested by Tyranids are
 all too often the recipients of Exterminatus,
 however, so hive fleets make good defenders.
 On defence the Tyranids can spend additional
-points for planetary defences on Ordnance.
+points for [planetary defences](../fleet-lists/planetary-defences.md) on [Ordnance](../the-ordnance-phase.md).
 
 ### Fleet Engagement
 

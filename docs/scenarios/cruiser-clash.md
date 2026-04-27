@@ -65,10 +65,10 @@ one fleet has all its ships destroyed.
 Normal [victory points](../scenarios.md#victory-points) are not used in this
 scenario. Instead, at the end of the game,
 each player scores 1 point for each point of
-damage they have inflicted on the enemy
+[damage](../the-shooting-phase.md#damage) they have inflicted on the enemy
 ships. A player scores an additional point
-for each crippled enemy ship, or 3 additional
-points for each destroyed enemy ship.
+for each [crippled](../the-shooting-phase.md#crippled-ships) enemy ship, or 3 additional
+points for each [destroyed](../the-shooting-phase.md#catastrophic-damage) enemy ship.
 
 For example, if an enemy ship suffers 5
 points of damage this earns the opposing
@@ -93,11 +93,11 @@ of the other Battlefleet Gothic rules.
 One thing you could do is remove the
 restriction on the maximum points value
 of the cruisers, which means that you’ll be
-able to take cruisers with nova cannons
-and launch bays if you want. Alternatively,
+able to take cruisers with [nova cannons](../the-shooting-phase.md#nova-cannon)
+and [launch bays](../the-ordnance-phase.md#launching-ordnance) if you want. Alternatively,
 you could allow each player one cruiser
 with launch bays in their fleet, or some
-other restriction. Refer to the Fleet lists for
+other restriction. Refer to the [Fleet lists](../fleet-lists.md) for
 the points values of different cruisers.
 
 As another alternative, the players can pick
@@ -125,7 +125,7 @@ When you’ve got an idea of how these
 basic types of celestial phenomena work
 in the game (and the tactics you can use
 to make the most of them), you can use
-the full celestial phenomena rules. If you
+the full [celestial phenomena](../the-battlefield.md#celestial-phenomena) rules. If you
 do this, roll a dice – on a roll of a 1, 2 or 3
 the battle takes place in the [outer reaches](../the-battlefield.md#5-outer-reaches-generator);
 on a 4, 5 or 6 the battle is fought in [deep

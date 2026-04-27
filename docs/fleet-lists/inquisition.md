@@ -196,7 +196,7 @@ leading the fleet is affiliated with. This will
 typically (though not necessarily) be related to
 the enemy the fleet is facing. For example, an
 Ordo Hereticus Inquisitor may lead a fleet to
-perform Exterminatus on a planet subsumed
+perform [Exterminatus](../scenarios/exterminatus.md) on a planet subsumed
 by a witch-cult, an Ordo Xenos Inquisitor
 and her kill-team may be sent to clear a
 derelict Space Hulk of a Tyranid infestation,
@@ -236,8 +236,8 @@ action](../the-end-phase.md#boarding-actions).
 their roll, and such attacks against this ship
 subtract -1 from their roll.
 
-If a Blackship is used as an Exterminatus
-vessel, a Hereticus Inquisitor must lead it.
+If a Blackship is used as an [Exterminatus
+vessel](../scenarios/exterminatus.md#special-rules), a Hereticus Inquisitor must lead it.
 
 #### Reserve/allies
 

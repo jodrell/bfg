@@ -1,7 +1,7 @@
 # The Ordnance Phase
 
-**Ordnance includes missiles the size of skyscrapers to swarms
-of small attack craft such as fighters and bombers.**
+**Ordnance includes [missiles](#torpedoes) the size of skyscrapers to swarms
+of small [attack craft](#attack-craft) such as [fighters](#fighters) and [bombers](#bombers).**
 
 All ordnance attacks are represented
 by markers that are moved across the

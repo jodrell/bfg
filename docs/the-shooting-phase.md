@@ -384,7 +384,9 @@ would mean the *Unclean* rolled 5D6 instead.
   </thead>
   <tbody>
     <tr>
-      <td rowspan="20" style="writing-mode: vertical-rl;text-orientation: mixed;">Firepower</td>
+      <td rowspan="20" style="padding:3em 0 0 0">
+          <div style="transform: rotate(90deg)">Firepower</div>
+      </td>
       <td align=center>1</td>
       <td align=center>1</td>
       <td align=center>1</td>
@@ -779,7 +781,7 @@ other such line-of-sight
 obstructions. See [pg. 110](the-battlefield.md#asteroid-fields)
 concerning [asteroid fields](the-battlefield.md#asteroid-fields).
 
-Exterminatus vessels used
+[Exterminatus vessels](scenarios/exterminatus.md#special-rules) used
 in scenarios that require
 them normally replace their
 standard prow weapon

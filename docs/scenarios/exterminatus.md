@@ -15,7 +15,7 @@ modified to become an Exterminator for
 every 1,000 points (or part) in his fleet (i.e.
 up to 1,000 points = one Exterminator,
 1,001-2,000 points = two Exterminators,
-etc.). Nominate any capital ship to be an
+etc.). Nominate any [capital ship] to be an
 Exterminator: the ship’s prow armament is
 replaced by an Armageddon weapon, which
 can only be used against planetary targets (in

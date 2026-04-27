@@ -265,7 +265,7 @@ have a Chaos Space Marine crew. Any number
 of capital ships can be upgraded to Daemon
 ships subject to these limitations.
 
-Daemon ships cannot carry Exterminatus
+Daemon ships cannot carry [Exterminatus](../scenarios/exterminatus.md)
 weapons and do not score any points for landing
 troops in a planetary assault (the Daemons are
 bound within the hull of their vessel, whilst able
