@@ -402,22 +402,22 @@ special rules.
 cruisers in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <em>Omnissiah's Victory</em> (pg. 124)</td><td>415 pts</td></tr>
-<tr><td>Emperor class battleship (pg. 51)</td><td>400 pts</td></tr>
-<tr><td>Retribution class battleship (pg. 52)</td><td>380 pts</td></tr>
-<tr><td>Oberon class battleship (pg. 54)</td><td>370 pts</td></tr>
+<tr><td>(0-1) <em>Omnissiah's Victory</em> (<a target="_new" title="Open Page 124 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=124">pg. 124</a>)</td><td>415 pts</td></tr>
+<tr><td>Emperor class battleship (<a target="_new" title="Open Page 51 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=51">pg. 51</a>)</td><td>400 pts</td></tr>
+<tr><td>Retribution class battleship (<a target="_new" title="Open Page 52 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=52">pg. 52</a>)</td><td>380 pts</td></tr>
+<tr><td>Oberon class battleship (<a target="_new" title="Open Page 54 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=54">pg. 54</a>)</td><td>370 pts</td></tr>
 </tbody></table>
 
 #### Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Dictator class cruiser (pg. 65)</td><td>255 pts</td></tr>
-<tr><td>Tyrant class cruiser (pg. 67)</td><td>220 pts</td></tr>
-<tr><td>Gothic class cruiser (pg. 68)</td><td>215 pts</td></tr>
-<tr><td>Lunar class cruiser (pg. 69)</td><td>215 pts</td></tr>
-<tr><td>Endeavour class light cruiser (pg. 70)</td><td>125 pts</td></tr>
-<tr><td>Endurance class light cruiser (pg. 72)</td><td>125 pts</td></tr>
-<tr><td>Defiant class light cruiser (pg. 74)</td><td>130 pts</td></tr>
+<tr><td>Dictator class cruiser (<a target="_new" title="Open Page 65 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=65">pg. 65</a>)</td><td>255 pts</td></tr>
+<tr><td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td><td>220 pts</td></tr>
+<tr><td>Gothic class cruiser (<a target="_new" title="Open Page 68 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=68">pg. 68</a>)</td><td>215 pts</td></tr>
+<tr><td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td><td>215 pts</td></tr>
+<tr><td>Endeavour class light cruiser (<a target="_new" title="Open Page 70 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=70">pg. 70</a>)</td><td>125 pts</td></tr>
+<tr><td>Endurance class light cruiser (<a target="_new" title="Open Page 72 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=72">pg. 72</a>)</td><td>125 pts</td></tr>
+<tr><td>Defiant class light cruiser (<a target="_new" title="Open Page 74 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=74">pg. 74</a>)</td><td>130 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -429,13 +429,13 @@ for the point costs listed below but otherwise
 unmodified from their normal profiles.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova Class Frigate (pg. 105)</td><td>45 pts</td></tr>
-<tr><td>Firestorm Class Frigate (pg. 77)</td><td>40 pts</td></tr>
-<tr><td>Gladius Class Frigate (pg. 106)</td><td>40 pts</td></tr>
-<tr><td>Sword Class Frigate (pg. 80)</td><td>35 pts</td></tr>
-<tr><td>Falchion Class Frigate (pg. 78)</td><td>35 pts</td></tr>
-<tr><td>Hunter Class Destroyer (pg. 107)</td><td>35 pts</td></tr>
-<tr><td>Cobra Class Destroyer (pg. 82)</td><td>30 pts</td></tr>
+<tr><td>Nova Class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>45 pts</td></tr>
+<tr><td>Firestorm Class Frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>40 pts</td></tr>
+<tr><td>Gladius Class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>40 pts</td></tr>
+<tr><td>Sword Class Frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>35 pts</td></tr>
+<tr><td>Falchion Class Frigate (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>35 pts</td></tr>
+<tr><td>Hunter Class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>35 pts</td></tr>
+<tr><td>Cobra Class Destroyer (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 ### Ordnance

@@ -217,23 +217,23 @@ make Special Orders normally.
 ## High Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>Orbital defence laser platform (pg. 489)</td><td>30 pts</td></tr>
-<tr><td>Orbital torpedo launcher (pg. 490)</td><td>30 pts</td></tr>
-<tr><td>Orbital weapons platform (pg. 491)</td><td>30 pts</td></tr>
-<tr><td>Orbital mine (pg. 492)</td><td>5 pts</td></tr>
-<tr><td>0-2 Minefields (pg. 493)</td><td>40 pts</td></tr>
-<tr><td>0-6 Fire ships (pg. 496)</td><td>10 pts</td></tr>
-<tr><td>System ship (pg. 495)</td><td>20 pts</td></tr>
-<tr><td>Defence monitor (pg. 494)</td><td>60 pts</td></tr>
-<tr><td>Orbital dock (pg. 488)</td><td>90 pts</td></tr>
-<tr><td>Space station (pg. 487)</td><td>150 pts</td></tr>
-<tr><td>Blackstone fortress (pg. 486)</td><td>400 pts</td></tr>
+<tr><td>Orbital defence laser platform (<a target="_new" title="Open Page 489 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=489">pg. 489</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital torpedo launcher (<a target="_new" title="Open Page 490 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=490">pg. 490</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital weapons platform (<a target="_new" title="Open Page 491 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=491">pg. 491</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital mine (<a target="_new" title="Open Page 492 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=492">pg. 492</a>)</td><td>5 pts</td></tr>
+<tr><td>0-2 Minefields (<a target="_new" title="Open Page 493 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=493">pg. 493</a>)</td><td>40 pts</td></tr>
+<tr><td>0-6 Fire ships (<a target="_new" title="Open Page 496 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=496">pg. 496</a>)</td><td>10 pts</td></tr>
+<tr><td>System ship (<a target="_new" title="Open Page 495 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=495">pg. 495</a>)</td><td>20 pts</td></tr>
+<tr><td>Defence monitor (<a target="_new" title="Open Page 494 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=494">pg. 494</a>)</td><td>60 pts</td></tr>
+<tr><td>Orbital dock (<a target="_new" title="Open Page 488 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=488">pg. 488</a>)</td><td>90 pts</td></tr>
+<tr><td>Space station (<a target="_new" title="Open Page 487 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=487">pg. 487</a>)</td><td>150 pts</td></tr>
+<tr><td>Blackstone fortress (<a target="_new" title="Open Page 486 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=486">pg. 486</a>)</td><td>400 pts</td></tr>
 </tbody></table>
 
 ## Low Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>0-8 Defence laser silos (pg. 497)</td><td>15 pts</td></tr>
-<tr><td>0-8 Missile silos (pg. 497)</td><td>5 pts</td></tr>
-<tr><td>0-4 Air bases (pg. 497)</td><td>20 pts</td></tr>
+<tr><td>0-8 Defence laser silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>15 pts</td></tr>
+<tr><td>0-8 Missile silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>5 pts</td></tr>
+<tr><td>0-4 Air bases (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>20 pts</td></tr>
 </tbody></table>

@@ -888,8 +888,8 @@ your Eldar Hero by paying the cost listed below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Eclipse class cruiser (pg. 307)</td><td>250 pts</td></tr>
-<tr><td>Shadow class cruiser (pg. 308)</td><td>210 pts</td></tr>
+<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -899,10 +899,10 @@ your Eldar Hero by paying the cost listed below.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Hellebore class frigate (pg. 311)</td><td>65 pts</td></tr>
-<tr><td>Aconite class frigate (pg. 312)</td><td>55 pts</td></tr>
-<tr><td>Hemlock class destroyer (pg. 313)</td><td>40 pts</td></tr>
-<tr><td>Nightshade class destroyer (pg. 314)</td><td>40 pts</td></tr>
+<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -987,17 +987,17 @@ any battleships, while from 1000 to 1,999 points
 you can include one, and so on.*
 
 <table class=fleet-list><tbody>
-<tr><td>Void Stalker class battleship (pg. 306)</td><td>380 pts</td></tr>
+<tr><td>Void Stalker class battleship (<a target="_new" title="Open Page 306 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=306">pg. 306</a>)</td><td>380 pts</td></tr>
 </tbody></table>
 
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Eclipse class cruiser (pg. 307)</td><td>250 pts</td></tr>
-<tr><td>Shadow class cruiser (pg. 308)</td><td>210 pts</td></tr>
-<tr><td>Aurora class light cruiser (pg. 309)</td><td>140 pts</td></tr>
-<tr><td>Solaris class light cruiser (pg. 310)</td><td>130 pts</td></tr>
+<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
+<tr><td>Aurora class light cruiser (<a target="_new" title="Open Page 309 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=309">pg. 309</a>)</td><td>140 pts</td></tr>
+<tr><td>Solaris class light cruiser (<a target="_new" title="Open Page 310 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=310">pg. 310</a>)</td><td>130 pts</td></tr>
 </tbody></table>
 
 
@@ -1007,10 +1007,10 @@ you can include one, and so on.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Hellebore class frigate (pg. 311)</td><td>65 pts</td></tr>
-<tr><td>Aconite class frigate (pg. 312)</td><td>55 pts</td></tr>
-<tr><td>Hemlock class destroyer (pg. 313)</td><td>40 pts</td></tr>
-<tr><td>Nightshade class destroyer (pg. 314)</td><td>40 pts</td></tr>
+<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -1147,8 +1147,8 @@ _Flame of Asuryan_, an Eldar Hero must lead the
 fleet and be embarked aboard it.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <em>Flame of Asuryan</em> (pg. 315)</td><td>320 pts</td></tr>
-<tr><td>Dragonship (pg. 316)</td><td>260 pts</td></tr>
+<tr><td>(0-1) <em>Flame of Asuryan</em> (<a target="_new" title="Open Page 315 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=315">pg. 315</a>)</td><td>320 pts</td></tr>
+<tr><td>Dragonship (<a target="_new" title="Open Page 316 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=316">pg. 316</a>)</td><td>260 pts</td></tr>
 </tbody></table>
 
 #### Wraithships
@@ -1156,7 +1156,7 @@ fleet and be embarked aboard it.*
 *Your fleet may include any number of Wraithships.*
 
 <table class=fleet-list><tbody>
-<tr><td>Wraithship (pg. 317)</td><td>160 pts</td></tr>
+<tr><td>Wraithship (<a target="_new" title="Open Page 317 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=317">pg. 317</a>)</td><td>160 pts</td></tr>
 </tbody></table>
 
 
@@ -1167,7 +1167,7 @@ a Ghostship. Such a vessel may not also include
 a Farseer or Aspect Warrior crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ghostship (pg. 292)</td><td>Free</td></tr>
+<tr><td>Ghostship (<a target="_new" title="Open Page 292 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=292">pg. 292</a>)</td><td>Free</td></tr>
 </tbody></table>
 
 
@@ -1178,7 +1178,7 @@ Aspect Warriors, serving as the ship’s fighting
 crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>Aspect Warrior Host (pg. 290)</td><td>+20 pts</td></tr>
+<tr><td>Aspect Warrior Host (<a target="_new" title="Open Page 290 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=290">pg. 290</a>)</td><td>+20 pts</td></tr>
 </tbody></table>
 
 
@@ -1188,7 +1188,7 @@ crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Shadowhunter (pg. 318)</td><td>40 pts</td></tr>
+<tr><td>Shadowhunter (<a target="_new" title="Open Page 318 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=318">pg. 318</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 

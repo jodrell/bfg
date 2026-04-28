@@ -833,7 +833,7 @@ a force for smaller games in campaigns.
 drone ships.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Vanguard drone ship (pg. 416)</strong></td><td><strong>20 pts</strong></td></tr>
+<tr><td><strong>Vanguard drone ship (<a target="_new" title="Open Page 416 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=416">pg. 416</a>)</strong></td><td><strong>20 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -850,7 +850,7 @@ weapon chosen from the following list:
 *Your fleet may include any number of Kraken.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Kraken (pg. 415)</strong></td><td><strong>25 pts</strong></td></tr>
+<tr><td><strong>Kraken (<a target="_new" title="Open Page 415 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=415">pg. 415</a>)</strong></td><td><strong>25 pts</strong></td></tr>
 </tbody></table>
 
 A Kraken must be armed with one weapon
@@ -936,7 +936,7 @@ as long as the fleet contains at least one hive ship.
 purchase 6–12 escort ships and 0–2 capital ships.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Hive ship (Ld 8) (pg. 412)</strong></td><td><strong>200 pts</strong></td></tr>
+<tr><td><strong>Hive ship (Ld 8) (<a target="_new" title="Open Page 412 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=412">pg. 412</a>)</strong></td><td><strong>200 pts</strong></td></tr>
 <tr><td>Increase to Ld 9</td><td>+40 pts</td></tr>
 </tbody></table>
 
@@ -974,7 +974,7 @@ from the following list:
 hive ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Cruiser (pg. 414)</strong></td><td><strong>80 pts</strong></td></tr>
+<tr><td><strong>Cruiser (<a target="_new" title="Open Page 414 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=414">pg. 414</a>)</strong></td><td><strong>80 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -1013,7 +1013,7 @@ only Kraken and Vanguard drone ships may be
 included in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Vanguard drone ship (pg. 416)</strong></td><td><strong>20 pts</strong></td></tr>
+<tr><td><strong>Vanguard drone ship (<a target="_new" title="Open Page 416 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=416">pg. 416</a>)</strong></td><td><strong>20 pts</strong></td></tr>
 </tbody></table>
 
 A Vanguard drone ship must be armed with one
@@ -1030,7 +1030,7 @@ be in addition to the 6–12 escorts (of any type)
 that may be taken for every hive ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Escort drone (pg. 417)</strong></td><td><strong>10 pts</strong></td></tr>
+<tr><td><strong>Escort drone (<a target="_new" title="Open Page 417 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=417">pg. 417</a>)</strong></td><td><strong>10 pts</strong></td></tr>
 </tbody></table>
 
 A Tyranid escort drone must be armed with one
@@ -1043,7 +1043,7 @@ weapon chosen from the following list:
 </tbody></table>
 
 <table class=fleet-list><tbody>
-<tr><td><strong>Kraken (pg. 415)</strong></td><td><strong>25 pts</strong></td></tr>
+<tr><td><strong>Kraken (<a target="_new" title="Open Page 415 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=415">pg. 415</a>)</strong></td><td><strong>25 pts</strong></td></tr>
 </tbody></table>
 
 A Kraken must be armed with one weapon

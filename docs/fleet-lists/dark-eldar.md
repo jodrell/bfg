@@ -411,7 +411,7 @@ their lair.
 
 ## Eldar Haven
 
-An Eldar Haven (pg. 320) may be used as a
+An Eldar Haven (<a target="_new" title="Open Page 320 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=320">pg. 320</a>) may be used as a
 Dark Eldar pirate base. When used as such,
 trade bombers for Slavebringer assault boats
 and Pulsar Lances for Shadow Lances at
@@ -532,7 +532,7 @@ below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Torture class cruiser (pg. 338)</td><td>210 pts</td></tr>
+<tr><td>Torture class cruiser (<a target="_new" title="Open Page 338 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=338">pg. 338</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -562,7 +562,7 @@ fleets must contain at least three escorts for every
 capital ship taken.*
 
 <table class=fleet-list><tbody>
-<tr><td>Corsair Class Escort (pg. 339)</td><td>50 pts</td></tr>
+<tr><td>Corsair Class Escort (<a target="_new" title="Open Page 339 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=339">pg. 339</a>)</td><td>50 pts</td></tr>
 </tbody></table>
 
 

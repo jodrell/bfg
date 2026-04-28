@@ -297,7 +297,7 @@ fleet gets one re-roll and can purchase extra rerolls at the cost shown.
 every Scythe class harvest ship it contains.*
 
 <table class=fleet-list><tbody>
-<tr><td>Cairn class tombship (pg. 387)</td><td>500 pts</td></tr>
+<tr><td>Cairn class tombship (<a target="_new" title="Open Page 387 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=387">pg. 387</a>)</td><td>500 pts</td></tr>
 </tbody></table>
 
 
@@ -316,8 +316,8 @@ harvest ships and up to three Shroud class light
 cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-6 Scythe class harvest ship (pg. 388)</td><td>275 pts</td></tr>
-<tr><td>0-3 Shroud class light cruiser (pg. 389)</td><td>155 pts</td></tr>
+<tr><td>0-6 Scythe class harvest ship (<a target="_new" title="Open Page 388 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=388">pg. 388</a>)</td><td>275 pts</td></tr>
+<tr><td>0-3 Shroud class light cruiser (<a target="_new" title="Open Page 389 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=389">pg. 389</a>)</td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -329,6 +329,6 @@ raiders, and up to twelve Dirge class raiders, in
 squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-12 Jackal class raiders (pg. 390)</td><td>50 pts</td></tr>
-<tr><td>0-12 Dirge class raiders (pg. 391)</td><td>40 pts</td></tr>
+<tr><td>0-12 Jackal class raiders (<a target="_new" title="Open Page 390 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=390">pg. 390</a>)</td><td>50 pts</td></tr>
+<tr><td>0-12 Dirge class raiders (<a target="_new" title="Open Page 391 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=391">pg. 391</a>)</td><td>40 pts</td></tr>
 </tbody></table>

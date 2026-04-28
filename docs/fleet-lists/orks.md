@@ -333,8 +333,8 @@ torpedo salvoes when it fires.
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -343,11 +343,11 @@ torpedo salvoes when it fires.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -443,7 +443,7 @@ when it fires.
 your fleet per 1,500 points.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ork hulk (pg. 371)</td><td>600 pts</td></tr>
+<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
 </tbody></table>
 
 
@@ -466,11 +466,11 @@ in your fleet, you may pick one vessel from the
 list below.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <em>Gorbag&#39;s Revenge</em> (pg. 359)</td><td>310 pts</td></tr>
-<tr><td>(0-1) Slamblasta (pg. 360)</td><td>295 pts</td></tr>
-<tr><td>(0-1) Dethdeala (pg. 358)</td><td>275 pts</td></tr>
-<tr><td>(0-1) Kroolboy (pg. 361)</td><td>270 pts</td></tr>
-<tr><td>Hammer class battlekroozer (pg. 356)</td><td>245 pts</td></tr>
+<tr><td>(0-1) <em>Gorbag&#39;s Revenge</em> (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
+<tr><td>Hammer class battlekroozer (<a target="_new" title="Open Page 356 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=356">pg. 356</a>)</td><td>245 pts</td></tr>
 </tbody></table>
 
 ### Kroozers
@@ -478,8 +478,8 @@ list below.*
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -488,11 +488,11 @@ list below.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -502,7 +502,7 @@ fleet in squadrons of 2–6.*
 fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Rok (pg. 374)</td><td>80 pts</td></tr>
+<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -1007,10 +1007,10 @@ under his command.*
 list:*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Gorbag&#39;s Revenge (pg. 359)</td><td>310 pts</td></tr>
-<tr><td>(0-1) Slamblasta (pg. 360)</td><td>295 pts</td></tr>
-<tr><td>(0-1) Dethdeala (pg. 358)</td><td>275 pts</td></tr>
-<tr><td>(0-1) Kroolboy (pg. 361)</td><td>270 pts</td></tr>
+<tr><td>(0-1) Gorbag&#39;s Revenge (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
 </tbody></table>
 
 #### Big ship skwadron
@@ -1018,9 +1018,9 @@ list:*
 *1-2 Kroozers, chosen from the following list:*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (pg. 362)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (pg. 364)</td><td>155 pts</td></tr>
-<tr><td>Lite kroozer (pg. 362)</td><td>90 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
+<tr><td>Lite kroozer (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>90 pts</td></tr>
 </tbody></table>
 
 #### Tiddla skwadron
@@ -1029,11 +1029,11 @@ list:*
 mix desired:*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (pg. 368)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (pg. 366)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (pg. 370)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (pg. 367)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (pg. 369)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 #### Rok skwadron
@@ -1041,7 +1041,7 @@ mix desired:*
 *1–4 Roks*
 
 <table class=fleet-list><tbody>
-<tr><td>Rok (pg. 374)</td><td>80 pts</td></tr>
+<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -1058,7 +1058,7 @@ for double the listed cost. Upgrades that increase
 its boarding value or speed may not be taken.
 
 <table class=fleet-list><tbody>
-<tr><td>Ork hulk (pg. 371)</td><td>600 pts</td></tr>
+<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
 </tbody></table>
 
 

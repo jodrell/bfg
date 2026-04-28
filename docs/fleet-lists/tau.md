@@ -285,7 +285,7 @@ If your fleets is worth more than 750 pts it must
 include at least one Explorer.*
 
 <table class=fleet-list><tbody>
-<tr><td>Explorer class starship (pg. 438)</td><td>230 pts</td></tr>
+<tr><td>Explorer class starship (<a target="_new" title="Open Page 438 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=438">pg. 438</a>)</td><td>230 pts</td></tr>
 </tbody></table>
 
 
@@ -297,8 +297,8 @@ class starship for every Merchant or Explorer in
 the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
-<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
+<tr><td>Hero class starship (<a target="_new" title="Open Page 440 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=440">pg. 440</a>)</td><td>180 pts</td></tr>
+<tr><td>Merchant class starship (<a target="_new" title="Open Page 442 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=442">pg. 442</a>)</td><td>95 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -317,10 +317,10 @@ only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
 <table class=fleet-list><tbody>
-<tr><td>Messenger class starship (pg. 445)</td><td>50 pts</td></tr>
-<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
-<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
-<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+<tr><td>Messenger class starship (<a target="_new" title="Open Page 445 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=445">pg. 445</a>)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (<a target="_new" title="Open Page 444 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=444">pg. 444</a>)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (<a target="_new" title="Open Page 455 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=455">pg. 455</a>)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (<a target="_new" title="Open Page 446 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=446">pg. 446</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
@@ -366,7 +366,7 @@ if the fleet is worth 1500 points, or up to two
 Warspheres in games larger than that.*
 
 <table class=fleet-list><tbody>
-<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+<tr><td>Kroot Warsphere (<a target="_new" title="Open Page 474 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=474">pg. 474</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -376,9 +376,9 @@ Warspheres in games larger than that.*
 for every three Tau capital ships in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
-<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
-<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+<tr><td>Stronghold Commerce Vessel (<a target="_new" title="Open Page 468 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=468">pg. 468</a>)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (<a target="_new" title="Open Page 469 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=469">pg. 469</a>)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (<a target="_new" title="Open Page 470 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=470">pg. 470</a>)</td><td>185 pts</td></tr>
 </tbody></table>
 
 #### Nicassar Vessels
@@ -391,7 +391,7 @@ Dhows, but not both so the gravitic hook capacity
 of the fleet is divided between Orcas and Dhows.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+<tr><td>Nicassar Dhow (<a target="_new" title="Open Page 471 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=471">pg. 471</a>)</td><td>45 pts</td></tr>
 </tbody></table>
 
 
@@ -453,8 +453,8 @@ Fleets of at least 1,500 points may include two
 Custodians.*
 
 <table class=fleet-list><tbody>
-<tr><td>Custodian class starship (pg. 440)</td><td>330 pts</td></tr>
-<tr><td>Explorer class starship (pg. 438)</td><td>230 pts</td></tr>
+<tr><td>Custodian class starship (<a target="_new" title="Open Page 440 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=440">pg. 440</a>)</td><td>330 pts</td></tr>
+<tr><td>Explorer class starship (<a target="_new" title="Open Page 438 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=438">pg. 438</a>)</td><td>230 pts</td></tr>
 </tbody></table>
 
 
@@ -466,10 +466,10 @@ include up to one Hero class starship for every
 other type of capital ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Protector class starship (pg. 450)</td><td>185 pts</td></tr>
-<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
-<tr><td>Emissary class starship (pg. 452)</td><td>110 pts</td></tr>
-<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
+<tr><td>Protector class starship (<a target="_new" title="Open Page 450 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=450">pg. 450</a>)</td><td>185 pts</td></tr>
+<tr><td>Hero class starship (<a target="_new" title="Open Page 440 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=440">pg. 440</a>)</td><td>180 pts</td></tr>
+<tr><td>Emissary class starship (<a target="_new" title="Open Page 452 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=452">pg. 452</a>)</td><td>110 pts</td></tr>
+<tr><td>Merchant class starship (<a target="_new" title="Open Page 442 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=442">pg. 442</a>)</td><td>95 pts</td></tr>
 </tbody></table>
 
 
@@ -489,11 +489,11 @@ only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
 <table class=fleet-list><tbody>
-<tr><td>Castellan class starship (pg. 454)</td><td>50 pts</td></tr>
-<tr><td>Messenger class starship (pg. 445)</td><td>50 pts</td></tr>
-<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
-<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
-<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+<tr><td>Castellan class starship (<a target="_new" title="Open Page 454 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=454">pg. 454</a>)</td><td>50 pts</td></tr>
+<tr><td>Messenger class starship (<a target="_new" title="Open Page 445 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=445">pg. 445</a>)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (<a target="_new" title="Open Page 444 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=444">pg. 444</a>)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (<a target="_new" title="Open Page 455 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=455">pg. 455</a>)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (<a target="_new" title="Open Page 446 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=446">pg. 446</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -542,7 +542,7 @@ Warspheres do not count against cruiser limits
 in a Kor’vattra Fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+<tr><td>Kroot Warsphere (<a target="_new" title="Open Page 474 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=474">pg. 474</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 #### Demiurg Vessels
@@ -553,9 +553,9 @@ There cannot be more Stronghold than Bastion
 vessels in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
-<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
-<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
+<tr><td>Stronghold Commerce Vessel (<a target="_new" title="Open Page 468 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=468">pg. 468</a>)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (<a target="_new" title="Open Page 469 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=469">pg. 469</a>)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (<a target="_new" title="Open Page 470 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=470">pg. 470</a>)</td><td>185 pts</td></tr>
 </tbody></table>
 
 #### Nicassar Vessels
@@ -571,9 +571,9 @@ or Emissary starship cannot count toward this
 total.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nicassar Caravan (pg. 472)</td><td>200 pts</td></tr>
-<tr><td>Nicassar Rig (pg. 473)</td><td>40 pts</td></tr>
-<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+<tr><td>Nicassar Caravan (<a target="_new" title="Open Page 472 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=472">pg. 472</a>)</td><td>200 pts</td></tr>
+<tr><td>Nicassar Rig (<a target="_new" title="Open Page 473 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=473">pg. 473</a>)</td><td>40 pts</td></tr>
+<tr><td>Nicassar Dhow (<a target="_new" title="Open Page 471 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=471">pg. 471</a>)</td><td>45 pts</td></tr>
 </tbody></table>
 
 The Dhows from each parent ship fight as a
@@ -599,13 +599,13 @@ single squadron of up to six Xenos escorts can be
 taken as per the Rogue Trader rules and fleet list.*
 
 <table class=fleet-list><tbody>
-<tr><td>Rogue Trader Cruiser (pg. 174)</td><td>185 pts</td></tr>
-<tr><td>Dauntless Class Light Cruiser (pg. 75)</td><td>125 pts</td></tr>
-<tr><td>Endeavour Class Light Cruiser (pg. 175)</td><td>110 pts</td></tr>
-<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
-<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
-<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
-<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Rogue Trader Cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
+<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
 </tbody></table>
 
 
@@ -820,7 +820,7 @@ the purpose of the closest target.
 two cruiser-class vessels in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Stronghold Commerce Vessel (pg. 468)</td><td>350 pts</td></tr>
+<tr><td>Stronghold Commerce Vessel (<a target="_new" title="Open Page 468 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=468">pg. 468</a>)</td><td>350 pts</td></tr>
 </tbody></table>
 
 
@@ -831,15 +831,15 @@ cruisers. Demiurg Commerce Vessels must
 outnumber all non-Demiurg cruisers combined.*
 
 <table class=fleet-list><tbody>
-<tr><td>Bastion Commerce Vessel (pg. 469)</td><td>255 pts</td></tr>
-<tr><td>Citadel Commerce Vessel (pg. 470)</td><td>185 pts</td></tr>
-<tr><td>Protector class starship (pg. 450)</td><td>185 pts</td></tr>
-<tr><td>Rogue Trader Cruiser (pg. 174)</td><td>185 pts</td></tr>
-<tr><td>Hero class starship (pg. 440)</td><td>180 pts</td></tr>
-<tr><td>Emissary class starship (pg. 452)</td><td>110 pts</td></tr>
-<tr><td>Merchant class starship (pg. 442)</td><td>95 pts</td></tr>
-<tr><td>Dauntless Class Light Cruiser (pg. 75)</td><td>125 pts</td></tr>
-<tr><td>Endeavour Class Light Cruiser (pg. 175)</td><td>110 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (<a target="_new" title="Open Page 469 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=469">pg. 469</a>)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (<a target="_new" title="Open Page 470 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=470">pg. 470</a>)</td><td>185 pts</td></tr>
+<tr><td>Protector class starship (<a target="_new" title="Open Page 450 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=450">pg. 450</a>)</td><td>185 pts</td></tr>
+<tr><td>Rogue Trader Cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
+<tr><td>Hero class starship (<a target="_new" title="Open Page 440 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=440">pg. 440</a>)</td><td>180 pts</td></tr>
+<tr><td>Emissary class starship (<a target="_new" title="Open Page 452 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=452">pg. 452</a>)</td><td>110 pts</td></tr>
+<tr><td>Merchant class starship (<a target="_new" title="Open Page 442 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=442">pg. 442</a>)</td><td>95 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
 </tbody></table>
 
 #### Kroot Vessels (0–3)
@@ -855,7 +855,7 @@ thereof. These do not count against the number
 of cruisers in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Kroot Warsphere (pg. 474)</td><td>145 pts</td></tr>
+<tr><td>Kroot Warsphere (<a target="_new" title="Open Page 474 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=474">pg. 474</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -880,27 +880,27 @@ be mixed in the same squadrons.*
 #### Tau Escorts
 
 <table class=fleet-list><tbody>
-<tr><td>Castellan class starship (pg. 454)</td><td>50 pts</td></tr>
-<tr><td>Defender class starship (pg. 444)</td><td>45 pts</td></tr>
-<tr><td>Warden class gunship (pg. 455)</td><td>30 pts</td></tr>
-<tr><td>Orca class gunship (pg. 446)</td><td>25 pts</td></tr>
+<tr><td>Castellan class starship (<a target="_new" title="Open Page 454 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=454">pg. 454</a>)</td><td>50 pts</td></tr>
+<tr><td>Defender class starship (<a target="_new" title="Open Page 444 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=444">pg. 444</a>)</td><td>45 pts</td></tr>
+<tr><td>Warden class gunship (<a target="_new" title="Open Page 455 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=455">pg. 455</a>)</td><td>30 pts</td></tr>
+<tr><td>Orca class gunship (<a target="_new" title="Open Page 446 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=446">pg. 446</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
 #### Nicassar Escorts
 
 <table class=fleet-list><tbody>
-<tr><td>Nicassar Dhow (pg. 471)</td><td>45 pts</td></tr>
+<tr><td>Nicassar Dhow (<a target="_new" title="Open Page 471 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=471">pg. 471</a>)</td><td>45 pts</td></tr>
 </tbody></table>
 
 
 #### Rogue Trader Escorts
 
 <table class=fleet-list><tbody>
-<tr><td>Xenos Vessel (pg. 178)</td><td>50 pts</td></tr>
-<tr><td>Recommissioned Escort (pg. 183)</td><td>30 pts</td></tr>
-<tr><td>Iconoclast Destroyer (pg. 184)</td><td>30 pts</td></tr>
-<tr><td>Cargo Vessel (pg. 186)</td><td>20 pts</td></tr>
+<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
 </tbody></table>
 
 
