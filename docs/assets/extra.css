@@ -19,3 +19,9 @@ article img {
 .fleet-list tr td:last-child {
     text-align:right;
 }
+
+@media screen and (min-width: 40em) {
+    #table-of-contents + ul {
+        columns: 2;
+    }
+}
