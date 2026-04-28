@@ -387,7 +387,7 @@ how fast, manoeuvrable,
 well-armoured and
 hideously armed they are.
 
-![](assets/ship-profile.png)
+![](assets/ship-profile.svg)
 
 *The table above
 represents the characteristics
