@@ -13,7 +13,7 @@ is generated from its [Markdown source code](https://github.com/jodrell/bfg)
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 The text and images were extracted from the
-[original PDFs](https://github.com/jodrell/bfg/tree/main/src) using
+[original PDFs](https://github.com/jodrell/bfg/tree/main/docs/src) using
 [pdftotext](https://linux.die.net/man/1/pdftotext) and
 [pdfimages](https://linux.die.net/man/1/pdfimages).
 
