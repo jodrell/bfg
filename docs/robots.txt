@@ -1,3 +1,5 @@
 User-Agent: *
 Disallow: *.pdf$
 Disallow: /src/
+
+Sitemap: https://battlefleet-game.org/sitemap.xml
