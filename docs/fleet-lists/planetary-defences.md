@@ -217,23 +217,339 @@ make Special Orders normally.
 ## High Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>Orbital defence laser platform (<a target="_new" title="Open Page 489 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=489">pg. 489</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital torpedo launcher (<a target="_new" title="Open Page 490 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=490">pg. 490</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital weapons platform (<a target="_new" title="Open Page 491 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=491">pg. 491</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital mine (<a target="_new" title="Open Page 492 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=492">pg. 492</a>)</td><td>5 pts</td></tr>
-<tr><td>0-2 Minefields (<a target="_new" title="Open Page 493 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=493">pg. 493</a>)</td><td>40 pts</td></tr>
-<tr><td>0-6 Fire ships (<a target="_new" title="Open Page 496 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=496">pg. 496</a>)</td><td>10 pts</td></tr>
-<tr><td>System ship (<a target="_new" title="Open Page 495 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=495">pg. 495</a>)</td><td>20 pts</td></tr>
-<tr><td>Defence monitor (<a target="_new" title="Open Page 494 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=494">pg. 494</a>)</td><td>60 pts</td></tr>
-<tr><td>Orbital dock (<a target="_new" title="Open Page 488 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=488">pg. 488</a>)</td><td>90 pts</td></tr>
-<tr><td>Space station (<a target="_new" title="Open Page 487 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=487">pg. 487</a>)</td><td>150 pts</td></tr>
-<tr><td>Blackstone fortress (<a target="_new" title="Open Page 486 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=486">pg. 486</a>)</td><td>400 pts</td></tr>
+<tr><td>Orbital defence laser platform (<a target="_new" title="Open Page 489 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=489">pg. 489</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital torpedo launcher (<a target="_new" title="Open Page 490 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=490">pg. 490</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital weapons platform (<a target="_new" title="Open Page 491 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=491">pg. 491</a>)</td><td>30 pts</td></tr>
+<tr><td>Orbital mine (<a target="_new" title="Open Page 492 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=492">pg. 492</a>)</td><td>5 pts</td></tr>
+<tr><td>0-2 Minefields (<a target="_new" title="Open Page 493 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=493">pg. 493</a>)</td><td>40 pts</td></tr>
+<tr><td>0-6 Fire ships (<a target="_new" title="Open Page 496 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=496">pg. 496</a>)</td><td>10 pts</td></tr>
+<tr><td>System ship (<a target="_new" title="Open Page 495 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=495">pg. 495</a>)</td><td>20 pts</td></tr>
+<tr><td>Defence monitor (<a target="_new" title="Open Page 494 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=494">pg. 494</a>)</td><td>60 pts</td></tr>
+<tr><td>Orbital dock (<a target="_new" title="Open Page 488 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=488">pg. 488</a>)</td><td>90 pts</td></tr>
+<tr><td>Space station (<a target="_new" title="Open Page 487 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=487">pg. 487</a>)</td><td>150 pts</td></tr>
+<tr><td>Blackstone fortress (<a target="_new" title="Open Page 486 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=486">pg. 486</a>)</td><td>400 pts</td></tr>
 </tbody></table>
 
 ## Low Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>0-8 Defence laser silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>15 pts</td></tr>
-<tr><td>0-8 Missile silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>5 pts</td></tr>
-<tr><td>0-4 Air bases (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>20 pts</td></tr>
+<tr><td>0-8 Defence laser silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>15 pts</td></tr>
+<tr><td>0-8 Missile silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>5 pts</td></tr>
+<tr><td>0-4 Air bases (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>20 pts</td></tr>
 </tbody></table>
+
+## Ramilies Class Star Fort
+
+### Quadrants
+
+The Ramilies star fort is so large that its
+weapons, hits and defences are divided up into
+four ‘quadrants’ representing the different
+sides of the space station. When the star fort
+is fired upon, determine which quadrant the
+firing will hit by tracing a straight line from
+the stem of the firing ship to the centre of the
+fort. Likewise, when [ordnance](../the-ordnance-phase.md) hits it will be
+resolved against the quadrant of the fort it
+moves in from.
+
+![](../assets/quadrants.svg)
+
+#### Templates
+
+[Nova cannons](../the-shooting-phase.md#nova-cannon) and Armageddon guns can
+score a ‘full on’ D6 hits only against the
+quadrant most under the centre hole of the
+marker when it hits.
+
+#### Damage & Criticals
+
+All [damage](../the-shooting-phase.md#damage) and [criticals](../the-shooting-phase.md#critical-hits) only affect the
+quadrant that they are inflicted against unless
+specifically noted otherwise. Quadrants are
+[crippled](../the-shooting-phase.md#crippled-ships) individually once they are reduced
+to 6 Damage Points. Once a quadrant’s hits
+are reduced to 0 any further hits plow into the
+drifting wreckage and do no further damage,
+treat that quadrant of the base as an [asteroid
+field](../the-battlefield.md#asteroid-fields) from now on. This effect cannot damage
+the other quadrants and remains unchanged if
+the owning player elected that it rotate at the
+start of the game.
+
+#### Ramming
+
+When [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) the Ramilies, you can only
+ram the quadrant you first contact. If a ship
+happens to make contact right at the junction
+between two quadrants (as measured by
+the model’s base, not the model itself!), the
+ramming player may pick one of the two
+adjacent quadrants to ram.
+
+#### Hit-and-run Raiders
+
+[Hit and run raids](../the-end-phase.md#hit-and-run-attacks) are likewise resolved only
+against the quadrant they are directed at and
+will not affect other quadrants.
+
+#### Boarding
+
+The Ramilies cannot be [boarded](../the-end-phase.md#boarding-actions) by ships.
+Whole regiments would be needed. The only
+vessel that may attempt to board a Ramilies
+is a space hulk, as only a space hulk has
+sufficient numbers of troops.
+
+If it does so, the remaining hit points of
+all four quadrants apply to the Ramilies’
+boarding value, but only the [turret](../the-ordnance-phase.md#turrets) value of
+the quadrant actually being boarded is added
+to this value.
+
+Resulting hits and critical damage are only
+applied to the quadrant that was actually
+affected by the boarding action.
+
+The Ramilies can always board any enemy
+ships in base contact in the [end phase](../the-end-phase.md) of
+its own turn, and it can decide how many
+quadrants are involved in the boarding action.
+
+#### Damage Control
+
+Damage control is also undertaken
+individually. To all intents and purposes the
+four quadrants function as individual stations
+placed ‘back to back’. The fort itself is only
+destroyed once all four quadrants are reduced
+to 0 Damage Points, and you should then
+roll on the [catastrophic damage table for the
+Ramilies](#ramilies-class-star-fort-critical-hits-table).
+
+#### Massing turrets
+
+The various quadrants of a Ramilies Star Fort
+automatically count as massing turrets (unless
+[crippled](../the-shooting-phase.md#crippled-ships) or destroyed, following all normal
+rules for [massing turrets](../the-ordnance-phase.md#massing-turrets) on [???]). However,
+only the quadrants adjacent to it can mass
+turrets with a given quadrant, giving it a
+maximum of +2 turrets. This is in addition to
+any ships that may be in base contact, though
+the maximum restriction of no more than +3
+turrets still applies.
+
+### Rotating
+
+Before the game starts, the owning player can
+decide if the Ramilies will rotate or not. Once
+the decision is made, it cannot be changed
+throughout the game. If it is decided that it
+will rotate, it does so for 45° once per game
+turn (no more or less) at the beginning of the
+owning players [movement phase](../the-movement-phase.md). If it rotates,
+it will always rotate in the same direction. The
+Ramilies otherwise does not move in any way
+during the course of the game, it still counts
+as defences, and this movement does not alter
+nor can it be altered by any [command checks](../the-rules.md#taking-command-checks)
+or [special orders](../the-rules.md#special-orders) the Ramilies can make. If
+the owning player decides the Ramilies Star
+Fort will rotate, then it cannot have ships
+[dock](#docking) with it for the duration of the game.
+[Blast markers](../the-shooting-phase.md#blast-markers) not removed remain in place
+when the Ramilies rotates and affect whatever
+quadrant they are in contact with at the end of
+its movement.
+
+### Ordnance
+
+A Ramilies Star Fort may have in play up to
+twice the [attack craft](../the-ordnance-phase.md#attack-craft) markers as the number
+of launch bays it has remaining.
+
+### Shields & Blast Markers
+
+Each quadrant has its own [shields](../the-shooting-phase.md#shields); when [blast
+markers](../the-shooting-phase.md#blast-markers) are placed put them in contact with
+the appropriate edge of the fort’s base.
+Although the four quadrants are essentially in
+contact with each other, blast markers are only
+placed between the quadrant taking fire and
+the quadrant closest in the line of fire to that
+taking fire. In other words, a single round of
+shooting form a ship or squadron cannot place
+blast markers in base contact with more than
+one other quadrant besides the quadrant it is
+shooting at (for two in total) Quadrants not so
+affected count as not having blast markers in
+base contact, even if blast markers are in base
+contact with the model itself.
+
+In the [End Phase](../the-end-phase.md) D6 blast markers are
+removed from the whole of the Ramilies fort,
+not per quadrant.
+
+### Docking
+
+Friendly ships in contact with the Ramilies
+model can halt their [movement](../the-movement-phase.md) just as if they
+were in a gravity well. If they wish to turn they
+may use [*Burn Retros*] special orders without
+taking a Command check to do so.
+
+If a ship is in contact with one of the four
+inter-quadrant docking piers it can fully dock.
+While fully docked, it gains an extra four
+dice when rolling for damage control and if it
+remains docked for two full turns and was not
+braced, it is considered to have automatically
+[reloaded ordnance](../the-rules.md#reload-ordnance) (no [Command Check](../the-rules.md#taking-command-checks)
+required).
+
+Even while fully docked the ship can still be
+targeted and attacked separately to the fort,
+although it counts as being in close formation
+with the fort for [massed turret](../the-ordnance-phase.md#massing-turrets) fire with the
+benefits and dangers that brings. For more
+detail see [???] page 158.
+
+### Special Orders
+
+Unlike most defences, the command control
+and communications of the Ramilies is
+superior to even that of a warship. To
+represent this a Ramilies can use the following
+combat orders:
+
+* [*Reload Ordnance*]
+* [*Lock On*]
+* [*Brace for Impact*]
+
+Ramilies are also typically manned by
+experienced personnel, so their [Leadership](../the-rules.md#leadership) is
+rolled as for a capital ship. A Ramilies also has
+a single [command check](../the-rules.md#taking-command-checks) [re-roll](../the-rules.md#re-rolls) which may be
+used when it attempts to roll special orders.
+Fleet Commanders may be placed aboard a
+Ramilies, in which case their own Leadership
+value is used by the fort and the fort’s re-roll is
+added to the commander’s own re-rolls so that
+it can be used throughout the fleet.
+
+### Split Orders
+
+The internal communications of the Ramilies
+mean that its different quadrants can use
+different squadrons can use different special
+orders. For the purposes of issuing special
+orders to the Ramilies the owning player
+can effectively divide the quadrants up into
+squadrons and then issue special orders to
+each in turn.
+
+*For example, the player wishes to issue
+[]*Reload Ordnance*] orders to the north and east
+quadrants, while [*Locking On*] with the south
+and west. Only two Command checks are made
+for the two pairs of orders. If later in the turn
+the player needed to [*Brace for Impact*] he could
+do so with a single quadrant only, leaving the
+rest free to reload or lock on again next turn.*
+
+Weapons mounted on the central Basilica
+count as operating under the special orders of
+all of the quadrants, so it entirely possible for
+them to be locked on, reloading and braced all
+at the same time. [*Brace for Impact*] orders will
+halve the firepower and ordnance strength of
+the Basilica weapons as normal.
+
+### The Fort in Campaigns
+
+In a [campaign](../campaign-rules.md) a Ramilies can only be gained
+by a commander of eleven or more [renown](../campaign-rules.md#renown)
+by making a dedicated [appeal](../campaign-rules.md#6-appeals) needing a 5+
+to succeed. Alternatively the commander
+may surrender control of one forge world or
+hive planet and be granted a Ramilies by way
+of replacement. A Ramilies generates [repair
+points](../campaign-rules.md#repair-points) equivalent to a pirate base and players
+can attempt to attack it in the same way as a
+pirate base. In addition to generating repair
+points the Ramilies enables one capital ships
+or escort squadron [withdrawn](../campaign-rules.md#withdrawing) for full repairs
+to return before the start of the players next
+game on a D6 roll of 4+.
+
+If a Ramilies is found it can be moved to try
+and prevent further attacks on it. If the owning
+player decides to move his fort he must roll a
+D6. On a roll of 1 the fort is lost in the Warp
+and must be struck from the roster. On a 2 or
+more the fort relocates successfully and must
+be found again before it can be attacked.
+A Ramilies can earn ship and weapon [refits](../fleet-lists/refits.md)
+(NOT engine refits – re-roll this result!)
+over the course of a campaign, and any refits
+earned apply to all quadrants.
+
+### Special Torpedo Refits
+
+A Ramilies can purchase [special torpedoes](../fleet-lists/refits.md#special-torpedoes)
+from [???] on p.156-157 of Armada. However,
+if the Basilica takes [critical damage](../the-shooting-phase.md#critical-hits) while
+armed with torpedoes affected by critical
+damage (such as [vortex torpedoes](../fleet-lists/refits.md#vortex-torpedoes)), BOTH
+critical damage effects from the table
+and from the torpedo special rules apply.
+Resulting additional hits from damage caused
+by the torpedoes can be distributed among the
+Ramilies quadrants as decided by the enemy
+player.
+
+### Critical Hits
+
+Some of the larger defensive platforms like
+space stations and the Ramilies have multiple
+hits. When it comes to taking [damage](../the-shooting-phase.md#damage),
+defences with multiple hits work just like
+[capital ships](../the-rules.md#capital-ships). They can suffer criticals just like
+capital ships and get [crippled](../the-shooting-phase.md#crippled-ships) once they have
+lost half of their Damage Points. Remember
+that critical hits against the Ramilies only
+affect the quadrant they are scored against
+unless the result specifically states otherwise.
+The Ramilies class star fort uses the special
+critical hits table opposite.
+
+### Catastrophic Damage
+
+Once all four quadrants of the Ramilies are
+reduced to 0 Damage Points roll a D6 to see
+what happens to the vast wreck.
+
+### Ramilies Class Star Fort Critical Hits Table
+
+| 2D6 Roll | Extra Damage | Result |
+| :-: | :-: | --- |
+| 2–3 | +0 | **Lances damaged:** The quadrant’s [lance](../the-shooting-phase.md#direct-firing-lances) array is taken off line by the hit. The quadrant’s lance armament may not fire until it has been repaired. |
+| 4 | +0 | **Main armament damaged:** Heavy damage silences some of the quadrant’s [weapon batteries](../the-shooting-phase.md#direct-firing-weapons-batteries). They fire at half strength until it has been repaired. |
+| 5 | +0 | **Ordnance Bays hit:** The quadrant’s [ordnance](../the-ordnance-phase.md) bays are ravaged by explosions. No ordnance may be fired by the quadrant until the bays have been repaired.  |
+| 6 | +1 | **Reactors damaged:** The hyper plasmatic reactors are damaged, shutting down the power grid to the defences. Until the damage is repaired the quadrant’s [shields](../the-shooting-phase.md#shields) and [turrets](../the-ordnance-phase.md#turrets) are at half strength. |
+| 7 | +0 | **Fire!** Oxygen lines are broken, leading to fires in many compartments. Roll to repair (extinguish) the fire in the [End phase](../the-end-phase.md), if the fire is not put out it causes 1 point of extra damage and keeps burning. |
+| 8 | +D3 | **Hull breach:** A huge gash is torn in the quadrant’s hull, causing carnage among the crew. |
+| 9 | +0 | **Command Tower Struck:** A command tower on the central basilica is torn away. The Ramilies’ [Leadership](../the-rules.md#leadership) value is reduced by -2 points. This damage may not be repaired. |
+| 10 | +0 | **Shields Collapse:** The shield generators overload and burn out, leaving the quadrant’s virtually defenceless. The quadrant’s [shield](../the-shooting-phase.md#shields) strength is reduced to 0. This damage may not be repaired. |
+| 11 | +D3 | **Basilica penetrated!** The main basilica is struck, causing immense destruction as the torpedoes stored there explode and wreak havoc. All quadrants suffer D3 damage and the Basilica weapons are lost. |
+| 12 |+D6 | **Reactor Struck!** The central plasma reactor at the heart of Ramilies is struck, all four quadrants suffer an extra D6 hits from the resulting power surges and leaking plasma. Roll another critical damage result immediately and apply that to the quadrant struck. |
+
+### Ramilies Class Star Fort Catastrophic Damage Table
+
+| D6 Roll | Extra Blast Markers | Result |
+| :-: | :-: | --- |
+| 1–2 | 0 | **Wrecked:** The main structure of the stations survives somehow with parts intact and even some pockets of atmosphere. Venting gases and wreckage block line of fire across the wrecked fort, treat any movement through it as moving through an [asteroid field](../the-battlefield.md#asteroid-fields). |
+| 3 | 0 | **Structural Collapse:** The area is filled with huge chunks of wreckage as the fort comes apart. Place a 15 cm diameter [asteroid field](../the-battlefield.md#asteroid-fields) where it was. |
+| 4–5 | 2D6 | **Hyper-plasma Meltdown:** The sophisticated reactor of the Ramilies goes critical in spectacular style. Resolve eight [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship within 4D6 cm. All [ordnance](../the-ordnance-phase.md) within that distance is removed. All other ships, defences and ordnance markers on the table suffer the effects of a [solar flare](../the-battlefield.md#solar-flares) centred on the fort, as noted on [???] p47 of the Battlefleet Gothic rulebook. Finally the fort itself is replaced by 2D6 [blast markers](../the-shooting-phase.md#blast-markers). |
+| 6 | 0 | **Warpbubble Implosion:** The Ramilies is drawn into the Warp by an instantaneous collapse of its warp bubble generator. Resolve four [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship and [ordnance marker](../the-ordnance-phase.md) within 4D6 cm. Then replace the Ramilies with a [Warp Rift](../the-battlefield.md#warp-rifts) as detailed on [???] p45 of the Battlelfleet Gothic rulebook. All [ordnance](../the-ordnance-phase.md) and ships on the table top are then immediately drawn 15 cm towards the Rift and, if moved into it, will be affected as noted in the [Celestial Phenomena](../the-battlefield.md#celestial-phenomena) rules. |

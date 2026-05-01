@@ -6,10 +6,12 @@
 '*comes to new heading*': the-rules.md#come-to-new-heading
 '*lock on*': the-rules.md#lock-on
 '*lock-on*': the-rules.md#lock-on
+'*locking on*': the-rules.md#lock-on
 '*reload ordnance*': the-rules.md#reload-ordnance
 '*reload*': the-rules.md#reload-ordnance
 "tau kor’vattra": fleet-lists/tau.md#korvattra-merchant-fleet-list
 adjust renown: campaign-rules.md#2-adjust-renown
+appeal: campaign-rules.md#6-appeals
 appeals: campaign-rules.md#6-appeals
 aspect warrior host: fleet-lists/eldar.md#aspect-warrior-hosts
 aspect warrior: fleet-lists/eldar.md#aspect-warrior-hosts
@@ -131,6 +133,7 @@ hit & run attacks: the-end-phase.md#hit-and-run-attacks
 hit & run: the-end-phase.md#hit-and-run-attacks
 hit and run attack: the-end-phase.md#hit-and-run-attacks
 hit and run attacks: the-end-phase.md#hit-and-run-attacks
+hit and run raids: the-end-phase.md#hit-and-run-attacks
 hit-&-run raids: the-end-phase.md#hit-and-run-attacks
 hit-and run attack: the-end-phase.md#hit-and-run-attacks
 hit-and run attacks: the-end-phase.md#hit-and-run-attacks
@@ -170,6 +173,7 @@ mark of chaos: fleet-lists/chaos.md#marks-of-chaos
 mark of khorne: fleet-lists/chaos.md#1-chaos-warmaster
 mark of nurgle: fleet-lists/chaos.md#1-chaos-warmaster
 marks of chaos: fleet-lists/chaos.md#marks-of-chaos
+massed turret: the-ordnance-phase.md#massing-turrets
 massing turrets: the-ordnance-phase.md#massing-turrets
 mercurial zone: the-battlefield.md#2-mercurial-zone-generator
 minefields: fleet-lists/planetary-defences.md#low-orbit-defences_1
@@ -185,6 +189,7 @@ necron portals: fleet-lists/necrons.md#portal
 nova cannon: the-shooting-phase.md#nova-cannon
 nova cannons: the-shooting-phase.md#nova-cannon
 ordnance attacks: the-movement-phase.md
+ordnance marker: the-ordnance-phase.md
 ordnance phase: the-ordnance-phase.md
 ordnance: the-ordnance-phase.md
 ork: fleet-lists/orks.md
@@ -204,6 +209,10 @@ pulsar lance: fleet-lists/eldar.md#pulsar-lance
 radiation burst: the-battlefield.md#radiation-bursts
 radiation bursts: the-battlefield.md#radiation-bursts
 ram: the-movement-phase.md#all-ahead-full-ramming-speed
+ramilies star fort: fleet-lists/planetary-defences.md#ramilies-class-star-fort
+ramilies star fortress: fleet-lists/planetary-defences.md#ramilies-class-star-fort
+ramilies star fortresses: fleet-lists/planetary-defences.md#ramilies-class-star-fort
+ramilies: fleet-lists/planetary-defences.md#ramilies-class-star-fort
 ramming: the-movement-phase.md#all-ahead-full-ramming-speed
 rams: the-movement-phase.md#all-ahead-full-ramming-speed
 range: the-shooting-phase.md#range
@@ -218,6 +227,7 @@ reloaded: the-rules.md#reload-ordnance
 removal of blast markers from planetary defences: planetary-defences.md#removal-of-blast-markers
 renown: campaign-rules.md#renown
 repair critical damage: the-end-phase.md#damage-control
+repair points: campaign-rules.md#repair-points
 repaired: the-end-phase.md#damage-control
 repairing critical damage: the-end-phase.md#damage-control
 repairing: the-end-phase.md#damage-control
@@ -244,6 +254,7 @@ space marine: fleet-lists/space-marines.md
 special order command check: the-rules.md#special-orders
 special order: the-rules.md#special-orders
 special orders: the-rules.md#special-orders
+special torpedoes: fleet-lists/refits.md#special-torpedoes
 spoils of war: campaign-rules.md#1-the-spoils-of-war
 squadron: squadrons.md
 squadroned: squadrons.md
@@ -265,6 +276,7 @@ teleportation: the-end-phase.md#teleport-attacks
 teleporter: the-end-phase.md#teleport-attacks
 teleporters: the-end-phase.md#teleport-attacks
 teleporting: the-end-phase.md#teleport-attacks
+terminator boarding parties: fleet-lists/space-marines.md#terminator-boarding-parties
 the movement phase: the-movement-phase.md
 the shooting phase: the-shooting-phase.md
 thunderhawk: fleet-lists/space-marines.md#thunderhawk-gunships
@@ -280,9 +292,14 @@ tyranid: fleet-lists/tyranids.md
 tyranids: fleet-lists/tyranids.md
 victory point: scenarios.md#victory-points
 victory points: scenarios.md#victory-points
+vortex torpedoes: fleet-lists/refits.md#vortex-torpedoes
 warp rift: the-battlefield.md#warp-rifts
 weapon batteries: the-shooting-phase.md#direct-firing-weapons-batteries
 weapon refit: campaign-rules.md#weapons-refit
 weapons batteries: the-shooting-phase.md#direct-firing-weapons-batteries
 weapons battery: the-shooting-phase.md#direct-firing-weapons-batteries
+withdraw: campaign-rules.md#withdrawing
+withdrawal: campaign-rules.md#withdrawing
+withdrawn: campaign-rules.md#withdrawing
+withdraws: campaign-rules.md#withdrawing
 worlds: the-battlefield.md#planets

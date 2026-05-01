@@ -94,7 +94,7 @@ roll of 6.
 Rather than the bombers and fighters
 employed by [Imperial Naval](imperial-navy.md#ordnance) forces, the
 Adeptus Astartes make exclusive use of the
-Thunderhawk gunship. They also make use of
+[Thunderhawk gunship](#thunderhawk-gunships). They also make use of
 other types of ordnance not widely used in the
 Imperial Fleet.
 
@@ -103,7 +103,7 @@ torpedoes](../the-ordnance-phase.md#boarding-torpedoes) instead of ordinary torp
 detailed in the [Ordnance](../the-ordnance-phase.md) rules in Battlefleet
 Gothic. Remember that as these are Space
 Marines, they will have a +1 bonus to their [hit
-and run attack](../the-end-phase.md#hit-and-run-attacks)s if they hit an enemy ship.
+and run attacks](../the-end-phase.md#hit-and-run-attacks) if they hit an enemy ship.
 
 ### Thunderhawk Gunships
 
@@ -124,7 +124,7 @@ Thunderhawk marker uses its save to remain
 in play and comes into contact with another
 ordnance marker in the same ordnance phase,
 it is removed normally.). Note that against
-Eldar fighters, which also have this ability, it is
+[Eldar fighters](eldar.md#attack-craft), which also have this ability, it is
 possible that you end up with neither marker
 being removed! If this happens, either marker
 is free to move away in their next turn, or they
@@ -176,9 +176,9 @@ the previous page.
 
 When a Thunderhawk Annihilator comes in
 contact with an enemy ship’s base, they attack
-it like bombers as described for bombers on
+it like [bombers](../the-ordnance-phase.md#bombers) as described for bombers on
 [???] of the Remastered Rulebook, even if they
-have used their resilience to remain in play.
+have used their [resilience](../the-ordnance-phase.md#resilient-attack-craft) to remain in play.
 
 As they behave as both fighters and bombers,
 they apply a bonus to [turret](../the-ordnance-phase.md#turrets) suppression by
@@ -306,22 +306,22 @@ carry a Terminator boarding party:
 
 *You may include one Space Marine battle barge
 for every 1,000 points or part thereof in your fleet.
-The fleet can include a single Venerable battle
-barge (counting as one of the three allowed),
+The fleet can include a single [Venerable battle
+barge](#venerable-battle-barge) (counting as one of the three allowed),
 chosen from any available Imperial or Chaos
 battleship, grand cruiser, battlecruiser or heavy
 cruiser at the listed cost, plus an additional +35
 points for its Space Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
+<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
 </tbody></table>
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -331,20 +331,20 @@ points for its Space Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>45 pts</td></tr>
-<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
+<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>45 pts</td></tr>
+<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
 
-Any ship with launch bays carries Thunderhawk
-Gunships. Ships with torpedo tubes are
-armed with ordinary torpedoes and boarding
-torpedoes.
+Any ship with launch bays carries [Thunderhawk
+Gunships](#thunderhawk-gunships). Ships with torpedo tubes are
+armed with ordinary torpedoes and [boarding
+torpedoes](../the-ordnance-phase.md#boarding-torpedoes).
 
 ## Crusade Fleet List
 
@@ -374,8 +374,8 @@ list on [???] of Armada.
 *You may include 1 Master of the Fleet. If your fleet
 includes any battle barges, he must be assigned
 to a battle barge. The Master of the Fleet may be
-assigned to a venerable battle barge or fortress
-monastery if one is present, but does not have to
+assigned to a [Venerable battle barge](#venerable-battle-barge) or [fortress
+monastery](#fortress-monastery) if one is present, but does not have to
 be. If the fleet is worth over 750 points, the Master
 of the Fleet must be included to lead it.*
 
@@ -411,7 +411,7 @@ carry a Terminator boarding party:
 include one Fortress-Monastery.*
 
 <table class=fleet-list><tbody>
-<tr><td>Fortress-Monastery (<a target="_new" title="Open Page 108 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=108">pg. 108</a>)</td><td>1000 pts</td></tr>
+<tr><td>Fortress-Monastery (<a target="_new" title="Open Page 108 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=108">pg. 108</a>)</td><td>1000 pts</td></tr>
 </tbody></table>
 
 
@@ -437,7 +437,7 @@ the entire fleet.
 *You may include one Space Marine battle barge
 for every 1,000 points or part thereof in your fleet.
 The fleet must be worth at least 1,000 points to
-include a single Venerable battle barge (counting
+include a single [Venerable battle barge](#venerable-battle-barge) (counting
 as one of the three allowed), chosen from any
 available Imperial or Chaos battleship, grand
 cruiser, battlecruiser or heavy cruiser at the listed
@@ -445,15 +445,15 @@ cost, plus an additional +35 points for its Space
 Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
+<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -463,23 +463,23 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
+<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
 ### Ordnance
 
-Any ship with launch bays carries Thunderhawks
-and Thunderhawk Annihilators. Ships with
+Any ship with launch bays carries [Thunderhawks](#thunderhawk-gunships)
+and [Thunderhawk Annihilators](#thunderhawk-annihilator). Ships with
 torpedo tubes are armed with ordinary and
-boarding torpedoes. All Space Marine capital
-ships are equipped with drop pods. Any battle
+[boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). All Space Marine capital
+ships are equipped with [drop pods](#drop-pods). Any battle
 barge or strike cruiser in the fleet may be
 equipped with an Honour Guard for +10 points
 per ship. A fortress-monastery is equipped with
-Terminator boarding parties and an Honour
+[Terminator boarding parties](../fleet-lists/space-marines.md#terminator-boarding-parties) and an Honour
 Guard as part of its point cost.
 
 ### Attack Rating
@@ -505,7 +505,7 @@ as the defender. An alternative is to determine
 the attacker and defender normally with the
 Space Marine player electing if desired to use
 the fortress monastery if selected as the defender.
-Like the rules for a Ramilies Star Fortress, the
+Like the rules for a [Ramilies Star Fortress](../fleet-lists/planetary-defences.md#ramilies-class-star-fort), the
 fortress-monastery should only be used as a
 defence or in some scenarios substituting for
 the planet itself.
@@ -537,7 +537,7 @@ Space Marine fleets and vessels of the Imperial Navy will often be found acting 
 
 *You may include 1 Master of the Fleet. If your fleet
 includes any battle barges, he must be assigned
-to a battle barge. If a Venerable battle barge is
+to a battle barge. If a [Venerable battle barge](#venerable-battle-barge) is
 included in the fleet, the Master of the Fleet must
 be assigned to it. If the fleet is worth over 750
 points, a Master of the Fleet must be included
@@ -599,7 +599,7 @@ may carry Honour Guard.
 *You may include one Space Marine battle barge
 for every 1,000 points or part thereof in your fleet.
 The fleet must be worth at least 1,000 points to
-include a single Venerable battle barge (counting
+include a single [Venerable battle barge](#venerable-battle-barge) (counting
 as one of the three allowed), chosen from any
 available Imperial or Chaos battleship, grand
 cruiser, battlecruiser or heavy cruiser at the listed
@@ -607,15 +607,15 @@ cost, plus an additional +35 points for its Space
 Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
+<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruiser (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td>Strike cruiser (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -625,20 +625,20 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) . 45 pts</td><td></td></tr>
-<tr><td>Rapid strike vessel (Falchion) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
+<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
+<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) . 45 pts</td><td></td></tr>
+<tr><td>Rapid strike vessel (Falchion) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
 
-Any ship with launch bays carries Thunderhawks
-gunships. Ships with torpedo tubes are armed
-with ordinary and boarding torpedoes. Imperial
+Any ship with launch bays carries [Thunderhawks
+gunships](#thunderhawk-gunships). Ships with torpedo tubes are armed
+with ordinary and [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). Imperial
 Navy vessels are equipped with their own
 standard ordnance (even if they have Space
 Marine Captains) and cannot be given any form
@@ -713,16 +713,100 @@ special refits that the Space Marines themselves make to their battle barges, as
 Any launch bays on a Venerable battle barge have their launch capacity halved (rounding up).
 For example, an Imperial Mars battlecruiser with two launch bays each side is reduced to one
 each side, and a Chaos Styx heavy cruiser with three launch bays on each side is reduced to two
-each side. The launch bays are configured to carry Thunderhawks following the rules detailed
-beforehand and on [???] of Armada, and they cannot be used to launch any other form of attack
-craft. This is a compulsory refit that applies to all Venerable battle barges equipped with launch
+each side. The launch bays are configured to carry [Thunderhawks](#thunderhawk-gunships) following the rules detailed
+beforehand and on [???] of Armada, and they cannot be used to launch any other form of [attack
+craft](../the-ordnance-phase.md#attack-craft). This is a compulsory [refit](../campaign-rules.md#refits) that applies to all Venerable battle barges equipped with launch
 bays. A Venerable battle barge not equipped with launch bays cannot take Thunderhawks.
 
 ### Prow Weapons and Boarding Torpedoes
 
 Any Venerable battle barge equipped with a prow weapon (regardless of what it is) may, if
-desired, replace it with strength-6 torpedo tubes (speed: 30 cm) for no change in cost. As with
-all Space Marine vessels, these tubes may also be used to launch boarding torpedoes. These
-boarding torpedoes are manned by Space Marines and get a +1 to their hit and run attacks when
+desired, replace it with strength-6 [torpedo](../the-ordnance-phase.md#torpedoes) tubes (speed: 30 cm) for no change in cost. As with
+all Space Marine vessels, these tubes may also be used to launch [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). These
+boarding torpedoes are manned by Space Marines and get a +1 to their [hit and run attacks](../the-end-phase.md#hit-and-run-attacks) when
 they hit an enemy ship.
 
+## Fortress-Monastery
+
+### Quadrants
+
+Quadrants function the same way they do for
+[Ramilies Star Fortresses](../fleet-lists/planetary-defences.md#ramilies-class-star-fort) in all respects.
+
+### Hit-and-run Raiders
+
+Remember that the fortress-monastery is a
+Space Marine installation, and as such [hit-and-run attacks](../the-end-phase.md#hit-and-run-attacks) will deduct -1 from their dice roll.
+
+### Boarding
+
+At times, an entire Space Marine Chapter may
+be found aboard a fortress-monastery, along
+with an untold number of their highly-trained
+serfs and retainers. Attempting to [board](../the-end-phase.md#boarding-actions) one of
+them would be equivalent to trying to capture
+an entire city or even a small planet – tens of
+thousands of troops would be needed. As with
+the [Ramilies](../fleet-lists/planetary-defences.md#ramilies-class-star-fort), remember that only Space Hulks
+may attempt to board fortress-monasteries.
+Additionally, the fortress-monastery has a +2
+modifier for being Space Marines before any
+other modifiers are taken into account.
+
+### Thunderhawks
+
+While a fortress-monastery has sufficient
+launch bays to unleash great swarms of
+[Thunderhawks](../fleet-lists/space-marines.md#thunderhawk-gunships), these large and complex
+gunships are in limited supply. This means it
+doesn't provide twice the launch bay number
+to the launch limit the way a [Ramilies Star
+Fort](../fleet-lists/planetary-defences.md#ramilies-class-star-fort) does. Use the value listed in its profile.
+
+### Shields and Blast Markers
+
+[Shields](../the-shooting-phase.md#shields) and [blast markers](../the-shooting-phase.md#blast-markers) work exactly the
+same way they do for a [Ramilies Star Fort](../fleet-lists/planetary-defences.md#ramilies-class-star-fort),
+meaning, a single round of shooting from a
+ship or squadron cannot place blast markers
+in base contact with more than one other
+quadrant besides the quadrant it is shooting at
+(for two in total).
+
+### Leadership
+
+Fortress-Monasteries have a base [leadership](../the-rules.md#leadership) of
+10; they are the home to the command staff of
+an entire Space marine Chapter, after all!
+
+### Special Orders and Re-rolls
+
+Fortress-monasteries can undertake [special
+orders](../the-rules.md#special-orders) in the same manner as a [Ramilies Star
+Fortress](../fleet-lists/planetary-defences.md#ramilies-class-star-fort). It may also purchase [re-rolls](../the-rules.md#re-rolls) at the
+cost listed in its fleet list. These re-rolls are
+usable only by the fortress-monastery itself.
+Fleet Commanders may be placed aboard a
+fortress, in which case their own [leadership](../the-rules.md#leadership)
+value is used (even if less!). If used in this
+manner, re-rolls purchased by the fortress-monastery are added to the commander’s own
+re-rolls and can be used by the entire fleet.
+
+### Teleport Attacks
+
+Fortress-monasteries contain numerous
+teleport chambers, both for dispatching troops
+to other vessels in the fleet and delivering
+them into combat, be it on a nearby planet
+or as a devastating [hit and run attack](../the-end-phase.md#hit-and-run-attacks) against
+enemy vessels. Each quadrant not crippled
+allows the fortress-monastery to launch one
+[teleport hit and run attack](../the-end-phase.md#teleport-attacks) in the normal
+manner, with all teleport attacks benefiting
+from a +1 bonus for being Space Marines. In
+addition, one of the teleport attacks made by
+the fortress can be conducted by [Terminator
+boarding parties](../fleet-lists/space-marines.md#terminator-boarding-parties). This is included in the
+fortress-monastery’s point cost and does not
+have to be purchased extra. This extra attack
+can be made once per turn.

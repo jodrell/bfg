@@ -738,6 +738,7 @@ case each escort ship is worth 1 damage point.
 > cruiser. This cruiser will start its next
 > battle with three hits less than normal.
 
+<a name="withdrawing"></a>
 **Withdrawing ships:** A player may choose to withdraw ships to get them fully repaired at a
 major base. Mark the fact they have been withdrawn on the [fleet register](campaign-rules.md#starting-fleets-the-fleet-register). Ships which are
 withdrawn are unavailable for the player’s next game, after which they return to the fleet with
