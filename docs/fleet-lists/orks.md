@@ -24,17 +24,17 @@ excessive) thrusters, boosters and extra drives
 button in the cockpit.
 
 Because of this, Orks do not need to pass a
-[Command check](../the-rules.md#taking-command-checks) to use [*All Ahead Full*] special
+[Command check](../the-rules.md#taking-command-checks) to use [*All Ahead Full*](../the-rules.md#all-ahead-full) special
 orders. However, Ork drives are less efficient
 than those of other races and are often short
 on fuel, so they only travel an extra 2D6 cm on
-[*All Ahead Full*] orders instead of 4D6 cm.
+[*All Ahead Full*](../the-rules.md#all-ahead-full) orders instead of 4D6 cm.
 This special rule does not exempt it from
 the restrictions that occur when a ship or
 [squadron](../squadrons.md) fails a [special order command
 check](../the-rules.md#special-orders). If an Ork command check is failed Ork
-ships not already on [*All Ahead Full*] may not
-then be put on [*All Ahead Full*] special orders.
+ships not already on [*All Ahead Full*](../the-rules.md#all-ahead-full) may not
+then be put on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders.
 
 ### Boarding
 
@@ -229,7 +229,7 @@ they follow all rules for planetary defences,
 meaning they automatically pass all [leadership
 checks](../the-rules.md#taking-command-checks) they are required to make but cannot
 undergo any [Special Orders](../the-rules.md#special-orders) except [*Reload
-Ordnance*] and [*Brace For Impact*], for which
+Ordnance*](../the-rules.md#reload-ordnance) and [*Brace For Impact*](../the-rules.md#brace-for-impact), for which
 they are Leadership 7 (Yes, 7 and not 6!).
 
 Ork Roks cannot move and count as
@@ -333,8 +333,8 @@ torpedo salvoes when it fires.
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -343,11 +343,11 @@ torpedo salvoes when it fires.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -443,7 +443,7 @@ when it fires.
 your fleet per 1,500 points.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
+<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
 </tbody></table>
 
 
@@ -466,11 +466,11 @@ in your fleet, you may pick one vessel from the
 list below.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <em>Gorbag&#39;s Revenge</em> (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
-<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
-<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
-<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
-<tr><td>Hammer class battlekroozer (<a target="_new" title="Open Page 356 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=356">pg. 356</a>)</td><td>245 pts</td></tr>
+<tr><td>(0-1) <em>Gorbag&#39;s Revenge</em> (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
+<tr><td>Hammer class battlekroozer (<a target="_new" title="Open Page 356 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=356">pg. 356</a>)</td><td>245 pts</td></tr>
 </tbody></table>
 
 ### Kroozers
@@ -478,8 +478,8 @@ list below.*
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -488,11 +488,11 @@ list below.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -502,7 +502,7 @@ fleet in squadrons of 2–6.*
 fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
+<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -770,7 +770,7 @@ their notes.
 
 
 The ship gains +5 cm speed, and it rolls 4D6 cm
-when on [*All Ahead Full*] special orders.
+when on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders.
 
 <table class=fleet-list><tbody>
 <tr><td><strong>Extra Power Fields</strong></td><td><strong>+25 pts</strong></td></tr>
@@ -877,7 +877,7 @@ if they are [crippled](../the-shooting-phase.md#crippled-ships). Any time the sh
 base contact with any one enemy ship during [the
 movement phase](../the-movement-phase.md), immediately roll two D6. Each
 roll of a 4+ inflicts one hit on the target, ignoring
-shields but not holofields. [*Brace for Impact*] works
+shields but not holofields. [*Brace for Impact*](../the-rules.md#brace-for-impact) works
 normally against attacks by Klaws.
 
 Each ship with Klaws may only use it once per
@@ -922,7 +922,7 @@ of the hull. Each hit does not cause damage.
 Instead, the next [leadership check](../the-rules.md#taking-command-checks) or [special
 order](../the-rules.md#special-orders) made by the ship must be with an extra
 D6 (such as 3D6, or even more when already
-using 3D6, such as when [*All Ahead Full*] through
+using 3D6, such as when [*All Ahead Full*](../the-rules.md#all-ahead-full) through
 an asteroid field)! Additional “hits” from this
 weapon only add to the number of hordes that
 must be eradicated before the ship can return to
@@ -1007,10 +1007,10 @@ under his command.*
 list:*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Gorbag&#39;s Revenge (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
-<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
-<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
-<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
+<tr><td>(0-1) Gorbag&#39;s Revenge (<a target="_new" title="Open Page 359 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=359">pg. 359</a>)</td><td>310 pts</td></tr>
+<tr><td>(0-1) Slamblasta (<a target="_new" title="Open Page 360 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=360">pg. 360</a>)</td><td>295 pts</td></tr>
+<tr><td>(0-1) Dethdeala (<a target="_new" title="Open Page 358 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=358">pg. 358</a>)</td><td>275 pts</td></tr>
+<tr><td>(0-1) Kroolboy (<a target="_new" title="Open Page 361 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=361">pg. 361</a>)</td><td>270 pts</td></tr>
 </tbody></table>
 
 #### Big ship skwadron
@@ -1018,9 +1018,9 @@ list:*
 *1-2 Kroozers, chosen from the following list:*
 
 <table class=fleet-list><tbody>
-<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
-<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
-<tr><td>Lite kroozer (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>90 pts</td></tr>
+<tr><td>Terror ship (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>185 pts</td></tr>
+<tr><td>Kill kroozer (<a target="_new" title="Open Page 364 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=364">pg. 364</a>)</td><td>155 pts</td></tr>
+<tr><td>Lite kroozer (<a target="_new" title="Open Page 362 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=362">pg. 362</a>)</td><td>90 pts</td></tr>
 </tbody></table>
 
 #### Tiddla skwadron
@@ -1029,11 +1029,11 @@ list:*
 mix desired:*
 
 <table class=fleet-list><tbody>
-<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
-<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
-<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
-<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
-<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
+<tr><td>Ravager attack ship (<a target="_new" title="Open Page 368 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=368">pg. 368</a>)</td><td>40 pts</td></tr>
+<tr><td>Onslaught attack ship (<a target="_new" title="Open Page 366 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=366">pg. 366</a>)</td><td>35 pts</td></tr>
+<tr><td>Grunt assault ship (<a target="_new" title="Open Page 370 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=370">pg. 370</a>)</td><td>30 pts</td></tr>
+<tr><td>Savage gunship (<a target="_new" title="Open Page 367 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=367">pg. 367</a>)</td><td>30 pts</td></tr>
+<tr><td>Brute ramship (<a target="_new" title="Open Page 369 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=369">pg. 369</a>)</td><td>25 pts</td></tr>
 </tbody></table>
 
 #### Rok skwadron
@@ -1041,7 +1041,7 @@ mix desired:*
 *1–4 Roks*
 
 <table class=fleet-list><tbody>
-<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
+<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -1058,7 +1058,7 @@ for double the listed cost. Upgrades that increase
 its boarding value or speed may not be taken.
 
 <table class=fleet-list><tbody>
-<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
+<tr><td>Ork hulk (<a target="_new" title="Open Page 371 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=371">pg. 371</a>)</td><td>600 pts</td></tr>
 </tbody></table>
 
 
@@ -1127,3 +1127,219 @@ cannot earn more re-rolls than would be allowed
 by p.153 of the Rulebook, even if a second re-roll
 was purchased at the start of the campaign.
 
+## Ork Hulks
+
+### Leadership
+
+Due to their enormous size, and the strain this
+places on Ork communications systems (ie,
+shouting loudly), a hulk is always [Leadership](../the-rules.md#leadership) 6.
+
+### Special Orders
+
+A space hulk may not use [*Come to New
+Heading*](../the-rules.md#come-to-new-heading) or [*Burn Retros*](../the-rules.md#burn-retros) special orders.
+Space Hulks can use [*All Ahead Full*](../the-rules.md#all-ahead-full) special
+orders but cannot gain extra movement by
+doing so. This will allow them to attempt to
+[ram](../the-movement-phase.md#all-ahead-full-ramming-speed), but given the size and poor leadership
+of a Space Hulk, it will only be viable against
+defences. Because it is a Defence, it must roll
+leadership against 3D6 to ram anything besides
+another defence, against which it rolls 2D6.
+
+### Warlords
+
+Having an Ork Warlord aboard a space hulk
+does not double its [boarding](../the-end-phase.md#boarding-actions) value. Also, the
+Warlord’s upgrades are modified as noted:
+* Looted Torpedoes and Maniac Gunners
+upgrades can be used to affect only one
+weapon system or torpedo battery per
+turn. Which system is being affected
+must be nominated before the roll is made
+for its effectiveness – the re-roll can’t be
+transferred elsewhere afterwards!
+* Extra Powerfields costs +50 pts instead of +25.
+* Mad Meks enables the hulk to ignore the
+effects of a critical hit on a D6 roll of 6.
+* Mega-armoured Boarding Parties is unchanged.
+
+### Movement
+
+Ork hulks must move 10 cm in a straight
+line each turn, no more, no less. Space hulks
+likewise do not have their speed reduced by
+[Blast markers](../the-shooting-phase.md#blast-markers) or [damage](../the-shooting-phase.md#damage).
+
+#### Turning
+
+A space hulk may turn up to 45˚ and only in
+every second [Movement phase](../the-movement-phase.md). The turn must
+be taken at the end of the space hulk’s 10 cm
+movement. This can be seen more clearly in
+the diagram below.
+
+![](assets/space-hulk-turning.png)
+
+#### Gravity Wells
+
+If a hulk is within the [gravity well](../the-battlefield.md#gravity-wells) of a planet
+or moon at the end of its movement it can
+make a single 45° turn towards the [planet](../the-battlefield.md#planets) or
+[moon](../the-battlefield.md#moons), regardless of whether it turned in its
+last [movement phase](../the-movement-phase.md).
+
+<!--
+ Also, the enormous size
+and mass of a space hulk means that it creates
+its own gravity well extending 5 cm from the
+edges of its base. This affects other ships in
+exactly the same way as a planetary gravity
+well and means that other ships can take up
+a stationary orbit around the hulk. Objects
+orbiting the hulk are moved along with it until
+such time as they break orbit. A ship deciding
+to break orbit must do so before the Space
+Hulk moves. In other words, no free moves!
+
+UPGRADES
+Hulks cannot take any upgrade that improves
+Boarding Value, Turning or Speed.
+-->
+
+### Damage
+
+Ork hulks are so massive that damage applies
+to them a little differently than to other ships.
+
+#### Crippling
+
+Space hulks are not [crippled](../the-shooting-phase.md#crippled-ships) by damage like
+ordinary ships. They are so big that they must
+be gradually eroded by enemy fire.
+
+#### Catastrophic Damage
+
+When a space hulk is reduced to 0 Damage roll
+on the [Catastrophic Damage table](../the-shooting-phase.md#catastrophic-damage-table). The drifting
+and blazing hulk results remain unchanged.
+
+A plasma drive overload result indicates
+the Space Hulk is torn apart by internal
+explosions, no damage is scored on ships
+nearby, instead the hulk breaks up into
+[asteriod field](../the-battlefield.md#asteroid-fields) D3×5 cm wide and long.
+
+On a warp drive implosion result the hulk is
+hurled back into the Warp. Replace the hulk
+with a [Warp rift](../the-battlefield.md#warp-rifts) [???] (celestial phenomena,
+p45). Any ships caught in the rift are affected
+immediately.
+
+### Ork Hulk Critical Hits Table
+
+*Due to their massive size and lack of complex systems, do not roll for the effects of critical hits on a space
+hulk using the Critical Damage table.<br>
+Instead the player who inflicted the critical should roll to see what happens:*
+
+| D6 Roll | Result |
+| :-: | --- |
+| 1-2 | **Target high energy systems!** Roll a D6.<ul><li><strong>1-2:</strong> -1 dorsal lance</li><li><strong>3-4:</strong> -1 shield</li><li><strong>5-6:</strong> 1 turret strength</li></ul> |
+| 3-4 | **Target weapons clusters!** Roll a D6, affecting only the firing arc where the hulk was hit by the critical hit: <ul><li><strong>1-2:</strong> -1 launch bay (except prow/aft)</li><li><strong>3-4:</strong> -1 torpedo strength (except aft)</li><li><strong>5-6:</strong> -2 weapons battery firepower</li></ul> |
+| 5-6 | **Target thruster assemblies!** The hulk must roll higher than the number of thruster damage criticals it has suffered on a D6 in order to turn. |
+
+*Damage rolled that does not apply for any reason immediately assumes the next higher level
+damage on the table. Space Hulks cannot repair any critical damage in the course of a battle.*
+
+### Ork Hulks in Campaigns
+
+An Ork pirate fleet may use a single Ork space
+hulk as their pirate base in a campaign. If the
+pirate base comes under attack, substitute
+one space hulk for the target planet in a
+[Planetary Assault](../scenarios/planetary-assault.md) or [Exterminatus](../scenarios/exterminatus.md) mission,
+and the planets in the Hunter, Prey scenario
+presented in WD233 (note that this does take
+some of the guesswork out of the scenario but
+does make for a very different encounter!).
+The space hulk must still be purchased using
+the fleet and/or [planetary defence](../fleet-lists/planetary-defences.md) points
+allocation for the scenario, but the hulk itself
+is not considered part of the fleet registry.
+In these scenarios, the [low orbit table](../the-battlefield.md#fighting-in-low-orbit) will
+actually represent very close range passes on
+the hulk, so the normal [victory conditions](../scenarios.md#victory-points)
+remain the same as far as assault points or
+the Exterminator are concerned. Also, should
+the space hulk be destroyed then the attacker
+will automatically win. Note that it is still
+possible for the Ork player to purchase [low
+orbit defences](../fleet-lists/planetary-defences.md#low-orbit-defences), these simply represent short
+ranged point-defence systems studded about
+the space hulk.
+
+Alternatively, by using the full [Waaagh!](../fleet-lists/orks.md#third-armageddon-war-ork-waaagh-fleet-list) or
+[Clanz](#ork-clanz-ere-we-go-ere-we-go-ere-we-go) Fleet lists, Ork players can participate
+fully in a campaign, conquering systems and
+engaging in battles in the same way as other
+fleets. The [Third Armageddon War](../the-third-armageddon-war.md) represents
+one such conflict where the Orks participate
+as full fleets, rather than just raiders.
+History, rules and background for the Third
+Armageddon War are presented on [???] of the
+Remastered Rulebook.
+
+## Roks
+
+Roks are sufficiently different to both Orbital
+Defences and true spaceships to require a
+number of special rules. However any rules
+which are not specifically noted as being
+modified below, apply in full to Roks. For
+example, Roks which lose half their [damage](../the-shooting-phase.md#damage)
+are [crippled](../the-shooting-phase.md#crippled-ships) just like other vessels.
+
+### Movement
+
+Because they are basically large lumps of rock
+with engines studded all over them, Roks
+don’t move in the same way as normal ships.
+In their [Movement phase](../the-movement-phase.md) Roks travel 10 cm
+forward in a straight line, no more, no less.
+Roks may not turn or use [*Burn Retros*](../the-rules.md#burn-retros) or [*Come
+to New Heading*](../the-rules.md#come-to-new-heading) orders.
+
+On [*All Ahead Full*](../the-rules.md#all-ahead-full) orders Roks move an extra
+2D6 cm in any direction at the end of their
+move. If this causes them to move 10 cm or
+more in a different direction to the one they
+are travelling in, this becomes their new
+direction of travel. This can be seen more
+clearly in the following diagrams.
+
+Due to their low speed and considerable
+momentum, Roks which are crippled or
+moving though [Blast markers](../the-shooting-phase.md#blast-markers) do not reduce
+their speed. Roks in the [gravity well](../the-battlefield.md#gravity-wells) of a
+[planet](../the-battlefield.md#planets) or [moon](../the-battlefield.md#moons) may make free turns like an
+ordinary ship (45°) and/or place themselves in
+a stationary or [low orbit](../the-battlefield.md#fighting-in-low-orbit).
+
+
+![](assets/stryxis-successful-course-change.png)
+
+![](assets/stryxis-unsuccessful-course-change.png)
+
+### Critical Hits
+
+Roks lack the complex systems of true space
+craft, so critical hits are not rolled on the
+[Critical table](../the-shooting-phase.md#critical-hits-table). Instead each critical hit inflicts
++1 point of damage.
+
+### Catastrophic Damage
+
+When a Rok is reduced to 0 Damage it breaks
+up. Do not roll for [Catastrophic Damage](../the-shooting-phase.md#catastrophic-damage),
+instead the Rok is replaced by 4 [Blast markers](../the-shooting-phase.md#blast-markers).

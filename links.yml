@@ -9,6 +9,7 @@
 '*locking on*': the-rules.md#lock-on
 '*reload ordnance*': the-rules.md#reload-ordnance
 '*reload*': the-rules.md#reload-ordnance
+'waaagh!': fleet-lists/orks.md#third-armageddon-war-ork-waaagh-fleet-list
 "tau kor’vattra": fleet-lists/tau.md#korvattra-merchant-fleet-list
 adjust renown: campaign-rules.md#2-adjust-renown
 appeal: campaign-rules.md#6-appeals
@@ -19,6 +20,7 @@ aspect warriors: fleet-lists/eldar.md#aspect-warrior-hosts
 assault boat: the-ordnance-phase.md#assault-boats
 assault boats: the-ordnance-phase.md#assault-boats
 assault craft: the-ordnance-phase.md#assault-boats
+asteriod field: the-battlefield.md#asteroid-fields
 asteroid belt: the-battlefield.md#asteroid-fields
 asteroid field: the-battlefield.md#asteroid-fields
 asteroid fields: the-battlefield.md#asteroid-fields
@@ -64,6 +66,7 @@ chaos marks: fleet-lists/chaos.md#marks-of-chaos
 chaos space marines: fleet-lists/chaos.md#chaos-space-marine-crews
 chaos swiftdeath: fleet-lists/chaos.md#ordnance
 chaos: fleet-lists/chaos.md
+clanz: fleet-lists/orks.md#ork-clanz-ere-we-go-ere-we-go-ere-we-go
 combat air patrol: the-ordnance-phase.md#combat-air-patrol-cap
 command check: the-rules.md#taking-command-checks
 command checks: the-rules.md#taking-command-checks
@@ -169,6 +172,7 @@ leadership checks: the-rules.md#taking-command-checks
 leadership test: the-rules.md#taking-command-checks
 leadership tests: the-rules.md#taking-command-checks
 leadership: the-rules.md#leadership
+low orbit defences: fleet-lists/planetary-defences.md#low-orbit-defences
 low orbit table: the-battlefield.md#fighting-in-low-orbit
 low orbit: the-battlefield.md#fighting-in-low-orbit
 manta: fleet-lists/tau.md#mantas
@@ -289,9 +293,10 @@ teleporter: the-end-phase.md#teleport-attacks
 teleporters: the-end-phase.md#teleport-attacks
 teleporting: the-end-phase.md#teleport-attacks
 terminator boarding parties: fleet-lists/space-marines.md#terminator-boarding-parties
-the gunnery table: ##FIXME##
+the gunnery table: the-shooting-phase.md#gunnery-table
 the movement phase: the-movement-phase.md
 the shooting phase: the-shooting-phase.md
+third armageddon war: the-third-armageddon-war.md
 thunderhawk: fleet-lists/space-marines.md#thunderhawk-gunships
 thunderhawks: fleet-lists/space-marines.md#thunderhawk-gunships
 torpedo bombers: the-ordnance-phase.md#torpedo-bombers
@@ -303,6 +308,7 @@ turret: the-ordnance-phase.md#turrets
 turrets: the-ordnance-phase.md#turrets
 tyranid: fleet-lists/tyranids.md
 tyranids: fleet-lists/tyranids.md
+victory conditions: scenarios.md#victory-points
 victory point: scenarios.md#victory-points
 victory points: scenarios.md#victory-points
 vortex torpedoes: fleet-lists/refits.md#vortex-torpedoes
