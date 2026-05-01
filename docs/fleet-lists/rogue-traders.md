@@ -613,7 +613,7 @@ crippled or moving though [Blast markers](../the-shooting-phase.md#blast-markers
 not reduce their speed. Caravan Vessels in the
 [gravity well](../the-battlefield.md#gravity-wells) of a planet or moon may make
 free turns like an ordinary ship (45°) and/or
-place themselves in a stationary or [low orbit](../../the-battlefield.md#fighting-in-low-orbit).
+place themselves in a stationary or [low orbit](../the-battlefield.md#fighting-in-low-orbit).
 
 They may undergo [*All Ahead Full*](../the-rules.md#all-ahead-full) special
 orders for free.

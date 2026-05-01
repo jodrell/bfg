@@ -132,7 +132,7 @@ A vessel with a Chaos Space Marine crew
 will have +1 [Leadership](../the-rules.md#leadership) (in addition to any
 other bonuses due to there being a Chaos
 Warmaster or Chaos Lord on board).
-Furthermore the maximum Leadership of the
+Furthermore the maximum [Leadership](../the-rules.md#leadership) of the
 vessel is increased to 10.
 
 ### Boarding & Hit-&-run
@@ -279,7 +279,7 @@ Any Daemon ship may have a single [Mark of
 Chaos](chaos.md#marks-of-chaos) with the same effects and cost in points
 as described on pg. 226.
 
-Daemon ship Leadership is rolled as normal
+Daemon ship [Leadership](../the-rules.md#leadership) is rolled as normal
 (ie, 1=6, 2,3=7, 4,5=8, 6=9).
 
 ### Warp Translation
@@ -520,7 +520,7 @@ destruction at Kharlos II.
 > 
 > Abaddon’s awesome reputation and dogged determination ensure there are seldom any
 > failures in the chain of command. When there are, the consequences are likely to be dire.
-> Abaddon’s fleet is allowed to re-roll a single Command check or Leadership test each turn.
+> Abaddon’s fleet is allowed to re-roll a single [Command check](../the-rules.md#taking-command-checks) or [Leadership test](../the-rules.md#taking-command-checks) each turn.
 
 ### Special Rules
 
@@ -582,7 +582,7 @@ its own Chaos Lord with a Mark of Tzeentch.
 Should this dreadful failure occur on
 Abaddon’s own ship, it will lose one Damage
 Point as the Black Legion massacre those who
-failed him. No Leadership increase is gained.
+failed him. No [Leadership](../the-rules.md#leadership) increase is gained.
 
 ## Gothic Sector: Chaos Incursion Fleet List
 
@@ -593,7 +593,7 @@ failed him. No Leadership increase is gained.
 *You must include a Chaos Warmaster in your fleet,
 even if it is worth 750 points or less. He must be
 assigned to the biggest (ie, most expensive) ship and
-improves its Leadership to the value shown below.*
+improves its [Leadership](../the-rules.md#leadership) to the value shown below.*
 
 <table class=fleet-list><tbody>
 <tr><td>Chaos Warmaster (Ld 8)</td><td>50 pts</td></tr>
@@ -615,7 +615,7 @@ The Chaos Warmaster is accompanied by the
 dissonant, siren cry of the Daemons of Slaanesh,
 the prince of pain and pleasure. Enemy ships
 within 15 cm of any ship with a Mark of Slaanesh
-suffer -2 to their Leadership value. This is an
+suffer -2 to their [Leadership](../the-rules.md#leadership) value. This is an
 area effect that is not affected by line of sight
 obstructions.
 
@@ -654,7 +654,7 @@ not be boarded.
 
 *You may include up to three Chaos Lords in your
 fleet. Each Chaos Lord must be assigned a ship
-and improves its Leadership rating to the value
+and improves its [Leadership](../the-rules.md#leadership) rating to the value
 shown.*
 
 <table class=fleet-list><tbody>
@@ -702,7 +702,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 #### Battleships
@@ -711,9 +711,9 @@ include it.*
 for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -722,7 +722,7 @@ You may include up to one grand cruiser in your
 fleet for every three cruisers or heavy cruisers.
 
 <table class=fleet-list><tbody>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -731,20 +731,20 @@ fleet for every three cruisers or heavy cruisers.
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -752,9 +752,9 @@ fleet for every two cruisers.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
@@ -774,7 +774,7 @@ torpedoes.
 *You can only include a Chaos Warmaster in your
 fleet if it includes any capital ships. He must be
 assigned to the most expensive ship and improves
-its rolled Leadership by +2, to a maximum of 9.*
+its rolled [Leadership](../the-rules.md#leadership) by +2, to a maximum of 9.*
 
 <table class=fleet-list><tbody>
 <tr><td>Chaos Warmaster (Ld +2)</td><td>100 pts</td></tr>
@@ -803,7 +803,7 @@ addition see his special rules on pg. 72[??]
 
 *Any capital ship, apart from that of the
 Warmaster, may be captained by a Chaos Lord. If
-so then add +1 to the Leadership rolled for the ship
+so then add +1 to the [Leadership](../the-rules.md#leadership) rolled for the ship
 at the start of the game subject to a maximum of 9.*
 
 <table class=fleet-list><tbody>
@@ -863,7 +863,7 @@ also counts as a battleship when working out how
 many heavy cruisers and cruisers the fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
+<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
 </tbody></table>
 
 #### 0–1 Chaos Space Hulk
@@ -873,7 +873,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 #### Battleships
@@ -882,9 +882,9 @@ include it.*
 for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -893,10 +893,10 @@ for every three cruisers or heavy cruisers.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
-<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
-<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
+<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
+<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -905,20 +905,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -967,9 +967,9 @@ Chaos with the same effects and points cost.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1004,7 +1004,7 @@ larger Thunderhawks.
 *You can only include a Chaos Warmaster in your
 fleet if it includes any capital ships. He must be
 assigned to the most expensive ship and improves
-its rolled Leadership by +2, to a maximum of 10.*
+its rolled [Leadership](../the-rules.md#leadership) by +2, to a maximum of 10.*
 
 <table class=fleet-list><tbody>
 <tr><td>Chaos Warmaster (Ld +2)</td><td>100 pts</td></tr>
@@ -1019,7 +1019,7 @@ the Mark of Tzeentch.
 
 *Any capital ship apart from that of the Warmaster
 may be captained by a Chaos Lord. If so then add
-+1 to the Leadership rolled for the ship at the start
++1 to the [Leadership](../the-rules.md#leadership) rolled for the ship at the start
 of the game subject to a maximum of 9.*
 
 <table class=fleet-list><tbody>
@@ -1052,7 +1052,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
+<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1063,7 +1063,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1076,10 +1076,10 @@ of Prospero* as one of its battleships, subject to
 normal restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 *Scion of Prospero* (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>450 pts</td></tr>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>0-1 *Scion of Prospero* (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>450 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1088,10 +1088,10 @@ normal restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
-<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
-<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
+<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
+<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1100,20 +1100,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1181,7 +1181,7 @@ servants, even those serving his chosen champion.*
 Any ship led by a Lord of Tzeentch (and not
 the Warmaster!) may be granted a Strand of
 Fortune. Once per battle it automatically passes
-a command check or leadership test – no roll
+a [command check](../the-rules.md#taking-command-checks) or [leadership test](../the-rules.md#taking-command-checks) – no roll
 required.
 
 ### Escorts
@@ -1190,9 +1190,9 @@ required.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1228,7 +1228,7 @@ to deal with the larger Thunderhawks.
 *You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
-and improves its rolled Leadership by +2, to a
+and improves its rolled [Leadership](../the-rules.md#leadership) by +2, to a
 maximum of 10.*
 
 <table class=fleet-list><tbody>
@@ -1245,7 +1245,7 @@ the Mark of Nurgle.
 
 *Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
-If so then add +1 to the Leadership rolled for
+If so then add +1 to the [Leadership](../the-rules.md#leadership) rolled for
 the ship at the start of the game subject to a
 maximum of 9.*
 
@@ -1280,7 +1280,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
+<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1291,7 +1291,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1304,10 +1304,10 @@ Est as one of its battleships, subject to normal
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 <em>Terminus Est</em> (<a target="_new" title="Open Page 248 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=248">pg. 248</a>)</td><td>430 pts</td></tr>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>0-1 <em>Terminus Est</em> (<a target="_new" title="Open Page 248 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=248">pg. 248</a>)</td><td>430 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1316,10 +1316,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
-<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
-<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
+<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
+<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1328,20 +1328,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1422,9 +1422,9 @@ normally on the catastrophic damage table.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1462,7 +1462,7 @@ Thunderhawks.
 *You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
-and improves its rolled Leadership by +2, to a
+and improves its rolled [Leadership](../the-rules.md#leadership) by +2, to a
 maximum of 10.*
 
 <table class=fleet-list><tbody>
@@ -1478,7 +1478,7 @@ the Mark of Khorne.
 
 *Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
-If so then add +1 to the Leadership rolled for
+If so then add +1 to the [Leadership](../the-rules.md#leadership) rolled for
 the ship at the start of the game subject to a
 maximum of 9.*
 
@@ -1514,7 +1514,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.
 
 <table class=fleet-list><tbody>
-<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
+<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1527,7 +1527,7 @@ two battleships, but other restrictions remain
 unchanged.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1540,10 +1540,10 @@ A fleet 1,000 points or more may include the
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>0-1 *Slaverer* (<a target="_new" title="Open Page 250 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=250">pg. 250</a>)</td><td>380 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>0-1 *Slaverer* (<a target="_new" title="Open Page 250 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=250">pg. 250</a>)</td><td>380 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1552,10 +1552,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
-<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
-<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
+<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
+<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1564,20 +1564,20 @@ You may include up to one heavy cruiser in your
 fleet for every two cruisers.
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1635,11 +1635,11 @@ Any ships with the Mark of Khorne
 conducting a boarding action may roll D3
 extra critical damage rolls if desired, but then
 it may not take any special orders (including
-[*Brace for Impact*]) in the next turn. Carriers
+[*Brace for Impact*](../the-rules.md#brace-for-impact)) in the next turn. Carriers
 with this Mark may launch up to D3 more
 attack craft markers of any type if within less
 than 20 cm of their target. If they do so, they
-must [*Reload Ordnance*] and not launch in the
+must [*Reload Ordnance*](../the-rules.md#reload-ordnance) and not launch in the
 next turn.
 
 ### Escorts
@@ -1648,9 +1648,9 @@ next turn.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1688,7 +1688,7 @@ Thunderhawks.
 *You can only include a Chaos Warmaster in
 your fleet if it includes any capital ships. He
 must be assigned to the most expensive ship
-and improves its rolled Leadership by +2, to a
+and improves its rolled [Leadership](../the-rules.md#leadership) by +2, to a
 maximum of 10.*
 
 <table class=fleet-list><tbody>
@@ -1704,7 +1704,7 @@ the Mark of Slaanesh.
 
 *Any capital ship apart from that of the
 Warmaster may be captained by a Chaos Lord.
-If so then add +1 to the Leadership rolled for
+If so then add +1 to the [Leadership](../the-rules.md#leadership) rolled for
 the ship at the start of the game subject to a
 maximum of 9.*
 
@@ -1743,7 +1743,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
+<tr><td>Planet Killer (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1754,7 +1754,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
+<tr><td>Chaos Space Hulk (<a target="_new" title="Open Page 272 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=272">pg. 272</a>)</td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1767,10 +1767,10 @@ Sin* as one of its battleships, subject to normal
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 <em>Wage of Sin</em> (<a target="_new" title="Open Page 246 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=246">pg. 246</a>)</td><td>430 pts</td></tr>
-<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
-<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
-<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
+<tr><td>0-1 <em>Wage of Sin</em> (<a target="_new" title="Open Page 246 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=246">pg. 246</a>)</td><td>430 pts</td></tr>
+<tr><td>Chaos battle barge (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>410 pts</td></tr>
+<tr><td>Despoiler class battleship (<a target="_new" title="Open Page 252 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=252">pg. 252</a>)</td><td>400 pts</td></tr>
+<tr><td>Desolator class battleship (<a target="_new" title="Open Page 253 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=253">pg. 253</a>)</td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1779,10 +1779,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
-<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
-<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
-<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
+<tr><td>Retaliator class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>260 pts</td></tr>
+<tr><td>Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>230 pts</td></tr>
+<tr><td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td><td>230 pts</td></tr>
+<tr><td>Executor class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1791,20 +1791,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
-<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
-<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
-<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
+<tr><td>Styx class heavy cruiser (<a target="_new" title="Open Page 254 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=254">pg. 254</a>)</td><td>260 pts</td></tr>
+<tr><td>Hecate class heavy cruiser (<a target="_new" title="Open Page 259 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=259">pg. 259</a>)</td><td>230 pts</td></tr>
+<tr><td>Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)</td><td>200 pts</td></tr>
+<tr><td>Acheron class heavy cruiser (<a target="_new" title="Open Page 261 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=261">pg. 261</a>)</td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
-<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
-<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
+<tr><td>Devastation class cruiser (<a target="_new" title="Open Page 262 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=262">pg. 262</a>)</td><td>190 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>180 pts</td></tr>
+<tr><td>Inferno class cruiser (<a target="_new" title="Open Page 264 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=264">pg. 264</a>)</td><td>180 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>170 pts</td></tr>
+<tr><td>Slaughter class cruiser (<a target="_new" title="Open Page 266 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=266">pg. 266</a>)</td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1885,9 +1885,9 @@ Impact.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
+<tr><td>Idolator class raider (<a target="_new" title="Open Page 267 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=267">pg. 267</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel class raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Iconoclast class destroyer (<a target="_new" title="Open Page 269 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=269">pg. 269</a>)</td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1916,3 +1916,274 @@ This is because the launch bays have to be
 substantially rebuilt to deal with the larger
 Thunderhawks.
 
+## The Armageddon Gun
+
+The Armageddon gun may not be fired if the
+ship has been crippled or is on [*Burn Retros*](../the-rules.md#burn-retros), [*All
+Ahead Full*](../the-rules.md#all-ahead-full) or [*Brace For Impact*](../the-rules.md#brace-for-impact) special orders.
+The Armageddon gun can only be fired directly
+ahead of the ship. To fire the Armageddon gun,
+place the [nova cannon](../the-shooting-phase.md#nova-cannon) template so that it is
+touching the Planet Killer’s stem then move it
+90 cm directly ahead. If the hole in the centre of
+the template passes over a ship’s base (friend or
+foe!), that ship suffers D6 automatic hits. If any
+other part of the nova cannon marker moves over
+a ship’s base then the ship suffers one automatic
+hit. Hits take down [shields](../the-shooting-phase.md#shields) exactly as normal.
+[Ordnance](../the-ordnance-phase.md) touched by the template is destroyed.
+Once the Armageddon gun has fired, it must
+build up another charge of energy and you must
+use [*Reload Ordnance*](../the-rules.md#reload-ordnance) orders before it can fire
+again. If you roll a double 6 for a Reload Ordnance
+check, then the Armageddon gun has disastrously
+malfunctioned, inflicting a [critical hit](../the-shooting-phase.md#critical-hits) on the
+Planet Killer and rendering the Armageddon gun
+useless for the rest of the battle. On a roll of any
+other double, the Armageddon gun can be fired
+once more before it must be shut down to prevent
+overloading. Note that as the [Planet Killer](../fleet-lists/chaos.md#the-planet-killer-in-exterminatus) also
+has [torpedoes](../the-ordnance-phase.md#torpedoes), it is possible that you will need to
+use [*Reload Ordnance*](../the-rules.md#reload-ordnance) orders for these at the same
+time as for the Armageddon gun. In this case,
+only make one [Command check](../the-rules.md#taking-command-checks).
+
+The Armageddon gun is a line of sight weapon
+and cannot fire through obstacles or [celestial
+phenomena](../the-battlefield.md#celestial-phenomena) that act as normal line of sight
+obstructions, such as [planets](../the-battlefield.md#planets), [moons](../the-battlefield.md#moons), [asteroid
+fields](../the-battlefield.md#asteroid-fields), etc.; a swirling jumble of million-ton
+rocks will disrupt even the awesome power of
+this weapon. However, place D6 [blast markers](../the-shooting-phase.md#blast-markers)
+at the point the Armageddon gun template
+contacted the asteroid field, moon, etc. for the
+vaporized rock left in its wake.
+
+### Armageddon Overcharge
+
+The Planet Killer can build up a charge of energy
+mighty enough to deal the deathblow to a planet.
+
+The Planet Killer must declare it is charging over
+three consecutive turns. No [leadership check](../the-rules.md#taking-command-checks) is
+required, but the ship may not turn, shoot or go
+on any [special orders](../the-rules.md#special-orders), including [*Brace For Impact*](../the-rules.md#brace-for-impact).
+Once started, the process cannot be stopped and
+during which time the ship gains +2 [shields](../the-shooting-phase.md#shields).
+
+Place a charge counter (a penny will do fine)
+next to the Planet Killer, and another counter
+at the start of each following turn. Once 3
+counters have been accumulated the gun must
+immediately fire after the [movement phase](../the-movement-phase.md) of
+the third turn, by moving the Nova Cannon
+template 60 cm (**not** 90 cm) directly ahead of the
+vessel. If any part of the template touches any
+ship’s base, that ship is completely destroyed, no
+saves allowed. The first planet or moon touched
+by the centre hole is removed on a 2+ in D3
+turns and replaced by a 2D6 × 2D6 [asteroid field](../the-battlefield.md#asteroid-fields).
+
+This shot can fire through [asteroid fields](../the-battlefield.md#asteroid-fields) but
+will not remove them by doing so. After firing
+this shot, the Planet Killer must pass a [*Reload
+Ordnance*](../the-rules.md#reload-ordnance) special order for two turns to bring
+the Armageddon Gun back online, during
+which time it may not fire any weapons at all
+but moves normally.
+
+![](assets/firing-the-armageddon-gun.png)
+
+*Example: The nova cannon template moves 90 cm directly ahead of the *Planet Killer*. The hole
+passes over the *Imperious*, while the outer edge passes over the *Iron Duke*. Unfortunately for the
+Chaos player, the template also passes over the *Monstrous*. The *Imperious* suffers D6 hits, and the
+*Iron Duke* and *Monstrous* suffer 1 hit each.*
+
+## The Planet Killer in Exterminatus
+
+The Planet Killer, as its unsubtle name suggests,
+is designed to attack worlds. This makes it
+particularly appropriate for the [Exterminatus](../scenarios/exterminatus.md)
+scenario. If the Chaos fleet is attacking, it
+can include the Planet Killer instead of using
+modified exterminators or a Blackstone Fortress.
+The Planet Killer does not lose any of its weapons
+for being an exterminator, but if the [Armageddon
+gun](#the-armageddon-gun) cannot be used for any reason then it can
+no longer act as an exterminator and the Chaos
+player loses the battle automatically. The Planet
+Killer can either use the [Armageddon Overcharge](#armageddon-overcharge)
+or enter [low orbit](../the-battlefield.md#fighting-in-low-orbit) to fire a planet-killing shot like
+other vessels; it then has a range of 60 cm and does
+not need to roll a 4+ to destroy the planet.
+
+### Including the Planet Killer in Battles
+
+The Planet Killer isn’t particularly suited to general fleet engagements and is much more
+appropriate for special scenarios or certain types of games. In fact, the Planet Killer is very
+likely to be the whole reason for a battle. For example, you could play [Scenario three: The
+Raiders](../scenarios/the-raiders.md), with the Chaos fleet defending the Planet Killer. Instead of the normal victory
+conditions, the attacking player must cripple or destroy the Planet Killer.
+
+Another variation on the ‘destroy the Planet Killer’ scenario is to use [Surprise Attack](../scenarios/surprise-attack.md).
+Rather than orbiting a world, the defending Chaos fleet is stationed around the Planet
+Killer (perhaps it is undergoing repairs or something similar). The defender does not have
+to pay any points for the Planet Killer, but it starts the battle on standby like the other
+defending vessels. As such it cannot move or shoot until active, though [turrets](../the-ordnance-phase.md#turrets) and [shields](../the-shooting-phase.md#shields)
+work as normal. The attackers must cripple the Planet Killer to win.
+
+Similarly, you could fight a [Convoy](../scenarios/convoy.md) scenario, with the Planet Killer counting as eight
+transports. The Planet Killer’s unwieldy size will make it difficult to manoeuvre in the
+dense [celestial phenomena](../the-battlefield.md#celestial-phenomena), offsetting its far greater offensive capabilities. If the Planet
+Killer moves off the opposite table edge undamaged then the Chaos player wins. If it is
+[crippled](../the-shooting-phase.md#crippled-ships) before it escapes it is a marginal attacker win and if it is destroyed the attacker
+gains a major win.
+
+## Chaos Space Hulks
+
+### Leadership
+
+Due to their enormous size, Chaos Space
+Hulks always impart a -1 Ld modifier. This is
+applied after all other modifiers and bonuses,
+including the Warmaster’s base [leadership](../the-rules.md#leadership),
+having [Chaos Space Marines](../fleet-lists/chaos.md#chaos-space-marine-crews) embarked, etc.
+
+### Special Orders
+
+A Space Hulk may not use [*Come to New
+Heading*](../the-rules.md#come-to-new-heading) or [*Burn Retros*](../the-rules.md#burn-retros) special orders. Due
+to their enormous capacity, space hulks may
+launch up to twice as many attack craft as the
+number of remaining launch bays the Hulk
+has available, instead of being limited to the
+same number as their surviving launch bays.
+
+### Movement
+
+Chaos Space Hulks must move 10 cm in a
+straight line each turn, no more, no less. Space
+hulks likewise do not have their speed reduced
+by [Blast markers](../the-shooting-phase.md#blast-markers) or damage.
+
+![](assets/space-hulk-turning.png)
+
+#### Turning
+
+A space hulk may turn up to 45° and only in
+every second [Movement phase](../the-movement-phase.md). The turn must
+be taken at the end of the space hulk’s 10 cm
+movement. This can be seen more clearly in
+the diagram below.
+
+#### Gravity Wells
+
+If a hulk is within the [gravity well](../the-battlefield.md#gravity-wells) of a [planet](../the-battlefield.md#planets)
+or [moon](../the-battlefield.md#moons) at the end of its movement it can
+make a single 45° turn towards the planet or
+moon, regardless of whether it turned in its
+last [movement phase](../the-movement-phase.md). Also, the enormous size
+and mass of a space hulk means that it creates
+its own gravity well extending 5 cm from the
+edges of its base. This affects other ships in
+exactly the same way as a planetary gravity
+well and means that other ships can take up
+a stationary orbit around the hulk. Objects
+orbiting the hulk are moved along with it until
+such time as they break orbit. A ship deciding
+to break orbit must do so before the Space
+Hulk moves. In other words, no free moves!
+
+<!--
+### Upgrades
+
+Hulks cannot take any upgrade that improves
+Boarding Value, Turning or Speed.
+-->
+
+### Damage
+
+Chaos Space Hulks are so massive that
+[damage](../the-shooting-phase.md#damage) applies to them a little differently
+than to other ships.
+
+#### Critical Hits
+
+Due to their massive size and lack of complex
+systems, roll for the effects of critical hits on
+the following table instead of using the normal
+[Critical Hits table](../the-shooting-phase.md#critical-hits-table).
+
+##### Chaos Space Hulk Critical Hits Table
+
+When receiving critical damage, roll a D6 against
+the following table:
+
+| D6 Roll | Result |
+| :-: | --- |
+| 1-2 | **Target high energy systems!** Roll a D6.<ul><li><strong>1-2:</strong> -1 prow and dorsal lance</li><li><strong>3-4:</strong> -1 shield</li><li><strong>5-6:</strong> 1 turret strength</li></ul> |
+| 3-4 | **Target weapons clusters!** Roll a D6, affecting only the firing arc the attack originated from:<ul><li><strong>1-2:</strong> -1 launch bay (except prow/aft)</li><li><strong>3-4:</strong> -1 torpedo strength (except aft)</li><li><strong>5-6:</strong> -2 weapons battery firepower</li></ul> |
+| 5-6 | **Target thruster assemblies!** In order to turn, the Space Hulk must roll a D6 and score higher than the number of thruster damage criticals it has suffered. |
+
+Damage rolled that does not apply for any
+reason immediately assumes the next higher
+level damage on the table.
+
+*For example, a Weapons Cluster roll of 2
+against the prow doesn’t apply and would
+instead count as a 3.*
+
+Space Hulks cannot [repair](../the-end-phase.md#damage-control) any [critical damage](../the-shooting-phase.md#critical-hits)
+in the course of a battle.
+
+#### Crippled
+
+Space hulks are not [crippled](../the-shooting-phase.md#crippled-ships) by damage like
+ordinary ships. They are so big that they must
+be gradually eroded by enemy fire.
+
+#### Catastrophic Damage
+
+When a space hulk is reduced to 0 Hp Damage
+roll on the [Catastrophic Damage table](../the-shooting-phase.md#catastrophic-damage-table). The
+drifting and blazing hulk results remain
+unchanged. A plasma drive overload result
+indicates the Space Hulk is torn apart by
+internal explosions, no damage is scored on
+ships nearby, instead the hulk breaks up into
+[asteroid field](../the-battlefield.md#asteroid-fields) D3 × 5 cm wide and long. On a
+warp drive implosion result the hulk is hurled
+back into the Warp. Replace the hulk with a
+[Warp rift](../the-battlefield.md#warp-rifts) (Celestial Phenomena, Remastered
+Rulebook, pg. &lt;?&gt;) [???]. Any ships caught in
+the rift are affected immediately.
+
+#### Using Chaos Space Hulks
+
+A Chaos fleet of any size may include one
+Chaos Space Hulk. If taken, it must serve as
+the flagship. It may not be taken in a fleet that
+has the Planet Killer, an Activated Blackstone
+Fortress or ships that must be used as flagships
+such as the *Terminus Est*. It may not take any
+Chaos Marks, but other ships still can.
+
+A Chaos fleet including a Space Hulk may
+have no more than two other battleships.
+However, there is no minimum point
+requirement or ship prerequisite for fielding
+a Chaos Space Hulk, and if desired it may
+even be taken by itself or only with escorts. It
+counts as a battleship for purposes of taking
+another so in order to take a second battleship,
+the fleet must already have six cruisers and/or
+heavy cruisers.
+
+Following the restrictions above, there isn't
+any reason a Chaos fleet cannot use a space
+hulk in the same manner as a pirate base in
+the course of a campaign. It could also be the
+objective of a convoy run scenario where the
+Space Hulk is caught alone while its fleet was
+away, counting as ten transports for purposes
+of selecting an attacking fleet.
