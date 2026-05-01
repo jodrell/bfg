@@ -18,23 +18,23 @@ a Space Marine ship, use the table here.
 
 ## Attack Rating
 
-Space Marines have a starting attack or
-initiative rating of 3.
+Space Marines have a starting [attack or
+initiative rating](../scenarios.md#using-an-attack-rating) of 3.
 
 ## Boarding Actions and Hit-&-run Attacks
 
 Space Marines are the supreme fighting
-force of the Imperium, and excel at ship-to-ship boarding actions, where their skill
+force of the Imperium, and excel at ship-to-ship [boarding actions](../the-end-phase.md#boarding-actions), where their skill
 is paramount and their lack of numbers
 irrelevant. To represent this, Space Marine
 ships add +2 to their D6 roll when they fight
-in a [boarding action](../the-end-phase.md#boarding-actions) and +1 when they make
+in a boarding action and +1 when they make
 any [hit and run attack](../the-end-phase.md#hit-and-run-attacks).
 
 Enemy hit-and-run attacks against a Space
 Marine ship deduct 1 from their dice rolls,
 i.e. to succeed, a 3+ is required against
-capital ships, and a 5+ against escorts.
+[capital ships](../the-rules.md#capital-ships), and a 5+ against escorts.
 
 ## Planetary Assaults and Exterminatus
 
@@ -72,11 +72,11 @@ are huge, turret-mounted linear accelerators,
 capable of launching a salvo of heavy magma
 bomb warheads. As their name implies,
 bombardment cannons are used primarily for
-pounding planetary defences into rubble and
+pounding [planetary defences](../fleet-lists/planetary-defences.md) into rubble and
 giving devastating orbital support to Space
 Marine landing forces. Bombardment cannons
 are equally devastating in ship-to-ship combat,
-capable of blasting apart any capital ship in just
+capable of blasting apart any [capital ship](../the-rules.md#capital-ships) in just
 a few salvoes.
 
 Bombardment cannons fire in the same way
@@ -293,7 +293,7 @@ Master of the Fleet.
 
 
 In addition, the Master of the Fleet’s ship may
-carry a Terminator boarding party:
+carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-boarding-parties):
 
 <table class=fleet-list><tbody>
 <tr><td>Terminator boarding party</td><td>+50 pts</td></tr>
@@ -396,7 +396,7 @@ the entire fleet.
 
 
 In addition, the Master of the Fleet’s ship may
-carry a Terminator boarding party:
+carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-boarding-parties):
 
 <table class=fleet-list><tbody>
 <tr><td>Terminator boarding party</td><td>+50 pts</td></tr>
@@ -493,7 +493,7 @@ with a billion tons of fortress monastery in tow!
 
 A Space Marine Crusade fleet will not take
 ships from or provide ships to any other fleet
-list as reserves or allies, including [Imperial Navy](imperial-navy.md),
+list as [reserves](../fleet-lists.md#reserves) or allies, including [Imperial Navy](imperial-navy.md),
 [Rogue Trader](rogue-traders.md) or [Adeptus Mechanicus](adeptus-mechanicus.md) fleet lists.
 
 ### Scenarios
@@ -557,7 +557,7 @@ Master of the Fleet.
 </tbody></table>
 
 In addition, the Master of the Fleet’s ship may
-carry a Terminator boarding party:
+carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-boarding-parties):
 
 <table class=fleet-list><tbody>
 <tr><td>Terminator boarding party</td><td>+50 pts</td></tr>

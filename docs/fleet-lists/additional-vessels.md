@@ -8,7 +8,7 @@ to the fleet of an individual race. However,
 there are some vessels which are employed
 by almost all races – most commonly the
 smaller support and transport vessels which
-might be linked to a specific scenario. In most
+might be linked to a specific [scenario](../scenarios.md). In most
 cases, such ships are fairly universal across
 the different races, and so a single profile
 and set of rules is usable by any fleet. The
@@ -19,7 +19,7 @@ manner.
 ## Q-ships, Armed Freighters & Escort Carriers
 
 These might be interesting additions to a
-Convoy scenario. You may replace regular
+[Convoy](../scenarios/convoy.md) scenario. You may replace regular
 freighters with these ships on a one-for-one
 basis, paying the points cost of the ship out
 of your own allowance; for example, if you
