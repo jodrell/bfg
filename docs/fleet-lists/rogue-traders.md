@@ -33,7 +33,7 @@ Rogue Trader escort squadron.
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
+> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
 
 ## Capital Ships
 
@@ -50,10 +50,10 @@ transports may not be in squadrons with other
 transport types.*
 
 <table class=fleet-list><tbody>
-<tr><td>Rogue Trader Cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
-<tr><td>Dauntless Class Light Cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
-<tr><td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
-<tr><td>Heavy Transport (<a target="_new" title="Open Page 176 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=176">pg. 176</a>)</td><td>40 pts</td></tr>
+<tr><td>Rogue Trader Cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
+<tr><td>Dauntless Class Light Cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
+<tr><td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
+<tr><td>Heavy Transport (<a target="_new" title="Open Page 176 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=176">pg. 176</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 ## Escorts
@@ -71,11 +71,11 @@ the fleet. Xenos vessels cannot be used in fleets
 that include Space Marine ships.*
 
 <table class=fleet-list><tbody>
-<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
-<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
-<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
-<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
-<tr><td>Auxiliary vessels (<a target="_new" title="Open Page 185 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=185">pg. 185</a>)</td><td>varies</td></tr>
+<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
+<tr><td>Auxiliary vessels (<a target="_new" title="Open Page 185 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=185">pg. 185</a>)</td><td>varies</td></tr>
 </tbody></table>
 
 ## Xenos Allies
@@ -228,13 +228,13 @@ Trader Cruisers and/or Endeavour light cruisers,
 following the basic profile for this ship.
 
 <table class=fleet-list><tbody>
-<tr><td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td><td>195 pts</td></tr>
-<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>195 pts</td></tr>
-<tr><td>Rogue Trader cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
-<tr><td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td><td>185 pts</td></tr>
-<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>185 pts</td></tr>
-<tr><td>Dauntless class light cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
-<tr><td>Endeavour class light cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
+<tr><td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td><td>195 pts</td></tr>
+<tr><td>Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)</td><td>195 pts</td></tr>
+<tr><td>Rogue Trader cruiser (<a target="_new" title="Open Page 174 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=174">pg. 174</a>)</td><td>185 pts</td></tr>
+<tr><td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td><td>185 pts</td></tr>
+<tr><td>Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)</td><td>185 pts</td></tr>
+<tr><td>Dauntless class light cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td><td>125 pts</td></tr>
+<tr><td>Endeavour class light cruiser (<a target="_new" title="Open Page 175 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=175">pg. 175</a>)</td><td>110 pts</td></tr>
 </tbody></table>
 
 > #### Notes from Nate Montes
@@ -250,7 +250,7 @@ following the basic profile for this ship.
 > respectively.
 > 
 > <table class=fleet-list><tbody>
-> <tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
+> <tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
 
 ### Escorts
 
@@ -265,11 +265,11 @@ and Tyranids. Xenos vessels cannot be employed if
 Space Marine escorts are used as auxiliary vessels.*
 
 <table class=fleet-list><tbody>
-<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
-<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
-<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
-<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
-<tr><td>Auxiliary vessels (<a target="_new" title="Open Page 185 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=185">pg. 185</a>)</td><td>varies</td></tr>
+<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
+<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
+<tr><td>Auxiliary vessels (<a target="_new" title="Open Page 185 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=185">pg. 185</a>)</td><td>varies</td></tr>
 </tbody></table>
 
 ### Transports
@@ -288,12 +288,12 @@ than 1/3 of the fleet’s total transport value can be
 made up of heavy transports.*
 
 <table class=fleet-list><tbody>
-<tr><td>Escort Carrier (<a target="_new" title="Open Page 501 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=501">pg. 501</a>)</td><td>60 pts</td></tr>
-<tr><td>Q-Ship (<a target="_new" title="Open Page 502 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=502">pg. 502</a>)</td><td>60 pts</td></tr>
-<tr><td>Heavy Transport (<a target="_new" title="Open Page 176 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=176">pg. 176</a>)</td><td>40 pts</td></tr>
-<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
-<tr><td>Armed Freighter (<a target="_new" title="Open Page 503 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=503">pg. 503</a>)</td><td>20 pts</td></tr>
-<tr><td>Cargo Transport (<a target="_new" title="Open Page 83 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=83">pg. 83</a>)</td><td>10 pts</td></tr>
+<tr><td>Escort Carrier (<a target="_new" title="Open Page 501 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=501">pg. 501</a>)</td><td>60 pts</td></tr>
+<tr><td>Q-Ship (<a target="_new" title="Open Page 502 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=502">pg. 502</a>)</td><td>60 pts</td></tr>
+<tr><td>Heavy Transport (<a target="_new" title="Open Page 176 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=176">pg. 176</a>)</td><td>40 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
+<tr><td>Armed Freighter (<a target="_new" title="Open Page 503 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=503">pg. 503</a>)</td><td>20 pts</td></tr>
+<tr><td>Cargo Transport (<a target="_new" title="Open Page 83 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=83">pg. 83</a>)</td><td>10 pts</td></tr>
 </tbody></table>
 
 Transports taken for the fleet can be used for
@@ -330,9 +330,9 @@ Space Marines are taken as reserves, allies or
 escort squadron auxiliary vessels.*
 
 <table class=fleet-list><tbody>
-<tr><td>Stronghold Commerce Vessel (<a target="_new" title="Open Page 468 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=468">pg. 468</a>)</td><td>350 pts</td></tr>
-<tr><td>Bastion Commerce Vessel (<a target="_new" title="Open Page 469 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=469">pg. 469</a>)</td><td>255 pts</td></tr>
-<tr><td>Citadel Commerce Vessel (<a target="_new" title="Open Page 470 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=470">pg. 470</a>)</td><td>185 pts</td></tr>
+<tr><td>Stronghold Commerce Vessel (<a target="_new" title="Open Page 468 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=468">pg. 468</a>)</td><td>350 pts</td></tr>
+<tr><td>Bastion Commerce Vessel (<a target="_new" title="Open Page 469 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=469">pg. 469</a>)</td><td>255 pts</td></tr>
+<tr><td>Citadel Commerce Vessel (<a target="_new" title="Open Page 470 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=470">pg. 470</a>)</td><td>185 pts</td></tr>
 </tbody></table>
 
 #### The Kroot
@@ -346,7 +346,7 @@ employed if Space Marines are taken as reserves,
 allies or escort squadron auxiliary vessels.*
 
 <table class=fleet-list><tbody>
-<tr><td>Kroot Warsphere (<a target="_new" title="Open Page 474 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=474">pg. 474</a>)</td><td>145 pts</td></tr>
+<tr><td>Kroot Warsphere (<a target="_new" title="Open Page 474 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=474">pg. 474</a>)</td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -443,7 +443,7 @@ how many Chaos and/or Imperial cruisers are
 in a single pirate fleet.
 
 <table class=fleet-list><tbody>
-<tr><td>(0-2) Fra'al Battleship (<a target="_new" title="Open Page 188 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=188">pg. 188</a>)</td><td>250 pts</td></tr>
+<tr><td>(0-2) Fra'al Battleship (<a target="_new" title="Open Page 188 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=188">pg. 188</a>)</td><td>250 pts</td></tr>
 </tbody></table>
 
 
@@ -464,20 +464,20 @@ rely solely on weapon batteries. Xenos vessels of
 all types don’t count toward this total.*
 
 <table class=fleet-list><tbody>
-<tr><td>Escort Carrier (<a target="_new" title="Open Page 501 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=501">pg. 501</a>)</td><td>60 pts</td></tr>
-<tr><td>Q-Ship (<a target="_new" title="Open Page 502 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=502">pg. 502</a>)</td><td>60 pts</td></tr>
-<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
-<tr><td>Idolator Raider (<a target="_new" title="Open Page 141 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=141">pg. 141</a>)</td><td>45 pts</td></tr>
-<tr><td>Infidel Raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
-<tr><td>Firestorm Frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>40 pts</td></tr>
-<tr><td>Sword Frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>35 pts</td></tr>
-<tr><td>Falchion Frigate (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>35 pts</td></tr>
-<tr><td>Cobra Destroyer (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>30 pts</td></tr>
-<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
-<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
-<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
-<tr><td>Armed Freighter (<a target="_new" title="Open Page 503 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=503">pg. 503</a>)</td><td>20 pts</td></tr>
-<tr><td>Cargo Transport (<a target="_new" title="Open Page 83 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=83">pg. 83</a>)</td><td>10 pts</td></tr>
+<tr><td>Escort Carrier (<a target="_new" title="Open Page 501 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=501">pg. 501</a>)</td><td>60 pts</td></tr>
+<tr><td>Q-Ship (<a target="_new" title="Open Page 502 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=502">pg. 502</a>)</td><td>60 pts</td></tr>
+<tr><td>Xenos Vessel (<a target="_new" title="Open Page 178 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=178">pg. 178</a>)</td><td>50 pts</td></tr>
+<tr><td>Idolator Raider (<a target="_new" title="Open Page 141 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=141">pg. 141</a>)</td><td>45 pts</td></tr>
+<tr><td>Infidel Raider (<a target="_new" title="Open Page 268 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=268">pg. 268</a>)</td><td>40 pts</td></tr>
+<tr><td>Firestorm Frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>40 pts</td></tr>
+<tr><td>Sword Frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>35 pts</td></tr>
+<tr><td>Falchion Frigate (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>35 pts</td></tr>
+<tr><td>Cobra Destroyer (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>30 pts</td></tr>
+<tr><td>Recommissioned Escort (<a target="_new" title="Open Page 183 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=183">pg. 183</a>)</td><td>30 pts</td></tr>
+<tr><td>Iconoclast Destroyer (<a target="_new" title="Open Page 184 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=184">pg. 184</a>)</td><td>30 pts</td></tr>
+<tr><td>Cargo Vessel (<a target="_new" title="Open Page 186 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=186">pg. 186</a>)</td><td>20 pts</td></tr>
+<tr><td>Armed Freighter (<a target="_new" title="Open Page 503 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=503">pg. 503</a>)</td><td>20 pts</td></tr>
+<tr><td>Cargo Transport (<a target="_new" title="Open Page 83 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=83">pg. 83</a>)</td><td>10 pts</td></tr>
 </tbody></table>
 
 > ### Notes from Nate Montes
@@ -492,7 +492,7 @@ all types don’t count toward this total.*
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
+> <table class=fleet-list><tbody><tr><td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td><td>100 pts</td></tr></tbody></table>
 
 ### Xenos Freebooters, Corsairs and Brigands
 
@@ -535,6 +535,107 @@ nor benefit from the leadership values of human
 pirates and must use the unmodified leadership
 from the fleet lists of their respective races.
 
+### Fra’al Battleship
+
+> ### Notes from Nate Montes
+> 
+> If both players agree before the game, the Fra'al Battleship can exchange its Prow [lance](../the-shooting-phase.md#direct-firing-lances)
+> battery for +20 pts for the [Ether Cannon](../fleet-lists/rogue-traders.md#ether-cannon) it had originally in Battlefleet Gothic Magazine #1.
+> 
+> ##### Ether Cannon
+> 
+> The Ether Cannon has 60 cm range, 2 strength and a Front firing arc. When fired, roll 1D6
+> for each point of strength.
+> 
+> A roll less than or equal to the target vessel's [shield](../the-shooting-phase.md#shields) strength causes 1 point of hull [damage](../the-shooting-phase.md#damage);
+> the shields remain intact.
+> 
+> Rolls higher than the target vessel's shield strength causes 1 point of hull damage; the
+> target's shields are also overloaded and knocked down – mark it with the appropriate
+> number of [blast markers](../the-shooting-phase.md#blast-markers).
+> 
+> Against vessels without shield strength, the Ether Cannon needs a 3+ to hit and causes 1
+> point of damage.
+> 
+> Vessels with [holo-fields](../fleet-lists/eldar.md#holofields) or [shadowfields](../fleet-lists/dark-eldar.md#shadowfields) need a 5+ to be hit. No further save for the holo-fields/shadowfields is allowed.
+
+### Using Stryxis Caravan Vessels
+
+The Stryxis are aggressive merchants that
+are quick to salvage or trade for whatever
+technology they encounter, which they
+gather into their caravan vessels, essentially
+hollowed-out asteroids they travel abroad in
+caravans that function both as [capital ships](../the-rules.md#capital-ships)
+and impromptu trading posts. Using only
+this profile, two or three may be used as a
+substitution for an enemy in any [scenario](../scenarios.md)
+where the chosen or randomly selected
+threat is a capital ship of a given point limit.
+Additionally, up to four ships in a Rogue
+Trader or pirate fleet may be Stryxis Caravan
+Vessels, rolling for [leadership](../the-rules.md#leadership) normally.
+They do not count as cruisers against their
+respective fleet lists, but they may not use any
+fleet [re-rolls](../the-rules.md#re-rolls).
+
+Caravan Vessels utilize powerful tractor fields
+to stay together and must always be grouped
+in a straight line (not necessarily aligned with
+their direction of movement) no more than
+10cm apart. Caravan Vessels so grouped may
+only separate if at least one of their number is
+destroyed. A Rogue Trader fleet accompanied
+or allied with [Space Marines](../fleet-lists/space-marines.md) may not take
+Stryxis Caravan Vessels.
+
+#### Movement
+
+Because they are basically large lumps of rock
+with engines studded all over them, Caravan
+Vessels don’t move in the same way as normal
+ships. In their [Movement phase](../the-movement-phase.md) Caravan
+Vessels travel 10cm forward in a straight
+line, no more, no less. Caravan Vessels may
+not turn or use [*Burn Retros*](../the-rules.md#burn-retros) or [*Come to New
+Heading*](../the-rules.md#come-to-new-heading) orders. On [*All Ahead Full*](../the-rules.md#all-ahead-full) orders
+Caravan Vessels move an extra 2D6 cm in
+any direction at the end of their move. If
+this causes them to move 10 cm or more
+in a different direction to the one they are
+travelling in, this becomes their new direction
+of travel. This is seen more clearly in the
+diagrams to the right.
+
+Due to their low speed and considerable
+momentum, Caravan Vessels which are
+crippled or moving though [Blast markers](../the-shooting-phase.md#blast-markers) do
+not reduce their speed. Caravan Vessels in the
+[gravity well](../the-battlefield.md#gravity-wells) of a planet or moon may make
+free turns like an ordinary ship (45°) and/or
+place themselves in a stationary or [low orbit](../../the-battlefield.md#fighting-in-low-orbit).
+
+They may undergo [*All Ahead Full*](../the-rules.md#all-ahead-full) special
+orders for free.
+
+![](assets/stryxis-successful-course-change.png)
+
+![](assets/stryxis-unsuccessful-course-change.png)
+
+#### Critical Hits
+
+Caravan Vessels lack the complex systems of
+true spacecraft, so [critical hits](../the-shooting-phase.md#critical-hits) are not rolled
+on the [Critical table](../the-shooting-phase.md#critical-hits-table). Instead each critical hit
+inflicts +1 point of damage.
+
+#### Catastrophic Damage
+
+When a Caravan Vessel is reduced to
+0 Damage it breaks up. Do not roll for
+[Catastrophic Damage](../the-shooting-phase.md#catastrophic-damage), instead the vessel is
+replaced by four [Blast markers](../the-shooting-phase.md#blast-markers).
+
 ## Rogue Trader Scenarios
 
 **In the depths of space, Rogue Traders never know what kinds of threats they
@@ -547,7 +648,7 @@ husbands the overstretched resources of the Imperial Navy, it brings no
 profit to the hapless Rogue Trader!**
 
 The following threat tables are intended for
-use as alternatives with the Convoy scenario
+use as alternatives with the [Convoy scenario](../scenarios/convoy.md)
 on [???] in the Remastered Rulebook. If used,
 the defending player may add up to +50 points
 worth of ships to whatever point value is
@@ -1365,4 +1466,3 @@ earn more victory points than they lose before
 the end of the battle. Player #3 only wins the
 battle if both other players lose more victory
 points than they earn.
-
