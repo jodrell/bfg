@@ -85,7 +85,7 @@ distances. They move from zero up to the
 maximum distance allowed by the direction
 of the sun. After their initial turn they travel
 in a straight line and may not make additional
-turns as they move. If under Lock-On special
+turns as they move. If under [*Lock-On*](../the-rules.md#lock-on) special
 orders, Eldar ships cannot turn for BOTH
 their movement phases.
 
@@ -888,8 +888,8 @@ your Eldar Hero by paying the cost listed below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
-<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
+<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -899,10 +899,10 @@ your Eldar Hero by paying the cost listed below.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
-<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
-<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
-<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
+<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -987,17 +987,17 @@ any battleships, while from 1000 to 1,999 points
 you can include one, and so on.*
 
 <table class=fleet-list><tbody>
-<tr><td>Void Stalker class battleship (<a target="_new" title="Open Page 306 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=306">pg. 306</a>)</td><td>380 pts</td></tr>
+<tr><td>Void Stalker class battleship (<a target="_new" title="Open Page 306 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=306">pg. 306</a>)</td><td>380 pts</td></tr>
 </tbody></table>
 
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
-<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
-<tr><td>Aurora class light cruiser (<a target="_new" title="Open Page 309 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=309">pg. 309</a>)</td><td>140 pts</td></tr>
-<tr><td>Solaris class light cruiser (<a target="_new" title="Open Page 310 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=310">pg. 310</a>)</td><td>130 pts</td></tr>
+<tr><td>Eclipse class cruiser (<a target="_new" title="Open Page 307 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=307">pg. 307</a>)</td><td>250 pts</td></tr>
+<tr><td>Shadow class cruiser (<a target="_new" title="Open Page 308 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=308">pg. 308</a>)</td><td>210 pts</td></tr>
+<tr><td>Aurora class light cruiser (<a target="_new" title="Open Page 309 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=309">pg. 309</a>)</td><td>140 pts</td></tr>
+<tr><td>Solaris class light cruiser (<a target="_new" title="Open Page 310 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=310">pg. 310</a>)</td><td>130 pts</td></tr>
 </tbody></table>
 
 
@@ -1007,10 +1007,10 @@ you can include one, and so on.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
-<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
-<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
-<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
+<tr><td>Hellebore class frigate (<a target="_new" title="Open Page 311 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=311">pg. 311</a>)</td><td>65 pts</td></tr>
+<tr><td>Aconite class frigate (<a target="_new" title="Open Page 312 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=312">pg. 312</a>)</td><td>55 pts</td></tr>
+<tr><td>Hemlock class destroyer (<a target="_new" title="Open Page 313 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=313">pg. 313</a>)</td><td>40 pts</td></tr>
+<tr><td>Nightshade class destroyer (<a target="_new" title="Open Page 314 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=314">pg. 314</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -1147,8 +1147,8 @@ _Flame of Asuryan_, an Eldar Hero must lead the
 fleet and be embarked aboard it.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <em>Flame of Asuryan</em> (<a target="_new" title="Open Page 315 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=315">pg. 315</a>)</td><td>320 pts</td></tr>
-<tr><td>Dragonship (<a target="_new" title="Open Page 316 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=316">pg. 316</a>)</td><td>260 pts</td></tr>
+<tr><td>(0-1) <em>Flame of Asuryan</em> (<a target="_new" title="Open Page 315 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=315">pg. 315</a>)</td><td>320 pts</td></tr>
+<tr><td>Dragonship (<a target="_new" title="Open Page 316 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=316">pg. 316</a>)</td><td>260 pts</td></tr>
 </tbody></table>
 
 #### Wraithships
@@ -1156,7 +1156,7 @@ fleet and be embarked aboard it.*
 *Your fleet may include any number of Wraithships.*
 
 <table class=fleet-list><tbody>
-<tr><td>Wraithship (<a target="_new" title="Open Page 317 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=317">pg. 317</a>)</td><td>160 pts</td></tr>
+<tr><td>Wraithship (<a target="_new" title="Open Page 317 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=317">pg. 317</a>)</td><td>160 pts</td></tr>
 </tbody></table>
 
 
@@ -1167,7 +1167,7 @@ a Ghostship. Such a vessel may not also include
 a Farseer or Aspect Warrior crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>Ghostship (<a target="_new" title="Open Page 292 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=292">pg. 292</a>)</td><td>Free</td></tr>
+<tr><td>Ghostship (<a target="_new" title="Open Page 292 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=292">pg. 292</a>)</td><td>Free</td></tr>
 </tbody></table>
 
 
@@ -1178,7 +1178,7 @@ Aspect Warriors, serving as the ship’s fighting
 crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>Aspect Warrior Host (<a target="_new" title="Open Page 290 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=290">pg. 290</a>)</td><td>+20 pts</td></tr>
+<tr><td>Aspect Warrior Host (<a target="_new" title="Open Page 290 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=290">pg. 290</a>)</td><td>+20 pts</td></tr>
 </tbody></table>
 
 
@@ -1188,7 +1188,7 @@ crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Shadowhunter (<a target="_new" title="Open Page 318 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=318">pg. 318</a>)</td><td>40 pts</td></tr>
+<tr><td>Shadowhunter (<a target="_new" title="Open Page 318 in the Fleets PDF" href="../src/BFG Remastered Official Fleets_WIP.pdf#page=318">pg. 318</a>)</td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -1221,3 +1221,140 @@ in the fleet as long as the fleet is at least 1000
 points and at least three Corsair Eldar cruisers
 and / or light cruisers are already present in the
 fleet.
+
+## Haven Space Station
+
+### Leadership
+An Eldar Haven rolls for [leadership](../the-rules.md#leadership) following
+Eldar rules. An Eldar or [Dark Eldar](../fleet-lists/dark-eldar.md) fleet
+commander can lead the battle aboard it
+instead of a ship.
+
+### Special Orders
+
+An Eldar Haven can attempt [Special Orders](../the-rules.md#special-orders) as
+ships do, though it may only attempt to [*Lock
+On*], [*Reload Ordnance*](../the-rules.md#reload-ordnance) or [*Brace For Impact*](../the-rules.md#brace-for-impact).
+
+### Characteristics
+
+Eldar Havens are more solidly built than their
+agile but relatively delicate starships. They are
+armour 5+ and take [critical damage](../the-shooting-phase.md#critical-hits) on a 5+
+instead of 4+ like Eldar vessels. They also have
+much larger power reserves than Eldar vessels
+do, and their weapons have significantly longer
+range. As with Eldar vessels, Eldar Haven
+[weapon batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) always count as closing.
+
+### Netherfield
+
+A refined holofield design coupled with an
+absorptive masking layer make the Haven
+nearly impossible to target. On the Haven
+it imparts an additional column shift (in
+addition to holofields) for all weapons that use
+the [gunnery table](../the-shooting-phase.md#gunnery-table).
+
+### Polarization Field
+
+A low-level energy bubble surrounds the
+Haven, channelling the debris of space around
+the station. While not a propulsion system,
+it allows the Haven to maintain its position
+in the vicinity of [celestial phenomena](../the-battlefield.md#celestial-phenomena) to a
+fine degree. It does not risk suffering a hit
+for being in contact with [blast markers](../the-shooting-phase.md#blast-markers) and
+ignores all effects of [solar flares](../the-battlefield.md#solar-flares).
+
+### Large Defence
+
+Like other large defences, the Eldar Haven
+removes D6 [blast markers](../the-shooting-phase.md#blast-markers) in base contact at
+the end of each turn separately from the D6
+blast markers removed from play normally.
+
+### Docking
+
+Due to the Eldar’s superior manoeuvrability,
+Eldar ships can dock with a Haven using a
+simple [leadership check](../the-rules.md#taking-command-checks) and do not need to be
+on [special orders](../the-rules.md#special-orders) to do so. Any of the owning
+player's [capital ships](../the-rules.md#capital-ships) that dock with the station
+for one full turn gain two additional dice to
+[repair](../the-end-phase.md#damage-control) [critical damage](../the-shooting-phase.md#critical-hits) in the [end phase](../the-end-phase.md) (i.e.
+amount of dice equal to the ship's remaining
+hits plus two) and are considered to have
+[reloaded ordnance](../the-rules.md#reload-ordnance) for free. Ships doing so
+cannot move, shoot or launch ordnance in
+that turn, though [holofields](../fleet-lists/eldar.md#holofields) continue to work
+normally, and they can attempt Special Orders
+if desired. The Haven may reserve its extra
+capability to repair critical damage for itself
+if there are no ships docked to the station any
+time during the turn.
+
+### Webway Portal
+
+Many Eldar Havens are situated in deep
+space or near one of the Exodite Worlds,
+usually near a Webway Portal large enough
+for starships to traverse. The owning player
+may use the Webway to summon additional
+warships to its aid. Any number of ships may
+be purchased against the fleet's total at 50%
+cost, but they count as [reserves](../fleet-lists.md#reserves) and start off
+the table. Beginning turn 2, after the Eldar
+fleet moves roll a D6. On a 5+, one capital ship
+or escort squadron appears along the table
+edge closest to the Eldar Haven. Eldar ships
+cannot move in the same turn they appear.
+
+In a [campaign](../campaign-rules.md), a player counts as having a
+pirate base for purposes of repair points for
+every Eldar Haven on the player's fleet list. Its
+value counts against the fleet list in individual
+battles in which it takes part, but it does not
+count toward the starting point limit a fleet
+has, as it remains hidden at the start of the
+campaign and can only be attacked if the
+opposing player discovers it. An Eldar fleet
+may start a campaign with one, but may
+only earn up to two more in the course of a
+campaign by an Eldar commander with eleven
+or more [renown](../campaign-rules.md#renown) by expending a dedicated
+appeal, needing a roll of 5+ to succeed. Should
+an Eldar Haven be revealed and come under
+attack, the owning player can attempt to
+retreat the station back into the Webway to
+prevent further attacks on it. To do so, the
+owner must roll a D6. On a roll of 1 it is lost
+in the Webway and must be struck from the
+roster. On a 2+, the Haven has been re-situated
+successfully and must once again be located
+by an opponent before it can be attacked.
+
+### Dark Eldar Pirate Base
+
+An Eldar Haven may be used as a [Dark Eldar](../fleet-lists/dark-eldar.md)
+pirate base. When used as such, trade bombers
+for [Slavebringer assault boats](dark-eldar.md#attack-craft) and [Pulsar
+Lances](../fleet-lists/eldar.md#pulsar-lance) for [Phantom Lances](../fleet-lists/dark-eldar.md#phantom-lance) at no change
+in cost. All other characteristics remain
+unchanged.
+
+### Critical Hits Table
+
+| 2D6 Roll | Extra Damage | Result |
+| :-: | :-: | --- |
+| 2 | +0 | **Infinity circuit damaged:** The station’s Infinity Circuit aiding control and internal communications is hit. [Leadership](../the-rules.md#leadership) is reduced by –1 until repaired. |
+| 3 | +0 | **Weapon Batteries Off-line:** The weapon battery targeting node arrays are damaged. Weapon batteries may not fire in any arc until repaired. |
+| 4 | +0 | **Pulsar Lances Off-line:** Power couplings to the lance crystals are hit. [Pulsar Lances](../fleet-lists/eldar.md#pulsar-lance) may not fire in any arc until repaired. |
+| 5 | +0 | **Launch Bays Damaged:** Explosions rock the ordnance bays. [Ordnance](../the-ordnance-phase.md) may not be launched until repaired. |
+| 6 | +0 | **Mainsail scarred:** The main solar sails suffer surface damage. All weapon systems are reduced to 50% effectiveness until repaired. |
+| 7 | +1 | **Superstructure damaged:** The hit tears into the station, causing a small breach. Until the damage is [repaired](../the-end-phase.md#damage-control), roll a D6 at the beginning of each turn. On a roll of 1, the station takes an additional hit. |
+| 8 | +0 | **Polarization Field Off-Line:** The station loses ability to maintain position in space. Until repaired, the station drifts 5cm toward the nearest [celestial phenomena](../the-battlefield.md#celestial-phenomena) and loses the ability to ignore [blast marker](../the-shooting-phase.md#blast-markers) or [solar phenomena](../the-battlefield.md#solar-flares) effects. |
+| 9 | +1 | **Infinity circuit smashed:** The fine crystal matrix of the infinity circuit is shattered by the hit. The ship's [Leadership](../the-rules.md#leadership) is reduced by -3. This damage may not be repaired. |
+| 10 | +0 | **Holofield generators destroyed:** Smashed beyond repair, the station no longer benefits from its [holofields](../fleet-lists/eldar.md#holofields). This damage also affects its [Netherfield](#netherfield) and may not be repaired. |
+| 11 | +D3 | **Hull Breach:** A huge gash is torn in the station’s hull, causing carnage among the crew. |
+| 12 | +D6 | **Bulkhead Collapse:** Internal pillars buckle and twist, whole compartments crumple with a scream of tortured wraithbone. |

@@ -200,6 +200,7 @@ ork: fleet-lists/orks.md
 orks: fleet-lists/orks.md
 outer reaches: the-battlefield.md#5-outer-reaches-generator
 particular directions: the-shooting-phase.md#fire-arcs
+phantom lances: fleet-lists/dark-eldar.md#phantom-lance
 pick fleet: campaign-rules.md#3-pick-fleets
 planet killer: fleet-lists/chaos.md#the-planet-killer-in-exterminatus
 planet: the-battlefield.md#planets
@@ -211,6 +212,7 @@ planets: the-battlefield.md#planets
 primary biosphere: the-battlefield.md#4-primary-biosphere-generator
 promotions & demotions: campaign-rules.md#3-promotions-and-demotions
 pulsar lance: fleet-lists/eldar.md#pulsar-lance
+pulsar lances: fleet-lists/eldar.md#pulsar-lance
 radiation burst: the-battlefield.md#radiation-bursts
 radiation bursts: the-battlefield.md#radiation-bursts
 ram: the-movement-phase.md#all-ahead-full-ramming-speed
@@ -238,6 +240,7 @@ repaired: the-end-phase.md#damage-control
 repairing critical damage: the-end-phase.md#damage-control
 repairing: the-end-phase.md#damage-control
 repairs & withdrawals: campaign-rules.md#5-repairs-withdrawals
+reserves: fleet-lists.md#reserves
 resilient attack craft: the-ordnance-phase.md#resilient-attack-craft
 resilient: the-ordnance-phase.md#resilient-attack-craft
 rings: the-battlefield.md#ringed-planets
@@ -255,6 +258,7 @@ ship refit: campaign-rules.md#ship-refit
 shoot: the-shooting-phase.md
 shooting phase: the-shooting-phase.md
 shooting: the-shooting-phase.md
+slavebringer assault boats: fleet-lists/dark-eldar.md#attack-craft
 solar flare: the-battlefield.md#solar-flares
 solar flares: the-battlefield.md#solar-flares
 space marine: fleet-lists/space-marines.md
@@ -285,6 +289,7 @@ teleporter: the-end-phase.md#teleport-attacks
 teleporters: the-end-phase.md#teleport-attacks
 teleporting: the-end-phase.md#teleport-attacks
 terminator boarding parties: fleet-lists/space-marines.md#terminator-boarding-parties
+the gunnery table: ##FIXME##
 the movement phase: the-movement-phase.md
 the shooting phase: the-shooting-phase.md
 thunderhawk: fleet-lists/space-marines.md#thunderhawk-gunships
