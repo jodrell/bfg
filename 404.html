@@ -1,0 +1,37 @@
+<!docype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta name="robots" content="noindex,follow">
+</head>
+<body>
+  <noscript>
+    <h1>Page has moved</h1>
+    <ul><li><a href="https://battlefleet-game.org">The <em>Battlefleet Gothic: Remastered</em> Online Rulebook</a></li>
+  </noscript>
+  <script>
+    const url = new URL(
+      document.location.pathname + (document.location.search ?? "") + (document.location.hash ?? ""),
+      "https://battlefleet-game.org/"
+    );
+
+    document.body.appendChild(document.createElement("h1")).appendChild(document.createTextNode("Page has moved"));
+
+    const p = document.body.appendChild(document.createElement("p"));
+
+    p.appendChild(document.createTextNode("You should be redirected momentarily to the "));
+
+    const a = p.appendChild(document.createElement("a"));
+    a.appendChild(document.createElement("em")).appendChild(document.createTextNode("Battlefleet Gothic: Remastered"));
+
+    a.appendChild(document.createTextNode(" Online Rulebook"));
+
+    a.setAttribute("href", url);
+
+    p.appendChild(document.createTextNode("."));
+
+    // window.location = url;
+  </script>
+</body>
+</html>
