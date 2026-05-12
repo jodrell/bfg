@@ -1,4 +1,4 @@
-<!docype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,6 +16,8 @@
       "https://battlefleet-game.org/"
     );
 
+    url.pathname = url.pathname.replace(/^\/bfg/, "");
+
     document.body.appendChild(document.createElement("h1")).appendChild(document.createTextNode("Page has moved"));
 
     const p = document.body.appendChild(document.createElement("p"));
@@ -31,7 +33,7 @@
 
     p.appendChild(document.createTextNode("."));
 
-    // window.location = url;
+    window.location = url;
   </script>
 </body>
 </html>
